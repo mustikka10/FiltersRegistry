@@ -1,8 +1,8 @@
-! Checksum: Dxw6KB2p06VVQ2c/2VrOKA
+! Checksum: VvRy8EwEx5K0tIJr+/a9JA
 ! Title: AdGuard Widgets filter (Optimized)
 ! Description: Blocks annoying third-party widgets: online assistants, live support chats, etc.
-! Version: 2.0.11.68
-! TimeUpdated: 2025-05-07T13:16:44+00:00
+! Version: 2.0.11.69
+! TimeUpdated: 2025-05-08T12:11:21+00:00
 ! Expires: 5 days (update frequency)
 !#######################################################
 !######### Block useless widgets #######################
@@ -1024,7 +1024,6 @@ yamakei-online.com##.ad-pop-nw3-nw4
 mbs.jp##.common-wrap--recommend
 getnews.jp,front-row.jp##._popIn_recommend
 lmaga.jp##.feed
-dramanavi.net###block-97
 kahoku.news##div[style="min-height:492px;"]
 news.ntv.co.jp##.recommend-list-wrapper
 ameblo.jp,kakakumag.com###_popIn_recommend

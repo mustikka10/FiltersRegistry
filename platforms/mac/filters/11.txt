@@ -1,8 +1,8 @@
-! Checksum: N2Z8wqGDEd53AuVJrwkJgA
+! Checksum: AIC7XJJAc/JiEJKeG7kWBg
 ! Title: AdGuard Mobile Ads filter
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
-! Version: 2.0.60.50
-! TimeUpdated: 2025-05-08T09:08:03+00:00
+! Version: 2.0.60.51
+! TimeUpdated: 2025-05-08T12:11:04+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -159,6 +159,7 @@
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||rainmaker.production-public.tubi.io^
 ||configure.rayjump.com^
 ||v.kidoz.net^
 ||sdk-api.kidoz.net^
@@ -2616,6 +2617,7 @@ sp.manga.nicovideo.jp##div[style^="--ads-width:"]
 !
 ! SECTION: Regular rules
 !
+alfalfalfa.com##aside.section-box:has(> div.plugin-extra > script)
 gunes.com##.orjHeaderBottom
 wco.tv###sidebar_today > div[style^="float:right;"]
 free-codecs.com##.mobile-header-ad

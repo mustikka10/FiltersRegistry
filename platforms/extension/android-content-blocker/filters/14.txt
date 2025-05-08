@@ -1,8 +1,8 @@
-! Checksum: kGEDA5AIDV5D9VZ+lvT3gQ
+! Checksum: 0XQcPdzNs22CyaduEJII2A
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.29.64
-! TimeUpdated: 2025-05-08T11:06:43+00:00
+! Version: 2.2.29.65
+! TimeUpdated: 2025-05-08T12:11:14+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -29766,6 +29766,7 @@ kurashiru.com#$#html.dly-modal-active { overflow: auto !important; }
 !
 ! SECTION: Popups - Mobile sites only
 !
+navikuru.jp##.floatingBannerWrap.notConfirmForm
 theatlantic.com##div[data-zephr-sdk-feature-slug]
 aajtak.in##.tapBoxCls
 paircare.jp#$#.suppress-scroll { overflow: auto !important; }
@@ -51737,7 +51738,6 @@ mbs.jp##.common-wrap--recommend
 getnews.jp,front-row.jp##._popIn_recommend
 beauty.oricon.co.jp###contents > div[style="margin-top:20px"] > h3[style="margin-top:17px;background:#ececec; color:#222; margin-bottom: 8px;"]
 lmaga.jp##.feed
-dramanavi.net###block-97
 medical.jiji.com###_popIn_recommend_2
 okwave.jp##._popIn_recommend-wrap
 sitakke.jp##.editor__section

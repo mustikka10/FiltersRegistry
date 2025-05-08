@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: fEDdq9auXu33kgBzYQPmVg
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746702637-3600.patch
+! Checksum: 2H/T4P2V3I6qQLZJ6QtGnA
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746706512-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.82.60
-! TimeUpdated: 2025-05-08T11:06:10+00:00
+! Version: 2.3.82.61
+! TimeUpdated: 2025-05-08T12:10:32+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -40200,11 +40200,11 @@ money.pl#?#main > div[class]:has(> iframe[src="https://direct.money.pl/static/pl
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54690
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44169
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26011
-pudelek.pl#?#[class*="-"] > div[class*="-"][class*=" "]:has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
+pudelek.pl##[class*="-"] > div[class*="-"][class*=" "]:has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
 !+ NOT_OPTIMIZED
 pudelek.pl#?#div[data-testid] div[class*=" "]:matches-property("/__reactInternalInstance/.return.memoizedProps.slotNumber"="/\d+/")
 money.pl##a[href="https://www.kongres590.pl/"] > img
-pudelek.pl,o2.pl,moneyv.wp.pl,money.pl#?#div[class*="sc-"]:has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
+pudelek.pl,o2.pl,moneyv.wp.pl,money.pl##div[class*="sc-"]:has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
 money.pl#?#img[src="/static/mny-placeholder.png"]:upward(1)
 !+ NOT_OPTIMIZED
 moneyv.wp.pl,money.pl#?##app div[class*=" "]:matches-property("/__reactInternalInstance/.return.memoizedProps.slotNumber"="/\d+/")
@@ -41984,6 +41984,7 @@ giavang.org###gv_sponsor
 ||animevietsub.*/ads/popup.js
 animevietsub.*##center > a[target="_blank"] > img
 !
+[$domain=/anime\d+\.site/]##a[rel="nofollow sponsored"]
 animevietsub.*###invideo_wrapper
 animevietsub.*##.Adv
 animevietsub.*##.Ads
@@ -72979,6 +72980,7 @@ implbits.com#@#.banner_container
 !#########################################
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204721
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204791
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204339
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204523
