@@ -1,12 +1,12 @@
-! Checksum: lECpsu2TeNNZHSBfZD+Zpw
+! Checksum: VTQ7PkuAzJjsBxAQS0i6Ag
 ! Title: Phishing URL Blocklist
 ! Description: Phishing URL blocklist for uBlock Origin (uBO), AdGuard, Vivaldi, Pi-hole, Hosts file, Dnsmasq, BIND, Unbound, Snort and Suricata.
-! Version: 2.0.7.77
-! TimeUpdated: 2025-05-08T00:48:23+00:00
+! Version: 2.0.7.78
+! TimeUpdated: 2025-05-08T12:45:34+00:00
 ! Expires: 5 days (update frequency)
 !
 ! Title: Phishing URL Blocklist (AdGuard)
-! Updated: 2025-05-08T00:02:08Z
+! Updated: 2025-05-08T12:02:20Z
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/malware-filter/phishing-filter
 ! License: https://gitlab.com/malware-filter/phishing-filter#license

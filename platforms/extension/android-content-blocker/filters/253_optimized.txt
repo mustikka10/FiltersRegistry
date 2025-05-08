@@ -1,8 +1,8 @@
-! Checksum: O1ARydtbHfgdar8rjsilIw
+! Checksum: Y5PKxz1U8WaHM8bE7efTRg
 ! Title: IndianList (Optimized)
 ! Description: Additional filter list for websites in Hindi, Tamil and other Dravidian and Indic languages.
-! Version: 2.0.62.83
-! TimeUpdated: 2025-05-08T08:39:42+00:00
+! Version: 2.0.62.84
+! TimeUpdated: 2025-05-08T12:45:30+00:00
 ! Expires: 5 days (update frequency)
 -ad-mob
 -ad-space-

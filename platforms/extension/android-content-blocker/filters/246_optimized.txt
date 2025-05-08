@@ -1,8 +1,8 @@
-! Checksum: IUPudwxI7jQxT1ZG7pFmFQ
+! Checksum: 2Ii4JyGgoVjYetrkQFVEDQ
 ! Title: EasyList Polish (Optimized)
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.65.58
-! TimeUpdated: 2025-05-08T08:39:33+00:00
+! Version: 2.1.65.59
+! TimeUpdated: 2025-05-08T12:45:21+00:00
 ! Expires: 5 days (update frequency)
 /adserwer.
 =adv/GetAdvertisment|
@@ -242,7 +242,6 @@ files.librus.pl^*^r_
 ||eswinoujscie.pl^*^layered-popups^
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
 ||fadstrack.com^$script,domain=make-cash.pl
-||faunaflora.com.pl/euroanimal.
 ||fcinter.pl^*^iparts*.
 ||fiatklubpolska.pl^*-iparts.
 ||fireads.online^$third-party
@@ -2891,6 +2890,10 @@ poczta.wp.pl##sidebar-feed
 bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
+irybnik.pl##.banners
+faktyrzeszow.pl##.banners
+bedzinski24.pl##.banners
+lubliniec360.pl##.banners
 sexrura.pl###bottom-right-container
 filmyporno.net###dvr-3x2
 filmyporno.tv###playerOverlay

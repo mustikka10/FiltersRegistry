@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: McgyPv6g6aagGUniRZR4sg
-! Diff-Path: ../patches/118_optimized/118_optimized-s-1746693813-14400.patch
+! Checksum: wogx04DwUSRxx7LmsFn2UQ
+! Diff-Path: ../patches/118_optimized/118_optimized-s-1746708563-14400.patch
 ! Title: EasyPrivacy (Optimized)
 ! Description: Privacy protection supplement for EasyList.
-! Version: 2.1.43.68
-! TimeUpdated: 2025-05-08T08:39:02+00:00
+! Version: 2.1.43.69
+! TimeUpdated: 2025-05-08T12:44:48+00:00
 ! Expires: 5 days (update frequency)
 &&sub19=undefined&sub20=undefined
 &action=js_stats
@@ -7243,6 +7243,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plausible.omgapi.org^
 ||player-cdn.com/cdn-cgi/trace
 ||player-telemetry.vimeo.com^
+||player.javboys.cam/cdn-cgi/trace
 ||plenty.vidio.com^
 ||pluto.smallpdf.com^
 ||pm.geniusmonkey.com^

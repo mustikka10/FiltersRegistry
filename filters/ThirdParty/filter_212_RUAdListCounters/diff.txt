@@ -162,6 +162,8 @@ yandex.*##.mg-grid__col div[class*="_type_native"]:style(display: none !importan
 yandex.*##.PSHeaderLogo360 a[href^="https://360.yandex."]:style(pointer-events: none !important)
 ! Rule "yandex.*##.PSHeaderLogo360-360:style(display: none !important)" converted to: "yandex.*#$#.PSHeaderLogo360-360 { display: none !important }"
 yandex.*##.PSHeaderLogo360-360:style(display: none !important)
+! Rule "yandex.*##.PSHeaderPremiumButton-Wrap:style(display: none !important)" converted to: "yandex.*#$#.PSHeaderPremiumButton-Wrap { display: none !important }"
+yandex.*##.PSHeaderPremiumButton-Wrap:style(display: none !important)
 ! Rule "yandex.*##.turbo-embed_market_widget:style(display: none !important)" converted to: "yandex.*#$#.turbo-embed_market_widget { display: none !important }"
 yandex.*##.turbo-embed_market_widget:style(display: none !important)
 ! Rule "yandex.*##[class*="segment__container"] > div > [class^="card "] ~ [class*="_pos_index"]:style(display: none !important)" converted to: "yandex.*#$#[class*="segment__container"] > div > [class^="card "] ~ [class*="_pos_index"] { display: none !important }"
@@ -470,6 +472,8 @@ yandex.*#$#.mg-grid__col div[class*="_type_native"] { display: none !important }
 yandex.*#$#.PSHeaderLogo360 a[href^="https://360.yandex."] { pointer-events: none !important }
 ! yandex.*#$#.PSHeaderLogo360-360 { display: none !important } is excluded by "#$#" in exclusions-low.txt
 yandex.*#$#.PSHeaderLogo360-360 { display: none !important }
+! yandex.*#$#.PSHeaderPremiumButton-Wrap { display: none !important } is excluded by "#$#" in exclusions-low.txt
+yandex.*#$#.PSHeaderPremiumButton-Wrap { display: none !important }
 ! yandex.*#$#.turbo-embed_market_widget { display: none !important } is excluded by "#$#" in exclusions-low.txt
 yandex.*#$#.turbo-embed_market_widget { display: none !important }
 ! yandex.*#$#[class*="segment__container"] > div > [class^="card "] ~ [class*="_pos_index"] { display: none !important } is excluded by "#$#" in exclusions-low.txt

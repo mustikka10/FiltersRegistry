@@ -1,14 +1,14 @@
-! Checksum: ogOHs+d0yt+/G+O+xiXSXg
+! Checksum: X7RVFv3pCv5M58EECY4Ctw
 ! Title: EasyList Polish
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.65.58
-! TimeUpdated: 2025-05-08T08:39:33+00:00
+! Version: 2.1.65.59
+! TimeUpdated: 2025-05-08T12:45:21+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: pAS6e4AmQ8fCakZWBMgWoA
-! OriginalVersion: 202505080831
+! Checksum: MyzkC8BrfWeSpj2qUCWe4w
+! OriginalVersion: 202505081231
 ! Title: EasyList Polish
-! Last modified: 08 May 2025 08:31 UTC
+! Last modified: 08 May 2025 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -273,7 +273,6 @@ files.librus.pl^*^r_
 ||eswinoujscie.pl^*^layered-popups^
 ||eswinoujscie.pl^*^radiotaxiswinoujscie.
 ||fadstrack.com^$script,domain=make-cash.pl
-||faunaflora.com.pl/euroanimal.
 ||fcinter.pl^*^iparts*.
 ||fiatklubpolska.pl^*-iparts.
 ||fireads.online^$third-party
@@ -2933,6 +2932,10 @@ bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 londynek.net##ul[data-sponsored-links-content-type]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
+irybnik.pl##.banners
+faktyrzeszow.pl##.banners
+bedzinski24.pl##.banners
+lubliniec360.pl##.banners
 ! *** easylistpolish:easylistpolish_adult/adult_specific_hide.txt ***
 sexrura.pl###bottom-right-container
 filmyporno.net###dvr-3x2

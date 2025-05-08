@@ -1,13 +1,13 @@
-! Checksum: CDJqtlUGxAJuk1TV6e3TCw
+! Checksum: s87RkMC6vIFbLnrxgRN2qg
 ! Title: Fanboy's Social Blocking List
 ! Description: Hides and blocks social content, social widgets, social scripts and social icons. Already included in Fanboy's Annoyances list.
-! Version: 2.1.41.2
-! TimeUpdated: 2025-05-08T08:39:09+00:00
+! Version: 2.1.41.3
+! TimeUpdated: 2025-05-08T12:44:56+00:00
 ! Expires: 5 days (update frequency)
 !
-! OriginalVersion: 202505080754
+! OriginalVersion: 202505081113
 ! Title: Fanboy's Social Blocking List
-! Last modified: 08 May 2025 07:54 UTC
+! Last modified: 08 May 2025 11:13 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !

@@ -1,12 +1,12 @@
-! Checksum: LeCOxHwQY7NYu/sBceycMA
+! Checksum: +W8IHrdGgY4DyzDgQSeI7w
 ! Title: Phishing URL Blocklist
 ! Description: Phishing URL blocklist for uBlock Origin (uBO), AdGuard, Vivaldi, Pi-hole, Hosts file, Dnsmasq, BIND, Unbound, Snort and Suricata.
-! Version: 2.0.7.77
-! TimeUpdated: 2025-05-08T00:48:23+00:00
+! Version: 2.0.7.78
+! TimeUpdated: 2025-05-08T12:45:34+00:00
 ! Expires: 10 days (update frequency)
 !
 ! Title: Phishing URL Blocklist (AdGuard)
-! Updated: 2025-05-08T00:02:08Z
+! Updated: 2025-05-08T12:02:20Z
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/malware-filter/phishing-filter
 ! License: https://gitlab.com/malware-filter/phishing-filter#license
@@ -51,8 +51,6 @@
 ||01-x.98715482.xyz^$all
 !+ NOT_OPTIMIZED
 ||011-two.vercel.app^$all
-!+ NOT_OPTIMIZED
-||011idnet.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||0142plus.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -244,11 +242,15 @@
 !+ NOT_OPTIMIZED
 ||103.189.235.156^$all
 !+ NOT_OPTIMIZED
+||103.99.210.5^$all
+!+ NOT_OPTIMIZED
 ||106.15.183.184^$all
 !+ NOT_OPTIMIZED
 ||106304-coinbase.com^$all
 !+ NOT_OPTIMIZED
 ||107659-1029921.weeblysite.com^$all
+!+ NOT_OPTIMIZED
+||10puntos.cl^$all
 !+ NOT_OPTIMIZED
 ||11002111.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -470,6 +472,8 @@
 !+ NOT_OPTIMIZED
 ||2024att.weebly.com^$all
 !+ NOT_OPTIMIZED
+||2025-update248.info^$all
+!+ NOT_OPTIMIZED
 ||2025maintenance.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||208.87.132.105^$all
@@ -497,6 +501,8 @@
 ||22office.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||2343545433534.click^$all
+!+ NOT_OPTIMIZED
+||234534.net^$all
 !+ NOT_OPTIMIZED
 ||23456yutrdfrgtyy43deiyuty.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -604,8 +610,6 @@
 !+ NOT_OPTIMIZED
 ||3.ezpassmhbv.xyz^$all
 !+ NOT_OPTIMIZED
-||3.ezpassmhne.top^$all
-!+ NOT_OPTIMIZED
 ||3.ezpassmxe.top^$all
 !+ NOT_OPTIMIZED
 ||3.nyccitypayvd.top^$all
@@ -617,6 +621,8 @@
 ||32443ro.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||32652900175411plan.github.io^$all
+!+ NOT_OPTIMIZED
+||32pybe9sbf.s3-website-us-east-1.amazonaws.com^$all
 !+ NOT_OPTIMIZED
 ||34.146.186.175^$all
 !+ NOT_OPTIMIZED
@@ -720,8 +726,6 @@
 !+ NOT_OPTIMIZED
 ||407etrmomehs.top^$all
 !+ NOT_OPTIMIZED
-||407etrmomehw.top^$all
-!+ NOT_OPTIMIZED
 ||407etrmomenf.top^$all
 !+ NOT_OPTIMIZED
 ||407etrmomenq.top^$all
@@ -743,8 +747,6 @@
 ||429442118987929448.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||42d50e8087ec.godaddysites.com^$all
-!+ NOT_OPTIMIZED
-||43.128.88.226^$all
 !+ NOT_OPTIMIZED
 ||43.130.2.163^$all
 !+ NOT_OPTIMIZED
@@ -1020,8 +1022,6 @@
 !+ NOT_OPTIMIZED
 ||47.90.152.28^$all
 !+ NOT_OPTIMIZED
-||47.90.170.63^$all
-!+ NOT_OPTIMIZED
 ||47.90.220.66^$all
 !+ NOT_OPTIMIZED
 ||47.90.223.227^$all
@@ -1089,8 +1089,6 @@
 ||4ti1x3g90.urest.org^$all
 !+ NOT_OPTIMIZED
 ||4yw5ehdrfbsdefwt34yehtrsegafwet-hhmot5.vercel.app^$all
-!+ NOT_OPTIMIZED
-||5.bayarefastrlz.top^$all
 !+ NOT_OPTIMIZED
 ||5.coneden.top^$all
 !+ NOT_OPTIMIZED
@@ -1178,6 +1176,8 @@
 !+ NOT_OPTIMIZED
 ||5sew2kxqx4qb-pages-dev.translate.goog^$all
 !+ NOT_OPTIMIZED
+||5wgb5sdwg6rqe8wgd5brw6d.lebtimnetz.de^$all
+!+ NOT_OPTIMIZED
 ||5yhuntyhgb.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||6.bayarefastrlz.top^$all
@@ -1253,8 +1253,6 @@
 ||67s8hhd.taplink.ws^$all
 !+ NOT_OPTIMIZED
 ||67t98889sa-dry-wind-3a19.accounts-payable.workers.dev^$all
-!+ NOT_OPTIMIZED
-||68.183.52.89^$all
 !+ NOT_OPTIMIZED
 ||687f7cce0d3669684.temporary.link^$all
 !+ NOT_OPTIMIZED
@@ -1343,6 +1341,8 @@
 ||7785857594.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||778997t656t.weebly.com^$all
+!+ NOT_OPTIMIZED
+||77mpwtvdx6w3shs.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||78148122412-than24jam.start.page^$all
 !+ NOT_OPTIMIZED
@@ -1576,8 +1576,6 @@
 !+ NOT_OPTIMIZED
 ||9sgmilyj1c8h-pages-dev.translate.goog^$all
 !+ NOT_OPTIMIZED
-||a-102170.weeblysite.com^$all
-!+ NOT_OPTIMIZED
 ||a-t-t-107113.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||a-teamallbills.vev.site^$all
@@ -1599,8 +1597,6 @@
 ||a22e3be0.74d46f3296faff5f625eefb8.workers.dev^$all
 !+ NOT_OPTIMIZED
 ||a2911e52955f4ce5ae3324003af5d1b3.mab-insure.net^$all
-!+ NOT_OPTIMIZED
-||a30expresc.top^$all
 !+ NOT_OPTIMIZED
 ||a46i3iitisydtukyha384s6d57opf8yotsria46s57od68.teemill.com^$all
 !+ NOT_OPTIMIZED
@@ -1624,8 +1620,6 @@
 !+ NOT_OPTIMIZED
 ||aaaaatttttttmail.boxmode.io^$all
 !+ NOT_OPTIMIZED
-||aaaastttre231353.weebly.com^$all
-!+ NOT_OPTIMIZED
 ||aabnepfrtis.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||aabnepfrtis.web.app^$all
@@ -1635,8 +1629,6 @@
 ||aac-dqh.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||aaca825a872638345ec.194-37-81-42.cprapid.com^$all
-!+ NOT_OPTIMIZED
-||aadfruf9oer0pf.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||aaeterata.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
@@ -1719,6 +1711,8 @@
 ||abdrcsgnerale.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||abdrcsgnerale.web.app^$all
+!+ NOT_OPTIMIZED
+||abdrsd.github.io^$all
 !+ NOT_OPTIMIZED
 ||abdvvbbgcbgcv.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -1960,6 +1954,8 @@
 !+ NOT_OPTIMIZED
 ||account-proton-me-sign-in.weebly.com^$all
 !+ NOT_OPTIMIZED
+||account-verification-help-center-alc-bn8z.vercel.app^$all
+!+ NOT_OPTIMIZED
 ||account-verification.github.io^$all
 !+ NOT_OPTIMIZED
 ||account-waslocked.50-6-194-214.cprapid.com^$all
@@ -1999,6 +1995,10 @@
 ||accounts-validacion-login.web.app^$all
 !+ NOT_OPTIMIZED
 ||accounts.deepsouthnursery.com^$all
+!+ NOT_OPTIMIZED
+||accounts.marketwebb.me^$all
+!+ NOT_OPTIMIZED
+||accounts.marketwebb.mobi^$all
 !+ NOT_OPTIMIZED
 ||accountsblr.github.io^$all
 !+ NOT_OPTIMIZED
@@ -2338,6 +2338,8 @@
 !+ NOT_OPTIMIZED
 ||adobe-knwrgjnwghnwhrkfnejwnfkje.pages.dev^$all
 !+ NOT_OPTIMIZED
+||adobe-mpdfthqwamrnypqzitrngpmm.pages.dev^$all
+!+ NOT_OPTIMIZED
 ||adonaidigitals.com^$all
 !+ NOT_OPTIMIZED
 ||adosaneji1n.blob.core.windows.net^$all
@@ -2349,6 +2351,8 @@
 ||adrescotargo.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||adrescotargo.web.app^$all
+!+ NOT_OPTIMIZED
+||ads-response-ref-21684253451.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||adsbusinessaccountcreditscoupon.com^$all
 !+ NOT_OPTIMIZED
@@ -2472,6 +2476,8 @@
 !+ NOT_OPTIMIZED
 ||agervusgnrale.web.app^$all
 !+ NOT_OPTIMIZED
+||aggary.com^$all
+!+ NOT_OPTIMIZED
 ||aggiornamentosicuro.com^$all
 !+ NOT_OPTIMIZED
 ||agoda.12go.asia^$all
@@ -2558,8 +2564,6 @@
 !+ NOT_OPTIMIZED
 ||aimstoinnovatein.pysb1.com^$all
 !+ NOT_OPTIMIZED
-||airbitdrop.com^$all
-!+ NOT_OPTIMIZED
 ||airbnbr34-g7hkus86g-mekuzd.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||airform.ai^$all
@@ -2620,8 +2624,6 @@
 !+ NOT_OPTIMIZED
 ||akrammillstore.com^$all
 !+ NOT_OPTIMIZED
-||akriti707.github.io^$all
-!+ NOT_OPTIMIZED
 ||aks34.github.io^$all
 !+ NOT_OPTIMIZED
 ||aktien-global.de^$all
@@ -2639,8 +2641,6 @@
 ||aktualizaciazabezpecenia.web.app^$all
 !+ NOT_OPTIMIZED
 ||aktualizovatmuniczsecure.weebly.com^$all
-!+ NOT_OPTIMIZED
-||aku-lagi-sebar-dana-kaget-jsgshsusvsjusvsusbsushsjjaisisu.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||akueduu.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -2732,9 +2732,9 @@
 !+ NOT_OPTIMIZED
 ||alfarepair.de^$all
 !+ NOT_OPTIMIZED
-||alfolw.dk^$all
-!+ NOT_OPTIMIZED
 ||algotextil.com.br^$all
+!+ NOT_OPTIMIZED
+||algrain.com^$all
 !+ NOT_OPTIMIZED
 ||alhamzat01.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -2866,8 +2866,6 @@
 !+ NOT_OPTIMIZED
 ||allegro.pl-80834493.shop^$all
 !+ NOT_OPTIMIZED
-||allegro.pl-812234778845.cfd^$all
-!+ NOT_OPTIMIZED
 ||allegro.pl-828924.cfd^$all
 !+ NOT_OPTIMIZED
 ||allegro.pl-82959.cfd^$all
@@ -2920,8 +2918,6 @@
 !+ NOT_OPTIMIZED
 ||allegro.pl-kategorie-inne-12555.sbs^$all
 !+ NOT_OPTIMIZED
-||allegro.pl-kategorie-majowka.icu^$all
-!+ NOT_OPTIMIZED
 ||allegro.pl-kategorie-pozostale-81244.sbs^$all
 !+ NOT_OPTIMIZED
 ||allegro.pl-kategorie-pozostale-981.sbs^$all
@@ -2965,8 +2961,6 @@
 ||allegro.pl-oferta2111585.shop^$all
 !+ NOT_OPTIMIZED
 ||allegro.pl-oferta2235154.shop^$all
-!+ NOT_OPTIMIZED
-||allegro.pl-oferta2274063.xyz^$all
 !+ NOT_OPTIMIZED
 ||allegro.pl-oferta2320592.shop^$all
 !+ NOT_OPTIMIZED
@@ -3088,8 +3082,6 @@
 !+ NOT_OPTIMIZED
 ||allegro.pl-oferta6842051.shop^$all
 !+ NOT_OPTIMIZED
-||allegro.pl-oferta6857666.icu^$all
-!+ NOT_OPTIMIZED
 ||allegro.pl-oferta6949607.icu^$all
 !+ NOT_OPTIMIZED
 ||allegro.pl-oferta6993371.icu^$all
@@ -3181,8 +3173,6 @@
 ||allegro.pl-oferta9910294851845230.icu^$all
 !+ NOT_OPTIMIZED
 ||allegro.pl-ofertaid5999271241.cfd^$all
-!+ NOT_OPTIMIZED
-||allegro.pl-ofertaid91441128057246335.cfd^$all
 !+ NOT_OPTIMIZED
 ||allegro.pl-ofertaprywatna3638.shop^$all
 !+ NOT_OPTIMIZED
@@ -3280,6 +3270,8 @@
 !+ NOT_OPTIMIZED
 ||allegrolokalne.pl-111.sbs^$all
 !+ NOT_OPTIMIZED
+||allegrolokalne.pl-1111.cyou^$all
+!+ NOT_OPTIMIZED
 ||allegrolokalne.pl-1193.sbs^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalne.pl-16111.cfd^$all
@@ -3298,8 +3290,6 @@
 !+ NOT_OPTIMIZED
 ||allegrolokalne.pl-kategorie-inne-91823.sbs^$all
 !+ NOT_OPTIMIZED
-||allegrolokalne.pl-kategorie-inne-9812.shop^$all
-!+ NOT_OPTIMIZED
 ||allegrolokalne.pl-kategorie-inne-98124.rest^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalne.pl-kategorie-inne-9814.sbs^$all
@@ -3317,6 +3307,8 @@
 ||allegrolokalne.pl-pozostale-ogloszenia-918.sbs^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalne.pl49300.cfd^$all
+!+ NOT_OPTIMIZED
+||allegrolokalnie-oferta-76745.icu^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.035530.shop^$all
 !+ NOT_OPTIMIZED
@@ -3401,8 +3393,6 @@
 ||allegrolokalnie.70341842.xyz^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.75301o-936yx-36.xyz^$all
-!+ NOT_OPTIMIZED
-||allegrolokalnie.7574572.sbs^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.76574.top^$all
 !+ NOT_OPTIMIZED
@@ -3574,8 +3564,6 @@
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.kalegorie-narzedzla-543174.sbs^$all
 !+ NOT_OPTIMIZED
-||allegrolokalnie.kalegorie-ogrodove-9c87y3.xyz^$all
-!+ NOT_OPTIMIZED
 ||allegrolokalnie.kategore-dom-l-ogrod-892012.xyz^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.kategoria-dom-i-ogrod-66931.xyz^$all
@@ -3585,10 +3573,6 @@
 ||allegrolokalnie.kategoria-dom-l-ogrod-5c6x7y.xyz^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.kategoria-ogrodowe-szklarnie-2462.top^$all
-!+ NOT_OPTIMIZED
-||allegrolokalnie.kategoria-ogrodowe-wyprzedaz-12635.sbs^$all
-!+ NOT_OPTIMIZED
-||allegrolokalnie.kategorie-inne-018432.xyz^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.kategorie-inne-148392.xyz^$all
 !+ NOT_OPTIMIZED
@@ -3658,8 +3642,6 @@
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.kategorla-dom-i-ogrod-6v2c7y.xyz^$all
 !+ NOT_OPTIMIZED
-||allegrolokalnie.kategorla-ogrod-strona-12.xyz^$all
-!+ NOT_OPTIMIZED
 ||allegrolokalnie.kategrovia-dom-i-ogrod-89521.xyz^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.kosiarki-traktorki-19634.click^$all
@@ -3667,8 +3649,6 @@
 ||allegrolokalnie.kosiarki-traktorki-53821.click^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.l-5385732.xyz^$all
-!+ NOT_OPTIMIZED
-||allegrolokalnie.l-5829694.xyz^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.listing-7201.sbs^$all
 !+ NOT_OPTIMIZED
@@ -3874,6 +3854,8 @@
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-111.sbs^$all
 !+ NOT_OPTIMIZED
+||allegrolokalnie.pl-1111.icu^$all
+!+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-1193.cfd^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-1193.sbs^$all
@@ -4000,6 +3982,8 @@
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-93824348.cfd^$all
 !+ NOT_OPTIMIZED
+||allegrolokalnie.pl-93824349.icu^$all
+!+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-938596.rest^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-9402394.shop^$all
@@ -4073,8 +4057,6 @@
 ||allegrolokalnie.pl-kategorie-pozostale-81244.sbs^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-kategorie-pozostale-8713.cfd^$all
-!+ NOT_OPTIMIZED
-||allegrolokalnie.pl-kategorie-pozostale-981.sbs^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-kategorie-promowane-91282.icu^$all
 !+ NOT_OPTIMIZED
@@ -4292,8 +4274,6 @@
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-oferta6949607.icu^$all
 !+ NOT_OPTIMIZED
-||allegrolokalnie.pl-oferta6993371.icu^$all
-!+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-oferta7032999.shop^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-oferta7205018.icu^$all
@@ -4306,8 +4286,6 @@
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-oferta7444108.com^$all
 !+ NOT_OPTIMIZED
-||allegrolokalnie.pl-oferta754387.sbs^$all
-!+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-oferta7564803.com^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-oferta756893.com^$all
@@ -4317,8 +4295,6 @@
 ||allegrolokalnie.pl-oferta7631037.icu^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-oferta764893.com^$all
-!+ NOT_OPTIMIZED
-||allegrolokalnie.pl-oferta7679435.icu^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-oferta768473.com^$all
 !+ NOT_OPTIMIZED
@@ -4450,6 +4426,8 @@
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-prywatnie-kup-teraz-93203.shop^$all
 !+ NOT_OPTIMIZED
+||allegrolokalnie.pl-rezerwacja09184.click^$all
+!+ NOT_OPTIMIZED
 ||allegrolokalnie.pl-rezerwacja9112893.shop^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pl1.icu^$all
@@ -4519,8 +4497,6 @@
 ||allegrolokalnie.pll-oferta-firmowa799523.icu^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pll-oferta-firmowa824769.icu^$all
-!+ NOT_OPTIMIZED
-||allegrolokalnie.pll-oferta-firmowa836940.icu^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.pll-oferta-firmowa853127.icu^$all
 !+ NOT_OPTIMIZED
@@ -4593,6 +4569,8 @@
 ||allegrolokalnie.y0b0a.shop^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.y0c9a81.shop^$all
+!+ NOT_OPTIMIZED
+||allegrolokalnie.y104.sbs^$all
 !+ NOT_OPTIMIZED
 ||allegrolokalnie.y2019v0a.shop^$all
 !+ NOT_OPTIMIZED
@@ -4730,6 +4708,8 @@
 !+ NOT_OPTIMIZED
 ||amendes-regulation.com^$all
 !+ NOT_OPTIMIZED
+||amendesgiavfr.lat^$all
+!+ NOT_OPTIMIZED
 ||american-medical.net^$all
 !+ NOT_OPTIMIZED
 ||amerikoolernet.w3spaces.com^$all
@@ -4739,6 +4719,8 @@
 ||ametamask-wallet.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||amexzdkjweiu.com^$all
+!+ NOT_OPTIMIZED
+||amica.co.uk^$all
 !+ NOT_OPTIMIZED
 ||amidabuli.com^$all
 !+ NOT_OPTIMIZED
@@ -4750,6 +4732,8 @@
 !+ NOT_OPTIMIZED
 ||amirhameed.com^$all
 !+ NOT_OPTIMIZED
+||amisproject.top^$all
+!+ NOT_OPTIMIZED
 ||amp-108754.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||amqdkszz9a8.webflow.io^$all
@@ -4759,6 +4743,8 @@
 ||amsilekosss.boxmode.io^$all
 !+ NOT_OPTIMIZED
 ||amsmkxpl.paperform.co^$all
+!+ NOT_OPTIMIZED
+||amszerfreeam.dynv6.net^$all
 !+ NOT_OPTIMIZED
 ||amxxxxxxvxx.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -4829,6 +4815,8 @@
 ||anitaboozer.activehosted.com^$all
 !+ NOT_OPTIMIZED
 ||anjalijha167.github.io^$all
+!+ NOT_OPTIMIZED
+||anjanadevelopers.in^$all
 !+ NOT_OPTIMIZED
 ||anmelden1.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -5072,6 +5060,8 @@
 !+ NOT_OPTIMIZED
 ||app-docs-trezors.webflow.io^$all
 !+ NOT_OPTIMIZED
+||app-eirtm.one^$all
+!+ NOT_OPTIMIZED
 ||app-help-metsmeask.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||app-helps-ledger.webflow.io^$all
@@ -5229,6 +5219,8 @@
 ||applicazione-play.cc^$all
 !+ NOT_OPTIMIZED
 ||applink.account.broker-login.robinhoodapp.50-6-205-157.cprapid.com^$all
+!+ NOT_OPTIMIZED
+||applmnvvx.car-accident-claim.com^$all
 !+ NOT_OPTIMIZED
 ||apply-job.github.io^$all
 !+ NOT_OPTIMIZED
@@ -5498,6 +5490,8 @@
 !+ NOT_OPTIMIZED
 ||artemius-lab.ru^$all
 !+ NOT_OPTIMIZED
+||artesani.pt^$all
+!+ NOT_OPTIMIZED
 ||artisteer.com^$all
 !+ NOT_OPTIMIZED
 ||artofbaseball.net^$all
@@ -5553,6 +5547,8 @@
 ||asdxza.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||aseguratuvida360.com^$all
+!+ NOT_OPTIMIZED
+||aselonsbansk-jp.com^$all
 !+ NOT_OPTIMIZED
 ||asercomsa.com^$all
 !+ NOT_OPTIMIZED
@@ -5746,6 +5742,8 @@
 !+ NOT_OPTIMIZED
 ||atd04021-100272.weeblysite.com^$all
 !+ NOT_OPTIMIZED
+||atec.net.ar^$all
+!+ NOT_OPTIMIZED
 ||atelierea.link^$all
 !+ NOT_OPTIMIZED
 ||atenciones-gt.biz.site^$all
@@ -5811,8 +5809,6 @@
 ||atmailupdateformeupdaterdzxtdinfomailacct.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||atmailupdateformeupdaterltdfdinfomailacct.weebly.com^$all
-!+ NOT_OPTIMIZED
-||atmailupdateformeupdatesbhtdinfomailacct.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||atmailupdateformeupdatpxtadinfomailacct.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -5919,8 +5915,6 @@
 ||att-100669.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||att-100679.weeblysite.com^$all
-!+ NOT_OPTIMIZED
-||att-100702.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||att-100706-107778.weeblysite.com^$all
 !+ NOT_OPTIMIZED
@@ -6125,8 +6119,6 @@
 ||att-104688.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||att-104696.weeblysite.com^$all
-!+ NOT_OPTIMIZED
-||att-104788.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||att-104806.weeblysite.com^$all
 !+ NOT_OPTIMIZED
@@ -6387,8 +6379,6 @@
 ||att-currently-04-07-2025.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||att-currently-04-19-2025.weeblysite.com^$all
-!+ NOT_OPTIMIZED
-||att-currently-04-21-25.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||att-currently-04-23-2025.weeblysite.com^$all
 !+ NOT_OPTIMIZED
@@ -6789,8 +6779,6 @@
 ||attcom-100682.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||attcom-100762.weeblysite.com^$all
-!+ NOT_OPTIMIZED
-||attcom-100914.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||attcom-103046.weeblysite.com^$all
 !+ NOT_OPTIMIZED
@@ -7194,8 +7182,6 @@
 !+ NOT_OPTIMIZED
 ||attonlineattweb.weebly.com^$all
 !+ NOT_OPTIMIZED
-||attonlinechecking-103143.weeblysite.com^$all
-!+ NOT_OPTIMIZED
 ||attonlineservice.boxmode.io^$all
 !+ NOT_OPTIMIZED
 ||attonlinevalidate8372.weebly.com^$all
@@ -7238,8 +7224,6 @@
 !+ NOT_OPTIMIZED
 ||attsecteammail.weebly.com^$all
 !+ NOT_OPTIMIZED
-||attsecure0006.weebly.com^$all
-!+ NOT_OPTIMIZED
 ||attsecure6767.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||attsecureit.github.io^$all
@@ -7259,8 +7243,6 @@
 ||attserveq1a.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||attserver1.weebly.com^$all
-!+ NOT_OPTIMIZED
-||attserver123.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||attserver456.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -7392,8 +7374,6 @@
 !+ NOT_OPTIMIZED
 ||attttxcvhh.weebly.com^$all
 !+ NOT_OPTIMIZED
-||attttyahoomai5e.weebly.com^$all
-!+ NOT_OPTIMIZED
 ||atttu109.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||atttvpaymentdue.duckdns.org^$all
@@ -7516,8 +7496,6 @@
 !+ NOT_OPTIMIZED
 ||attyahoouserss.github.io^$all
 !+ NOT_OPTIMIZED
-||attyahpagesdd146378-b46575f-b524-74858j.ubpages.com^$all
-!+ NOT_OPTIMIZED
 ||attyahppgncclyo0yahnn.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||attzcxffclfjlggflggghjjhjljhjjhhk.weebly.com^$all
@@ -7578,6 +7556,8 @@
 !+ NOT_OPTIMIZED
 ||auspost.ksjhd.xin^$all
 !+ NOT_OPTIMIZED
+||ausposters.help^$all
+!+ NOT_OPTIMIZED
 ||aust24.net^$all
 !+ NOT_OPTIMIZED
 ||austclaimsservices.com^$all
@@ -7599,8 +7579,6 @@
 ||auth---app-m-bitbuy---cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||auth---m--sso----trezor--web.webflow.io^$all
-!+ NOT_OPTIMIZED
-||auth---m-start-ledger--auth.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||auth---secure--kucoinnz.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -7689,8 +7667,6 @@
 ||auth--tee-zorhelp.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||auth--treazor-suite.webflow.io^$all
-!+ NOT_OPTIMIZED
-||auth--treezor-x--en-cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||auth--web--blockf--cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -7872,8 +7848,6 @@
 !+ NOT_OPTIMIZED
 ||auth-swisborgwallet.webflow.io^$all
 !+ NOT_OPTIMIZED
-||auth-transf-wer-ro.weebly.com^$all
-!+ NOT_OPTIMIZED
 ||auth-trezor-io--web-cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||auth-trezrsuit-web.webflow.io^$all
@@ -7908,8 +7882,6 @@
 !+ NOT_OPTIMIZED
 ||authaolsignon.weebly.com^$all
 !+ NOT_OPTIMIZED
-||authapp-coinbase-extension.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||authatomicwallet.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||authdappresolve.pages.dev^$all
@@ -7923,6 +7895,8 @@
 ||authe-phantom-wallet---sso.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||authen-dgfip.weebly.com^$all
+!+ NOT_OPTIMIZED
+||authen-meta.com^$all
 !+ NOT_OPTIMIZED
 ||authenac1.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -8064,8 +8038,6 @@
 !+ NOT_OPTIMIZED
 ||auuth--trez--login.webflow.io^$all
 !+ NOT_OPTIMIZED
-||auuth-m--trezor.gitbook.io^$all
-!+ NOT_OPTIMIZED
 ||auuth-m-start-ledger-learn.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||auxxxxxxxxx.smb.page^$all
@@ -8136,13 +8108,13 @@
 !+ NOT_OPTIMIZED
 ||axieinfinty.github.io^$all
 !+ NOT_OPTIMIZED
+||axiom-trade.web.app^$all
+!+ NOT_OPTIMIZED
 ||axmfx.top^$all
 !+ NOT_OPTIMIZED
 ||axomonline.com^$all
 !+ NOT_OPTIMIZED
 ||axtraweb.com^$all
-!+ NOT_OPTIMIZED
-||ayafl.icu^$all
 !+ NOT_OPTIMIZED
 ||ayffhjr.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -8182,8 +8154,6 @@
 !+ NOT_OPTIMIZED
 ||azsoftoman.com^$all
 !+ NOT_OPTIMIZED
-||azsrzt.cn^$all
-!+ NOT_OPTIMIZED
 ||azuki-110716005.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||azure364190.studio.site^$all
@@ -8207,6 +8177,8 @@
 ||b-t-c-o-m-m-u-n-i-t-y.square.site^$all
 !+ NOT_OPTIMIZED
 ||b-t-coomunicationspage.w3spaces.com^$all
+!+ NOT_OPTIMIZED
+||b.656602.com^$all
 !+ NOT_OPTIMIZED
 ||b0xnownow.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -8300,6 +8272,8 @@
 !+ NOT_OPTIMIZED
 ||bafkreiaemiaoe3s6gn6xior5tuy3i2ovsp5yplgbhggt2durufnotoj52i.ipfs.dweb.link^$all
 !+ NOT_OPTIMIZED
+||bafkreiafqoirsukfqlvuspuv4glqzthrqw7sljyvf3qjmhlby3x7med34q.ipfs.dweb.link^$all
+!+ NOT_OPTIMIZED
 ||bafkreiaj3re3z4vwsjzdsepngnywk4624jizydc4tnfchn2k3dfz5vlvi4.ipfs.dweb.link^$all
 !+ NOT_OPTIMIZED
 ||bafkreiajmvttg4jizeuazgzoammwmcmmftjkw7q3at7uea7a7nyyqippmm.ipfs.dweb.link^$all
@@ -8317,6 +8291,8 @@
 ||bafkreickndlj47y6qu7hwup4nrdmfopeykor54lmxbz46mkpxihlle7t5y.ipfs.dweb.link^$all
 !+ NOT_OPTIMIZED
 ||bafkreidcvro46yq6o6fxfrvnnpbqahpdvsgungsgjcpk45xmh7oz5xjz7m.ipfs.dweb.link^$all
+!+ NOT_OPTIMIZED
+||bafkreiddjvjw5aybqlrhwgkx6fx64onozdd5elmr6nizkj2qaf3i3axwu4.ipfs.dweb.link^$all
 !+ NOT_OPTIMIZED
 ||bafkreidfp3g5zija5qoy3n5ni3yy5eu3gx7aa4jrwd7sic4decs2ngmw6i.ipfs.dweb.link^$all
 !+ NOT_OPTIMIZED
@@ -8445,6 +8421,10 @@
 ||bafybeidfspc5w2oins42kstxfo23axzq2rllf4un6c22ur34vc2nlrgc7y.ipfs.dweb.link^$all
 !+ NOT_OPTIMIZED
 ||bafybeidhplttwapnodsbccz7ifcemrfh2lkhwmnacywtckuipeg2n55jiu.ipfs.fleek.cool^$all
+!+ NOT_OPTIMIZED
+||bafybeidktdp2ygm3vt4fowsdknzzvmzvor3sp4y6ksa4c3rfjdscuavcry.ipfs.dweb.link^$all
+!+ NOT_OPTIMIZED
+||bafybeidn4orkjgqc6icckijravemy3dkkyb5thaypczhzxsbpba2uvig5y.ipfs.dweb.link^$all
 !+ NOT_OPTIMIZED
 ||bafybeidrtr4yj7egigybipenrutqxlyybods5mozgftkdzrsw6slbncs6e.ipfs.dweb.link^$all
 !+ NOT_OPTIMIZED
@@ -8864,8 +8844,6 @@
 !+ NOT_OPTIMIZED
 ||bayareafastrak.org-etcaqf.win^$all
 !+ NOT_OPTIMIZED
-||bayareafastrak.org-etcaqi.win^$all
-!+ NOT_OPTIMIZED
 ||bayareafastrak.org-etcaqj.win^$all
 !+ NOT_OPTIMIZED
 ||bayareafastrak.org-etcaqk.win^$all
@@ -9062,8 +9040,6 @@
 !+ NOT_OPTIMIZED
 ||bayareafastrak.org-gfsu.win^$all
 !+ NOT_OPTIMIZED
-||bayareafastrak.org-ghkr.win^$all
-!+ NOT_OPTIMIZED
 ||bayareafastrak.org-ghkw.win^$all
 !+ NOT_OPTIMIZED
 ||bayareafastrak.org-glq.win^$all
@@ -9079,10 +9055,6 @@
 ||bayareafastrak.org-gwuh.win^$all
 !+ NOT_OPTIMIZED
 ||bayareafastrak.org-hcvz.win^$all
-!+ NOT_OPTIMIZED
-||bayareafastrak.org-hdgw.win^$all
-!+ NOT_OPTIMIZED
-||bayareafastrak.org-heac.win^$all
 !+ NOT_OPTIMIZED
 ||bayareafastrak.org-hfzl.win^$all
 !+ NOT_OPTIMIZED
@@ -9210,8 +9182,6 @@
 !+ NOT_OPTIMIZED
 ||bayareafastrak.org-tlsp.win^$all
 !+ NOT_OPTIMIZED
-||bayareafastrak.org-tmj.win^$all
-!+ NOT_OPTIMIZED
 ||bayareafastrak.org-tsod.win^$all
 !+ NOT_OPTIMIZED
 ||bayareafastrak.org-tszf.win^$all
@@ -9227,8 +9197,6 @@
 ||bayareafastrak.org-vlou.win^$all
 !+ NOT_OPTIMIZED
 ||bayareafastrak.org-vxaw.win^$all
-!+ NOT_OPTIMIZED
-||bayareafastrak.org-wbid.win^$all
 !+ NOT_OPTIMIZED
 ||bayareafastrak.org-wfeb.win^$all
 !+ NOT_OPTIMIZED
@@ -9333,8 +9301,6 @@
 ||bbest-pt.web.app^$all
 !+ NOT_OPTIMIZED
 ||bbghhjhfgfggh.weebly.com^$all
-!+ NOT_OPTIMIZED
-||bbhu.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||bbiiibybaby.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -9534,10 +9500,6 @@
 !+ NOT_OPTIMIZED
 ||belliantalliant.weebly.com^$all
 !+ NOT_OPTIMIZED
-||belljhsyuvhs.weebly.com^$all
-!+ NOT_OPTIMIZED
-||bellmts-102529.weeblysite.com^$all
-!+ NOT_OPTIMIZED
 ||bellmtswebm.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||bellmymtsaccesspage-17973609.weebly.com^$all
@@ -9621,6 +9583,8 @@
 ||besunapp.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||besunapp.web.app^$all
+!+ NOT_OPTIMIZED
+||bet73069.com^$all
 !+ NOT_OPTIMIZED
 ||bet73075.com^$all
 !+ NOT_OPTIMIZED
@@ -9796,7 +9760,7 @@
 !+ NOT_OPTIMIZED
 ||bigevilbooleanlogic--five-nine.repl.co^$all
 !+ NOT_OPTIMIZED
-||biggggggggggg.weebly.com^$all
+||bigfatbetty.com^$all
 !+ NOT_OPTIMIZED
 ||biglobe5243.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -9835,6 +9799,8 @@
 ||biitmaarrtlogin.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||biitrmartlogin.webflow.io^$all
+!+ NOT_OPTIMIZED
+||bike-smile.sk^$all
 !+ NOT_OPTIMIZED
 ||biketradesph.com^$all
 !+ NOT_OPTIMIZED
@@ -10276,6 +10242,8 @@
 !+ NOT_OPTIMIZED
 ||booking.mrityunjyatourism.com^$all
 !+ NOT_OPTIMIZED
+||bookingdulich365.com^$all
+!+ NOT_OPTIMIZED
 ||bookmarkindia.in^$all
 !+ NOT_OPTIMIZED
 ||bookonrer.firebaseapp.com^$all
@@ -10353,8 +10321,6 @@
 ||bpgroup.hu^$all
 !+ NOT_OPTIMIZED
 ||bpibenco.com^$all
-!+ NOT_OPTIMIZED
-||bpnj6mpczy3gympj.irs.associates^$all
 !+ NOT_OPTIMIZED
 ||bpostceles.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
@@ -10480,8 +10446,6 @@
 !+ NOT_OPTIMIZED
 ||breezeline-101317.weeblysite.com^$all
 !+ NOT_OPTIMIZED
-||breezeline-109201.weeblysite.com^$all
-!+ NOT_OPTIMIZED
 ||breezelineupgrade911.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||breezy-shiny-poet.glitch.me^$all
@@ -10541,6 +10505,8 @@
 ||bridge-trezariostat.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||bridge-trezorr-cdn-io.webflow.io^$all
+!+ NOT_OPTIMIZED
+||bridge-trezr-docs.gitbook.io^$all
 !+ NOT_OPTIMIZED
 ||bridge-trezrrs.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -10631,6 +10597,8 @@
 ||brtnudeisoliso.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||brtpocvetolsd.weebly.com^$all
+!+ NOT_OPTIMIZED
+||bru4gp.webwave.dev^$all
 !+ NOT_OPTIMIZED
 ||brusselsarport.be^$all
 !+ NOT_OPTIMIZED
@@ -11336,6 +11304,8 @@
 !+ NOT_OPTIMIZED
 ||bujo.li^$all
 !+ NOT_OPTIMIZED
+||buktijcpthonda.com^$all
+!+ NOT_OPTIMIZED
 ||bulgariafreedomailer.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||bulgariaonlinedsett.weebly.com^$all
@@ -11444,6 +11414,10 @@
 !+ NOT_OPTIMIZED
 ||bussiness-meta23.start.page^$all
 !+ NOT_OPTIMIZED
+||bussinessaccount-pagespolicy.firebaseapp.com^$all
+!+ NOT_OPTIMIZED
+||bussinessaccount-pagespolicy.web.app^$all
+!+ NOT_OPTIMIZED
 ||bussinesscenterpage-helpspolicy.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||bussinesscenters-helppolicy.pages.dev^$all
@@ -11473,6 +11447,10 @@
 ||buzniqzwdi.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||buzniqzwdi.web.app^$all
+!+ NOT_OPTIMIZED
+||bvbroudani344.dynv6.net^$all
+!+ NOT_OPTIMIZED
+||bvcxcvbvfd-1096ab7.ingress-erytho.ewp.live^$all
 !+ NOT_OPTIMIZED
 ||bve6asryctf0i8s57idtuyi-guofyid68tofyiugofd68oyi.teemill.com^$all
 !+ NOT_OPTIMIZED
@@ -11786,8 +11764,6 @@
 !+ NOT_OPTIMIZED
 ||cardservices-fmbnc.web.app^$all
 !+ NOT_OPTIMIZED
-||care-hopeful-road.vercel.app^$all
-!+ NOT_OPTIMIZED
 ||careattmobile.surveysparrow.com^$all
 !+ NOT_OPTIMIZED
 ||careergrow.co.za^$all
@@ -11845,8 +11821,6 @@
 ||case-1003832252221.dealhub92.click^$all
 !+ NOT_OPTIMIZED
 ||case-1003832273243.dealhub92.click^$all
-!+ NOT_OPTIMIZED
-||case-1018686736538.pihayy.com^$all
 !+ NOT_OPTIMIZED
 ||case-1018686746855.pihayy.com^$all
 !+ NOT_OPTIMIZED
@@ -12112,6 +12086,8 @@
 !+ NOT_OPTIMIZED
 ||cc-35g-pg03u5i-9gh-1324992141.cos.ap-bangkok.myqcloud.com^$all
 !+ NOT_OPTIMIZED
+||cc28012.tw1.ru^$all
+!+ NOT_OPTIMIZED
 ||cc86824.tw1.ru^$all
 !+ NOT_OPTIMIZED
 ||ccap-106718.weeblysite.com^$all
@@ -12137,6 +12113,8 @@
 ||cd-platmorm.web.app^$all
 !+ NOT_OPTIMIZED
 ||cd08779.tw1.ru^$all
+!+ NOT_OPTIMIZED
+||cd62246.tw1.ru^$all
 !+ NOT_OPTIMIZED
 ||cd66388.tw1.ru^$all
 !+ NOT_OPTIMIZED
@@ -12167,8 +12145,6 @@
 ||cdn.mediacodehub.com^$all
 !+ NOT_OPTIMIZED
 ||cdn.metriscope.com^$all
-!+ NOT_OPTIMIZED
-||cdsc32v9s8f5v.servepics.com^$all
 !+ NOT_OPTIMIZED
 ||ce3ss1.webwave.dev^$all
 !+ NOT_OPTIMIZED
@@ -12224,8 +12200,6 @@
 !+ NOT_OPTIMIZED
 ||cedis-online.de^$all
 !+ NOT_OPTIMIZED
-||cee-trust.org^$all
-!+ NOT_OPTIMIZED
 ||cee940kjtjt7emfk8mfjr848mrmfn97rjj09rm.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||ceinbespurelgin.godaddysites.com^$all
@@ -12277,8 +12251,6 @@
 ||centinela.press^$all
 !+ NOT_OPTIMIZED
 ||central-basicdeployer.firebaseapp.com^$all
-!+ NOT_OPTIMIZED
-||central-basicdeployer.web.app^$all
 !+ NOT_OPTIMIZED
 ||central-servicos.paginas.email^$all
 !+ NOT_OPTIMIZED
@@ -12366,6 +12338,8 @@
 !+ NOT_OPTIMIZED
 ||ceramogranit.kz^$all
 !+ NOT_OPTIMIZED
+||cerddetaisl.surge.sh^$all
+!+ NOT_OPTIMIZED
 ||cert-000049-0000c5.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||cert-000049-0000c5.web.app^$all
@@ -12392,6 +12366,8 @@
 !+ NOT_OPTIMIZED
 ||ceyssteam.bos.ru^$all
 !+ NOT_OPTIMIZED
+||cf-4.mkuhz4h.eu.org^$all
+!+ NOT_OPTIMIZED
 ||cffswisspass.cluster1.easy-hebergement.net^$all
 !+ NOT_OPTIMIZED
 ||cfgbyjhunklofhgj.weebly.com^$all
@@ -12399,8 +12375,6 @@
 ||cfkyb0.webwave.dev^$all
 !+ NOT_OPTIMIZED
 ||cfpj.tg^$all
-!+ NOT_OPTIMIZED
-||cfrgthytrvtbbgf.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||cfrpgen2015.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -12540,6 +12514,10 @@
 !+ NOT_OPTIMIZED
 ||check-009rt.web.app^$all
 !+ NOT_OPTIMIZED
+||check-advertising-infoneed.firebaseapp.com^$all
+!+ NOT_OPTIMIZED
+||check-advertising-infoneed.web.app^$all
+!+ NOT_OPTIMIZED
 ||check-device-security.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||check-device-security.web.app^$all
@@ -12584,6 +12562,8 @@
 !+ NOT_OPTIMIZED
 ||chevy.ru^$all
 !+ NOT_OPTIMIZED
+||chhailamusic.com^$all
+!+ NOT_OPTIMIZED
 ||chibutzorjokuy2k.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||chief-flame-track.glitch.me^$all
@@ -12591,6 +12571,8 @@
 ||chief-glorious-turn.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||chikkuthomas.github.io^$all
+!+ NOT_OPTIMIZED
+||childish-octagonal-thunder.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||chimaemmanuel24.activehosted.com^$all
 !+ NOT_OPTIMIZED
@@ -12794,8 +12776,6 @@
 !+ NOT_OPTIMIZED
 ||cl-uc.weebly.com^$all
 !+ NOT_OPTIMIZED
-||cl.i-lck.space^$all
-!+ NOT_OPTIMIZED
 ||cl.llick-k.space^$all
 !+ NOT_OPTIMIZED
 ||cl12.mlr.hu^$all
@@ -12899,6 +12879,8 @@
 ||cliente.clube-bradesco.app^$all
 !+ NOT_OPTIMIZED
 ||clientecaixadirectaseguranca.com^$all
+!+ NOT_OPTIMIZED
+||clientennota-webnl.ddns.info^$all
 !+ NOT_OPTIMIZED
 ||clientepresenteado.digital^$all
 !+ NOT_OPTIMIZED
@@ -13096,8 +13078,6 @@
 !+ NOT_OPTIMIZED
 ||coiinbsewalttextsn.webflow.io^$all
 !+ NOT_OPTIMIZED
-||coiis-instructions.com^$all
-!+ NOT_OPTIMIZED
 ||coimbasiepriologii.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||coin-base-pro.webflow.io^$all
@@ -13107,8 +13087,6 @@
 ||coinbaeprcomlogin.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||coinbase--wallets-extnsuin.webflow.io^$all
-!+ NOT_OPTIMIZED
-||coinbase-extension-se.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||coinbase-pro-login46.godaddysites.com^$all
 !+ NOT_OPTIMIZED
@@ -13202,8 +13180,6 @@
 !+ NOT_OPTIMIZED
 ||com-accoucx.icu^$all
 !+ NOT_OPTIMIZED
-||com-accoucxe.icu^$all
-!+ NOT_OPTIMIZED
 ||com-accoucxq.icu^$all
 !+ NOT_OPTIMIZED
 ||com-accoucxt.icu^$all
@@ -13274,8 +13250,6 @@
 !+ NOT_OPTIMIZED
 ||com-bhif.win^$all
 !+ NOT_OPTIMIZED
-||com-biah.win^$all
-!+ NOT_OPTIMIZED
 ||com-blf.win^$all
 !+ NOT_OPTIMIZED
 ||com-bmxz.win^$all
@@ -13289,8 +13263,6 @@
 ||com-brtm.win^$all
 !+ NOT_OPTIMIZED
 ||com-bvdg.win^$all
-!+ NOT_OPTIMIZED
-||com-bvyn.win^$all
 !+ NOT_OPTIMIZED
 ||com-bygd.win^$all
 !+ NOT_OPTIMIZED
@@ -13415,6 +13387,8 @@
 ||com-erdc.win^$all
 !+ NOT_OPTIMIZED
 ||com-erfd.win^$all
+!+ NOT_OPTIMIZED
+||com-erticvs.world^$all
 !+ NOT_OPTIMIZED
 ||com-eslr.win^$all
 !+ NOT_OPTIMIZED
@@ -13546,8 +13520,6 @@
 !+ NOT_OPTIMIZED
 ||com-etcqzn.vip^$all
 !+ NOT_OPTIMIZED
-||com-etcqzp.vip^$all
-!+ NOT_OPTIMIZED
 ||com-etcqzx.vip^$all
 !+ NOT_OPTIMIZED
 ||com-etcrf.win^$all
@@ -13567,8 +13539,6 @@
 ||com-etctyc.vip^$all
 !+ NOT_OPTIMIZED
 ||com-etctyf.vip^$all
-!+ NOT_OPTIMIZED
-||com-etctyz.vip^$all
 !+ NOT_OPTIMIZED
 ||com-etcutr.vip^$all
 !+ NOT_OPTIMIZED
@@ -13599,8 +13569,6 @@
 ||com-etcxg.win^$all
 !+ NOT_OPTIMIZED
 ||com-etcxmdyj.vip^$all
-!+ NOT_OPTIMIZED
-||com-etcxpf.vip^$all
 !+ NOT_OPTIMIZED
 ||com-etcxqf.vip^$all
 !+ NOT_OPTIMIZED
@@ -13720,6 +13688,8 @@
 !+ NOT_OPTIMIZED
 ||com-gylm.win^$all
 !+ NOT_OPTIMIZED
+||com-hacsrti.world^$all
+!+ NOT_OPTIMIZED
 ||com-hbfg.win^$all
 !+ NOT_OPTIMIZED
 ||com-hbvd.win^$all
@@ -13729,8 +13699,6 @@
 ||com-hfzb.win^$all
 !+ NOT_OPTIMIZED
 ||com-hgmu.win^$all
-!+ NOT_OPTIMIZED
-||com-hicx.win^$all
 !+ NOT_OPTIMIZED
 ||com-hisp.win^$all
 !+ NOT_OPTIMIZED
@@ -13756,7 +13724,13 @@
 !+ NOT_OPTIMIZED
 ||com-hoyaewiy.world^$all
 !+ NOT_OPTIMIZED
+||com-hoybalpy.world^$all
+!+ NOT_OPTIMIZED
 ||com-hoybcbtf.world^$all
+!+ NOT_OPTIMIZED
+||com-hoybckot.world^$all
+!+ NOT_OPTIMIZED
+||com-hoyberpm.world^$all
 !+ NOT_OPTIMIZED
 ||com-hoybhtrv.world^$all
 !+ NOT_OPTIMIZED
@@ -13766,7 +13740,9 @@
 !+ NOT_OPTIMIZED
 ||com-hoybmiut.world^$all
 !+ NOT_OPTIMIZED
-||com-hoybnbra.world^$all
+||com-hoybmlpt.world^$all
+!+ NOT_OPTIMIZED
+||com-hoybtokl.world^$all
 !+ NOT_OPTIMIZED
 ||com-hoyytrsd.world^$all
 !+ NOT_OPTIMIZED
@@ -13808,8 +13784,6 @@
 !+ NOT_OPTIMIZED
 ||com-ijhv.win^$all
 !+ NOT_OPTIMIZED
-||com-ikbf.win^$all
-!+ NOT_OPTIMIZED
 ||com-ikhf.win^$all
 !+ NOT_OPTIMIZED
 ||com-ikho.win^$all
@@ -13843,8 +13817,6 @@
 ||com-invoicemqxk.sbs^$all
 !+ NOT_OPTIMIZED
 ||com-invoicennax.sbs^$all
-!+ NOT_OPTIMIZED
-||com-invoiceppwz.sbs^$all
 !+ NOT_OPTIMIZED
 ||com-invoiceqoio.sbs^$all
 !+ NOT_OPTIMIZED
@@ -13883,8 +13855,6 @@
 ||com-jhbv.win^$all
 !+ NOT_OPTIMIZED
 ||com-jkfu.win^$all
-!+ NOT_OPTIMIZED
-||com-jkxn.win^$all
 !+ NOT_OPTIMIZED
 ||com-jlge.top^$all
 !+ NOT_OPTIMIZED
@@ -14166,8 +14136,6 @@
 !+ NOT_OPTIMIZED
 ||com-qndx.win^$all
 !+ NOT_OPTIMIZED
-||com-qnrt.top^$all
-!+ NOT_OPTIMIZED
 ||com-qosk.top^$all
 !+ NOT_OPTIMIZED
 ||com-qrfy.win^$all
@@ -14179,8 +14147,6 @@
 ||com-qwaf.cc^$all
 !+ NOT_OPTIMIZED
 ||com-qwaq.cc^$all
-!+ NOT_OPTIMIZED
-||com-qwid.xin^$all
 !+ NOT_OPTIMIZED
 ||com-qwsm.win^$all
 !+ NOT_OPTIMIZED
@@ -14312,8 +14278,6 @@
 !+ NOT_OPTIMIZED
 ||com-serviceudm.world^$all
 !+ NOT_OPTIMIZED
-||com-serviceweq.world^$all
-!+ NOT_OPTIMIZED
 ||com-sexl.win^$all
 !+ NOT_OPTIMIZED
 ||com-sgoq.win^$all
@@ -14348,17 +14312,11 @@
 !+ NOT_OPTIMIZED
 ||com-svye.xin^$all
 !+ NOT_OPTIMIZED
-||com-sxvr.win^$all
-!+ NOT_OPTIMIZED
-||com-syfl.win^$all
-!+ NOT_OPTIMIZED
 ||com-sywd.win^$all
 !+ NOT_OPTIMIZED
 ||com-szgt.win^$all
 !+ NOT_OPTIMIZED
 ||com-talq.win^$all
-!+ NOT_OPTIMIZED
-||com-tbwo.win^$all
 !+ NOT_OPTIMIZED
 ||com-tcbh.win^$all
 !+ NOT_OPTIMIZED
@@ -14429,8 +14387,6 @@
 ||com-tire.xin^$all
 !+ NOT_OPTIMIZED
 ||com-tiznqja.world^$all
-!+ NOT_OPTIMIZED
-||com-tiznqjc.world^$all
 !+ NOT_OPTIMIZED
 ||com-tiznqje.world^$all
 !+ NOT_OPTIMIZED
@@ -14517,8 +14473,6 @@
 ||com-trdu.win^$all
 !+ NOT_OPTIMIZED
 ||com-trmv.win^$all
-!+ NOT_OPTIMIZED
-||com-trzb.win^$all
 !+ NOT_OPTIMIZED
 ||com-tsbx.win^$all
 !+ NOT_OPTIMIZED
@@ -14611,8 +14565,6 @@
 ||com-vcds.win^$all
 !+ NOT_OPTIMIZED
 ||com-vdhu.win^$all
-!+ NOT_OPTIMIZED
-||com-vezd.win^$all
 !+ NOT_OPTIMIZED
 ||com-vfth.win^$all
 !+ NOT_OPTIMIZED
@@ -14711,8 +14663,6 @@
 ||com-xalo.win^$all
 !+ NOT_OPTIMIZED
 ||com-xalp.win^$all
-!+ NOT_OPTIMIZED
-||com-xaxnz.vip^$all
 !+ NOT_OPTIMIZED
 ||com-xem.win^$all
 !+ NOT_OPTIMIZED
@@ -14976,8 +14926,6 @@
 !+ NOT_OPTIMIZED
 ||common-slime-oviraptor.glitch.me^$all
 !+ NOT_OPTIMIZED
-||commondiscordverification-2vv.pages.dev^$all
-!+ NOT_OPTIMIZED
 ||commonfewsearchservice--five-nine.repl.co^$all
 !+ NOT_OPTIMIZED
 ||communigatepro.weebly.com^$all
@@ -14989,6 +14937,8 @@
 ||community-standards-1006436512.web.app^$all
 !+ NOT_OPTIMIZED
 ||communitybankpkbg.weebly.com^$all
+!+ NOT_OPTIMIZED
+||communitymetamaskio.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||communlcationupdates.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -15198,6 +15148,8 @@
 !+ NOT_OPTIMIZED
 ||connect-rewards.pages.dev^$all
 !+ NOT_OPTIMIZED
+||connect-rpcservice.com^$all
+!+ NOT_OPTIMIZED
 ||connect-xfinity-login.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||connect-xfinitycom.weeblysite.com^$all
@@ -15273,6 +15225,8 @@
 ||connecttxfinityy.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||connectwithmeta.start.page^$all
+!+ NOT_OPTIMIZED
+||connectzerobridge.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||connet-troxr-wallet-cdn.gitbook.io^$all
 !+ NOT_OPTIMIZED
@@ -15495,6 +15449,8 @@
 ||coomcast-infixyy.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||coomporiiuuum.weebly.com^$all
+!+ NOT_OPTIMIZED
+||coop-esti-prooom1.com^$all
 !+ NOT_OPTIMIZED
 ||cooper-square.company.com^$all
 !+ NOT_OPTIMIZED
@@ -15800,6 +15756,8 @@
 !+ NOT_OPTIMIZED
 ||crm.layton.ru^$all
 !+ NOT_OPTIMIZED
+||crmgroupe.cloudaccess.host^$all
+!+ NOT_OPTIMIZED
 ||crmoutlec.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||crmoutlec.web.app^$all
@@ -15878,6 +15836,8 @@
 !+ NOT_OPTIMIZED
 ||cs37530.tw1.ru^$all
 !+ NOT_OPTIMIZED
+||cs85421.tw1.ru^$all
+!+ NOT_OPTIMIZED
 ||cscentralcard.com.br^$all
 !+ NOT_OPTIMIZED
 ||csemizuho.fr^$all
@@ -15951,8 +15911,6 @@
 ||ctgov.com-vipzg.win^$all
 !+ NOT_OPTIMIZED
 ||ctgov.com-vipzp.win^$all
-!+ NOT_OPTIMIZED
-||ctgov.com-vipzr.win^$all
 !+ NOT_OPTIMIZED
 ||cthm43ff0h77-pages-dev.translate.goog^$all
 !+ NOT_OPTIMIZED
@@ -16644,6 +16602,8 @@
 !+ NOT_OPTIMIZED
 ||cuucainlogoncc.webflow.io^$all
 !+ NOT_OPTIMIZED
+||cuxis1hub.com^$all
+!+ NOT_OPTIMIZED
 ||cuycoinloginn.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||cuymmmdeot.weebly.com^$all
@@ -16826,6 +16786,8 @@
 !+ NOT_OPTIMIZED
 ||dailymorningcoffee.com^$all
 !+ NOT_OPTIMIZED
+||daisy-jasper-crayon.glitch.me^$all
+!+ NOT_OPTIMIZED
 ||daiyxtaki.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||daiyxtaki.web.app^$all
@@ -16969,6 +16931,8 @@
 ||dash2trader.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||dashboard-home-conbase-102.3-12-197-221.cprapid.com^$all
+!+ NOT_OPTIMIZED
+||dashboard-home-conbase-108.3-23-87-73.cprapid.com^$all
 !+ NOT_OPTIMIZED
 ||dashboard-home-conbase-99.3-17-152-1.cprapid.com^$all
 !+ NOT_OPTIMIZED
@@ -17203,6 +17167,10 @@
 ||deeluxeetorolh.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||deeolamxbdjwisud.weebly.com^$all
+!+ NOT_OPTIMIZED
+||deepellumcommunitycenter.com^$all
+!+ NOT_OPTIMIZED
+||deepellumfair.com^$all
 !+ NOT_OPTIMIZED
 ||deepp--bssniiees--674838.start.page^$all
 !+ NOT_OPTIMIZED
@@ -17638,6 +17606,8 @@
 !+ NOT_OPTIMIZED
 ||dialogoydeportes.net^$all
 !+ NOT_OPTIMIZED
+||diamanteperu.com^$all
+!+ NOT_OPTIMIZED
 ||diamondbk.online^$all
 !+ NOT_OPTIMIZED
 ||diefoedh.weeblysite.com^$all
@@ -17790,6 +17760,8 @@
 !+ NOT_OPTIMIZED
 ||djx.xbtuykrn.top^$all
 !+ NOT_OPTIMIZED
+||djxdwsd-10fe814.ingress-bonde.ewp.live^$all
+!+ NOT_OPTIMIZED
 ||dk-103652.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||dk.drivekssg.top^$all
@@ -17918,8 +17890,6 @@
 !+ NOT_OPTIMIZED
 ||dmv.ny-govedc.vip^$all
 !+ NOT_OPTIMIZED
-||dmv.ny-govijb.vip^$all
-!+ NOT_OPTIMIZED
 ||dmv.ny-govkjt.vip^$all
 !+ NOT_OPTIMIZED
 ||dmv.ny-govkpha.vip^$all
@@ -17999,8 +17969,6 @@
 ||dobrovolsky.net^$all
 !+ NOT_OPTIMIZED
 ||doc---trzo-bridge-cdn.gitbook.io^$all
-!+ NOT_OPTIMIZED
-||doc--bridge--trz-cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||doc--ledgre--app--en-us.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -18084,7 +18052,11 @@
 !+ NOT_OPTIMIZED
 ||docs-exodus-home-cdn.github.io^$all
 !+ NOT_OPTIMIZED
+||docs-exodus-web-faq.github.io^$all
+!+ NOT_OPTIMIZED
 ||docs-io-trezor-cdn.webflow.io^$all
+!+ NOT_OPTIMIZED
+||docs-learn-trzore.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||docs-ledgar-io.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -18426,6 +18398,8 @@
 !+ NOT_OPTIMIZED
 ||dpd-polland.dreamhosters.com^$all
 !+ NOT_OPTIMIZED
+||dpd.globkurier.pro^$all
+!+ NOT_OPTIMIZED
 ||dpnstudyinfo.com^$all
 !+ NOT_OPTIMIZED
 ||dpomstlms.firebaseapp.com^$all
@@ -18512,11 +18486,7 @@
 !+ NOT_OPTIMIZED
 ||driveezmd.com-bde.vip^$all
 !+ NOT_OPTIMIZED
-||driveezmd.com-bhkn.win^$all
-!+ NOT_OPTIMIZED
 ||driveezmd.com-brdhb.vip^$all
-!+ NOT_OPTIMIZED
-||driveezmd.com-brtdw.vip^$all
 !+ NOT_OPTIMIZED
 ||driveezmd.com-bsam.win^$all
 !+ NOT_OPTIMIZED
@@ -18562,8 +18532,6 @@
 !+ NOT_OPTIMIZED
 ||driveezmd.com-ezdg.vip^$all
 !+ NOT_OPTIMIZED
-||driveezmd.com-ezdj.vip^$all
-!+ NOT_OPTIMIZED
 ||driveezmd.com-ezdl.vip^$all
 !+ NOT_OPTIMIZED
 ||driveezmd.com-ezdp.vip^$all
@@ -18589,8 +18557,6 @@
 ||driveezmd.com-ezlik.vip^$all
 !+ NOT_OPTIMIZED
 ||driveezmd.com-ezlil.vip^$all
-!+ NOT_OPTIMIZED
-||driveezmd.com-ezlio.vip^$all
 !+ NOT_OPTIMIZED
 ||driveezmd.com-ezlip.vip^$all
 !+ NOT_OPTIMIZED
@@ -18670,15 +18636,9 @@
 !+ NOT_OPTIMIZED
 ||driveezmd.com-okjhf.vip^$all
 !+ NOT_OPTIMIZED
-||driveezmd.com-ongfi.vip^$all
-!+ NOT_OPTIMIZED
-||driveezmd.com-osfv.vip^$all
-!+ NOT_OPTIMIZED
 ||driveezmd.com-oynp.win^$all
 !+ NOT_OPTIMIZED
 ||driveezmd.com-pfro.win^$all
-!+ NOT_OPTIMIZED
-||driveezmd.com-pjlr.win^$all
 !+ NOT_OPTIMIZED
 ||driveezmd.com-pkfe.vip^$all
 !+ NOT_OPTIMIZED
@@ -18693,8 +18653,6 @@
 ||driveezmd.com-rcnh.win^$all
 !+ NOT_OPTIMIZED
 ||driveezmd.com-reap.win^$all
-!+ NOT_OPTIMIZED
-||driveezmd.com-rfgc.win^$all
 !+ NOT_OPTIMIZED
 ||driveezmd.com-rgol.win^$all
 !+ NOT_OPTIMIZED
@@ -18746,11 +18704,7 @@
 !+ NOT_OPTIMIZED
 ||driveezmd.com-tollbilljhm.xin^$all
 !+ NOT_OPTIMIZED
-||driveezmd.com-tolsl.top^$all
-!+ NOT_OPTIMIZED
 ||driveezmd.com-tolso.top^$all
-!+ NOT_OPTIMIZED
-||driveezmd.com-tolwa.top^$all
 !+ NOT_OPTIMIZED
 ||driveezmd.com-trbs.win^$all
 !+ NOT_OPTIMIZED
@@ -18814,8 +18768,6 @@
 !+ NOT_OPTIMIZED
 ||driveezmd.com-zqlp.win^$all
 !+ NOT_OPTIMIZED
-||driveezmd.com-zsdtr.vip^$all
-!+ NOT_OPTIMIZED
 ||driveezmd.com-zyni.win^$all
 !+ NOT_OPTIMIZED
 ||driveks.com-paya.win^$all
@@ -18870,10 +18822,6 @@
 !+ NOT_OPTIMIZED
 ||driveky.gov-ipa.vip^$all
 !+ NOT_OPTIMIZED
-||driveky.gov-iuu.com^$all
-!+ NOT_OPTIMIZED
-||driveky.gov-jmy.com^$all
-!+ NOT_OPTIMIZED
 ||driveky.gov-mfc.com^$all
 !+ NOT_OPTIMIZED
 ||driveky.gov-oim.com^$all
@@ -18915,6 +18863,8 @@
 ||dropper-refactor-staging.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||dropper-refactor-staging.web.app^$all
+!+ NOT_OPTIMIZED
+||droptaxionline.in^$all
 !+ NOT_OPTIMIZED
 ||drpeneurope.com^$all
 !+ NOT_OPTIMIZED
@@ -19004,25 +18954,17 @@
 !+ NOT_OPTIMIZED
 ||dubaipolice.govaa.live^$all
 !+ NOT_OPTIMIZED
-||dubaipolice.govae.live^$all
-!+ NOT_OPTIMIZED
 ||dubaipolice.govir.life^$all
 !+ NOT_OPTIMIZED
 ||dubaipolice.govis.life^$all
-!+ NOT_OPTIMIZED
-||dubaipolice.goviw.life^$all
 !+ NOT_OPTIMIZED
 ||dubaipolice.govnu.live^$all
 !+ NOT_OPTIMIZED
 ||dubaipolice.govnx.live^$all
 !+ NOT_OPTIMIZED
-||dubaipolice.govon.life^$all
-!+ NOT_OPTIMIZED
 ||dubaipolice.govrs.live^$all
 !+ NOT_OPTIMIZED
 ||dubaipolice.govta.live^$all
-!+ NOT_OPTIMIZED
-||dubaipolice.govts.live^$all
 !+ NOT_OPTIMIZED
 ||dubaipolice.govui.live^$all
 !+ NOT_OPTIMIZED
@@ -19208,8 +19150,6 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-creditzr.icu^$all
 !+ NOT_OPTIMIZED
-||e-zpass.com-creditzt.icu^$all
-!+ NOT_OPTIMIZED
 ||e-zpass.com-creditzu.icu^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-creditzx.icu^$all
@@ -19219,8 +19159,6 @@
 ||e-zpass.com-douaxr.top^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-dshq.top^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-dska.top^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-dsks.top^$all
 !+ NOT_OPTIMIZED
@@ -19420,6 +19358,8 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-etcki.win^$all
 !+ NOT_OPTIMIZED
+||e-zpass.com-etckj.win^$all
+!+ NOT_OPTIMIZED
 ||e-zpass.com-etclam.win^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-etcli.xin^$all
@@ -19439,8 +19379,6 @@
 ||e-zpass.com-etclzb.win^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-etclzi.win^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-etclzk.win^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-etclzw.win^$all
 !+ NOT_OPTIMIZED
@@ -19515,8 +19453,6 @@
 ||e-zpass.com-etcqefm.vip^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-etcqefq.vip^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-etcqegn.vip^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-etcqg.win^$all
 !+ NOT_OPTIMIZED
@@ -19593,8 +19529,6 @@
 ||e-zpass.com-etctuio.vip^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-etctye.vip^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-etctyios.cc^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-etcua.win^$all
 !+ NOT_OPTIMIZED
@@ -19678,8 +19612,6 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-etcxdert.cc^$all
 !+ NOT_OPTIMIZED
-||e-zpass.com-etcxg.win^$all
-!+ NOT_OPTIMIZED
 ||e-zpass.com-etcxhf.vip^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-etcxqf.vip^$all
@@ -19760,15 +19692,11 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-frcq.world^$all
 !+ NOT_OPTIMIZED
-||e-zpass.com-fwvw.xin^$all
-!+ NOT_OPTIMIZED
 ||e-zpass.com-gmai.xin^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-gza.win^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-gzc.win^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-gzm.win^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-gzo.win^$all
 !+ NOT_OPTIMIZED
@@ -19779,8 +19707,6 @@
 ||e-zpass.com-gzy.win^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-gzz.win^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-hef.xin^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-iapo.world^$all
 !+ NOT_OPTIMIZED
@@ -19802,15 +19728,11 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-kwj.xin^$all
 !+ NOT_OPTIMIZED
-||e-zpass.com-lnvoicesta.world^$all
-!+ NOT_OPTIMIZED
 ||e-zpass.com-lnvoiceste.world^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-lnvoicestr.world^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-lor.xin^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-ltn.xin^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-mxj.xin^$all
 !+ NOT_OPTIMIZED
@@ -19974,8 +19896,6 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tollbillgdx.world^$all
 !+ NOT_OPTIMIZED
-||e-zpass.com-tollbillgdz.world^$all
-!+ NOT_OPTIMIZED
 ||e-zpass.com-tollbillhoi.cc^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tollbillias.cc^$all
@@ -20044,8 +19964,6 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tollbilltew.cc^$all
 !+ NOT_OPTIMIZED
-||e-zpass.com-tollbilltki.cc^$all
-!+ NOT_OPTIMIZED
 ||e-zpass.com-tollbilltoh.cc^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tollbilltrw.cc^$all
@@ -20082,8 +20000,6 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tolleiz.icu^$all
 !+ NOT_OPTIMIZED
-||e-zpass.com-tolliev.cc^$all
-!+ NOT_OPTIMIZED
 ||e-zpass.com-tollioa.cc^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tolliofa.icu^$all
@@ -20103,8 +20019,6 @@
 ||e-zpass.com-tollioqsd.world^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tollioqse.world^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-tollioqsf.world^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tollioqsi.world^$all
 !+ NOT_OPTIMIZED
@@ -20178,8 +20092,6 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tolliotyo.icu^$all
 !+ NOT_OPTIMIZED
-||e-zpass.com-tolliotyp.icu^$all
-!+ NOT_OPTIMIZED
 ||e-zpass.com-tolliotys.icu^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tollitn.cc^$all
@@ -20203,8 +20115,6 @@
 ||e-zpass.com-txcb.xin^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-txcc.xin^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-txcd.xyz^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-txce.world^$all
 !+ NOT_OPTIMIZED
@@ -20232,15 +20142,11 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tztet.win^$all
 !+ NOT_OPTIMIZED
-||e-zpass.com-tzxa.xyz^$all
-!+ NOT_OPTIMIZED
 ||e-zpass.com-tzxe.xyz^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tzxi.xyz^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-tzxu.xyz^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-tzxv.xyz^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-usagea.world^$all
 !+ NOT_OPTIMIZED
@@ -20296,10 +20202,6 @@
 !+ NOT_OPTIMIZED
 ||e-zpass.com-vipuf.xin^$all
 !+ NOT_OPTIMIZED
-||e-zpass.com-vipxg.xin^$all
-!+ NOT_OPTIMIZED
-||e-zpass.com-vipxu.xin^$all
-!+ NOT_OPTIMIZED
 ||e-zpass.com-vipxy.xin^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.com-xai.win^$all
@@ -20329,8 +20231,6 @@
 ||e-zpass.mn-tnhf.vip^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.org-ios.win^$all
-!+ NOT_OPTIMIZED
-||e-zpass.org-lmf.vip^$all
 !+ NOT_OPTIMIZED
 ||e-zpass.org-vso.vip^$all
 !+ NOT_OPTIMIZED
@@ -20644,8 +20544,6 @@
 !+ NOT_OPTIMIZED
 ||e-zpassny.com-ovbgf.win^$all
 !+ NOT_OPTIMIZED
-||e-zpassny.com-paymrntssi.win^$all
-!+ NOT_OPTIMIZED
 ||e-zpassny.com-pbvfe.win^$all
 !+ NOT_OPTIMIZED
 ||e-zpassny.com-pkjhb.win^$all
@@ -20661,8 +20559,6 @@
 ||e-zpassny.com-rechargekt.world^$all
 !+ NOT_OPTIMIZED
 ||e-zpassny.com-rechargekx.world^$all
-!+ NOT_OPTIMIZED
-||e-zpassny.com-rechargent.world^$all
 !+ NOT_OPTIMIZED
 ||e-zpassny.com-redvg.win^$all
 !+ NOT_OPTIMIZED
@@ -20738,8 +20634,6 @@
 !+ NOT_OPTIMIZED
 ||e-zpassny.com-tiznasts.world^$all
 !+ NOT_OPTIMIZED
-||e-zpassny.com-tiznasuz.world^$all
-!+ NOT_OPTIMIZED
 ||e-zpassny.com-tiznc.xin^$all
 !+ NOT_OPTIMIZED
 ||e-zpassny.com-tizndc.world^$all
@@ -20805,8 +20699,6 @@
 ||e-zpassny.com-tiznqmaf.world^$all
 !+ NOT_OPTIMIZED
 ||e-zpassny.com-tiznqmap.world^$all
-!+ NOT_OPTIMIZED
-||e-zpassny.com-tiznqmapd.world^$all
 !+ NOT_OPTIMIZED
 ||e-zpassny.com-tiznqmaqb.world^$all
 !+ NOT_OPTIMIZED
@@ -20966,8 +20858,6 @@
 !+ NOT_OPTIMIZED
 ||e-zpassny.com-tollbillmuj.xin^$all
 !+ NOT_OPTIMIZED
-||e-zpassny.com-tollbillmuz.xin^$all
-!+ NOT_OPTIMIZED
 ||e-zpassny.com-tollbillrcof.world^$all
 !+ NOT_OPTIMIZED
 ||e-zpassny.com-tollbillriand.world^$all
@@ -21094,13 +20984,9 @@
 !+ NOT_OPTIMIZED
 ||e-zpassny.org-hctrepz.win^$all
 !+ NOT_OPTIMIZED
-||e-zpassny.org-hctruyy.win^$all
-!+ NOT_OPTIMIZED
 ||e-zpassny.org-nqmi.win^$all
 !+ NOT_OPTIMIZED
 ||e-zpassny.org-rcnd.win^$all
-!+ NOT_OPTIMIZED
-||e-zpassny.uetik.xin^$all
 !+ NOT_OPTIMIZED
 ||e-zpassny.xom-dsf.top^$all
 !+ NOT_OPTIMIZED
@@ -21784,8 +21670,6 @@
 !+ NOT_OPTIMIZED
 ||email-mweb-za1.weebly.com^$all
 !+ NOT_OPTIMIZED
-||email-providerphotoimagery71.weebly.com^$all
-!+ NOT_OPTIMIZED
 ||email-signature-kefi.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||email-signature-kefi.web.app^$all
@@ -21936,8 +21820,6 @@
 !+ NOT_OPTIMIZED
 ||en-en-trezorlogan.webflow.io^$all
 !+ NOT_OPTIMIZED
-||en-exodus-auth.github.io^$all
-!+ NOT_OPTIMIZED
 ||en-io-trezor-docs.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||en-ledger-com-start.webflow.io^$all
@@ -21947,6 +21829,8 @@
 ||en-ledgerloggin-docs.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||en-ledgerstart.webflow.io^$all
+!+ NOT_OPTIMIZED
+||en-logon-sso--ttrzor.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||en-start-coms-ledger.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -21977,6 +21861,8 @@
 ||enbolivia.com^$all
 !+ NOT_OPTIMIZED
 ||encinterativa.com.br^$all
+!+ NOT_OPTIMIZED
+||encontrar.lat-me.com^$all
 !+ NOT_OPTIMIZED
 ||encouraging-snowy-birch.glitch.me^$all
 !+ NOT_OPTIMIZED
@@ -22198,8 +22084,6 @@
 !+ NOT_OPTIMIZED
 ||erp.chpaltd.com^$all
 !+ NOT_OPTIMIZED
-||erp.printouch.biz^$all
-!+ NOT_OPTIMIZED
 ||ersag.info.tr^$all
 !+ NOT_OPTIMIZED
 ||ersenwe-43257.firebaseapp.com^$all
@@ -22251,8 +22135,6 @@
 ||esmailwebxfinitycomcast.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||esmce.nrru.ac.th^$all
-!+ NOT_OPTIMIZED
-||esmeraldaamiga.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||esome-oradoe-prazon.vercel.app^$all
 !+ NOT_OPTIMIZED
@@ -22356,8 +22238,6 @@
 !+ NOT_OPTIMIZED
 ||etcaccu.cfd^$all
 !+ NOT_OPTIMIZED
-||etcacf.top^$all
-!+ NOT_OPTIMIZED
 ||etcacf.xin^$all
 !+ NOT_OPTIMIZED
 ||etcadc.top^$all
@@ -22389,8 +22269,6 @@
 ||etcaii.one^$all
 !+ NOT_OPTIMIZED
 ||etcait.world^$all
-!+ NOT_OPTIMIZED
-||etcajg.top^$all
 !+ NOT_OPTIMIZED
 ||etcajk.top^$all
 !+ NOT_OPTIMIZED
@@ -22429,8 +22307,6 @@
 ||etcaud.xin^$all
 !+ NOT_OPTIMIZED
 ||etcaui.top^$all
-!+ NOT_OPTIMIZED
-||etcauy.xin^$all
 !+ NOT_OPTIMIZED
 ||etcavi.cc^$all
 !+ NOT_OPTIMIZED
@@ -22486,8 +22362,6 @@
 !+ NOT_OPTIMIZED
 ||etcdki.win^$all
 !+ NOT_OPTIMIZED
-||etcewg.win^$all
-!+ NOT_OPTIMIZED
 ||etcggf.world^$all
 !+ NOT_OPTIMIZED
 ||etcgkp.win^$all
@@ -22530,15 +22404,11 @@
 !+ NOT_OPTIMIZED
 ||etcnqchz.win^$all
 !+ NOT_OPTIMIZED
-||etcnqdq.win^$all
-!+ NOT_OPTIMIZED
 ||etcnqmw.top^$all
 !+ NOT_OPTIMIZED
 ||etcnqzw.win^$all
 !+ NOT_OPTIMIZED
 ||etcnv.win^$all
-!+ NOT_OPTIMIZED
-||etcnw.win^$all
 !+ NOT_OPTIMIZED
 ||etcoas.xin^$all
 !+ NOT_OPTIMIZED
@@ -22551,8 +22421,6 @@
 ||etcoik.xin^$all
 !+ NOT_OPTIMIZED
 ||etcokq.xin^$all
-!+ NOT_OPTIMIZED
-||etcoml.xin^$all
 !+ NOT_OPTIMIZED
 ||etcomy.xin^$all
 !+ NOT_OPTIMIZED
@@ -22567,8 +22435,6 @@
 ||etcosv.xin^$all
 !+ NOT_OPTIMIZED
 ||etcoug.xin^$all
-!+ NOT_OPTIMIZED
-||etcovk.xin^$all
 !+ NOT_OPTIMIZED
 ||etcowo.xin^$all
 !+ NOT_OPTIMIZED
@@ -22622,13 +22488,9 @@
 !+ NOT_OPTIMIZED
 ||etcwen.xin^$all
 !+ NOT_OPTIMIZED
-||etcxnv.win^$all
-!+ NOT_OPTIMIZED
 ||etcymo.win^$all
 !+ NOT_OPTIMIZED
 ||etcyqh.win^$all
-!+ NOT_OPTIMIZED
-||etcyra.xin^$all
 !+ NOT_OPTIMIZED
 ||etczb.win^$all
 !+ NOT_OPTIMIZED
@@ -22838,15 +22700,11 @@
 !+ NOT_OPTIMIZED
 ||evrimail.officialemailub.xin^$all
 !+ NOT_OPTIMIZED
-||evrimail.officialemailuf.xin^$all
-!+ NOT_OPTIMIZED
 ||evrimail.officialemailuq.xin^$all
 !+ NOT_OPTIMIZED
 ||evrimail.officialemailv.xin^$all
 !+ NOT_OPTIMIZED
 ||evrimail.officialemailvk.xin^$all
-!+ NOT_OPTIMIZED
-||evrimail.officialemailvl.xin^$all
 !+ NOT_OPTIMIZED
 ||evrimail.officialemailvp.xin^$all
 !+ NOT_OPTIMIZED
@@ -22937,8 +22795,6 @@
 ||evrimail.servicecenterotxh.xin^$all
 !+ NOT_OPTIMIZED
 ||evrimail.servicecenterve.xin^$all
-!+ NOT_OPTIMIZED
-||evrimail.servicecentervz.xin^$all
 !+ NOT_OPTIMIZED
 ||evrimail.servifefenterfbu.xin^$all
 !+ NOT_OPTIMIZED
@@ -23076,8 +22932,6 @@
 !+ NOT_OPTIMIZED
 ||expressllane-orgjvm.vip^$all
 !+ NOT_OPTIMIZED
-||expressllane-orgjwe.vip^$all
-!+ NOT_OPTIMIZED
 ||expressllane-orgkfn.vip^$all
 !+ NOT_OPTIMIZED
 ||expressllane-orgkwo.vip^$all
@@ -23118,8 +22972,6 @@
 !+ NOT_OPTIMIZED
 ||expressllane-orgvnd.vip^$all
 !+ NOT_OPTIMIZED
-||expressllane-orgvpn.vip^$all
-!+ NOT_OPTIMIZED
 ||expressllane-orgvtl.vip^$all
 !+ NOT_OPTIMIZED
 ||expressllane-orgxei.vip^$all
@@ -23150,15 +23002,11 @@
 !+ NOT_OPTIMIZED
 ||expresstoll.com-biah.win^$all
 !+ NOT_OPTIMIZED
-||expresstoll.com-bnhd.win^$all
-!+ NOT_OPTIMIZED
 ||expresstoll.com-buye.win^$all
 !+ NOT_OPTIMIZED
 ||expresstoll.com-cfmx.win^$all
 !+ NOT_OPTIMIZED
 ||expresstoll.com-cphs.win^$all
-!+ NOT_OPTIMIZED
-||expresstoll.com-cyha.win^$all
 !+ NOT_OPTIMIZED
 ||expresstoll.com-dxke.win^$all
 !+ NOT_OPTIMIZED
@@ -23185,8 +23033,6 @@
 ||expresstoll.com-jkxn.win^$all
 !+ NOT_OPTIMIZED
 ||expresstoll.com-jlupc.xin^$all
-!+ NOT_OPTIMIZED
-||expresstoll.com-jne.win^$all
 !+ NOT_OPTIMIZED
 ||expresstoll.com-kdj.xin^$all
 !+ NOT_OPTIMIZED
@@ -23268,8 +23114,6 @@
 !+ NOT_OPTIMIZED
 ||expresstoll.com-vezd.win^$all
 !+ NOT_OPTIMIZED
-||expresstoll.com-wor.xin^$all
-!+ NOT_OPTIMIZED
 ||expresstoll.com-xlhg.win^$all
 !+ NOT_OPTIMIZED
 ||expresstoll.com-xqis.win^$all
@@ -23333,8 +23177,6 @@
 ||ezdrivema.com-fso.win^$all
 !+ NOT_OPTIMIZED
 ||ezdrivema.com-hzz.win^$all
-!+ NOT_OPTIMIZED
-||ezdrivema.com-jrti.top^$all
 !+ NOT_OPTIMIZED
 ||ezdrivema.com-tickex.xin^$all
 !+ NOT_OPTIMIZED
@@ -23490,8 +23332,6 @@
 !+ NOT_OPTIMIZED
 ||ezpass.com-etcskk.win^$all
 !+ NOT_OPTIMIZED
-||ezpass.com-etcskm.win^$all
-!+ NOT_OPTIMIZED
 ||ezpass.com-etcsrp.xin^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-etcsrt.xin^$all
@@ -23503,8 +23343,6 @@
 ||ezpass.com-etctio.vip^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-etcuos.vip^$all
-!+ NOT_OPTIMIZED
-||ezpass.com-etcvui.vip^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-etcwi.win^$all
 !+ NOT_OPTIMIZED
@@ -23529,8 +23367,6 @@
 ||ezpass.com-euq.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-euw.win^$all
-!+ NOT_OPTIMIZED
-||ezpass.com-euy.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-evt.win^$all
 !+ NOT_OPTIMIZED
@@ -23688,8 +23524,6 @@
 !+ NOT_OPTIMIZED
 ||ezpass.com-ftf.win^$all
 !+ NOT_OPTIMIZED
-||ezpass.com-fuc.win^$all
-!+ NOT_OPTIMIZED
 ||ezpass.com-fumo.xin^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-fwr.win^$all
@@ -23697,8 +23531,6 @@
 ||ezpass.com-fyiv.vip^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-gagt.vip^$all
-!+ NOT_OPTIMIZED
-||ezpass.com-gfrk.xin^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-gjol.vip^$all
 !+ NOT_OPTIMIZED
@@ -23758,8 +23590,6 @@
 !+ NOT_OPTIMIZED
 ||ezpass.com-ivlx.vip^$all
 !+ NOT_OPTIMIZED
-||ezpass.com-ivm.win^$all
-!+ NOT_OPTIMIZED
 ||ezpass.com-ixs.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-iyp.win^$all
@@ -23771,8 +23601,6 @@
 ||ezpass.com-jfs.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-jhj.win^$all
-!+ NOT_OPTIMIZED
-||ezpass.com-jhv.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-jlge.top^$all
 !+ NOT_OPTIMIZED
@@ -23845,8 +23673,6 @@
 ||ezpass.com-nqy.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-ntd.win^$all
-!+ NOT_OPTIMIZED
-||ezpass.com-nvc.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-nwfx.xin^$all
 !+ NOT_OPTIMIZED
@@ -24050,8 +23876,6 @@
 !+ NOT_OPTIMIZED
 ||ezpass.com-ustollsi.vip^$all
 !+ NOT_OPTIMIZED
-||ezpass.com-ustollsi.xin^$all
-!+ NOT_OPTIMIZED
 ||ezpass.com-vkp.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-vvdv.vip^$all
@@ -24059,8 +23883,6 @@
 ||ezpass.com-vwkg.top^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-vyuc.vip^$all
-!+ NOT_OPTIMIZED
-||ezpass.com-wgf.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-wjt.win^$all
 !+ NOT_OPTIMIZED
@@ -24088,8 +23910,6 @@
 !+ NOT_OPTIMIZED
 ||ezpass.com-ywhj.xin^$all
 !+ NOT_OPTIMIZED
-||ezpass.com-zkvd.top^$all
-!+ NOT_OPTIMIZED
 ||ezpass.com-zlesh.xin^$all
 !+ NOT_OPTIMIZED
 ||ezpass.com-zlzlzla.xin^$all
@@ -24113,8 +23933,6 @@
 ||ezpass.org-etcrug.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.org-etcruh.win^$all
-!+ NOT_OPTIMIZED
-||ezpass.org-etcruj.win^$all
 !+ NOT_OPTIMIZED
 ||ezpass.org-etcruk.win^$all
 !+ NOT_OPTIMIZED
@@ -24180,17 +23998,11 @@
 !+ NOT_OPTIMIZED
 ||ezpassmd.com-tollbillmzi.xin^$all
 !+ NOT_OPTIMIZED
-||ezpassmn.com-etcvn.world^$all
-!+ NOT_OPTIMIZED
 ||ezpassmn.com-hwo.xin^$all
 !+ NOT_OPTIMIZED
 ||ezpassmn.com-iwdg.xin^$all
 !+ NOT_OPTIMIZED
 ||ezpassmn.com-servicekd.world^$all
-!+ NOT_OPTIMIZED
-||ezpassmn.com-serviceks.world^$all
-!+ NOT_OPTIMIZED
-||ezpassmn.com-sjkwa.xin^$all
 !+ NOT_OPTIMIZED
 ||ezpassmn.com-tollbillmah.xin^$all
 !+ NOT_OPTIMIZED
@@ -24400,8 +24212,6 @@
 !+ NOT_OPTIMIZED
 ||facetalkcent.weebly.com^$all
 !+ NOT_OPTIMIZED
-||facex-accounix1.dopix.site^$all
-!+ NOT_OPTIMIZED
 ||fact-chorus.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||fact01portroston.urest.org^$all
@@ -24470,6 +24280,8 @@
 !+ NOT_OPTIMIZED
 ||fanhuntersagency.com^$all
 !+ NOT_OPTIMIZED
+||fanikazbithwa13meakz323drk.cfolks.pl^$all
+!+ NOT_OPTIMIZED
 ||fantomwallet--join.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||faq--trezor--bridge.webflow.io^$all
@@ -24481,6 +24293,8 @@
 ||faq-exo-ds.github.io^$all
 !+ NOT_OPTIMIZED
 ||faq-exo-dus.github.io^$all
+!+ NOT_OPTIMIZED
+||faq-exodus-helps.github.io^$all
 !+ NOT_OPTIMIZED
 ||faq-phantom-wallet-sso.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -24528,8 +24342,6 @@
 !+ NOT_OPTIMIZED
 ||fastrack.com-servicehfa.world^$all
 !+ NOT_OPTIMIZED
-||fastrack.com-serviceing.world^$all
-!+ NOT_OPTIMIZED
 ||fastrack.com-serviceinr.world^$all
 !+ NOT_OPTIMIZED
 ||fastrack.com-serviceins.world^$all
@@ -24540,10 +24352,6 @@
 !+ NOT_OPTIMIZED
 ||fastrack.com-servicejcp.world^$all
 !+ NOT_OPTIMIZED
-||fastrack.com-servicenbj.world^$all
-!+ NOT_OPTIMIZED
-||fastrack.com-serviceobe.world^$all
-!+ NOT_OPTIMIZED
 ||fastrack.com-serviceqct.world^$all
 !+ NOT_OPTIMIZED
 ||fastrack.com-servicevhx.world^$all
@@ -24552,13 +24360,9 @@
 !+ NOT_OPTIMIZED
 ||fastrack.com-snrwo.top^$all
 !+ NOT_OPTIMIZED
-||fastrack.com-ylctb.top^$all
-!+ NOT_OPTIMIZED
 ||fastrack.com-zbcal.top^$all
 !+ NOT_OPTIMIZED
 ||fastrak.com-dedj.xin^$all
-!+ NOT_OPTIMIZED
-||fastrak.com-glph.xin^$all
 !+ NOT_OPTIMIZED
 ||fastrak.com-hsna.icu^$all
 !+ NOT_OPTIMIZED
@@ -24601,8 +24405,6 @@
 ||fastrak.org-etcmo.vip^$all
 !+ NOT_OPTIMIZED
 ||fastrak.org-etcmp.vip^$all
-!+ NOT_OPTIMIZED
-||fastrak.org-etcms.vip^$all
 !+ NOT_OPTIMIZED
 ||fastrak.org-etcmv.win^$all
 !+ NOT_OPTIMIZED
@@ -24761,8 +24563,6 @@
 ||fedex.com-dbno.xin^$all
 !+ NOT_OPTIMIZED
 ||fedex.com-dnt.top^$all
-!+ NOT_OPTIMIZED
-||fedex.com-faez.xin^$all
 !+ NOT_OPTIMIZED
 ||fedex.com-jquh.xin^$all
 !+ NOT_OPTIMIZED
@@ -25172,8 +24972,6 @@
 !+ NOT_OPTIMIZED
 ||firstsouthernmvn.weebly.com^$all
 !+ NOT_OPTIMIZED
-||firstunioncooperate.com^$all
-!+ NOT_OPTIMIZED
 ||firstwavebank.net^$all
 !+ NOT_OPTIMIZED
 ||fisafe-maroc.com^$all
@@ -25240,11 +25038,7 @@
 !+ NOT_OPTIMIZED
 ||fl.sunpascbr.top^$all
 !+ NOT_OPTIMIZED
-||fl.sunpascbs.top^$all
-!+ NOT_OPTIMIZED
 ||fl.sunpascbt.top^$all
-!+ NOT_OPTIMIZED
-||fl.sunpascby.top^$all
 !+ NOT_OPTIMIZED
 ||fl.sunpascfa.top^$all
 !+ NOT_OPTIMIZED
@@ -25344,8 +25138,6 @@
 !+ NOT_OPTIMIZED
 ||fl.sunpashxa.top^$all
 !+ NOT_OPTIMIZED
-||fl.sunpashxi.top^$all
-!+ NOT_OPTIMIZED
 ||fl.sunpashxo.top^$all
 !+ NOT_OPTIMIZED
 ||fl.sunpashxt.top^$all
@@ -25402,6 +25194,8 @@
 !+ NOT_OPTIMIZED
 ||flight-deals.lifemiles.com^$all
 !+ NOT_OPTIMIZED
+||flink.is^$all
+!+ NOT_OPTIMIZED
 ||flintstone.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||flipbtinternetbroadbandservices.weebly.com^$all
@@ -25427,6 +25221,8 @@
 ||florentine-lateral-spear.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||flourishbanks.com^$all
+!+ NOT_OPTIMIZED
+||flowbrightx.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||flowcv.me^$all
 !+ NOT_OPTIMIZED
@@ -26038,6 +25834,8 @@
 !+ NOT_OPTIMIZED
 ||fuisryajsdtuoi-oe68w57q46we57d6io.teemill.com^$all
 !+ NOT_OPTIMIZED
+||fullaski.com^$all
+!+ NOT_OPTIMIZED
 ||fulltermsservicefr.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||fulltermsservicefr.web.app^$all
@@ -26064,7 +25862,7 @@
 !+ NOT_OPTIMIZED
 ||future-mouse-small.on-fleek.app^$all
 !+ NOT_OPTIMIZED
-||futuristic-verbena-position.glitch.me^$all
+||futurethink.co.za^$all
 !+ NOT_OPTIMIZED
 ||fuyhjif90evlpjd0ef.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -26077,6 +25875,8 @@
 ||fwefbwefewfew.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||fwgwz4.webwave.dev^$all
+!+ NOT_OPTIMIZED
+||fxdcgnjhbykunl.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||fxtkbcbw.top^$all
 !+ NOT_OPTIMIZED
@@ -26298,6 +26098,8 @@
 !+ NOT_OPTIMIZED
 ||gdvdfgycfhfd.weebly.com^$all
 !+ NOT_OPTIMIZED
+||ge64fwbrgdwb6dgwg5veqdg6.dyndns.org^$all
+!+ NOT_OPTIMIZED
 ||geamini-looggoiinn.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||geaminiileogin.webflow.io^$all
@@ -26309,8 +26111,6 @@
 ||gecelectrical.com.au^$all
 !+ NOT_OPTIMIZED
 ||gedddev.weebly.com^$all
-!+ NOT_OPTIMIZED
-||gedeki-jejate.zeabur.app^$all
 !+ NOT_OPTIMIZED
 ||geek-nerd-server.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
@@ -26362,8 +26162,6 @@
 !+ NOT_OPTIMIZED
 ||gemini_xx_login4.godaddysites.com^$all
 !+ NOT_OPTIMIZED
-||geminialoginq.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||geminicomloggin.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||geminiimxlogin.godaddysites.com^$all
@@ -26385,8 +26183,6 @@
 ||gencatgeneralitatdecatalunya.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||gencatsupporthelpdeskadministradordept.weebly.com^$all
-!+ NOT_OPTIMIZED
-||genera.solicitud-onlineclientes.site^$all
 !+ NOT_OPTIMIZED
 ||general-positive-farm.glitch.me^$all
 !+ NOT_OPTIMIZED
@@ -26437,6 +26233,8 @@
 ||gertiopmertindsrer.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||gertrainersetiresetmainnowsert.weebly.com^$all
+!+ NOT_OPTIMIZED
+||gessojfa.com.br^$all
 !+ NOT_OPTIMIZED
 ||gestion-suivi-family.com^$all
 !+ NOT_OPTIMIZED
@@ -26616,8 +26414,6 @@
 !+ NOT_OPTIMIZED
 ||getipass.com-iukh.win^$all
 !+ NOT_OPTIMIZED
-||getipass.com-iuyt.win^$all
-!+ NOT_OPTIMIZED
 ||getipass.com-izpc.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-jhbv.win^$all
@@ -26668,8 +26464,6 @@
 !+ NOT_OPTIMIZED
 ||getipass.com-mwic.win^$all
 !+ NOT_OPTIMIZED
-||getipass.com-myuh.vip^$all
-!+ NOT_OPTIMIZED
 ||getipass.com-nfa.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-ngdrd.vip^$all
@@ -26678,15 +26472,11 @@
 !+ NOT_OPTIMIZED
 ||getipass.com-nhtf.win^$all
 !+ NOT_OPTIMIZED
-||getipass.com-nhzg.win^$all
-!+ NOT_OPTIMIZED
 ||getipass.com-niqxo.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-ogvf.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-ohwv.win^$all
-!+ NOT_OPTIMIZED
-||getipass.com-oiwf.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-okhf.win^$all
 !+ NOT_OPTIMIZED
@@ -26757,8 +26547,6 @@
 ||getipass.com-rfbm.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-rfhg.win^$all
-!+ NOT_OPTIMIZED
-||getipass.com-rfhu.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-rfnh.win^$all
 !+ NOT_OPTIMIZED
@@ -26840,15 +26628,9 @@
 !+ NOT_OPTIMIZED
 ||getipass.com-tnqs.win^$all
 !+ NOT_OPTIMIZED
-||getipass.com-trmv.win^$all
-!+ NOT_OPTIMIZED
-||getipass.com-tsbx.win^$all
-!+ NOT_OPTIMIZED
 ||getipass.com-tusb.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-tydat.win^$all
-!+ NOT_OPTIMIZED
-||getipass.com-ufdx.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-ufsv.win^$all
 !+ NOT_OPTIMIZED
@@ -26951,8 +26733,6 @@
 ||getipass.com-ydxo.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-ygcd.win^$all
-!+ NOT_OPTIMIZED
-||getipass.com-ygdc.win^$all
 !+ NOT_OPTIMIZED
 ||getipass.com-yhds.win^$all
 !+ NOT_OPTIMIZED
@@ -27148,6 +26928,8 @@
 !+ NOT_OPTIMIZED
 ||gikgf43.weebly.com^$all
 !+ NOT_OPTIMIZED
+||gilded-aquatic-shear.glitch.me^$all
+!+ NOT_OPTIMIZED
 ||gimeninilogup.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||gimnelogun.webflow.io^$all
@@ -27211,6 +26993,8 @@
 ||gloucestercandleco.com^$all
 !+ NOT_OPTIMIZED
 ||glow-shrub-wrist.glitch.me^$all
+!+ NOT_OPTIMIZED
+||glowinyoga.com^$all
 !+ NOT_OPTIMIZED
 ||glth.ru^$all
 !+ NOT_OPTIMIZED
@@ -27456,6 +27240,8 @@
 !+ NOT_OPTIMIZED
 ||go-to-links.web.app^$all
 !+ NOT_OPTIMIZED
+||go-trezo.github.io^$all
+!+ NOT_OPTIMIZED
 ||go.fliplink.me^$all
 !+ NOT_OPTIMIZED
 ||go.ly^$all
@@ -27497,8 +27283,6 @@
 ||gold433256.studio.site^$all
 !+ NOT_OPTIMIZED
 ||golden-west-webmail.weeblysite.com^$all
-!+ NOT_OPTIMIZED
-||golden1cureset.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||goldenalaska.biz^$all
 !+ NOT_OPTIMIZED
@@ -27553,6 +27337,8 @@
 ||goodtogo.com.etc-tools.xin^$all
 !+ NOT_OPTIMIZED
 ||goodymj.com^$all
+!+ NOT_OPTIMIZED
+||goog.showmyhomes.com^$all
 !+ NOT_OPTIMIZED
 ||google-106456.weeblysite.com^$all
 !+ NOT_OPTIMIZED
@@ -27773,8 +27559,6 @@
 ||group-private-gay-fun.7s.com.tr^$all
 !+ NOT_OPTIMIZED
 ||groupe-connecte.fr^$all
-!+ NOT_OPTIMIZED
-||groupewhatsapp.10vendor.com^$all
 !+ NOT_OPTIMIZED
 ||groupmgmt.ferreracademy.com^$all
 !+ NOT_OPTIMIZED
@@ -28058,6 +27842,8 @@
 !+ NOT_OPTIMIZED
 ||halisolutions.co.uk^$all
 !+ NOT_OPTIMIZED
+||hambolgrgpkatiol.dynv6.net^$all
+!+ NOT_OPTIMIZED
 ||hampg.cn^$all
 !+ NOT_OPTIMIZED
 ||hancosbsndkdkekkhancosbsndkdkekkdendkndndkk.ttrbru.eu.org^$all
@@ -28192,11 +27978,11 @@
 !+ NOT_OPTIMIZED
 ||hctra.org-yby.xin^$all
 !+ NOT_OPTIMIZED
-||hctra.org-yey.xin^$all
-!+ NOT_OPTIMIZED
 ||hcyyk.cn^$all
 !+ NOT_OPTIMIZED
 ||hd3ourtimeprivatephotos.weebly.com^$all
+!+ NOT_OPTIMIZED
+||hdalog.com.br^$all
 !+ NOT_OPTIMIZED
 ||hdc.lfyabbhdluzu.es^$all
 !+ NOT_OPTIMIZED
@@ -29142,6 +28928,8 @@
 !+ NOT_OPTIMIZED
 ||hjuijkgh.weebly.com^$all
 !+ NOT_OPTIMIZED
+||hjuui.pages.dev^$all
+!+ NOT_OPTIMIZED
 ||hjvhhhjfg.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||hjxc.nemzondde.com^$all
@@ -29648,8 +29436,6 @@
 !+ NOT_OPTIMIZED
 ||home-exods-docs.github.io^$all
 !+ NOT_OPTIMIZED
-||home-exodus-web-app.github.io^$all
-!+ NOT_OPTIMIZED
 ||home-exodus.github.io^$all
 !+ NOT_OPTIMIZED
 ||home-exodusweb-auth.github.io^$all
@@ -29708,6 +29494,8 @@
 !+ NOT_OPTIMIZED
 ||homebtlogiin.weebly.com^$all
 !+ NOT_OPTIMIZED
+||homedecorspace.com^$all
+!+ NOT_OPTIMIZED
 ||homegaliciaonline.odoo.com^$all
 !+ NOT_OPTIMIZED
 ||homegencatcat.weebly.com^$all
@@ -29761,8 +29549,6 @@
 ||hoottlinka.link^$all
 !+ NOT_OPTIMIZED
 ||hopiewyioeo.weebly.com^$all
-!+ NOT_OPTIMIZED
-||horde-com.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||hordeweb.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -29908,6 +29694,8 @@
 !+ NOT_OPTIMIZED
 ||hrccu.weebly.com^$all
 !+ NOT_OPTIMIZED
+||hrhdb.cn^$all
+!+ NOT_OPTIMIZED
 ||hrnewsend.com^$all
 !+ NOT_OPTIMIZED
 ||hrsyx-fqaaa-aaaag-aavja-cai.raw.ic0.app^$all
@@ -29917,8 +29705,6 @@
 ||hruuwvhemhngg.web.app^$all
 !+ NOT_OPTIMIZED
 ||hrworkevereday.com^$all
-!+ NOT_OPTIMIZED
-||hrxctiua.life^$all
 !+ NOT_OPTIMIZED
 ||hs-bc-onlinepayee-authorization.com^$all
 !+ NOT_OPTIMIZED
@@ -30208,6 +29994,8 @@
 !+ NOT_OPTIMIZED
 ||ibasr23.com^$all
 !+ NOT_OPTIMIZED
+||ibbsyd.cn^$all
+!+ NOT_OPTIMIZED
 ||ibiza.work^$all
 !+ NOT_OPTIMIZED
 ||ibmc-up3.weebly.com^$all
@@ -30386,6 +30174,10 @@
 !+ NOT_OPTIMIZED
 ||idirect-com.weebly.com^$all
 !+ NOT_OPTIMIZED
+||idm-log-telecom.firebaseapp.com^$all
+!+ NOT_OPTIMIZED
+||idm-log-telecom.web.app^$all
+!+ NOT_OPTIMIZED
 ||idm.in^$all
 !+ NOT_OPTIMIZED
 ||idme-app01.surge.sh^$all
@@ -30397,6 +30189,8 @@
 ||idorangefr.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||idorangefr17.weebly.com^$all
+!+ NOT_OPTIMIZED
+||idoxcvg.sufydely.com^$all
 !+ NOT_OPTIMIZED
 ||idp-idm.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -30539,8 +30333,6 @@
 ||ikjhgjhgcvb.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||ikjmrfbn.cc^$all
-!+ NOT_OPTIMIZED
-||ikloprfv.cc^$all
 !+ NOT_OPTIMIZED
 ||iklorfbn.cc^$all
 !+ NOT_OPTIMIZED
@@ -30880,6 +30672,8 @@
 !+ NOT_OPTIMIZED
 ||ingbanksecure.com^$all
 !+ NOT_OPTIMIZED
+||ingcommercialbanking.com^$all
+!+ NOT_OPTIMIZED
 ||inglesalcaladehenares.com^$all
 !+ NOT_OPTIMIZED
 ||ingreesar-aqui23.webcindario.com^$all
@@ -30958,6 +30752,8 @@
 !+ NOT_OPTIMIZED
 ||inposdom.gob-postau.live^$all
 !+ NOT_OPTIMIZED
+||inposdom.gob-postia.live^$all
+!+ NOT_OPTIMIZED
 ||inposdom.gob-postua.live^$all
 !+ NOT_OPTIMIZED
 ||inposdom.gob-postun.live^$all
@@ -30973,6 +30769,8 @@
 ||inposdom.gob-postvx.live^$all
 !+ NOT_OPTIMIZED
 ||inposdom.gob-postvz.live^$all
+!+ NOT_OPTIMIZED
+||inposdom.gob-postwx.live^$all
 !+ NOT_OPTIMIZED
 ||inposdom.gob-postxa.live^$all
 !+ NOT_OPTIMIZED
@@ -31148,6 +30946,8 @@
 !+ NOT_OPTIMIZED
 ||interieursite.be^$all
 !+ NOT_OPTIMIZED
+||intermedeks.com^$all
+!+ NOT_OPTIMIZED
 ||internacionalnow.webcindario.com^$all
 !+ NOT_OPTIMIZED
 ||internallipiass.weebly.com^$all
@@ -31235,8 +31035,6 @@
 ||inyfyagricoles.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||inzizi.com^$all
-!+ NOT_OPTIMIZED
-||inzt.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||io--strt--trexuur.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -31345,6 +31143,8 @@
 ||ipv6.back2backinstall.co.nz^$all
 !+ NOT_OPTIMIZED
 ||iqegv0.webwave.dev^$all
+!+ NOT_OPTIMIZED
+||iqzlv.vantechdns.net^$all
 !+ NOT_OPTIMIZED
 ||irc.ca-illeetvilaine.oktave.co^$all
 !+ NOT_OPTIMIZED
@@ -32160,6 +31960,8 @@
 !+ NOT_OPTIMIZED
 ||jsnectrese.web.app^$all
 !+ NOT_OPTIMIZED
+||jtepres.top^$all
+!+ NOT_OPTIMIZED
 ||jtty.formstack.com^$all
 !+ NOT_OPTIMIZED
 ||ju63bendvlyy-pages-dev.translate.goog^$all
@@ -32340,8 +32142,6 @@
 !+ NOT_OPTIMIZED
 ||juno-webmail-101647.weeblysite.com^$all
 !+ NOT_OPTIMIZED
-||juno-webmail-102929.weeblysite.com^$all
-!+ NOT_OPTIMIZED
 ||juno-webmail-105302.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||juno-webmail-106120.square.site^$all
@@ -32431,8 +32231,6 @@
 ||jyotsacademy.co^$all
 !+ NOT_OPTIMIZED
 ||k.likkn-j.online^$all
-!+ NOT_OPTIMIZED
-||k.lliknj.online^$all
 !+ NOT_OPTIMIZED
 ||k4nc05mzllltq2mweyywzkndc3zabgaaaaaadlg5b.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -32792,6 +32590,8 @@
 !+ NOT_OPTIMIZED
 ||kkucoin-supportnumbercanada.webflow.io^$all
 !+ NOT_OPTIMIZED
+||kkvanaikfbsba.dynv6.net^$all
+!+ NOT_OPTIMIZED
 ||klantendienstics.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||klantendienstics.web.app^$all
@@ -32906,6 +32706,8 @@
 !+ NOT_OPTIMIZED
 ||konto-onet-poczta-100888-109226.square.site^$all
 !+ NOT_OPTIMIZED
+||koohsar-construction.com^$all
+!+ NOT_OPTIMIZED
 ||kooinslogon.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||kookoinlogien.webflow.io^$all
@@ -33015,6 +32817,8 @@
 ||kredikartsparkass234.web.app^$all
 !+ NOT_OPTIMIZED
 ||kreelo098.weebly.com^$all
+!+ NOT_OPTIMIZED
+||kreonewaydroptaxi.in^$all
 !+ NOT_OPTIMIZED
 ||krikanloginusa.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -33246,8 +33050,6 @@
 !+ NOT_OPTIMIZED
 ||kuconlloginn.webflow.io^$all
 !+ NOT_OPTIMIZED
-||kuconlogxn.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||kucooienloeigin.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||kucooninlogons.webflow.io^$all
@@ -33394,8 +33196,6 @@
 !+ NOT_OPTIMIZED
 ||kundeonline.web.app^$all
 !+ NOT_OPTIMIZED
-||kuniuiocoinlgiun.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||kunquilinech.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||kuooinlogon.webflow.io^$all
@@ -33460,8 +33260,6 @@
 !+ NOT_OPTIMIZED
 ||kw-zajels.com^$all
 !+ NOT_OPTIMIZED
-||kwai.yyclub.work^$all
-!+ NOT_OPTIMIZED
 ||kwdbtrmww.web.app^$all
 !+ NOT_OPTIMIZED
 ||kwt-zajel.com^$all
@@ -33473,6 +33271,8 @@
 ||kycverifying.io^$all
 !+ NOT_OPTIMIZED
 ||kyte.bio^$all
+!+ NOT_OPTIMIZED
+||kytelink.com^$all
 !+ NOT_OPTIMIZED
 ||kytoconlognn.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -33506,7 +33306,11 @@
 !+ NOT_OPTIMIZED
 ||l1z4sn.webwave.dev^$all
 !+ NOT_OPTIMIZED
+||l551002.cc^$all
+!+ NOT_OPTIMIZED
 ||l5uco5r66.urest.org^$all
+!+ NOT_OPTIMIZED
+||l63365.com^$all
 !+ NOT_OPTIMIZED
 ||l6et5c.webwave.dev^$all
 !+ NOT_OPTIMIZED
@@ -33602,6 +33406,8 @@
 !+ NOT_OPTIMIZED
 ||lanternfish-marlin-9h5g.squarespace.com^$all
 !+ NOT_OPTIMIZED
+||laoekgm.com^$all
+!+ NOT_OPTIMIZED
 ||lapin-terrinouveau.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||lapin-terrinouveau.web.app^$all
@@ -33611,6 +33417,8 @@
 ||lapost0606.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||laposteportail.weebly.com^$all
+!+ NOT_OPTIMIZED
+||large-talented-pancake.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||large-tiger-thundering.on-fleek.app^$all
 !+ NOT_OPTIMIZED
@@ -33856,8 +33664,6 @@
 !+ NOT_OPTIMIZED
 ||learn-treezor-docs.github.io^$all
 !+ NOT_OPTIMIZED
-||learn-trezr--bridge.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||learn-trrezo-docs.github.io^$all
 !+ NOT_OPTIMIZED
 ||learn-tyrzor--org.gitbook.io^$all
@@ -33865,6 +33671,8 @@
 ||learn-violin-723a8.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||learn-violin-723a8.web.app^$all
+!+ NOT_OPTIMIZED
+||learned-frg.surge.sh^$all
 !+ NOT_OPTIMIZED
 ||learnio-trezbride.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -33973,8 +33781,6 @@
 ||ledger--secure--login.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||ledger--support--start-ledgerlve.webflow.io^$all
-!+ NOT_OPTIMIZED
-||ledger--web--start.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||ledger-cmuswtart.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -34468,11 +34274,15 @@
 !+ NOT_OPTIMIZED
 ||lhub.to^$all
 !+ NOT_OPTIMIZED
+||lhv-baaaa-promo1.com^$all
+!+ NOT_OPTIMIZED
 ||lhv-ee.bager.am^$all
 !+ NOT_OPTIMIZED
 ||lhv-oser2o.com^$all
 !+ NOT_OPTIMIZED
 ||lhv01sredsd.com^$all
+!+ NOT_OPTIMIZED
+||lhvlogin.tostdqypga.com^$all
 !+ NOT_OPTIMIZED
 ||liagerlive----logun.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -34556,8 +34366,6 @@
 !+ NOT_OPTIMIZED
 ||limonizza.de^$all
 !+ NOT_OPTIMIZED
-||linater.com^$all
-!+ NOT_OPTIMIZED
 ||line-e.xyz^$all
 !+ NOT_OPTIMIZED
 ||linea-davivienda.webcindario.com^$all
@@ -34591,8 +34399,6 @@
 ||link.heropost.io^$all
 !+ NOT_OPTIMIZED
 ||link.kemkes.go.id^$all
-!+ NOT_OPTIMIZED
-||link.sbstck.com^$all
 !+ NOT_OPTIMIZED
 ||link2.wpenginepowered.com^$all
 !+ NOT_OPTIMIZED
@@ -34631,8 +34437,6 @@
 ||links.truthsocial.com^$all
 !+ NOT_OPTIMIZED
 ||linkupaffix.pages.dev^$all
-!+ NOT_OPTIMIZED
-||linkzatt.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||linnenlaw.myportfolio.com^$all
 !+ NOT_OPTIMIZED
@@ -34726,9 +34530,13 @@
 !+ NOT_OPTIMIZED
 ||livngn.d5oam9vzqp5es.amplifyapp.com^$all
 !+ NOT_OPTIMIZED
+||livraison-consignation.com^$all
+!+ NOT_OPTIMIZED
 ||livraison-creneau.com^$all
 !+ NOT_OPTIMIZED
 ||livraison-cs.com^$all
+!+ NOT_OPTIMIZED
+||livraison-formulaire.com^$all
 !+ NOT_OPTIMIZED
 ||livraison-locker-colis.com^$all
 !+ NOT_OPTIMIZED
@@ -34789,6 +34597,8 @@
 ||llidguerlivewallett.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||llive-ledger-setup.webflow.io^$all
+!+ NOT_OPTIMIZED
+||llljq.jhffghcv.web.id^$all
 !+ NOT_OPTIMIZED
 ||lloginoutlookmaiil.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -34947,8 +34757,6 @@
 ||log-in-109996.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||log-in-itrustcapital-cnd.webflow.io^$all
-!+ NOT_OPTIMIZED
-||log-in-ndex-portal.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||log-in-to-webmail.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -35274,8 +35082,6 @@
 !+ NOT_OPTIMIZED
 ||logn-ttrezor.webflow.io^$all
 !+ NOT_OPTIMIZED
-||logn-web-ledgr.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||lognhdeygddatt.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||lognldger-live.webflow.io^$all
@@ -35405,6 +35211,8 @@
 ||lordgratiful.web.app^$all
 !+ NOT_OPTIMIZED
 ||lordpapi.com^$all
+!+ NOT_OPTIMIZED
+||lornecricketclub.com.au^$all
 !+ NOT_OPTIMIZED
 ||lorx.ucnam.icu^$all
 !+ NOT_OPTIMIZED
@@ -35566,8 +35374,6 @@
 !+ NOT_OPTIMIZED
 ||m--start-l-edger-outh-ss.webflow.io^$all
 !+ NOT_OPTIMIZED
-||m--start-leeddger-s-auth.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||m--start-leedger.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||m-app--kucion-cdn.webflow.io^$all
@@ -35577,8 +35383,6 @@
 ||m-app-start-ledger.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||m-auth-start-ledger-cdn.webflow.io^$all
-!+ NOT_OPTIMIZED
-||m-auth-trezzor.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||m-com-start-ledger-cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -36057,6 +35861,8 @@
 ||mail.cheepwebb.com^$all
 !+ NOT_OPTIMIZED
 ||mail.dgdggdgdhwwootlowlkk.ibx.lat^$all
+!+ NOT_OPTIMIZED
+||mail.dpd-parcel-delivery.104-248-25-136.cprapid.com^$all
 !+ NOT_OPTIMIZED
 ||mail.eficorpnewsletter.com^$all
 !+ NOT_OPTIMIZED
@@ -36668,8 +36474,6 @@
 !+ NOT_OPTIMIZED
 ||mb-idlk68wis.web.app^$all
 !+ NOT_OPTIMIZED
-||mb.yourdriverapp.com.br^$all
-!+ NOT_OPTIMIZED
 ||mb102.com^$all
 !+ NOT_OPTIMIZED
 ||mbarquitecto.cl^$all
@@ -36804,6 +36608,8 @@
 !+ NOT_OPTIMIZED
 ||meducaedupa.weebly.com^$all
 !+ NOT_OPTIMIZED
+||meekmeek.d2yyf7dk7x7kik.amplifyapp.com^$all
+!+ NOT_OPTIMIZED
 ||meeru-kanrisha.github.io^$all
 !+ NOT_OPTIMIZED
 ||meetaamassklogiin.webflow.io^$all
@@ -36905,6 +36711,8 @@
 ||membership-shaw.netsons.org^$all
 !+ NOT_OPTIMIZED
 ||membershipattinfo.weebly.com^$all
+!+ NOT_OPTIMIZED
+||memeairsdopclaim.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||memebridge-rpcfix.pages.dev^$all
 !+ NOT_OPTIMIZED
@@ -37438,8 +37246,6 @@
 !+ NOT_OPTIMIZED
 ||meteemasxklogin.webflow.io^$all
 !+ NOT_OPTIMIZED
-||metfkamsklogin.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||methamaskilogrs.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||methamskelogini.webflow.io^$all
@@ -37479,8 +37285,6 @@
 ||metro.com-jjj.win^$all
 !+ NOT_OPTIMIZED
 ||metro.com-jns.win^$all
-!+ NOT_OPTIMIZED
-||metro.com-kev.win^$all
 !+ NOT_OPTIMIZED
 ||metro.com-lgy.win^$all
 !+ NOT_OPTIMIZED
@@ -37602,8 +37406,6 @@
 !+ NOT_OPTIMIZED
 ||metroexpresslanes.net-mjbf.win^$all
 !+ NOT_OPTIMIZED
-||metroexpresslanes.net-mli.win^$all
-!+ NOT_OPTIMIZED
 ||metroexpresslanes.net-mlx.win^$all
 !+ NOT_OPTIMIZED
 ||metroexpresslanes.net-mug.win^$all
@@ -37662,8 +37464,6 @@
 !+ NOT_OPTIMIZED
 ||metroexpresslanes.net-sez.win^$all
 !+ NOT_OPTIMIZED
-||metroexpresslanes.net-smi.win^$all
-!+ NOT_OPTIMIZED
 ||metroexpresslanes.net-sov.win^$all
 !+ NOT_OPTIMIZED
 ||metroexpresslanes.net-sra.win^$all
@@ -37703,8 +37503,6 @@
 ||metroexpresslanes.net-ujgf.win^$all
 !+ NOT_OPTIMIZED
 ||metroexpresslanes.net-ujx.win^$all
-!+ NOT_OPTIMIZED
-||metroexpresslanes.net-uqo.win^$all
 !+ NOT_OPTIMIZED
 ||metroexpresslanes.net-usa.win^$all
 !+ NOT_OPTIMIZED
@@ -37767,8 +37565,6 @@
 ||metta-helps.start.page^$all
 !+ NOT_OPTIMIZED
 ||mettamaskexttension.webflow.io^$all
-!+ NOT_OPTIMIZED
-||mettamasksignin.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||mettamasskelougin.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -37876,8 +37672,6 @@
 !+ NOT_OPTIMIZED
 ||michigan.gov-etcbgf.vip^$all
 !+ NOT_OPTIMIZED
-||michigan.gov-etcbkp.vip^$all
-!+ NOT_OPTIMIZED
 ||michigan.gov-etccrj.vip^$all
 !+ NOT_OPTIMIZED
 ||michigan.gov-etccun.vip^$all
@@ -37951,6 +37745,8 @@
 ||microglaringnetworking--five-nine.repl.co^$all
 !+ NOT_OPTIMIZED
 ||micronicsolutions.com^$all
+!+ NOT_OPTIMIZED
+||microsft-8gn.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||microsoft-2023.webcindario.com^$all
 !+ NOT_OPTIMIZED
@@ -38316,8 +38112,6 @@
 !+ NOT_OPTIMIZED
 ||mndot.us-etcos.xin^$all
 !+ NOT_OPTIMIZED
-||mndot.us-etcph.xin^$all
-!+ NOT_OPTIMIZED
 ||mndot.us-etcrd.xin^$all
 !+ NOT_OPTIMIZED
 ||mndot.us-etctr.xin^$all
@@ -38563,6 +38357,8 @@
 ||mon-espaceclient-carrefour.web.app^$all
 !+ NOT_OPTIMIZED
 ||mon-mondialrelay-fr.com^$all
+!+ NOT_OPTIMIZED
+||mon-primevideo.com^$all
 !+ NOT_OPTIMIZED
 ||mon-suivi-mondial.fr^$all
 !+ NOT_OPTIMIZED
@@ -39048,6 +38844,8 @@
 !+ NOT_OPTIMIZED
 ||mufg.jp.shidsm.com^$all
 !+ NOT_OPTIMIZED
+||mufg.mlserver.jp^$all
+!+ NOT_OPTIMIZED
 ||mufs.top^$all
 !+ NOT_OPTIMIZED
 ||muhammedasfacknk.github.io^$all
@@ -39089,6 +38887,8 @@
 ||multiresolvewallet.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||multiresolvewallet.web.app^$all
+!+ NOT_OPTIMIZED
+||multisourcetechnical.com^$all
 !+ NOT_OPTIMIZED
 ||multiswiftchain.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
@@ -39175,6 +38975,8 @@
 ||mwtnewestmail105046.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||mwttn.weebly.com^$all
+!+ NOT_OPTIMIZED
+||mx2.htc.net^$all
 !+ NOT_OPTIMIZED
 ||mx3.royal-eng.ps^$all
 !+ NOT_OPTIMIZED
@@ -39281,6 +39083,8 @@
 ||my-ndax-connect-aauth.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||my-office-bt.weebly.com^$all
+!+ NOT_OPTIMIZED
+||my-onlinenavyfederal.sbs^$all
 !+ NOT_OPTIMIZED
 ||my-php-app-production-471c.up.railway.app^$all
 !+ NOT_OPTIMIZED
@@ -39445,6 +39249,8 @@
 ||my2020onlineupdatenotice.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||myaccount-108867.weeblysite.com^$all
+!+ NOT_OPTIMIZED
+||myaccount-renew2025.com^$all
 !+ NOT_OPTIMIZED
 ||myaccountsignup.net^$all
 !+ NOT_OPTIMIZED
@@ -39732,8 +39538,6 @@
 !+ NOT_OPTIMIZED
 ||mymicroofficebox.myportfolio.com^$all
 !+ NOT_OPTIMIZED
-||mymidwest-acc-sec.weebly.com^$all
-!+ NOT_OPTIMIZED
 ||mymobileapp-home.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||mymobileapp-home.web.app^$all
@@ -39906,11 +39710,7 @@
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-liuj.win^$all
 !+ NOT_OPTIMIZED
-||mypeachpass.com-liw.win^$all
-!+ NOT_OPTIMIZED
 ||mypeachpass.com-lnalr.vip^$all
-!+ NOT_OPTIMIZED
-||mypeachpass.com-lnfm.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-lrt.win^$all
 !+ NOT_OPTIMIZED
@@ -40006,8 +39806,6 @@
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-qchj.vip^$all
 !+ NOT_OPTIMIZED
-||mypeachpass.com-qdh.win^$all
-!+ NOT_OPTIMIZED
 ||mypeachpass.com-qhf.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-qhw.win^$all
@@ -40064,9 +39862,11 @@
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-tkg.win^$all
 !+ NOT_OPTIMIZED
+||mypeachpass.com-tqe.win^$all
+!+ NOT_OPTIMIZED
 ||mypeachpass.com-tqw.win^$all
 !+ NOT_OPTIMIZED
-||mypeachpass.com-ubp.win^$all
+||mypeachpass.com-ttxkj.vip^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-ufcb.win^$all
 !+ NOT_OPTIMIZED
@@ -40076,15 +39876,21 @@
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-uhgr.vip^$all
 !+ NOT_OPTIMIZED
+||mypeachpass.com-uhwq.win^$all
+!+ NOT_OPTIMIZED
 ||mypeachpass.com-ujhx.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-ujkh.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-uky.win^$all
 !+ NOT_OPTIMIZED
+||mypeachpass.com-umqn.win^$all
+!+ NOT_OPTIMIZED
 ||mypeachpass.com-usp.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-uygf.win^$all
+!+ NOT_OPTIMIZED
+||mypeachpass.com-uzias.vip^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-vdhu.win^$all
 !+ NOT_OPTIMIZED
@@ -40096,13 +39902,19 @@
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-vttsc.vip^$all
 !+ NOT_OPTIMIZED
+||mypeachpass.com-vxqe.win^$all
+!+ NOT_OPTIMIZED
 ||mypeachpass.com-vzcl.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-wjb.win^$all
 !+ NOT_OPTIMIZED
+||mypeachpass.com-wmv.win^$all
+!+ NOT_OPTIMIZED
 ||mypeachpass.com-wmxz.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-wngy.vip^$all
+!+ NOT_OPTIMIZED
+||mypeachpass.com-wqj.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-wqm.win^$all
 !+ NOT_OPTIMIZED
@@ -40112,6 +39924,8 @@
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-xfu.win^$all
 !+ NOT_OPTIMIZED
+||mypeachpass.com-xisja.vip^$all
+!+ NOT_OPTIMIZED
 ||mypeachpass.com-xjh.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-xlw.win^$all
@@ -40119,6 +39933,8 @@
 ||mypeachpass.com-xqb.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-xqwmy.xin^$all
+!+ NOT_OPTIMIZED
+||mypeachpass.com-xvp.win^$all
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-ydcb.win^$all
 !+ NOT_OPTIMIZED
@@ -40138,7 +39954,9 @@
 !+ NOT_OPTIMIZED
 ||mypeachpass.com-zhd.win^$all
 !+ NOT_OPTIMIZED
-||mypeachpass.org-xqdrsa.xin^$all
+||mypeachpass.com-zkkso.vip^$all
+!+ NOT_OPTIMIZED
+||mypeachpass.com-zup.win^$all
 !+ NOT_OPTIMIZED
 ||mypenn.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -40617,8 +40435,6 @@
 ||ncquickpass.com-vbut.win^$all
 !+ NOT_OPTIMIZED
 ||ncquickpass.com-veso.win^$all
-!+ NOT_OPTIMIZED
-||ncquickpass.com-vgfq.win^$all
 !+ NOT_OPTIMIZED
 ||ncquickpass.com-vjiy.win^$all
 !+ NOT_OPTIMIZED
@@ -41322,8 +41138,6 @@
 !+ NOT_OPTIMIZED
 ||nirniamdeomvzxoiadfxc.tilton15.workers.dev^$all
 !+ NOT_OPTIMIZED
-||nitco101840.weeblysite.com^$all
-!+ NOT_OPTIMIZED
 ||nithed.kbu.ac.th^$all
 !+ NOT_OPTIMIZED
 ||nitie-services.weebly.com^$all
@@ -41363,6 +41177,8 @@
 ||nl-template-bloemist-17316667085316.onepage.website^$all
 !+ NOT_OPTIMIZED
 ||nlaexpress.com.br^$all
+!+ NOT_OPTIMIZED
+||nljzj.vantechdns.net^$all
 !+ NOT_OPTIMIZED
 ||nlnvc.cn^$all
 !+ NOT_OPTIMIZED
@@ -41428,6 +41244,8 @@
 !+ NOT_OPTIMIZED
 ||node-resolver.web.app^$all
 !+ NOT_OPTIMIZED
+||nodeauthrectification.pages.dev^$all
+!+ NOT_OPTIMIZED
 ||nodebrowsers.net^$all
 !+ NOT_OPTIMIZED
 ||nodeconnectdapp.pages.dev^$all
@@ -41454,6 +41272,30 @@
 !+ NOT_OPTIMIZED
 ||nomu-auth.iilyo.com^$all
 !+ NOT_OPTIMIZED
+||nomura-asuenntjca.ezua.com^$all
+!+ NOT_OPTIMIZED
+||nomura-cajenjtpamt.as19557.net^$all
+!+ NOT_OPTIMIZED
+||nomura-canejptanta.vizvaz.com^$all
+!+ NOT_OPTIMIZED
+||nomura-casejpant.toythieves.com^$all
+!+ NOT_OPTIMIZED
+||nomura-jcapsenlta.qhigh.com^$all
+!+ NOT_OPTIMIZED
+||nomura-manose.oxrik.cn^$all
+!+ NOT_OPTIMIZED
+||nomura-rasern.mnhfh.cn^$all
+!+ NOT_OPTIMIZED
+||nomura-setviasneon.lflinkup.com^$all
+!+ NOT_OPTIMIZED
+||nomura-suepnttoion.mypop3.org^$all
+!+ NOT_OPTIMIZED
+||nomura-usanemjtc.ddns.mobi^$all
+!+ NOT_OPTIMIZED
+||nomuracanejltac.dnsrd.com^$all
+!+ NOT_OPTIMIZED
+||nomuracanejptmac.serveusers.com^$all
+!+ NOT_OPTIMIZED
 ||nonchalant-marsh-leo.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||noncustodialportal.com^$all
@@ -41461,8 +41303,6 @@
 ||nongenqa.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||noreplyattbellsbc.weebly.com^$all
-!+ NOT_OPTIMIZED
-||noreplycomcast.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||normal-start--ledgercom--cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -41499,8 +41339,6 @@
 ||nosfacturations.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||nostresstly.weebly.com^$all
-!+ NOT_OPTIMIZED
-||nosy-beneficial-swoop.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||notabledes-ecrefrance.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
@@ -41706,8 +41544,6 @@
 !+ NOT_OPTIMIZED
 ||ntyvyf.cn^$all
 !+ NOT_OPTIMIZED
-||nuevabanca-banbif.com^$all
-!+ NOT_OPTIMIZED
 ||nuevoemtarg.com^$all
 !+ NOT_OPTIMIZED
 ||nugcq.cn^$all
@@ -41729,6 +41565,8 @@
 ||nutritioncbn.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||nutritious-frosted-empress.glitch.me^$all
+!+ NOT_OPTIMIZED
+||nutrv.nya.pub^$all
 !+ NOT_OPTIMIZED
 ||nuujhgfccxdserty.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -41813,8 +41651,6 @@
 ||ny.ezpassmly.top^$all
 !+ NOT_OPTIMIZED
 ||ny.ezpassmna.top^$all
-!+ NOT_OPTIMIZED
-||ny.ezpassmne.top^$all
 !+ NOT_OPTIMIZED
 ||ny.ezpassmnf.top^$all
 !+ NOT_OPTIMIZED
@@ -42118,7 +41954,11 @@
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-cbn.win^$all
 !+ NOT_OPTIMIZED
+||ohioturnpike.org-cefgg.vip^$all
+!+ NOT_OPTIMIZED
 ||ohioturnpike.org-cess.win^$all
+!+ NOT_OPTIMIZED
+||ohioturnpike.org-cisi.vip^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-cofh.win^$all
 !+ NOT_OPTIMIZED
@@ -42135,10 +41975,6 @@
 ||ohioturnpike.org-decb.win^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-dfgu.win^$all
-!+ NOT_OPTIMIZED
-||ohioturnpike.org-dgaq.win^$all
-!+ NOT_OPTIMIZED
-||ohioturnpike.org-djta.win^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-drgv.win^$all
 !+ NOT_OPTIMIZED
@@ -42184,8 +42020,6 @@
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-fndp.win^$all
 !+ NOT_OPTIMIZED
-||ohioturnpike.org-focr.win^$all
-!+ NOT_OPTIMIZED
 ||ohioturnpike.org-foy.win^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-fqpj.win^$all
@@ -42204,6 +42038,8 @@
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-gmnq.win^$all
 !+ NOT_OPTIMIZED
+||ohioturnpike.org-gsdds.vip^$all
+!+ NOT_OPTIMIZED
 ||ohioturnpike.org-gsu.win^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-gsyo.win^$all
@@ -42220,6 +42056,8 @@
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-idj.win^$all
 !+ NOT_OPTIMIZED
+||ohioturnpike.org-iggd.vip^$all
+!+ NOT_OPTIMIZED
 ||ohioturnpike.org-ihbf.win^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-ijbt.win^$all
@@ -42229,6 +42067,8 @@
 ||ohioturnpike.org-iqmw.win^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-irj.win^$all
+!+ NOT_OPTIMIZED
+||ohioturnpike.org-isooa.vip^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-iuhj.win^$all
 !+ NOT_OPTIMIZED
@@ -42244,11 +42084,9 @@
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-jhyo.win^$all
 !+ NOT_OPTIMIZED
+||ohioturnpike.org-jifon.vip^$all
+!+ NOT_OPTIMIZED
 ||ohioturnpike.org-jokk.win^$all
-!+ NOT_OPTIMIZED
-||ohioturnpike.org-jpml.win^$all
-!+ NOT_OPTIMIZED
-||ohioturnpike.org-kdif.win^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-kesz.win^$all
 !+ NOT_OPTIMIZED
@@ -42256,7 +42094,7 @@
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-kjwm.win^$all
 !+ NOT_OPTIMIZED
-||ohioturnpike.org-kpc.win^$all
+||ohioturnpike.org-klghj.vip^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-ksnm.win^$all
 !+ NOT_OPTIMIZED
@@ -42279,8 +42117,6 @@
 ||ohioturnpike.org-lpmd.win^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-lyiu.win^$all
-!+ NOT_OPTIMIZED
-||ohioturnpike.org-meul.win^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-mgym.win^$all
 !+ NOT_OPTIMIZED
@@ -42446,6 +42282,10 @@
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-uzvb.win^$all
 !+ NOT_OPTIMIZED
+||ohioturnpike.org-vdas.vip^$all
+!+ NOT_OPTIMIZED
+||ohioturnpike.org-vhdu.vip^$all
+!+ NOT_OPTIMIZED
 ||ohioturnpike.org-vjuz.win^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-vkab.win^$all
@@ -42498,7 +42338,7 @@
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-xhvy.win^$all
 !+ NOT_OPTIMIZED
-||ohioturnpike.org-xopw.win^$all
+||ohioturnpike.org-xxios.vip^$all
 !+ NOT_OPTIMIZED
 ||ohioturnpike.org-xzfb.win^$all
 !+ NOT_OPTIMIZED
@@ -42646,8 +42486,6 @@
 !+ NOT_OPTIMIZED
 ||ollx.719025421.xyz^$all
 !+ NOT_OPTIMIZED
-||olmhedbg.cc^$all
-!+ NOT_OPTIMIZED
 ||oluwarantinmialafia.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||olwkw.weebly.com^$all
@@ -42685,8 +42523,6 @@
 ||olx-pl.sueolena.cfd^$all
 !+ NOT_OPTIMIZED
 ||olx-pl.treqalim.cfd^$all
-!+ NOT_OPTIMIZED
-||olx-pl.tyedakp.cfd^$all
 !+ NOT_OPTIMIZED
 ||olx-pl.tygahnos.cfd^$all
 !+ NOT_OPTIMIZED
@@ -43102,6 +42938,8 @@
 !+ NOT_OPTIMIZED
 ||opwyrosjm.vxwezsp.cn^$all
 !+ NOT_OPTIMIZED
+||oran.ddns-ip.net^$all
+!+ NOT_OPTIMIZED
 ||orange-mail9.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||orange-nl.comparecycle.com^$all
@@ -43278,8 +43116,6 @@
 !+ NOT_OPTIMIZED
 ||org-hmyz.win^$all
 !+ NOT_OPTIMIZED
-||org-homl.win^$all
-!+ NOT_OPTIMIZED
 ||org-hoty.win^$all
 !+ NOT_OPTIMIZED
 ||org-hsbc.win^$all
@@ -43289,8 +43125,6 @@
 ||org-ikjh.win^$all
 !+ NOT_OPTIMIZED
 ||org-ikng.win^$all
-!+ NOT_OPTIMIZED
-||org-imes.win^$all
 !+ NOT_OPTIMIZED
 ||org-imku.win^$all
 !+ NOT_OPTIMIZED
@@ -43347,8 +43181,6 @@
 ||org-miua.win^$all
 !+ NOT_OPTIMIZED
 ||org-mqec.vip^$all
-!+ NOT_OPTIMIZED
-||org-msqk.vip^$all
 !+ NOT_OPTIMIZED
 ||org-mtnl.win^$all
 !+ NOT_OPTIMIZED
@@ -43437,8 +43269,6 @@
 ||org-tcgd.win^$all
 !+ NOT_OPTIMIZED
 ||org-tgaw.win^$all
-!+ NOT_OPTIMIZED
-||org-thbf.win^$all
 !+ NOT_OPTIMIZED
 ||org-ticketbrqp.xin^$all
 !+ NOT_OPTIMIZED
@@ -43644,6 +43474,8 @@
 !+ NOT_OPTIMIZED
 ||oujpd.weebly.com^$all
 !+ NOT_OPTIMIZED
+||ourdomainforlifeca.dynv6.net^$all
+!+ NOT_OPTIMIZED
 ||ourgez.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||ourgez.web.app^$all
@@ -43740,8 +43572,6 @@
 !+ NOT_OPTIMIZED
 ||overview-aueth-liveledger.webflow.io^$all
 !+ NOT_OPTIMIZED
-||overview-doc-trrzor--cdn.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||overview-io-trezor.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||overviewuth-liveledger.webflow.io^$all
@@ -43800,6 +43630,8 @@
 !+ NOT_OPTIMIZED
 ||owbvx.goodiin.cfd^$all
 !+ NOT_OPTIMIZED
+||oxgital.xyz^$all
+!+ NOT_OPTIMIZED
 ||oximedica.com^$all
 !+ NOT_OPTIMIZED
 ||oxpainexecu.weebly.com^$all
@@ -43841,8 +43673,6 @@
 ||p9g.793.myftpupload.com^$all
 !+ NOT_OPTIMIZED
 ||pa.ezpasni.top^$all
-!+ NOT_OPTIMIZED
-||pa.ezpassai.top^$all
 !+ NOT_OPTIMIZED
 ||pa.ezpassar.top^$all
 !+ NOT_OPTIMIZED
@@ -43917,6 +43747,8 @@
 ||page-review-id-901375.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||page-review-id-901375.web.app^$all
+!+ NOT_OPTIMIZED
+||page-verification-faq-lr-8iuz.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||page11confirms.start.page^$all
 !+ NOT_OPTIMIZED
@@ -44014,6 +43846,8 @@
 !+ NOT_OPTIMIZED
 ||pancake-frontend-web-git-feature-remove-windo-9f50ad-chef-jerry.vercel.app^$all
 !+ NOT_OPTIMIZED
+||pancakeswab.com^$all
+!+ NOT_OPTIMIZED
 ||pancakeswap-airdrop-claim.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||pancakeswap.link-dashbroad.com^$all
@@ -44041,6 +43875,8 @@
 ||panka-lhv-rorwfs1.com^$all
 !+ NOT_OPTIMIZED
 ||panka-seb-rorwfs.com^$all
+!+ NOT_OPTIMIZED
+||pantherafinancial.com^$all
 !+ NOT_OPTIMIZED
 ||pantom-wallet.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -44122,13 +43958,9 @@
 !+ NOT_OPTIMIZED
 ||parcel.inquiry-uspm.win^$all
 !+ NOT_OPTIMIZED
-||parcel.inquiry-uspo.win^$all
-!+ NOT_OPTIMIZED
 ||parcel.inquiry-uspp.win^$all
 !+ NOT_OPTIMIZED
 ||parcel.inquiry-uspq.win^$all
-!+ NOT_OPTIMIZED
-||parcel.inquiry-usqc.win^$all
 !+ NOT_OPTIMIZED
 ||parcel.inquiry-usqf.win^$all
 !+ NOT_OPTIMIZED
@@ -44154,11 +43986,7 @@
 !+ NOT_OPTIMIZED
 ||parcel.inquiry-usro.win^$all
 !+ NOT_OPTIMIZED
-||parcel.inquiry-usrp.win^$all
-!+ NOT_OPTIMIZED
 ||parcel.inquiry-usrv.win^$all
-!+ NOT_OPTIMIZED
-||parcel.inquiry-ussa.win^$all
 !+ NOT_OPTIMIZED
 ||parcel.inquiry-ussb.win^$all
 !+ NOT_OPTIMIZED
@@ -44210,8 +44038,6 @@
 !+ NOT_OPTIMIZED
 ||parcel.inquiry-usxs.win^$all
 !+ NOT_OPTIMIZED
-||parcel.inquiry-usxu.win^$all
-!+ NOT_OPTIMIZED
 ||parcel.inquiry-usxw.win^$all
 !+ NOT_OPTIMIZED
 ||parcel.inquiry-usza.win^$all
@@ -44224,8 +44050,6 @@
 !+ NOT_OPTIMIZED
 ||parcel.inquiry-uszg.win^$all
 !+ NOT_OPTIMIZED
-||parcel.inquiry-uszn.win^$all
-!+ NOT_OPTIMIZED
 ||parceldayr.tumblr.com^$all
 !+ NOT_OPTIMIZED
 ||pardisfilm.ir^$all
@@ -44237,6 +44061,8 @@
 ||parlmsogn.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||parlmsogn.web.app^$all
+!+ NOT_OPTIMIZED
+||parrillasvaliparri.com.ar^$all
 !+ NOT_OPTIMIZED
 ||particular-frame-343660.framer.app^$all
 !+ NOT_OPTIMIZED
@@ -44252,11 +44078,11 @@
 !+ NOT_OPTIMIZED
 ||partyinvitatione.web.app^$all
 !+ NOT_OPTIMIZED
-||partyraum-lechalet.ch^$all
-!+ NOT_OPTIMIZED
 ||pasionmaya.com^$all
 !+ NOT_OPTIMIZED
 ||pasoliunionfinancialbk.top^$all
+!+ NOT_OPTIMIZED
+||pass56auto.wpenginepowered.com^$all
 !+ NOT_OPTIMIZED
 ||passa.top^$all
 !+ NOT_OPTIMIZED
@@ -44370,13 +44196,9 @@
 !+ NOT_OPTIMIZED
 ||pay.ezpassmhxh.xyz^$all
 !+ NOT_OPTIMIZED
-||pay.ezpassmhxk.xyz^$all
-!+ NOT_OPTIMIZED
 ||pay.ezpassmhxr.xyz^$all
 !+ NOT_OPTIMIZED
 ||pay.ezpassmhxt.xyz^$all
-!+ NOT_OPTIMIZED
-||pay.ezpassmhxu.xyz^$all
 !+ NOT_OPTIMIZED
 ||pay.ezpassmhxy.xyz^$all
 !+ NOT_OPTIMIZED
@@ -44409,8 +44231,6 @@
 ||pay.portalconcursosinss.site^$all
 !+ NOT_OPTIMIZED
 ||pay.regularizecorreos.shop^$all
-!+ NOT_OPTIMIZED
-||pay.seguropix.pro^$all
 !+ NOT_OPTIMIZED
 ||pay.ultimasemana.site^$all
 !+ NOT_OPTIMIZED
@@ -44528,8 +44348,6 @@
 !+ NOT_OPTIMIZED
 ||paytollsfv.xin^$all
 !+ NOT_OPTIMIZED
-||paytolltasi.vip^$all
-!+ NOT_OPTIMIZED
 ||paytolltbi.xin^$all
 !+ NOT_OPTIMIZED
 ||paytolluyse.vip^$all
@@ -44638,6 +44456,8 @@
 !+ NOT_OPTIMIZED
 ||pees.uoshao.top^$all
 !+ NOT_OPTIMIZED
+||pegadanimal.pt^$all
+!+ NOT_OPTIMIZED
 ||pek0mezdurw.com^$all
 !+ NOT_OPTIMIZED
 ||pemepk.com^$all
@@ -44725,6 +44545,8 @@
 ||pexa-exec878656645464564756757656456465.web.app^$all
 !+ NOT_OPTIMIZED
 ||peyg.ir^$all
+!+ NOT_OPTIMIZED
+||pf.leadscloud.com^$all
 !+ NOT_OPTIMIZED
 ||pfaorderspecifications.tanways.co.uk^$all
 !+ NOT_OPTIMIZED
@@ -44855,6 +44677,8 @@
 ||php365milesaway.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||php5s.webcindario.com^$all
+!+ NOT_OPTIMIZED
+||phplaravel-1455205-5469400.cloudwaysapps.com^$all
 !+ NOT_OPTIMIZED
 ||pibrowseractivation.pages.dev^$all
 !+ NOT_OPTIMIZED
@@ -45068,6 +44892,8 @@
 !+ NOT_OPTIMIZED
 ||pistbanlo.web.app^$all
 !+ NOT_OPTIMIZED
+||pite-nose.surge.sh^$all
+!+ NOT_OPTIMIZED
 ||pittur.pitimbu.pb.gov.br^$all
 !+ NOT_OPTIMIZED
 ||pixelme.me^$all
@@ -45129,6 +44955,8 @@
 ||playbisperu.com^$all
 !+ NOT_OPTIMIZED
 ||playcraked9.github.io^$all
+!+ NOT_OPTIMIZED
+||playful-stripe-juniperdscd-kjskj-oijhdsd.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||playreha.com^$all
 !+ NOT_OPTIMIZED
@@ -45244,8 +45072,6 @@
 !+ NOT_OPTIMIZED
 ||pohotnemwelt.webflow.io^$all
 !+ NOT_OPTIMIZED
-||poikjnzs.vip^$all
-!+ NOT_OPTIMIZED
 ||point-distribution.info^$all
 !+ NOT_OPTIMIZED
 ||point-relaisfrance.com^$all
@@ -45267,8 +45093,6 @@
 ||pokieasa0996.myportfolio.com^$all
 !+ NOT_OPTIMIZED
 ||pol-ito-it.weebly.com^$all
-!+ NOT_OPTIMIZED
-||policiajuntadeandalucciaa.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||policy-control-base.eu^$all
 !+ NOT_OPTIMIZED
@@ -45580,8 +45404,6 @@
 !+ NOT_OPTIMIZED
 ||postnord-app.com^$all
 !+ NOT_OPTIMIZED
-||postnord.packagelostbdqdrt.xin^$all
-!+ NOT_OPTIMIZED
 ||postnords-dks.top^$all
 !+ NOT_OPTIMIZED
 ||postoffice-co-za.web.app^$all
@@ -45678,6 +45500,8 @@
 !+ NOT_OPTIMIZED
 ||preshoffiz1.lp.page^$all
 !+ NOT_OPTIMIZED
+||pressin.org^$all
+!+ NOT_OPTIMIZED
 ||prestamos-interbnk.1.sc1jtfu9765.universe.wf^$all
 !+ NOT_OPTIMIZED
 ||prestamosfaistar.webcindario.com^$all
@@ -45772,8 +45596,6 @@
 !+ NOT_OPTIMIZED
 ||proace.org.ar^$all
 !+ NOT_OPTIMIZED
-||proauth-liveladzger.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||probncoec.webcindario.com^$all
 !+ NOT_OPTIMIZED
 ||process-3riversfcu-online.firebaseapp.com^$all
@@ -45821,6 +45643,8 @@
 ||profsateion-c001250.web.app^$all
 !+ NOT_OPTIMIZED
 ||profuserealisticplanes--five-nine.repl.co^$all
+!+ NOT_OPTIMIZED
+||proge77.it^$all
 !+ NOT_OPTIMIZED
 ||program7.godaddysites.com^$all
 !+ NOT_OPTIMIZED
@@ -45880,13 +45704,13 @@
 !+ NOT_OPTIMIZED
 ||promohit.info^$all
 !+ NOT_OPTIMIZED
+||promotionalproducts2u.com.au^$all
+!+ NOT_OPTIMIZED
 ||promouleht.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||promouleht.web.app^$all
 !+ NOT_OPTIMIZED
 ||promptin.webflow.io^$all
-!+ NOT_OPTIMIZED
-||promptingchain.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||pronmail-103119.square.site^$all
 !+ NOT_OPTIMIZED
@@ -46160,8 +45984,6 @@
 !+ NOT_OPTIMIZED
 ||pub-03bb804525264befbac4cc1e87ca3c79.r2.dev^$all
 !+ NOT_OPTIMIZED
-||pub-03be7ebc151f4281bb20081a47ac8100.r2.dev^$all
-!+ NOT_OPTIMIZED
 ||pub-03c465be0fa0443aa6c4cd928e1e26a7.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-03f36acf3ce145449e8a14dfef998de1.r2.dev^$all
@@ -46222,8 +46044,6 @@
 !+ NOT_OPTIMIZED
 ||pub-07d6a8744a6b4a47a7c4691290289c41.r2.dev^$all
 !+ NOT_OPTIMIZED
-||pub-07f9ea6d1b724991b6f4b8a36c861ce1.r2.dev^$all
-!+ NOT_OPTIMIZED
 ||pub-082b4f0e49914620991d91d041239f8f.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-0841a80f059048deb647a765306818fa.r2.dev^$all
@@ -46247,8 +46067,6 @@
 ||pub-091b2860b2044bdaa0e5552d6659644f.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-09220658eb1e4974bc829913a50fad72.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-0927d3364bf94005a4a6128f8f26ff2d.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-09341f449f614a2ea3640cf31a310d8e.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -46456,6 +46274,8 @@
 !+ NOT_OPTIMIZED
 ||pub-17e51cee4bd140f9943a8aac449eb94b.r2.dev^$all
 !+ NOT_OPTIMIZED
+||pub-180470291a16426db543dd4d350a08dc.r2.dev^$all
+!+ NOT_OPTIMIZED
 ||pub-1809bbba04a8419889865fbcbde3ecb1.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-18234f369b4a4996a18b072c2d7630ff.r2.dev^$all
@@ -46550,8 +46370,6 @@
 !+ NOT_OPTIMIZED
 ||pub-1dce8f5133cd41708dc3ec7e6864bb58.r2.dev^$all
 !+ NOT_OPTIMIZED
-||pub-1df0fbb273b9417baf431650145fa605.r2.dev^$all
-!+ NOT_OPTIMIZED
 ||pub-1e2abfb1b4a04eda89b144cdb2a58d2f.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-1e4a551479c748e39a6c6818e556a031.r2.dev^$all
@@ -46617,6 +46435,8 @@
 ||pub-20e6e1824eea40d88bf42d7fc5c530d4.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-21241eccbf1943f3bf0dc9aa678811f9.r2.dev^$all
+!+ NOT_OPTIMIZED
+||pub-2148fe753e0e4ea18f1efefb41077502.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-2167911f1fd94c50819ac29488a82f51.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -46820,6 +46640,8 @@
 !+ NOT_OPTIMIZED
 ||pub-2d10b4305561490ebde91a475f6417cf.r2.dev^$all
 !+ NOT_OPTIMIZED
+||pub-2d192e91751c43ec9c4091096f24f7ce.r2.dev^$all
+!+ NOT_OPTIMIZED
 ||pub-2d366620eede4dd18967cadbb1e2f55b.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-2d670b64311344f2b6abeac588b21f9a.r2.dev^$all
@@ -46950,11 +46772,11 @@
 !+ NOT_OPTIMIZED
 ||pub-365ad51d2d81418e8d5fb85815040ecf.r2.dev^$all
 !+ NOT_OPTIMIZED
+||pub-367fda0c85c94c69b5d9a5d12cdcfab2.r2.dev^$all
+!+ NOT_OPTIMIZED
 ||pub-368902b231094c049027f8c70eba8349.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-36ad9f0ba5ac48abafb6762745b544f0.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-36e7bdd27d314b5594b9068c6bdcf228.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-36f075228b5e4c7e8dc7b16a89adccce.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -46983,8 +46805,6 @@
 ||pub-38076515d9c542c9bd395cc3f15d23ca.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-381d39c904b34f5f94ecbf00cf635325.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-3821272ab34c48c08fe4e04c7d9c5d19.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-3822f8b720e247fc984802a18fb3e5b5.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -47113,6 +46933,8 @@
 ||pub-41bd2945a75e4a608d621f664b0202fc.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-41c2e04eed7c43bd89ebd5fbedf3f7b2.r2.dev^$all
+!+ NOT_OPTIMIZED
+||pub-41c4b178edd942acbd40df3ddedcc169.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-41ef3c62dc9e48a1b995d776997077b7.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -47394,8 +47216,6 @@
 !+ NOT_OPTIMIZED
 ||pub-516107fc6118433080177236949d12ae.r2.dev^$all
 !+ NOT_OPTIMIZED
-||pub-5171cedeb1504b4fb2e00d55394fa51f.r2.dev^$all
-!+ NOT_OPTIMIZED
 ||pub-519769e9eb634616b1746c2018641d56.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-51bf9d59b05d41ba8683e8ac6bce5527.r2.dev^$all
@@ -47468,6 +47288,8 @@
 !+ NOT_OPTIMIZED
 ||pub-565a23beb28f44f5bbc6bc92c5cf97ad.r2.dev^$all
 !+ NOT_OPTIMIZED
+||pub-5667683c1db541e59cc29bb6ebaff497.r2.dev^$all
+!+ NOT_OPTIMIZED
 ||pub-567c55cbdd04496eaec9dc9c9660fee2.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-568070ff12dd450d8ea38070e6c104e5.r2.dev^$all
@@ -47537,8 +47359,6 @@
 ||pub-598ac42ce200470aafaff507f2d4402f.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-59e51c8dc1ae478eb7eff75a6118912d.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-59f3815d88f14724908fcf9460c3d579.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-5a0a61d5d8fc4f07b89562af960e071d.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -47822,8 +47642,6 @@
 !+ NOT_OPTIMIZED
 ||pub-6bd3829d0f4d486e901aeb5e3c9212b6.r2.dev^$all
 !+ NOT_OPTIMIZED
-||pub-6bdd1c8eee414cc7b98afc0dfde86473.r2.dev^$all
-!+ NOT_OPTIMIZED
 ||pub-6c2025a4f4d14be292b733b023a6fe84.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-6c2867ac4f4a40608c511dc727e23515.r2.dev^$all
@@ -47837,8 +47655,6 @@
 ||pub-6cd4d74c309e4a16bf7d85cf166a0732.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-6cdf5fa1af6b4b5987c424c8bd5575fe.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-6cee9948f99041e78a9be35a54206a3f.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-6cfe98111b5d4f3ea565f36544a9dece.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -47929,6 +47745,8 @@
 ||pub-716ba4b1e8364d458875496c9d6bd1e8.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-719b93aaf896431595b90f5fa8a4c7e1.r2.dev^$all
+!+ NOT_OPTIMIZED
+||pub-71abda19dac44d1bb02dc6bc10008dc0.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-71adbe24d83f4c23850b5bee623d20f5.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -48176,6 +47994,8 @@
 !+ NOT_OPTIMIZED
 ||pub-800d0defff6f41c895da4b7afcc4f5cf.r2.dev^$all
 !+ NOT_OPTIMIZED
+||pub-801a863cf3a04cacba9a35d4c656ddaa.r2.dev^$all
+!+ NOT_OPTIMIZED
 ||pub-801d807848ab4047acd4bdc2f71a1ddd.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-803839714a924882a7bcc2495a26860f.r2.dev^$all
@@ -48401,8 +48221,6 @@
 ||pub-8da6bb8ac63448f8a5f1ba9b73230e76.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-8e0b73468b56441a8ded50f2f8fe353d.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-8e1818a04f9447b295e2133528346f07.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-8e29b514408942ffa7997b05ded17c35.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -48636,6 +48454,8 @@
 !+ NOT_OPTIMIZED
 ||pub-9da9fcc95242493181d361551bbf173f.r2.dev^$all
 !+ NOT_OPTIMIZED
+||pub-9db9ab1194a143f4959879842e81f1ef.r2.dev^$all
+!+ NOT_OPTIMIZED
 ||pub-9dd1b7a023234655ba08c72873ccc3a7.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-9e1358676a684ebd8c8608b544021116.r2.dev^$all
@@ -48753,8 +48573,6 @@
 ||pub-a530aa3ca6fe4b5eb80cc42ae54dfa15.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-a538e0b07c014049b4d8a56f32f81f27.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-a57f765e1c444dd3bcc4c9e901c3eb63.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-a585275162b94eeead6f34b59fc34175.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -48925,6 +48743,8 @@
 ||pub-b13e117d4da547ab91b4460a43acd642.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-b1493b5d4951490ea9f724e5ff3f1d01.r2.dev^$all
+!+ NOT_OPTIMIZED
+||pub-b14acb1d0ad14adcb503c09aac32483e.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-b190a64877d24c3287eb3f9ff06ca372.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -49168,6 +48988,8 @@
 !+ NOT_OPTIMIZED
 ||pub-c41139fec02049f0ab88eefac2729bea.r2.dev^$all
 !+ NOT_OPTIMIZED
+||pub-c49a7a5925ad45ac9169958ae56b0087.r2.dev^$all
+!+ NOT_OPTIMIZED
 ||pub-c49b3ef021194a92b038c6a6a36b40cf.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-c4e3e67a647a4a2db302d5e06b152e21.r2.dev^$all
@@ -49193,8 +49015,6 @@
 ||pub-c613903628154b7e971252c962071102.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-c61ff2b47fcb4ec0ae8f96cfa58e3735.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-c689ef8f881240ec915e4532c3ad472a.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-c6939fe799dc4d3e8db14475c6799ef8.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -49247,10 +49067,6 @@
 ||pub-c9aef0442ab34f3294823bcd6e71d691.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-c9b0f70a392543c191ce170ae6ec0a29.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-c9d2d3b327ca45ac918733ca0d91b6bd.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-c9ecac8ff5a3482787c70e0a51efe8f8.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-ca1f7c0d107c4fe5a4f42bfad0c9003a.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -49487,8 +49303,6 @@
 ||pub-d6d282c9769a4129ab2d3b7f890c044b.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-d6d61a1c2aed4d8bbc46e0a32bfde07a.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-d70c94cccf884b238e488e56cd38e8e8.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-d71709b11f304e0b87fe3275219dc568.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -50070,6 +49884,8 @@
 !+ NOT_OPTIMIZED
 ||pub-f9c3fead5e3e4d6e8cfa1a41b866b340.r2.dev^$all
 !+ NOT_OPTIMIZED
+||pub-f9f153f229c34145bb9c45ad72fe7841.r2.dev^$all
+!+ NOT_OPTIMIZED
 ||pub-f9f1a9f3d3834d4c9efd2873e134f51d.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-f9fa31b057ef4dfd8753c30678c5d1e4.r2.dev^$all
@@ -50105,8 +49921,6 @@
 ||pub-fc67a3cb849b4fc0a27910cbbc73584e.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-fc6dc735ff68445cae5ca2d946a8bfbb.r2.dev^$all
-!+ NOT_OPTIMIZED
-||pub-fc8b0b1383ea4606af992d0e7ffe6e9a.r2.dev^$all
 !+ NOT_OPTIMIZED
 ||pub-fc9629db029e4221ae0f88070b3f2a5c.r2.dev^$all
 !+ NOT_OPTIMIZED
@@ -50248,19 +50062,39 @@
 !+ NOT_OPTIMIZED
 ||puresync.pages.dev^$all
 !+ NOT_OPTIMIZED
+||purolator.com-clm.win^$all
+!+ NOT_OPTIMIZED
 ||purolator.com-eqa.win^$all
 !+ NOT_OPTIMIZED
 ||purolator.com-eqe.win^$all
 !+ NOT_OPTIMIZED
 ||purolator.com-eqo.win^$all
 !+ NOT_OPTIMIZED
-||purolator.com-eqr.win^$all
-!+ NOT_OPTIMIZED
 ||purolator.com-equ.win^$all
 !+ NOT_OPTIMIZED
 ||purolator.com-eqw.win^$all
 !+ NOT_OPTIMIZED
 ||purolator.com-eqy.win^$all
+!+ NOT_OPTIMIZED
+||purolator.com-wfa.win^$all
+!+ NOT_OPTIMIZED
+||purolator.com-wfe.win^$all
+!+ NOT_OPTIMIZED
+||purolator.com-wfi.win^$all
+!+ NOT_OPTIMIZED
+||purolator.com-wfp.win^$all
+!+ NOT_OPTIMIZED
+||purolator.com-wfq.win^$all
+!+ NOT_OPTIMIZED
+||purolator.com-wfr.win^$all
+!+ NOT_OPTIMIZED
+||purolator.com-wfs.win^$all
+!+ NOT_OPTIMIZED
+||purolator.com-wfu.win^$all
+!+ NOT_OPTIMIZED
+||purolator.com-wfw.win^$all
+!+ NOT_OPTIMIZED
+||purolator.com-wfy.win^$all
 !+ NOT_OPTIMIZED
 ||purolator.etcexh.vip^$all
 !+ NOT_OPTIMIZED
@@ -50322,6 +50156,8 @@
 !+ NOT_OPTIMIZED
 ||q45wgbd24b65g4sfwbd.getmyip.com^$all
 !+ NOT_OPTIMIZED
+||q6gw53db56wd35gb3s6gwdv.homeunix.org^$all
+!+ NOT_OPTIMIZED
 ||q6oiqoze74oj-pages-dev.translate.goog^$all
 !+ NOT_OPTIMIZED
 ||q9acc.cn^$all
@@ -50346,8 +50182,6 @@
 !+ NOT_OPTIMIZED
 ||qfdswshawreaply.weebly.com^$all
 !+ NOT_OPTIMIZED
-||qfikj.cn^$all
-!+ NOT_OPTIMIZED
 ||qgppuk.top^$all
 !+ NOT_OPTIMIZED
 ||qh4wgb6fh3n46hd46xnsxfw.dnsdojo.org^$all
@@ -50357,8 +50191,6 @@
 ||qix.97948754.xyz^$all
 !+ NOT_OPTIMIZED
 ||qjhia.top^$all
-!+ NOT_OPTIMIZED
-||qjx.07948754.xyz^$all
 !+ NOT_OPTIMIZED
 ||qmpzgalf.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -50426,8 +50258,6 @@
 !+ NOT_OPTIMIZED
 ||qry.kr^$all
 !+ NOT_OPTIMIZED
-||qscxmkpl.vip^$all
-!+ NOT_OPTIMIZED
 ||qsnetwork.az1.qualtrics.com^$all
 !+ NOT_OPTIMIZED
 ||qtrlkh.firebaseapp.com^$all
@@ -50449,6 +50279,10 @@
 ||quedeszonepositide.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||quedeszonepositide.web.app^$all
+!+ NOT_OPTIMIZED
+||quercus.org^$all
+!+ NOT_OPTIMIZED
+||queseriaventimiglia.com.ar^$all
 !+ NOT_OPTIMIZED
 ||quester-c4f79.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
@@ -50660,8 +50494,6 @@
 !+ NOT_OPTIMIZED
 ||rackspacewebmailaccount.weebly.com^$all
 !+ NOT_OPTIMIZED
-||rackspacewebmailcom-105171.weeblysite.com^$all
-!+ NOT_OPTIMIZED
 ||rackspasss.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||rackspej3.weebly.com^$all
@@ -50834,6 +50666,8 @@
 !+ NOT_OPTIMIZED
 ||rdhtire.net^$all
 !+ NOT_OPTIMIZED
+||rdlbvgfct-10fe814.ingress-earth.ewp.live^$all
+!+ NOT_OPTIMIZED
 ||rdonardp.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||rdonardp.web.app^$all
@@ -50857,8 +50691,6 @@
 ||re.credit-suise.ch.209-38-225-204.credit-suise.ch.plesk.page^$all
 !+ NOT_OPTIMIZED
 ||reach.at^$all
-!+ NOT_OPTIMIZED
-||reacomcastxfinity.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||react-pwa-hello-world.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
@@ -51568,6 +51400,10 @@
 !+ NOT_OPTIMIZED
 ||resolverissues.pages.dev^$all
 !+ NOT_OPTIMIZED
+||resonabank-barety.irix8.com^$all
+!+ NOT_OPTIMIZED
+||resonabank-teratu.aix75.com^$all
+!+ NOT_OPTIMIZED
 ||resonant-hickory-yogurt.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||resoume.com^$all
@@ -51581,6 +51417,8 @@
 ||restartmmberswebsite.uscreen.io^$all
 !+ NOT_OPTIMIZED
 ||restore-amx.att.50-6-197-150.cprapid.com^$all
+!+ NOT_OPTIMIZED
+||restorevive.com^$all
 !+ NOT_OPTIMIZED
 ||restrict-mypayee.com^$all
 !+ NOT_OPTIMIZED
@@ -51748,6 +51586,8 @@
 !+ NOT_OPTIMIZED
 ||revucora.com^$all
 !+ NOT_OPTIMIZED
+||revues-ufhb-ci.org^$all
+!+ NOT_OPTIMIZED
 ||reward-ff.garenaind.com^$all
 !+ NOT_OPTIMIZED
 ||rewhg-mtt3.firebaseapp.com^$all
@@ -51848,8 +51688,6 @@
 !+ NOT_OPTIMIZED
 ||rift-shaker-2226.typedream.app^$all
 !+ NOT_OPTIMIZED
-||rigelgrup.com^$all
-!+ NOT_OPTIMIZED
 ||rigorous-brief-slash.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||rihabpc.com^$all
@@ -51868,6 +51706,8 @@
 !+ NOT_OPTIMIZED
 ||rippso.com.ar^$all
 !+ NOT_OPTIMIZED
+||riseu.minecraftnoob.com^$all
+!+ NOT_OPTIMIZED
 ||risingstarsyouthfootballcamp.com^$all
 !+ NOT_OPTIMIZED
 ||ritae1e1.myportfolio.com^$all
@@ -51883,6 +51723,8 @@
 ||riverstonecapitalinc.com^$all
 !+ NOT_OPTIMIZED
 ||riversweeps.org^$all
+!+ NOT_OPTIMIZED
+||rivieraamministrazioni.com^$all
 !+ NOT_OPTIMIZED
 ||rjf1ae.webwave.dev^$all
 !+ NOT_OPTIMIZED
@@ -51975,6 +51817,10 @@
 ||robinhood--incex-login---so-webflow-io.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||robinhoodlogiex.webflow.io^$all
+!+ NOT_OPTIMIZED
+||robiox.com.pk^$all
+!+ NOT_OPTIMIZED
+||robllox.com.kg^$all
 !+ NOT_OPTIMIZED
 ||roblox.com.ni^$all
 !+ NOT_OPTIMIZED
@@ -52178,6 +52024,8 @@
 !+ NOT_OPTIMIZED
 ||royalmail.officialemailoon.xin^$all
 !+ NOT_OPTIMIZED
+||royalmail.officialemailxif.xin^$all
+!+ NOT_OPTIMIZED
 ||royalmail.officialemailxig.xin^$all
 !+ NOT_OPTIMIZED
 ||royalmail.officialemailxii.xin^$all
@@ -52192,6 +52040,8 @@
 !+ NOT_OPTIMIZED
 ||royalmail.officialemailxxf.xin^$all
 !+ NOT_OPTIMIZED
+||royalmail.officialemailxxg.xin^$all
+!+ NOT_OPTIMIZED
 ||royalmail.officialemailxxl.xin^$all
 !+ NOT_OPTIMIZED
 ||royalmail.officialemailxxm.xin^$all
@@ -52205,8 +52055,6 @@
 ||royalmail.officialemailzic.xin^$all
 !+ NOT_OPTIMIZED
 ||royalmail.officialemailzif.xin^$all
-!+ NOT_OPTIMIZED
-||royalmail.officialemailzig.xin^$all
 !+ NOT_OPTIMIZED
 ||royalmail.officialemailzik.xin^$all
 !+ NOT_OPTIMIZED
@@ -52234,7 +52082,13 @@
 !+ NOT_OPTIMIZED
 ||rp3.mockplus.com^$all
 !+ NOT_OPTIMIZED
+||rpc.syncx.devnodes.tech^$all
+!+ NOT_OPTIMIZED
+||rpcaffix.net^$all
+!+ NOT_OPTIMIZED
 ||rpcdebug.com^$all
+!+ NOT_OPTIMIZED
+||rpcfixer.com^$all
 !+ NOT_OPTIMIZED
 ||rpclink.pages.dev^$all
 !+ NOT_OPTIMIZED
@@ -52269,6 +52123,8 @@
 ||rrtnetwebmaiilupdate.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||rs-309.us-south.cf.appdomain.cloud^$all
+!+ NOT_OPTIMIZED
+||rs-va.serverhostgroup.com^$all
 !+ NOT_OPTIMIZED
 ||rsloberi.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
@@ -52404,8 +52260,6 @@
 !+ NOT_OPTIMIZED
 ||s-pushtan-erneuern.com^$all
 !+ NOT_OPTIMIZED
-||s-tart-l-edger--sso.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||s.eu.premiumisp.net^$all
 !+ NOT_OPTIMIZED
 ||s.itoeste.com^$all
@@ -52521,6 +52375,8 @@
 ||safety-profiles-fb-ads-1035890257.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||safety-profiles-fb-ads-156388685.vercel.app^$all
+!+ NOT_OPTIMIZED
+||safety-profiles-fb-ads-156389155.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||safety-profiles-fb-ads-3692201836.vercel.app^$all
 !+ NOT_OPTIMIZED
@@ -52764,6 +52620,22 @@
 !+ NOT_OPTIMIZED
 ||sbhkznkb.r.us-east-1.awstrack.me^$all
 !+ NOT_OPTIMIZED
+||sbi-sec.investstocks1.com^$all
+!+ NOT_OPTIMIZED
+||sbi-sec.investstocks2.com^$all
+!+ NOT_OPTIMIZED
+||sbi-sec.investstocks3.com^$all
+!+ NOT_OPTIMIZED
+||sbi-sec.investstocks4.com^$all
+!+ NOT_OPTIMIZED
+||sbi-sec.investstocks6.com^$all
+!+ NOT_OPTIMIZED
+||sbi-sec.investstocks7.com^$all
+!+ NOT_OPTIMIZED
+||sbi-sec.investstocks8.com^$all
+!+ NOT_OPTIMIZED
+||sbi-sec.investstocks9.com^$all
+!+ NOT_OPTIMIZED
 ||sbi.cnguangwei.com^$all
 !+ NOT_OPTIMIZED
 ||sbi4sec-co-jppan-sbi4etgate.com^$all
@@ -52894,8 +52766,6 @@
 !+ NOT_OPTIMIZED
 ||scdmv.onlinelkh.vip^$all
 !+ NOT_OPTIMIZED
-||scdmv.onlinelpm.vip^$all
-!+ NOT_OPTIMIZED
 ||scdmv.onlinemaq.vip^$all
 !+ NOT_OPTIMIZED
 ||scdmv.onlinemdl.vip^$all
@@ -52977,8 +52847,6 @@
 ||scdmv.onlinetwx.vip^$all
 !+ NOT_OPTIMIZED
 ||scdmv.onlineuea.vip^$all
-!+ NOT_OPTIMIZED
-||scdmv.onlineuja.vip^$all
 !+ NOT_OPTIMIZED
 ||scdmv.onlineunh.vip^$all
 !+ NOT_OPTIMIZED
@@ -53064,8 +52932,6 @@
 !+ NOT_OPTIMIZED
 ||schotell.com^$all
 !+ NOT_OPTIMIZED
-||schwab-accountcheck.top^$all
-!+ NOT_OPTIMIZED
 ||schweiz-lieferung-und-pakete.com^$all
 !+ NOT_OPTIMIZED
 ||schweizdzz.blogspot.it^$all
@@ -53139,6 +53005,8 @@
 ||sdeamcoommnumnlty.com^$all
 !+ NOT_OPTIMIZED
 ||sdfghjkjhgffghjkjhghjk.weeblysite.com^$all
+!+ NOT_OPTIMIZED
+||sdfrgbtrgfdsaasdfvb.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||sdftyu.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -53236,6 +53104,8 @@
 !+ NOT_OPTIMIZED
 ||secure----suite--terzor.webflow.io^$all
 !+ NOT_OPTIMIZED
+||secure---blockfi----sso---cdn.webflow.io^$all
+!+ NOT_OPTIMIZED
 ||secure---blockfi--cdn-cdn-page.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||secure---blockfi-app--cdn-cdn.webflow.io^$all
@@ -53273,8 +53143,6 @@
 ||secure--blockfi--sso--cdn---bni.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||secure--blockfi--sso--cdn-x.webflow.io^$all
-!+ NOT_OPTIMIZED
-||secure--blockfi--z-sso--cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||secure--blockfi-app--cdn-nos.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -53424,8 +53292,6 @@
 !+ NOT_OPTIMIZED
 ||secure-l--kucoin---cdn--s-auth.webflow.io^$all
 !+ NOT_OPTIMIZED
-||secure-leddger-com.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||secure-ledger--outths.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||secure-ledger-aut.webflow.io^$all
@@ -53524,8 +53390,6 @@
 !+ NOT_OPTIMIZED
 ||secure.etcima.win^$all
 !+ NOT_OPTIMIZED
-||secure.etciog.win^$all
-!+ NOT_OPTIMIZED
 ||secure.etcjvq.win^$all
 !+ NOT_OPTIMIZED
 ||secure.etclig.win^$all
@@ -53571,8 +53435,6 @@
 ||secure.paymentxmr.top^$all
 !+ NOT_OPTIMIZED
 ||secure.paymentxuqjl.vip^$all
-!+ NOT_OPTIMIZED
-||secure.paymentxvbn.xin^$all
 !+ NOT_OPTIMIZED
 ||secure.paymentxzb.xin^$all
 !+ NOT_OPTIMIZED
@@ -53866,8 +53728,6 @@
 !+ NOT_OPTIMIZED
 ||selectionnerlocker.net^$all
 !+ NOT_OPTIMIZED
-||selectionnerlockers.com^$all
-!+ NOT_OPTIMIZED
 ||selectionnerlockers.net^$all
 !+ NOT_OPTIMIZED
 ||selfbnhhtm1.weebly.com^$all
@@ -53913,8 +53773,6 @@
 ||sepoal-6f4c8.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||sepoal-6f4c8.web.app^$all
-!+ NOT_OPTIMIZED
-||sequre-blockfi---sso-cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||ser-revendedora-avon.pt^$all
 !+ NOT_OPTIMIZED
@@ -54011,6 +53869,8 @@
 ||server-109573.square.site^$all
 !+ NOT_OPTIMIZED
 ||server-data-20d8d.web.app^$all
+!+ NOT_OPTIMIZED
+||server-dch23456789045678.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||server-falcon.com^$all
 !+ NOT_OPTIMIZED
@@ -54286,8 +54146,6 @@
 !+ NOT_OPTIMIZED
 ||set-up-ledgsdelifld.webflow.io^$all
 !+ NOT_OPTIMIZED
-||set-up-suite--trezor.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||set-up-support-terrzor.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||set-upstart-l-edger--auth.webflow.io^$all
@@ -54408,6 +54266,8 @@
 !+ NOT_OPTIMIZED
 ||shacksign.com^$all
 !+ NOT_OPTIMIZED
+||shade-brow-9470.typedream.app^$all
+!+ NOT_OPTIMIZED
 ||shake-time-garnet.heyflow.site^$all
 !+ NOT_OPTIMIZED
 ||shakugxgd.github.io^$all
@@ -54457,6 +54317,8 @@
 ||sharing-posts.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||sharp-nova-edam.glitch.me^$all
+!+ NOT_OPTIMIZED
+||sharpres.codeberg.page^$all
 !+ NOT_OPTIMIZED
 ||sharpsharpupgmx.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -54590,8 +54452,6 @@
 !+ NOT_OPTIMIZED
 ||shaw-106134.weeblysite.com^$all
 !+ NOT_OPTIMIZED
-||shaw-106324.weeblysite.com^$all
-!+ NOT_OPTIMIZED
 ||shaw-106478.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||shaw-106590.weeblysite.com^$all
@@ -54718,8 +54578,6 @@
 !+ NOT_OPTIMIZED
 ||shelled-autumn-agustinia.glitch.me^$all
 !+ NOT_OPTIMIZED
-||shelva.net^$all
-!+ NOT_OPTIMIZED
 ||shentelcommunicatiionsserverupgrade.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||shentelnewupdatlogo.weebly.com^$all
@@ -54763,6 +54621,8 @@
 ||shopee.menglar.com^$all
 !+ NOT_OPTIMIZED
 ||shopfancysneakers.nextevo.0lx.net^$all
+!+ NOT_OPTIMIZED
+||shopping-everyday.net^$all
 !+ NOT_OPTIMIZED
 ||short-charmed-diadem.glitch.me^$all
 !+ NOT_OPTIMIZED
@@ -55053,6 +54913,8 @@
 ||sipok.s3.eu-west-1.amazonaws.com^$all
 !+ NOT_OPTIMIZED
 ||siriananstock.com^$all
+!+ NOT_OPTIMIZED
+||siriusativos.com.br^$all
 !+ NOT_OPTIMIZED
 ||sisdter4.webcindario.com^$all
 !+ NOT_OPTIMIZED
@@ -55363,8 +55225,6 @@
 ||skyemailsupportfgsdg.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||skyid-skycom-signln-successurl.weebly.com^$all
-!+ NOT_OPTIMIZED
-||skylinevile.online^$all
 !+ NOT_OPTIMIZED
 ||skylinkpage.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -55694,8 +55554,6 @@
 !+ NOT_OPTIMIZED
 ||solicitaibk-presta.site^$all
 !+ NOT_OPTIMIZED
-||solicitaibk-prestamos.site^$all
-!+ NOT_OPTIMIZED
 ||solicitudes.zonaplataformas.click^$all
 !+ NOT_OPTIMIZED
 ||solicitudpersonaclientes.sbs^$all
@@ -55754,9 +55612,13 @@
 !+ NOT_OPTIMIZED
 ||sopresscameroun.com^$all
 !+ NOT_OPTIMIZED
+||sordid-odd-buffet.glitch.me^$all
+!+ NOT_OPTIMIZED
 ||sorinuri.com^$all
 !+ NOT_OPTIMIZED
 ||sort-alphabetically.firebaseapp.com^$all
+!+ NOT_OPTIMIZED
+||sos-leroymerlin.fr^$all
 !+ NOT_OPTIMIZED
 ||sos-live-ledger.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -55841,6 +55703,8 @@
 ||sp591508.sitebeat.crazydomains.com^$all
 !+ NOT_OPTIMIZED
 ||sp631624.sitebeat.crazydomains.com^$all
+!+ NOT_OPTIMIZED
+||sp703268.sitebeat.crazydomains.com^$all
 !+ NOT_OPTIMIZED
 ||sp711066.sitebeat.crazydomains.com^$all
 !+ NOT_OPTIMIZED
@@ -55947,6 +55811,8 @@
 ||specialhospitalaksis.formstack.com^$all
 !+ NOT_OPTIMIZED
 ||speciitrum.weebly.com^$all
+!+ NOT_OPTIMIZED
+||spectacular-awake-transport.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||spectrum-102780.weeblysite.com^$all
 !+ NOT_OPTIMIZED
@@ -56072,11 +55938,7 @@
 !+ NOT_OPTIMIZED
 ||sprintsavingsblk.online^$all
 !+ NOT_OPTIMIZED
-||spriva.bluethorne.co.uk^$all
-!+ NOT_OPTIMIZED
 ||sprw.io^$all
-!+ NOT_OPTIMIZED
-||sprzedajemy.9941818.xyz^$all
 !+ NOT_OPTIMIZED
 ||spushtan-erneuern.com^$all
 !+ NOT_OPTIMIZED
@@ -56138,6 +56000,8 @@
 !+ NOT_OPTIMIZED
 ||srv232245.hoster-test.ru^$all
 !+ NOT_OPTIMIZED
+||srv232578.hoster-test.ru^$all
+!+ NOT_OPTIMIZED
 ||srv479834.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||srvcs-01846745456.start.page^$all
@@ -56147,8 +56011,6 @@
 ||ss--phantom---app--cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||ss-so--iuw-allet.webflow.io^$all
-!+ NOT_OPTIMIZED
-||ssa-ssf.com.de^$all
 !+ NOT_OPTIMIZED
 ||ssattyahoofvmaii.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -56228,8 +56090,6 @@
 !+ NOT_OPTIMIZED
 ||sso--r-obinhood--com--cdn-m-autth.webflow.io^$all
 !+ NOT_OPTIMIZED
-||sso--robinhood--com--cdn--auths.webflow.io^$all
-!+ NOT_OPTIMIZED
 ||sso--robinhood--com-r--autth.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||sso--robinhood-com----cdb-i-auuth.webflow.io^$all
@@ -56237,6 +56097,8 @@
 ||sso--robinhoods--com--cdn--n--nav.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||sso--robinhoods--com-cdn--n--nav.webflow.io^$all
+!+ NOT_OPTIMIZED
+||sso--secure--ndax-cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||sso--solflare-com-auth.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -56255,8 +56117,6 @@
 ||sso-auth-kraken----com----auth.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||sso-bllockf-auth-s-sso.webflow.io^$all
-!+ NOT_OPTIMIZED
-||sso-blockfi--auth-sso.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||sso-blockfi-login-safee.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -56321,8 +56181,6 @@
 ||sso-maiwebsrvr-5tefwwr3rf.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||sso-meta-mask--wallet--auth.webflow.io^$all
-!+ NOT_OPTIMIZED
-||sso-ndaxlogin-sso.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||sso-phantom--extension--cdn.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -56578,6 +56436,8 @@
 !+ NOT_OPTIMIZED
 ||start-trezor-io-helplogin.webflow.io^$all
 !+ NOT_OPTIMIZED
+||start-trezzo-login---cdn.webflow.io^$all
+!+ NOT_OPTIMIZED
 ||start-trozoru-ssu.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||start-truz---suite.gitbook.io^$all
@@ -56716,6 +56576,8 @@
 !+ NOT_OPTIMIZED
 ||steelbim.pt^$all
 !+ NOT_OPTIMIZED
+||stefanhofbauer.net^$all
+!+ NOT_OPTIMIZED
 ||stemcellserectiledysfunction.com^$all
 !+ NOT_OPTIMIZED
 ||step2-9f5d0.firebaseapp.com^$all
@@ -56834,8 +56696,6 @@
 !+ NOT_OPTIMIZED
 ||strawberry-3az3-ps0a.6hfgwx79.workers.dev^$all
 !+ NOT_OPTIMIZED
-||streamcoremedia.com^$all
-!+ NOT_OPTIMIZED
 ||streamwebpage82.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||streemlypluslite.weebly.com^$all
@@ -56896,6 +56756,8 @@
 !+ NOT_OPTIMIZED
 ||stztpz.cn^$all
 !+ NOT_OPTIMIZED
+||suave-peridot-gym.glitch.me^$all
+!+ NOT_OPTIMIZED
 ||subb.id329086.com^$all
 !+ NOT_OPTIMIZED
 ||subdued-invited-bamboo.glitch.me^$all
@@ -56923,6 +56785,8 @@
 ||succesjuissif.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||suce-869.weeblysite.com^$all
+!+ NOT_OPTIMIZED
+||suctori.com^$all
 !+ NOT_OPTIMIZED
 ||sucursalpersonalsmens.zzz.com.ua^$all
 !+ NOT_OPTIMIZED
@@ -57024,8 +56888,6 @@
 !+ NOT_OPTIMIZED
 ||sunpaassz.top^$all
 !+ NOT_OPTIMIZED
-||sunpasaw.top^$all
-!+ NOT_OPTIMIZED
 ||sunpasgq.top^$all
 !+ NOT_OPTIMIZED
 ||sunpashlad.top^$all
@@ -57095,8 +56957,6 @@
 ||sunpass.com-byse.win^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-cagb.win^$all
-!+ NOT_OPTIMIZED
-||sunpass.com-chargeins.xin^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-crxa.win^$all
 !+ NOT_OPTIMIZED
@@ -57178,8 +57038,6 @@
 !+ NOT_OPTIMIZED
 ||sunpass.com-etc-wtvd.top^$all
 !+ NOT_OPTIMIZED
-||sunpass.com-etc-wzbt.top^$all
-!+ NOT_OPTIMIZED
 ||sunpass.com-etc-zbjl.top^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-etc-ziqn.top^$all
@@ -57193,8 +57051,6 @@
 ||sunpass.com-flb.win^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-flc.win^$all
-!+ NOT_OPTIMIZED
-||sunpass.com-flg.win^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-fli.win^$all
 !+ NOT_OPTIMIZED
@@ -57219,8 +57075,6 @@
 ||sunpass.com-gmd.win^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-gnip.win^$all
-!+ NOT_OPTIMIZED
-||sunpass.com-hpao.win^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-hpap.win^$all
 !+ NOT_OPTIMIZED
@@ -57256,8 +57110,6 @@
 !+ NOT_OPTIMIZED
 ||sunpass.com-invoiceshyq.sbs^$all
 !+ NOT_OPTIMIZED
-||sunpass.com-invoicesnfzr.world^$all
-!+ NOT_OPTIMIZED
 ||sunpass.com-invoicesnsbz.world^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-invoicesqarx.world^$all
@@ -57275,8 +57127,6 @@
 ||sunpass.com-invoicevvat.sbs^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-invoicewbft.sbs^$all
-!+ NOT_OPTIMIZED
-||sunpass.com-invoicezccz.sbs^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-invoicezvab.sbs^$all
 !+ NOT_OPTIMIZED
@@ -57359,8 +57209,6 @@
 ||sunpass.com-refundiru.world^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-refundstk.xin^$all
-!+ NOT_OPTIMIZED
-||sunpass.com-rff.win^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-rsoy.win^$all
 !+ NOT_OPTIMIZED
@@ -57500,15 +57348,11 @@
 !+ NOT_OPTIMIZED
 ||sunpass.com-tollbilltaa.world^$all
 !+ NOT_OPTIMIZED
-||sunpass.com-tollbilltac.xin^$all
-!+ NOT_OPTIMIZED
 ||sunpass.com-tollbillza.world^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-tollbillzc.world^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-tollbillzo.world^$all
-!+ NOT_OPTIMIZED
-||sunpass.com-tollbiqr.xin^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-tqdb.win^$all
 !+ NOT_OPTIMIZED
@@ -57517,8 +57361,6 @@
 ||sunpass.com-tsw.xin^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-tvse.win^$all
-!+ NOT_OPTIMIZED
-||sunpass.com-txhf.win^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-txjv.win^$all
 !+ NOT_OPTIMIZED
@@ -57549,8 +57391,6 @@
 ||sunpass.com-weqr.win^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-wyzn.win^$all
-!+ NOT_OPTIMIZED
-||sunpass.com-xalp.win^$all
 !+ NOT_OPTIMIZED
 ||sunpass.com-xevm.win^$all
 !+ NOT_OPTIMIZED
@@ -57594,6 +57434,8 @@
 !+ NOT_OPTIMIZED
 ||sunpass.driveflpus.sbs^$all
 !+ NOT_OPTIMIZED
+||sunpasscad.top^$all
+!+ NOT_OPTIMIZED
 ||sunpasstollsbill.com^$all
 !+ NOT_OPTIMIZED
 ||sunpassxj.win^$all
@@ -57601,8 +57443,6 @@
 ||sunpasvh.top^$all
 !+ NOT_OPTIMIZED
 ||sunpaszk.top^$all
-!+ NOT_OPTIMIZED
-||sunpbss.top^$all
 !+ NOT_OPTIMIZED
 ||sunpess.top^$all
 !+ NOT_OPTIMIZED
@@ -57623,8 +57463,6 @@
 ||superimposereliefsindos.web.app^$all
 !+ NOT_OPTIMIZED
 ||superleetty.weebly.com^$all
-!+ NOT_OPTIMIZED
-||supermix.co.uk^$all
 !+ NOT_OPTIMIZED
 ||superpromo.org^$all
 !+ NOT_OPTIMIZED
@@ -57738,6 +57576,8 @@
 !+ NOT_OPTIMIZED
 ||support-ext-metamask---org.webflow.io^$all
 !+ NOT_OPTIMIZED
+||support-familysuivi.com^$all
+!+ NOT_OPTIMIZED
 ||support-fanpage-page.ubpages.com^$all
 !+ NOT_OPTIMIZED
 ||support-fme-vutbr-cz.weebly.com^$all
@@ -57808,7 +57648,7 @@
 !+ NOT_OPTIMIZED
 ||support-us-ledger--cd-us.webflow.io^$all
 !+ NOT_OPTIMIZED
-||support-user-id03315309-tda2.vercel.app^$all
+||support-user-id03315309-wrsr.vercel.app^$all
 !+ NOT_OPTIMIZED
 ||support-validations-business-with-git-66529b-id1000311487-meta.vercel.app^$all
 !+ NOT_OPTIMIZED
@@ -57901,6 +57741,8 @@
 ||survey-na2.hsforms.com^$all
 !+ NOT_OPTIMIZED
 ||survey.zigpoll.com^$all
+!+ NOT_OPTIMIZED
+||survey7.renunganmantan.lat^$all
 !+ NOT_OPTIMIZED
 ||surxmayor.com^$all
 !+ NOT_OPTIMIZED
@@ -57997,6 +57839,8 @@
 ||sweeptakes298.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||sweetebakeryandfood.godaddysites.com^$all
+!+ NOT_OPTIMIZED
+||sweetmint.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||swiceth-cim0-redir.pages.dev^$all
 !+ NOT_OPTIMIZED
@@ -58158,6 +58002,12 @@
 !+ NOT_OPTIMIZED
 ||t-trezorio.webflow.io^$all
 !+ NOT_OPTIMIZED
+||t.evlvcmc.top^$all
+!+ NOT_OPTIMIZED
+||t.evlvcmn.top^$all
+!+ NOT_OPTIMIZED
+||t.evlvcmt.top^$all
+!+ NOT_OPTIMIZED
 ||t.salesmatemail.net^$all
 !+ NOT_OPTIMIZED
 ||t0z2pb6yfjhmfhqwssoikbgsjche.mfvaleengenharia.com.br^$all
@@ -58167,8 +58017,6 @@
 ||t645.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||t6fu7gu.weebly.com^$all
-!+ NOT_OPTIMIZED
-||t7op7.hp.peraichi.com^$all
 !+ NOT_OPTIMIZED
 ||t8dbvr.webwave.dev^$all
 !+ NOT_OPTIMIZED
@@ -58211,8 +58059,6 @@
 ||talented-positive-novel.glitch.me^$all
 !+ NOT_OPTIMIZED
 ||talergam.fans^$all
-!+ NOT_OPTIMIZED
-||talk-103457.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||talk-105973.weeblysite.com^$all
 !+ NOT_OPTIMIZED
@@ -58313,6 +58159,8 @@
 ||talomerulartuxta.qcj7mv.com^$all
 !+ NOT_OPTIMIZED
 ||taltalk.weebly.com^$all
+!+ NOT_OPTIMIZED
+||tandtek.dk^$all
 !+ NOT_OPTIMIZED
 ||tangkorings.rf.gd^$all
 !+ NOT_OPTIMIZED
@@ -58507,6 +58355,8 @@
 ||telas.sbs^$all
 !+ NOT_OPTIMIZED
 ||tele-gram.store^$all
+!+ NOT_OPTIMIZED
+||tele.redfolder.eu.org^$all
 !+ NOT_OPTIMIZED
 ||tele6689.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -58952,8 +58802,6 @@
 !+ NOT_OPTIMIZED
 ||telstraawebmaill1l.weebly.com^$all
 !+ NOT_OPTIMIZED
-||telstraawebmailllllll.weebly.com^$all
-!+ NOT_OPTIMIZED
 ||telstradminu.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||telstrafgdfghjkfguh.weebly.com^$all
@@ -58995,8 +58843,6 @@
 ||telstrawebmailinboxc.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||telstrawebmailsupport.weebly.com^$all
-!+ NOT_OPTIMIZED
-||telstrawebmailsupport0.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||telstrawebmailsupportserv.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -59156,6 +59002,8 @@
 !+ NOT_OPTIMIZED
 ||tg.mycardsshop.com^$all
 !+ NOT_OPTIMIZED
+||tg.tg-telegram.kr^$all
+!+ NOT_OPTIMIZED
 ||tg2813portal.com^$all
 !+ NOT_OPTIMIZED
 ||tga.dev^$all
@@ -59167,8 +59015,6 @@
 ||tgbnmjki.cc^$all
 !+ NOT_OPTIMIZED
 ||tgbnmjui.cc^$all
-!+ NOT_OPTIMIZED
-||tgbnwscv.cc^$all
 !+ NOT_OPTIMIZED
 ||tgcs123.com^$all
 !+ NOT_OPTIMIZED
@@ -59226,9 +59072,9 @@
 !+ NOT_OPTIMIZED
 ||thecourlierguy.weebly.com^$all
 !+ NOT_OPTIMIZED
-||thedailymoneytips.com^$all
+||thecryoexperience.com^$all
 !+ NOT_OPTIMIZED
-||thedefiwallet.online.talentsbeyond.com.ng^$all
+||thedailymoneytips.com^$all
 !+ NOT_OPTIMIZED
 ||thedruidschair.ie^$all
 !+ NOT_OPTIMIZED
@@ -59350,6 +59196,8 @@
 !+ NOT_OPTIMIZED
 ||three-security-billing.com^$all
 !+ NOT_OPTIMIZED
+||three111.pages.dev^$all
+!+ NOT_OPTIMIZED
 ||threebillnew.com^$all
 !+ NOT_OPTIMIZED
 ||throbbing-flower-8863.on.fleek.co^$all
@@ -59373,8 +59221,6 @@
 ||ticket-6df5a.web.app^$all
 !+ NOT_OPTIMIZED
 ||tidal-boiled-amphibian.glitch.me^$all
-!+ NOT_OPTIMIZED
-||tietr.icu^$all
 !+ NOT_OPTIMIZED
 ||tigo.pointsgift.pro^$all
 !+ NOT_OPTIMIZED
@@ -59622,8 +59468,6 @@
 !+ NOT_OPTIMIZED
 ||tolls.txtagfggr.cc^$all
 !+ NOT_OPTIMIZED
-||tolls.txtagfktz.cc^$all
-!+ NOT_OPTIMIZED
 ||tolls.txtagfprw.cc^$all
 !+ NOT_OPTIMIZED
 ||tolls.txtaggfy.win^$all
@@ -59754,8 +59598,6 @@
 !+ NOT_OPTIMIZED
 ||tools.packages-trafm.xin^$all
 !+ NOT_OPTIMIZED
-||tools.packages-traut.xin^$all
-!+ NOT_OPTIMIZED
 ||tools.packages-trweg.xin^$all
 !+ NOT_OPTIMIZED
 ||tools.packages-trwei.xin^$all
@@ -59807,6 +59649,8 @@
 ||touwale-89321.web.app^$all
 !+ NOT_OPTIMIZED
 ||townhallpro.myportfolio.com^$all
+!+ NOT_OPTIMIZED
+||toyotadelsur.com^$all
 !+ NOT_OPTIMIZED
 ||toystodolls.com^$all
 !+ NOT_OPTIMIZED
@@ -60024,8 +59868,6 @@
 !+ NOT_OPTIMIZED
 ||track.information-reg.win^$all
 !+ NOT_OPTIMIZED
-||track.information-riu.win^$all
-!+ NOT_OPTIMIZED
 ||track.information-roe.win^$all
 !+ NOT_OPTIMIZED
 ||track.information-rot.win^$all
@@ -60074,8 +59916,6 @@
 !+ NOT_OPTIMIZED
 ||track.information-wbu.win^$all
 !+ NOT_OPTIMIZED
-||track.information-wbx.win^$all
-!+ NOT_OPTIMIZED
 ||track.information-wby.win^$all
 !+ NOT_OPTIMIZED
 ||track.information-wlb.win^$all
@@ -60096,11 +59936,7 @@
 !+ NOT_OPTIMIZED
 ||track.information-wmf.win^$all
 !+ NOT_OPTIMIZED
-||track.information-wmg.win^$all
-!+ NOT_OPTIMIZED
 ||track.information-wmu.win^$all
-!+ NOT_OPTIMIZED
-||track.information-wmv.win^$all
 !+ NOT_OPTIMIZED
 ||track.information-wmx.win^$all
 !+ NOT_OPTIMIZED
@@ -60173,8 +60009,6 @@
 ||track.information-wyz.win^$all
 !+ NOT_OPTIMIZED
 ||track.information-wzb.win^$all
-!+ NOT_OPTIMIZED
-||track.information-wzc.win^$all
 !+ NOT_OPTIMIZED
 ||track.information-wzv.win^$all
 !+ NOT_OPTIMIZED
@@ -60529,8 +60363,6 @@
 ||trezorhardwar-walleet.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||trezorhardwarwallett.webflow.io^$all
-!+ NOT_OPTIMIZED
-||trezorharedwree.gitbook.io^$all
 !+ NOT_OPTIMIZED
 ||trezorilginiss.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -61014,7 +60846,113 @@
 !+ NOT_OPTIMIZED
 ||tx9mkhhbb.cc.rs6.net^$all
 !+ NOT_OPTIMIZED
+||txdmv.com-creditva.world^$all
+!+ NOT_OPTIMIZED
+||txdmv.com-creditve.world^$all
+!+ NOT_OPTIMIZED
+||txdmv.com-creditvr.world^$all
+!+ NOT_OPTIMIZED
+||txdmv.com-creditvt.world^$all
+!+ NOT_OPTIMIZED
+||txdmv.com-creditvu.world^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-ag.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-ar.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-bk.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-bl.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-bm.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-cf.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-cruda.vip^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-do.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-ela.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-elb.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-elc.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-eld.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-elg.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-elh.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-els.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-elv.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-elx.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-elz.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-eu.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-ff.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-fngtm.vip^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-gy.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-hs.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-jwe.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-lb.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-mb.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-mhuga.vip^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-nsmyx.vip^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-nzyer.vip^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-obaaa.vip^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-oq.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-pk.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-qh.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-qi.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-rd.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-rg.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-rt.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-rv.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-rz.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-sg.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-sq.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-ss.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-tc.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-te.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-ts.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-tu.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-tv.xin^$all
+!+ NOT_OPTIMIZED
 ||txdmv.gov-txdmvq.vip^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-txdmvw.vip^$all
 !+ NOT_OPTIMIZED
 ||txdmv.gov-txiaz.vip^$all
 !+ NOT_OPTIMIZED
@@ -61027,6 +60965,28 @@
 ||txdmv.gov-txibnqt.vip^$all
 !+ NOT_OPTIMIZED
 ||txdmv.gov-txirf.vip^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-ux.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-vhnss.vip^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-vi.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-vq.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-wn.xin^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-wq.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-wte.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-wtl.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-wtm.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-wto.win^$all
+!+ NOT_OPTIMIZED
+||txdmv.gov-wtp.win^$all
 !+ NOT_OPTIMIZED
 ||txijmwi5ogd2-pages-dev.translate.goog^$all
 !+ NOT_OPTIMIZED
@@ -61062,6 +61022,8 @@
 !+ NOT_OPTIMIZED
 ||txtag.org-aix.vip^$all
 !+ NOT_OPTIMIZED
+||txtag.org-aqwvj.vip^$all
+!+ NOT_OPTIMIZED
 ||txtag.org-asfwb.win^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-asj.xin^$all
@@ -61071,8 +61033,6 @@
 ||txtag.org-ayjuy.win^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-baec.vip^$all
-!+ NOT_OPTIMIZED
-||txtag.org-bdzk.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-bgjx.vip^$all
 !+ NOT_OPTIMIZED
@@ -61091,8 +61051,6 @@
 ||txtag.org-chgrz.win^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-chpvw.win^$all
-!+ NOT_OPTIMIZED
-||txtag.org-cnkw.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-coc.vip^$all
 !+ NOT_OPTIMIZED
@@ -61180,9 +61138,9 @@
 !+ NOT_OPTIMIZED
 ||txtag.org-faky.vip^$all
 !+ NOT_OPTIMIZED
-||txtag.org-fcle.vip^$all
-!+ NOT_OPTIMIZED
 ||txtag.org-fiku.vip^$all
+!+ NOT_OPTIMIZED
+||txtag.org-flwon.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-fntp.vip^$all
 !+ NOT_OPTIMIZED
@@ -61200,6 +61158,8 @@
 !+ NOT_OPTIMIZED
 ||txtag.org-ggua.xin^$all
 !+ NOT_OPTIMIZED
+||txtag.org-gjpkw.vip^$all
+!+ NOT_OPTIMIZED
 ||txtag.org-gjto.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-gjvr.vip^$all
@@ -61210,7 +61170,7 @@
 !+ NOT_OPTIMIZED
 ||txtag.org-hqiz.vip^$all
 !+ NOT_OPTIMIZED
-||txtag.org-ikhgn.win^$all
+||txtag.org-hyvac.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-ivyh.vip^$all
 !+ NOT_OPTIMIZED
@@ -61256,9 +61216,9 @@
 !+ NOT_OPTIMIZED
 ||txtag.org-mgna.vip^$all
 !+ NOT_OPTIMIZED
-||txtag.org-mjlr.vip^$all
-!+ NOT_OPTIMIZED
 ||txtag.org-mlcs.vip^$all
+!+ NOT_OPTIMIZED
+||txtag.org-mwnym.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-nci.vip^$all
 !+ NOT_OPTIMIZED
@@ -61271,6 +61231,10 @@
 ||txtag.org-nhlhq.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-nizr.vip^$all
+!+ NOT_OPTIMIZED
+||txtag.org-nvspy.vip^$all
+!+ NOT_OPTIMIZED
+||txtag.org-nzoli.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-odo.vip^$all
 !+ NOT_OPTIMIZED
@@ -61296,6 +61260,8 @@
 !+ NOT_OPTIMIZED
 ||txtag.org-pyxg.vip^$all
 !+ NOT_OPTIMIZED
+||txtag.org-qhjki.vip^$all
+!+ NOT_OPTIMIZED
 ||txtag.org-qko.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-qrp.vip^$all
@@ -61316,13 +61282,15 @@
 !+ NOT_OPTIMIZED
 ||txtag.org-ryd.vip^$all
 !+ NOT_OPTIMIZED
+||txtag.org-shqnx.vip^$all
+!+ NOT_OPTIMIZED
 ||txtag.org-shs.xin^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-shu.vip^$all
 !+ NOT_OPTIMIZED
-||txtag.org-spj.vip^$all
+||txtag.org-sltkl.vip^$all
 !+ NOT_OPTIMIZED
-||txtag.org-storefrontczz.xin^$all
+||txtag.org-spj.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-sulbi.vip^$all
 !+ NOT_OPTIMIZED
@@ -61372,11 +61340,7 @@
 !+ NOT_OPTIMIZED
 ||txtag.org-txtagstorefrontchl.xin^$all
 !+ NOT_OPTIMIZED
-||txtag.org-txtagstorefrontcqf.world^$all
-!+ NOT_OPTIMIZED
 ||txtag.org-txtagstorefrontkky.xin^$all
-!+ NOT_OPTIMIZED
-||txtag.org-txtagstorefrontxzs.xin^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-txtagstorefrontzkq.xin^$all
 !+ NOT_OPTIMIZED
@@ -61390,6 +61354,8 @@
 !+ NOT_OPTIMIZED
 ||txtag.org-uquox.vip^$all
 !+ NOT_OPTIMIZED
+||txtag.org-vcpqy.vip^$all
+!+ NOT_OPTIMIZED
 ||txtag.org-vejj.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-vim.vip^$all
@@ -61397,6 +61363,8 @@
 ||txtag.org-vjlfi.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-vpj.vip^$all
+!+ NOT_OPTIMIZED
+||txtag.org-vpwvc.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-vqghb.vip^$all
 !+ NOT_OPTIMIZED
@@ -61408,13 +61376,23 @@
 !+ NOT_OPTIMIZED
 ||txtag.org-wsnlw.win^$all
 !+ NOT_OPTIMIZED
+||txtag.org-wvrnt.vip^$all
+!+ NOT_OPTIMIZED
 ||txtag.org-wxtc.vip^$all
 !+ NOT_OPTIMIZED
+||txtag.org-xayzj.vip^$all
+!+ NOT_OPTIMIZED
 ||txtag.org-xbe.vip^$all
+!+ NOT_OPTIMIZED
+||txtag.org-xfhfw.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-xfxg.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-xgc.vip^$all
+!+ NOT_OPTIMIZED
+||txtag.org-xjsth.vip^$all
+!+ NOT_OPTIMIZED
+||txtag.org-xlsii.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-xpya.vip^$all
 !+ NOT_OPTIMIZED
@@ -61451,6 +61429,8 @@
 ||txtag.org-yizbc.win^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-ykyi.vip^$all
+!+ NOT_OPTIMIZED
+||txtag.org-yqyxl.vip^$all
 !+ NOT_OPTIMIZED
 ||txtag.org-zak.vip^$all
 !+ NOT_OPTIMIZED
@@ -61545,6 +61525,8 @@
 ||uanl-3ue74-aut-email-verify-488jfu4-acc.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||uaoli.github.io^$all
+!+ NOT_OPTIMIZED
+||uatdenifevendore.dynv6.net^$all
 !+ NOT_OPTIMIZED
 ||uauconguanew.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -61670,15 +61652,11 @@
 !+ NOT_OPTIMIZED
 ||ujguijbjkg.weebly.com^$all
 !+ NOT_OPTIMIZED
-||ujhgmnvd.cc^$all
-!+ NOT_OPTIMIZED
 ||ujimasters.com^$all
 !+ NOT_OPTIMIZED
 ||ujiooslmnj.ubpages.com^$all
 !+ NOT_OPTIMIZED
 ||ujios.github.io^$all
-!+ NOT_OPTIMIZED
-||ujjmxddsweolkijh.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||ujkjhqsc.cc^$all
 !+ NOT_OPTIMIZED
@@ -61801,6 +61779,8 @@
 ||uninetplus.webcindario.com^$all
 !+ NOT_OPTIMIZED
 ||unionbankgroup.com^$all
+!+ NOT_OPTIMIZED
+||unionmsghana.com^$all
 !+ NOT_OPTIMIZED
 ||unionterriensemble.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
@@ -61986,8 +61966,6 @@
 !+ NOT_OPTIMIZED
 ||updatemymailbox.weebly.com^$all
 !+ NOT_OPTIMIZED
-||updatemymailbox533235php.weebly.com^$all
-!+ NOT_OPTIMIZED
 ||updatenow.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||updatenow10111454.weebly.com^$all
@@ -62154,8 +62132,6 @@
 !+ NOT_OPTIMIZED
 ||us.qwedpi.top^$all
 !+ NOT_OPTIMIZED
-||us.qweduh.top^$all
-!+ NOT_OPTIMIZED
 ||us.qwedxs.top^$all
 !+ NOT_OPTIMIZED
 ||us.qwedza.top^$all
@@ -62240,15 +62216,17 @@
 !+ NOT_OPTIMIZED
 ||userattmail7894984904905.weebly.com^$all
 !+ NOT_OPTIMIZED
+||userl.shop^$all
+!+ NOT_OPTIMIZED
 ||username8.godaddysites.com^$all
 !+ NOT_OPTIMIZED
 ||username9.godaddysites.com^$all
 !+ NOT_OPTIMIZED
-||userprotectionadzone-pi.vercel.app^$all
-!+ NOT_OPTIMIZED
 ||userrpichinch.webcindario.com^$all
 !+ NOT_OPTIMIZED
 ||userservice7678.weebly.com^$all
+!+ NOT_OPTIMIZED
+||usersfixd.app^$all
 !+ NOT_OPTIMIZED
 ||usevgezpasscom.xin^$all
 !+ NOT_OPTIMIZED
@@ -62338,6 +62316,14 @@
 !+ NOT_OPTIMIZED
 ||usps.com-adffd.top^$all
 !+ NOT_OPTIMIZED
+||usps.com-aiw.world^$all
+!+ NOT_OPTIMIZED
+||usps.com-aiwe.world^$all
+!+ NOT_OPTIMIZED
+||usps.com-aiwr.world^$all
+!+ NOT_OPTIMIZED
+||usps.com-aiwt.world^$all
+!+ NOT_OPTIMIZED
 ||usps.com-asiop.vip^$all
 !+ NOT_OPTIMIZED
 ||usps.com-asnup.vip^$all
@@ -62368,6 +62354,8 @@
 !+ NOT_OPTIMIZED
 ||usps.com-dsafd.top^$all
 !+ NOT_OPTIMIZED
+||usps.com-dst.world^$all
+!+ NOT_OPTIMIZED
 ||usps.com-dtshy.vip^$all
 !+ NOT_OPTIMIZED
 ||usps.com-duen.win^$all
@@ -62385,6 +62373,8 @@
 ||usps.com-ghgte.xin^$all
 !+ NOT_OPTIMIZED
 ||usps.com-gtyter.xin^$all
+!+ NOT_OPTIMIZED
+||usps.com-het.world^$all
 !+ NOT_OPTIMIZED
 ||usps.com-hfjb.win^$all
 !+ NOT_OPTIMIZED
@@ -62408,13 +62398,11 @@
 !+ NOT_OPTIMIZED
 ||usps.com-javz.win^$all
 !+ NOT_OPTIMIZED
-||usps.com-jddk.top^$all
+||usps.com-kaz.world^$all
 !+ NOT_OPTIMIZED
 ||usps.com-krvc.win^$all
 !+ NOT_OPTIMIZED
 ||usps.com-kuynh.xin^$all
-!+ NOT_OPTIMIZED
-||usps.com-nwux.win^$all
 !+ NOT_OPTIMIZED
 ||usps.com-nyhsgd.vip^$all
 !+ NOT_OPTIMIZED
@@ -62444,6 +62432,8 @@
 !+ NOT_OPTIMIZED
 ||usps.com-tdgsd.top^$all
 !+ NOT_OPTIMIZED
+||usps.com-tra.world^$all
+!+ NOT_OPTIMIZED
 ||usps.com-trackdrw.top^$all
 !+ NOT_OPTIMIZED
 ||usps.com-trackeb.win^$all
@@ -62466,21 +62456,15 @@
 !+ NOT_OPTIMIZED
 ||usps.com-tracking-helphh1.cc^$all
 !+ NOT_OPTIMIZED
-||usps.com-tracking-helphhh.cc^$all
-!+ NOT_OPTIMIZED
 ||usps.com-tracking-helpqs.cc^$all
 !+ NOT_OPTIMIZED
 ||usps.com-tracking-helpspo.cc^$all
-!+ NOT_OPTIMIZED
-||usps.com-tracking-helpuu.cc^$all
 !+ NOT_OPTIMIZED
 ||usps.com-tracking-helpww.cc^$all
 !+ NOT_OPTIMIZED
 ||usps.com-tracking-usxc.cc^$all
 !+ NOT_OPTIMIZED
 ||usps.com-tracking-usxh.cc^$all
-!+ NOT_OPTIMIZED
-||usps.com-tracking-usxxk.cc^$all
 !+ NOT_OPTIMIZED
 ||usps.com-tracking-usxxxm.cc^$all
 !+ NOT_OPTIMIZED
@@ -62510,7 +62494,7 @@
 !+ NOT_OPTIMIZED
 ||usps.com-trackwrj.vip^$all
 !+ NOT_OPTIMIZED
-||usps.com-ulss.xin^$all
+||usps.com-uer.world^$all
 !+ NOT_OPTIMIZED
 ||usps.com-usaiw.xin^$all
 !+ NOT_OPTIMIZED
@@ -62567,8 +62551,6 @@
 ||usputr.win^$all
 !+ NOT_OPTIMIZED
 ||uspz.egkhsjy.shop^$all
-!+ NOT_OPTIMIZED
-||usqhfezpasscom.xin^$all
 !+ NOT_OPTIMIZED
 ||usqu.svygaxgw.top^$all
 !+ NOT_OPTIMIZED
@@ -62868,6 +62850,8 @@
 !+ NOT_OPTIMIZED
 ||varietyscissor.com^$all
 !+ NOT_OPTIMIZED
+||vasejensen.dk^$all
+!+ NOT_OPTIMIZED
 ||vasiliki.doomdns.org^$all
 !+ NOT_OPTIMIZED
 ||vasilybrabusterrinsulias.firebaseapp.com^$all
@@ -63002,6 +62986,8 @@
 !+ NOT_OPTIMIZED
 ||ver1fycitypng.weebly.com^$all
 !+ NOT_OPTIMIZED
+||veraluxedecor.com^$all
+!+ NOT_OPTIMIZED
 ||verauyvalid.webcindario.com^$all
 !+ NOT_OPTIMIZED
 ||verfddonecnbm.firebaseapp.com^$all
@@ -63033,6 +63019,8 @@
 ||verification-107236.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||verification-account.start.page^$all
+!+ NOT_OPTIMIZED
+||verification-center-100023271763.page-suspension.net^$all
 !+ NOT_OPTIMIZED
 ||verification-center-10002327498.page-suspension.com^$all
 !+ NOT_OPTIMIZED
@@ -63235,6 +63223,8 @@
 ||vfcv-cb28d.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||vfcv-cb28d.web.app^$all
+!+ NOT_OPTIMIZED
+||vfhcltgjh-10fe814.ingress-haven.ewp.live^$all
 !+ NOT_OPTIMIZED
 ||vfny76u555u6y4rth.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -63465,6 +63455,10 @@
 ||virtualrisk.com.ar^$all
 !+ NOT_OPTIMIZED
 ||visa-fectwindo.dtfby.cn^$all
+!+ NOT_OPTIMIZED
+||visa-opoterful.xddq207.cn^$all
+!+ NOT_OPTIMIZED
+||visa-rurist.atz02.com^$all
 !+ NOT_OPTIMIZED
 ||visa.co.jp.bornaland.com^$all
 !+ NOT_OPTIMIZED
@@ -63718,8 +63712,6 @@
 !+ NOT_OPTIMIZED
 ||vrl-sg5421.top^$all
 !+ NOT_OPTIMIZED
-||vrl-y6523.top^$all
-!+ NOT_OPTIMIZED
 ||vrtq.e-scurefiles.net^$all
 !+ NOT_OPTIMIZED
 ||vrwebmailsys.weebly.com^$all
@@ -63757,6 +63749,8 @@
 ||vtmyfbqj.vip^$all
 !+ NOT_OPTIMIZED
 ||vtrsucxpz904.weebly.com^$all
+!+ NOT_OPTIMIZED
+||vtv.in.ua^$all
 !+ NOT_OPTIMIZED
 ||vtxmail2018.myfreesites.net^$all
 !+ NOT_OPTIMIZED
@@ -63924,6 +63918,10 @@
 !+ NOT_OPTIMIZED
 ||walletconnectbg.webflow.io^$all
 !+ NOT_OPTIMIZED
+||walletconnectnode.firebaseapp.com^$all
+!+ NOT_OPTIMIZED
+||walletconnectnode.web.app^$all
+!+ NOT_OPTIMIZED
 ||walletconnectsdapps.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||walletconnectsdapps.web.app^$all
@@ -63945,6 +63943,8 @@
 ||wallettrezor-io.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||walletvalidator.pages.dev^$all
+!+ NOT_OPTIMIZED
+||wallmadison.com^$all
 !+ NOT_OPTIMIZED
 ||walltconnectsend.odoo.com^$all
 !+ NOT_OPTIMIZED
@@ -64100,9 +64100,9 @@
 !+ NOT_OPTIMIZED
 ||web-exodus-center.github.io^$all
 !+ NOT_OPTIMIZED
-||web-exodus-help.github.io^$all
-!+ NOT_OPTIMIZED
 ||web-help-leaddgers.webflow.io^$all
+!+ NOT_OPTIMIZED
+||web-infoupdatetoll-currentez.xhepetysraul.xyz^$all
 !+ NOT_OPTIMIZED
 ||web-konto.webflow.io^$all
 !+ NOT_OPTIMIZED
@@ -64127,6 +64127,8 @@
 ||web-protect.pages.dev^$all
 !+ NOT_OPTIMIZED
 ||web-proton-mail.weebly.com^$all
+!+ NOT_OPTIMIZED
+||web-raboportal.ddns.info^$all
 !+ NOT_OPTIMIZED
 ||web-smartfixapp.pages.dev^$all
 !+ NOT_OPTIMIZED
@@ -64317,8 +64319,6 @@
 ||webmail-103382.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||webmail-10369122.weeblysite.com^$all
-!+ NOT_OPTIMIZED
-||webmail-103873-102381.weeblysite.com^$all
 !+ NOT_OPTIMIZED
 ||webmail-104147.square.site^$all
 !+ NOT_OPTIMIZED
@@ -64760,6 +64760,8 @@
 !+ NOT_OPTIMIZED
 ||wellsfargo.dealogic.com^$all
 !+ NOT_OPTIMIZED
+||wellsfargo00connectweb.vercel.app^$all
+!+ NOT_OPTIMIZED
 ||wellt--ledgre-sso.webflow.io^$all
 !+ NOT_OPTIMIZED
 ||wellta--leidger--usa.webflow.io^$all
@@ -64808,6 +64810,8 @@
 !+ NOT_OPTIMIZED
 ||westernsecurityonline.weebly.com^$all
 !+ NOT_OPTIMIZED
+||westernunion-verification.com^$all
+!+ NOT_OPTIMIZED
 ||westneoouyr.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||westnet-102611.weeblysite.com^$all
@@ -64821,6 +64825,10 @@
 ||westoneledrago.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
 ||westoneledrago.web.app^$all
+!+ NOT_OPTIMIZED
+||westriv-5dcd6.firebaseapp.com^$all
+!+ NOT_OPTIMIZED
+||westriv-5dcd6.web.app^$all
 !+ NOT_OPTIMIZED
 ||westriv-comm.firebaseapp.com^$all
 !+ NOT_OPTIMIZED
@@ -65218,8 +65226,6 @@
 !+ NOT_OPTIMIZED
 ||www-xfntysassistancehub-com.work.gd^$all
 !+ NOT_OPTIMIZED
-||www1.cartaoatacadao.com^$all
-!+ NOT_OPTIMIZED
 ||www2--mlcauerard--co--jp--mlaocredd-caidrams68592-workers-dev.translate.goog^$all
 !+ NOT_OPTIMIZED
 ||www2.wentiro.shop^$all
@@ -65324,6 +65330,8 @@
 !+ NOT_OPTIMIZED
 ||x5g8e.d4e7r.workers.dev^$all
 !+ NOT_OPTIMIZED
+||x5s.1cb.mytemp.website^$all
+!+ NOT_OPTIMIZED
 ||x7d8e94d617649ef9eihor61eyb.w3spaces.com^$all
 !+ NOT_OPTIMIZED
 ||x7g2mg.webwave.dev^$all
@@ -65361,8 +65369,6 @@
 ||xdjhkdxnc.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||xdl82h0t2swf-pages-dev.translate.goog^$all
-!+ NOT_OPTIMIZED
-||xe3grt.lat^$all
 !+ NOT_OPTIMIZED
 ||xep.li^$all
 !+ NOT_OPTIMIZED
@@ -65445,8 +65451,6 @@
 ||xfinity-voice-j74rv.daftpage.com^$all
 !+ NOT_OPTIMIZED
 ||xfinity20.weebly.com^$all
-!+ NOT_OPTIMIZED
-||xfinityaccountverificationns.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||xfinitybet.weebly.com^$all
 !+ NOT_OPTIMIZED
@@ -65573,6 +65577,8 @@
 ||xmobliely.weebly.com^$all
 !+ NOT_OPTIMIZED
 ||xmxmiednfhjg.weebly.com^$all
+!+ NOT_OPTIMIZED
+||xn-----7kcig8dkimf2k.xn--p1ai^$all
 !+ NOT_OPTIMIZED
 ||xn----8sbenebo4al1d2aq.xn--p1ai^$all
 !+ NOT_OPTIMIZED
@@ -65788,6 +65794,8 @@
 !+ NOT_OPTIMIZED
 ||xz0506.cn^$all
 !+ NOT_OPTIMIZED
+||xz0507.cn^$all
+!+ NOT_OPTIMIZED
 ||xzac-g-gg.blogspot.nl^$all
 !+ NOT_OPTIMIZED
 ||xzcuvk24j3ethgcxrkucjhmws-fyds57dtuyjvkj43er79yit.teemill.com^$all
@@ -65940,11 +65948,11 @@
 !+ NOT_OPTIMIZED
 ||yetisportbar.com^$all
 !+ NOT_OPTIMIZED
+||yetkiliservisiyiz.net^$all
+!+ NOT_OPTIMIZED
 ||yettel.afetivabrinquedos.com.br^$all
 !+ NOT_OPTIMIZED
 ||yeurulbenagri.firebaseapp.com^$all
-!+ NOT_OPTIMIZED
-||yfbmgzsw.vip^$all
 !+ NOT_OPTIMIZED
 ||yfpnh.cn^$all
 !+ NOT_OPTIMIZED
@@ -66113,8 +66121,6 @@
 ||ytghbnkl.cc^$all
 !+ NOT_OPTIMIZED
 ||ytghedcs.vip^$all
-!+ NOT_OPTIMIZED
-||ytjkgfrs.vip^$all
 !+ NOT_OPTIMIZED
 ||ytkiewvf.cc^$all
 !+ NOT_OPTIMIZED
@@ -66608,8 +66614,6 @@
 !+ NOT_OPTIMIZED
 ||zxn532zimbra.weebly.com^$all
 !+ NOT_OPTIMIZED
-||zxwqww.cn^$all
-!+ NOT_OPTIMIZED
 ||zxz09m.webwave.dev^$all
 !+ NOT_OPTIMIZED
 ||zyyj97.webwave.dev^$all
@@ -67001,6 +67005,8 @@
 ||assets-eur.mkt.dynamics.com/0abbb778-44ed-ef11-933d-000d3a24897a/digitalassets/standaloneforms/1bb7593c-e6f5-ef11-be1f-7c1e525f237f^$all
 !+ NOT_OPTIMIZED
 ||assets-eur.mkt.dynamics.com/0abbb778-44ed-ef11-933d-000d3a24897a/digitalassets/standaloneforms/41f89baa-6611-f011-9989-7c1e525f237f^$all
+!+ NOT_OPTIMIZED
+||assets-eur.mkt.dynamics.com/5cae0c50-101a-f011-9aed-000d3a4a154e/digitalassets/standaloneforms/d366fc0c-b325-f011-8c4d-6045bd8d9b87^$all
 !+ NOT_OPTIMIZED
 ||assets.adobe.com/id/urn:aaid:sc:us:1ea9aa00-f65b-4909-af0f-a3c223ebcf8f?view=published^$all
 !+ NOT_OPTIMIZED
@@ -73074,6 +73080,24 @@
 !+ NOT_OPTIMIZED
 ||customer-portal.info/render-template/?csu=yygnnhpa&status_id=n^$all
 !+ NOT_OPTIMIZED
+||cutt.ly/4rlrcjqp^$all
+!+ NOT_OPTIMIZED
+||cutt.ly/erkv3dbw^$all
+!+ NOT_OPTIMIZED
+||cutt.ly/frlrxs96^$all
+!+ NOT_OPTIMIZED
+||cutt.ly/orlrbsok^$all
+!+ NOT_OPTIMIZED
+||cutt.ly/qrlrcugp^$all
+!+ NOT_OPTIMIZED
+||cutt.ly/rrltibuh^$all
+!+ NOT_OPTIMIZED
+||cutt.ly/srltiv5b^$all
+!+ NOT_OPTIMIZED
+||cutt.ly/wrlrxn8o^$all
+!+ NOT_OPTIMIZED
+||cutt.ly/wrlt2hje^$all
+!+ NOT_OPTIMIZED
 ||cuty.io/7asdxvbqpr^$all
 !+ NOT_OPTIMIZED
 ||cuty.io/p1ntlpd^$all
@@ -73087,6 +73111,10 @@
 ||dailythanthi.com/?vnchs^$all
 !+ NOT_OPTIMIZED
 ||dailythanthi.com/?z=verify^$all
+!+ NOT_OPTIMIZED
+||did.li/-billkvish6^$all
+!+ NOT_OPTIMIZED
+||did.li/-kvsh6-il^$all
 !+ NOT_OPTIMIZED
 ||did.li/0ijiw^$all
 !+ NOT_OPTIMIZED
@@ -73115,6 +73143,8 @@
 ||did.li/cs2cn^$all
 !+ NOT_OPTIMIZED
 ||did.li/d7d6q^$all
+!+ NOT_OPTIMIZED
+||did.li/fedex-il^$all
 !+ NOT_OPTIMIZED
 ||did.li/go9lc^$all
 !+ NOT_OPTIMIZED
@@ -73212,6 +73242,8 @@
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/136_murp12_w8wgklmlh1gujohdeom6ynxuuac1nqbxy/edit^$all
 !+ NOT_OPTIMIZED
+||docs.google.com/drawings/d/13mcl7f9hs6wkxavgm_re0mmt5ijwcxilrjnqxpxjvfu/edit^$all
+!+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/14sp42yan_gqwergmqdophhgyhcex6xhdnc672o2ve0w/edit^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/15rkvy1wmss1lonhgv_h2zbm4mkjox9hxldnhidlpjda/edit^$all
@@ -73266,6 +73298,8 @@
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1b6hpjx4gjol2v-rrt-dk5yjeg3qlogjgsharuzwqars/preview^$all
 !+ NOT_OPTIMIZED
+||docs.google.com/drawings/d/1bfrgbakhsdtap7owjqvgejvalpzx7pkswbjlkmbchwu/edit^$all
+!+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1buwn4w1msozjqya4xpqxzotjsn1t4e13_dkksfaftg4/edit^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1c0azlrf7kfkt4hqpmb6hpvuzpif5yeq5ajvcwzrfc48/preview?userid=kzzh6d3y^$all
@@ -73303,6 +73337,8 @@
 ||docs.google.com/drawings/d/1flj9usugrwcymbwuoxlwjrhl7ah_f4t7fywyjy0rrd0/edit^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1g2uj3ugcskrsejitdzxujscroo_mgagj3jrzv-tgcyy/edit^$all
+!+ NOT_OPTIMIZED
+||docs.google.com/drawings/d/1g31bhloldjqlhe5k50qc5jarsj_1cxi3wazodfytvp8/edit^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1ghskqh77aod_vz29urh5nhke7tkgniutczhpbrmj9eg/edit^$all
 !+ NOT_OPTIMIZED
@@ -73364,8 +73400,6 @@
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1lhc1x8_st2sj4o5ob4bunvthqikcmz05878esimhxji/edit^$all
 !+ NOT_OPTIMIZED
-||docs.google.com/drawings/d/1m1aiozva4xqywt5mphfzbmzrs1fju0ueidjiseuokzi/preview^$all
-!+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1m6gveqaaf6qpxgaeodqsn7ysdrwcphwocusl5hhtmce/edit^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1m86q87vp8ba6_ybkue1o0tbigcn5lkylkygzakhwshi/edit^$all
@@ -73422,6 +73456,8 @@
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1rldzex5typmytap5uxm002igvanoronuxezd3l5dmhw/preview?9871263487565^$all
 !+ NOT_OPTIMIZED
+||docs.google.com/drawings/d/1s0icisndi_k98annoihdoozk4tob8wserayw_dmwwui/edit^$all
+!+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1s_e351mx4rggnhkyjn-dxojxd-n7wpxrv4t6z4bbpdk/edit^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1sglhidotiz5m8hnokekqeabs-xbuaeggp5t5o8nkcyi/edit^$all
@@ -73439,6 +73475,8 @@
 ||docs.google.com/drawings/d/1uc0zmvstaa8zgzcem4izhrzmu8o_le5q4pyamhxecje/edit^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1ujql7ioff8wexhycfsz9xrbjf7ryyktx1mqegtdgpoc/edit^$all
+!+ NOT_OPTIMIZED
+||docs.google.com/drawings/d/1ukzgw3brjwq9addrf7fuxqoonf2kf_rjbrq5gqegm1s/edit^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/drawings/d/1ulgrqrekeolad8cllom22bpdvjexrjovuntadncv9co/edit^$all
 !+ NOT_OPTIMIZED
@@ -73606,6 +73644,8 @@
 !+ NOT_OPTIMIZED
 ||docs.google.com/forms/d/e/1faipqlsdkxrb-75w9mrsivy-ldmr5q8-6bcam3bc4etihjoid1ghltw/viewform^$all
 !+ NOT_OPTIMIZED
+||docs.google.com/forms/d/e/1faipqlsdm_prpxzv6oqczdmjdkuyc4ykvhnpihqeijmpgvspqzugv4q/viewform?usp=send_form^$all
+!+ NOT_OPTIMIZED
 ||docs.google.com/forms/d/e/1faipqlsdmfwwcdrycwzsp5gg_1yr5vhoskpd3ws2_8bxa0kngyfrwsa/viewform^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/forms/d/e/1faipqlsdmg-qhpe6ajy8qt1rltzczikrgrfr0b0vb6dk_mg4choprda/viewform^$all
@@ -73721,6 +73761,8 @@
 ||docs.google.com/forms/d/e/1faipqlsfzaiv5tzjtym2jn1o5ph76_qxuvicxz9gs3mi6v2hr9_j2lg/viewform^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/forms/d/e/1faipqlsfzaiv5tzjtym2jn1o5ph76_qxuvicxz9gs3mi6v2hr9_j2lg/viewform?usp=send_form^$all
+!+ NOT_OPTIMIZED
+||docs.google.com/forms/d/e/1faipqlsfzmzomhz-eajzpmpqwjsvbjjhg4f-n5wccb1gu-qidmrdcea/viewform?usp=send_form^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/forms/u/1/d/e/1faipqlsea5gmlejfqpjoupf-bsjgp_jtvbz1zozu6wa7w-s8osclpbw/formresponse^$all
 !+ NOT_OPTIMIZED
@@ -75601,6 +75643,8 @@
 ||docs.google.com/presentation/d/e/2pacx-1vqdlgd4k6z6wx_foiv6dgoquebb0ne8hlty0jum-urakxx6cmzpmlfmdzb5lutn473n2acuhb2hasuh/pub?start=false&loop=false&delayms=3000&slide=id.p^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vqdlj_c_zfzq9aonmpqr827wwxco8vokr_cwwj9tsywudc32t4ceg_ynxaarkul3eucoe17uoeumc74/pub?start=false&loop=false&delayms=3000^$all
+!+ NOT_OPTIMIZED
+||docs.google.com/presentation/d/e/2pacx-1vqdmcf2ck2pp3j14er7y8g-s0vetdq0vczric8k_goo30v4w7iimy064cmcuc1ybivlphdyzakg8agg/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vqdmpkre3z9arfweiqw7vz_thisfmurcjtza3fw90ruan7aaraojduylntcqh-1juvbapj1dq7wyt-m/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
@@ -78198,6 +78242,8 @@
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vrblyhxpfli-mcclovwn7gxd8zishryi_unhnknmhomviftquaj725s4jxii0wbtyixzjbppxrgu0vj/pub^$all
 !+ NOT_OPTIMIZED
+||docs.google.com/presentation/d/e/2pacx-1vrbmgnbqiolixery_ym3h5f_2i1g_yjtxhnbvlbpmdborxdf7a7oajlu-fiwczyl8rowsmpkuvd4h-4/pub?start=false&amp;loop=false&amp;delayms=3000^$all
+!+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vrbmv7nejr7iwibq_ttmj3nbbpoof2g_wmtwpyeeo2gj85p-kxpa16dpcw5nsxn4tes2ae-sd1yajem/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vrbowsvolqire6fkdcajk0eloptxqu3771ihvcfefsbo5eajtepwcao-hq7_hr9-2exgx6gexnpdssm/pub?start=false&amp;loop=false&amp;delayms=3000^$all
@@ -79133,8 +79179,6 @@
 ||docs.google.com/presentation/d/e/2pacx-1vrmzbb6squqevow9iamilcacqwl3twlawmtmgcjomhrgjzr0xk89wk4zncdkiar4z5sao37dhxmy89j/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vrmzpt2bjcg3paxhcxxphrjrf0ty-jucfoi-olfxrqsjxcjqr_jv4dpigm2xvmxmkhzlfhe0wic2ex_/pub?start=false&amp;loop=false&amp;delayms=3000^$all
-!+ NOT_OPTIMIZED
-||docs.google.com/presentation/d/e/2pacx-1vrn-f8xodfobllqiwebj4ikpuuaolbfmnifdy1nypaihie_z9dcolfmsisgea9jnrs-czucnv2h4eou/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vrn0lqkdm9ltes8hanvvw5ggo1j6x2xvj0rd0als7ba5hmdfpammvvtgrd0j83q8vgcqtijuzhi5xua/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
@@ -80486,8 +80530,6 @@
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vs5mwgwrcqv3bvyrcuctnvntkfclffepdvt_xokqiwb2olqmyaitbek-dkxb_psthmkmp01oemty2fh/pub?start=false&loop=false&delayms=3000&slide=id.p%3e^$all
 !+ NOT_OPTIMIZED
-||docs.google.com/presentation/d/e/2pacx-1vs5qwufpx2noedwaynlxm1jxmzptmkfijgckpmmnvwxdikhoqxu850fwvqg8zyhmygphvy1nbefbcaz/pub?start=false&loop=false&delayms=3000^$all
-!+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vs5rixsoc2mj6bh0pswtmtoiy8sbjk8p3rgr_ctyszcygh8jhek5gzpipzpnesf-3atsylzpmwvddrx/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vs5u2w0nfahccnv1yhv5roaldt4j4qfttkvcgpgzhy8rz6iwtw2i8um0fpb56igbpk68wtczllwppqa/pub?start=false&loop=false&delayms=3000^$all
@@ -80861,8 +80903,6 @@
 ||docs.google.com/presentation/d/e/2pacx-1vscko4w9xz9dq6nqufj2lt6m_-ngbiskotfhgkt_qadtbkui3hlvesvdc780supvwhqmysaueumqnom/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vscmbglgsasrxzjeokyp4srddixwowuf24vw0hpxqaygqfl_um1syt4c8f_bgjlelax1dmb957gqow9/pub?start=false&amp;loop=false&amp;delayms=3000^$all
-!+ NOT_OPTIMIZED
-||docs.google.com/presentation/d/e/2pacx-1vscnkcvsjhvqqf-5_q8vfqgelez2apqfahfvso8xnmtdappqs3vdmmulmsdwkad4kph60d9v6moebak/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vscnqe2hxmj3ptiajvjvww70__mqlvl0-5mc0yddzqbg_o5ul3ytqdtugw7ygfylo-2i2ygzvoy2o7s/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
@@ -82518,8 +82558,6 @@
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vsx1fgfuipxy-tcrdg5ocqrfz5huhkwtz501hiykpop2oxtcdldcmtw0bmk8xklxi1shcyq9cg5fdqe/pub?start=true&amp;loop=true&amp;delayms=1000^$all
 !+ NOT_OPTIMIZED
-||docs.google.com/presentation/d/e/2pacx-1vsx4e_bii2q_lb4wqzquqymj_jzlanzzmygccgytfydxmp_hauqsrcwjkidpvvafi8yzd8oxqxjkxwm/pub?start=false&loop=false&delayms=3000^$all
-!+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vsx5k5lf6jcrzbkbauae71q3usu6juhyj3fwaijc2i_oeqmpqwzaxenna9fg-xfw4a-wgbc4kmaitla/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vsx8zxnn_cff6jozkgadqvq7injxoyl459hfelpuflfc9xkkrlwtaxuejjvys-f31jbtjvwm8ay3zbr/pub?start=false&amp;loop=false&amp;delayms=3000^$all
@@ -82757,8 +82795,6 @@
 ||docs.google.com/presentation/d/e/2pacx-1vt-0wi5ivskaer0iwy87pl01weesyaiz1mbwpuyk6hksqxjc6bpr67yvidjfy13th7dxy8bkyrh-pju/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vt-3iu686rd8gn-a6jrreklfvcrwyfxzsc0sfvi13o9lr11oszhrm0ckvgju5f4ejvmgxqxo6dywo1y/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p^$all
-!+ NOT_OPTIMIZED
-||docs.google.com/presentation/d/e/2pacx-1vt-4o-cxqldhiiw1cw9q3pv-ibry3mhyddxj9k5pdvtlra7rsnbf4adui5afud4onfv4xhvitgawxta/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vt-5wfqqjshuclgneb1x3t9igmd5r1d4exme4xrqc7fccqdcdv0ifpmibwczdmkoc3yaswn4s-m0kyy/pub?start=false&loop=false&delayms=3000^$all
 !+ NOT_OPTIMIZED
@@ -83017,8 +83053,6 @@
 ||docs.google.com/presentation/d/e/2pacx-1vt6uau_rg4-6fuqcnabsn6fygu5myirwuemk3vzb8it81abdggggals0pttollwz_bggoumcyjukber/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vt6y6i5tiaislhwps-4cnh0tryqum1x_rrf2v9dro7ymlfvh06vsumr4-6mncpebwk_udfe3lmfanfv/pub?start=false&amp;loop=false&amp;delayms=3000^$all
-!+ NOT_OPTIMIZED
-||docs.google.com/presentation/d/e/2pacx-1vt6yuvzhlgjnxvs-1zinhn_f1ezfb1twomqzo54k9g4dwntqcl5vud8almkqupp3xsyrnnbjhysnrfz/pub?start=true&amp;loop=true&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vt70fwd_gp87ziapxee3r01urxgknxyvddo8cklbnoegfmfiy5gsapyrjriywovsu2dktsh3zaivlqd/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
@@ -84740,6 +84774,8 @@
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vtwqefpaxea4qgnuc2obefcm064rvjrauaduxop2ybbcfomzvslhk8omeljouvwwjekkmeziy09taqq/pub?start=true&amp;loop=true&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
+||docs.google.com/presentation/d/e/2pacx-1vtwqia_vyyredtgxeofgkssktk4mbsg4jffpvwubtv2nf5lxcu9qsdgcifrhxqzxuf8dhrjdqjg7jit/pub?start=true&amp;loop=true&amp;delayms=3000&amp;slide=id.p^$all
+!+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vtwrvqsrmfrtotaqiaflu4__nbxwhhaocxdnqvugmyignco29xjgmvazvmbpc78suxf8dofkeqrljoz/pub?start=false&amp;loop=false&amp;delayms=3000^$all
 !+ NOT_OPTIMIZED
 ||docs.google.com/presentation/d/e/2pacx-1vtws7vdmvveovumsvkevmv_heifp3chysvcxiuslpt73t_9-adihfl5vuq9ekwrqrf_ahxvkmf_wi_m/pub?start=false&amp;loop=false&amp;delayms=3000^$all
@@ -85725,6 +85761,8 @@
 ||dropbox.com/scl/fi/njb1zbo9odzyoarmj9q3h/kindly-click-on-the-link-below-to-avoid-email-shutdown-permanently..paper?rlkey=72zkwhx6p5goc0ud8io06ttf1&dl=0^$all
 !+ NOT_OPTIMIZED
 ||dropbox.com/scl/fi/nlugvteeuaz1cllrhrvpw/bt-account-upadte.pape^$all
+!+ NOT_OPTIMIZED
+||dropbox.com/scl/fi/nm6yfivfc5eq1iqeycb7b/optusnet.paper?rlkey=spk8s7bylrtpvtx309oyv30wr&amp;dl=0^$all
 !+ NOT_OPTIMIZED
 ||dropbox.com/scl/fi/nrjq92axwy3etqc4453kf/bt-voice-notification.papert?rlkey=fl8zep5mg7h6452ph7eo2krrx&dl=0^$all
 !+ NOT_OPTIMIZED
@@ -86760,8 +86798,6 @@
 !+ NOT_OPTIMIZED
 ||forms.gle/bctlksee2sxsnupf9^$all
 !+ NOT_OPTIMIZED
-||forms.gle/c6ahzyhm2okayhgd7^$all
-!+ NOT_OPTIMIZED
 ||forms.gle/cb8yqiuyxrebgafo8^$all
 !+ NOT_OPTIMIZED
 ||forms.gle/djypdqceobezew2l8^$all
@@ -86773,6 +86809,8 @@
 ||forms.gle/eodbvtiqbehr26k2a^$all
 !+ NOT_OPTIMIZED
 ||forms.gle/fntkmg7ndc71dste9^$all
+!+ NOT_OPTIMIZED
+||forms.gle/fphxpdxynnzj9jye8^$all
 !+ NOT_OPTIMIZED
 ||forms.gle/g3v1egtph2j91bqj7^$all
 !+ NOT_OPTIMIZED
@@ -86789,6 +86827,8 @@
 ||forms.gle/m9qejpjwzathljqd6^$all
 !+ NOT_OPTIMIZED
 ||forms.gle/mdq2yoztfoyzpddb8^$all
+!+ NOT_OPTIMIZED
+||forms.gle/mjtxjbnbzhherggj9^$all
 !+ NOT_OPTIMIZED
 ||forms.gle/p1kb5hgva2aynxmw8^$all
 !+ NOT_OPTIMIZED
@@ -87204,6 +87244,8 @@
 !+ NOT_OPTIMIZED
 ||googleads.g.doubleclick.net/pcs/click?xai=akaojssyyo0wzs6nrn4qfiqdykqnllk6qfsyowvfin7c5gxbmhq7_ls7euduoq0as5z00r8yw1rwsvztnxgt6drog8wwi8k8v4qeme9x753-r2rhymzaibaqtx1vz8naqhq82g3azcl25quelqpivhiuyxeya0xrzk-v1klzgravxcegvkgdoqnjv3ju78r2tln4t1kn5oajwcfphejjosxtaonuh4pnzv-q9t6ec8xus7hd5turmmaulvhwh161kjmwe_7wxv90usfouxg_ycst_r2cdd7_zia8isvdeoj-aai5xdkiynoetwl4uxlvfplgpcrgnrdilgh9f4lkgbab6ie9kowlbfbeimfi9jfdisghqfo0hyrcqgiys9qpt6ls4ppspafhetbgwetjusi2s5t_q3sh79pka2hafqarvrvwv-bp1i2g7pd1jq&amp;sai=amfl-yst2lv5qylefezk62ee5zyijaa-bc5bnvwnusceml3it6o9ehxul20ij9j3hoorbfqp9jkgse5faeeg1ubq-mogi5afnefirofvetf5awuvm0hguqzjh8o7xmtwtg&amp;sig=cg0arkjszlcgn1pmn0hg&amp;fbs_aeid=%5bgw_fbsaeid%5d&amp;adurl=https://qrco.de/bezu82?userid=ybftzmxq^$all
 !+ NOT_OPTIMIZED
+||googleadservices.com/pagead/aclk?nis=4&sa=l&ai=cri7y_0h_zktrfdbjkpipqegu8aai0fbecsrawud0eziltpwlaxabiihz_ifgyqagab-xqsabyaejqambyaplbkoezgfp0fr_7899awgqme-drkd82pvq_griobse33a1-867xtdih21qdgivjpghcupsv9ckhqf1qqqarmujzox9an4jusjswbzjqiz7zibtr5owngyf7u4b6bhvhs4en1l4hbil60ujm4wjpv7c82fas5gvxjzlbash3lykwcmq4nwjefpxa61ovlqcyf2dvdmpbsfmxzkf7x4voimhgvjemrlitu_zi_hztljaldu4ovwi6g29fc-wfnrarbztxwc7w-c8qzhiuwsvckt2_umad8ae8678-c4eiax7gk-ytkagloahmezw0aoob9m2sqkob47og6ghk9gbqafulrecqaf-nrecqaeko7ecqafvyruob6a-g6ghmgaob_prg6ghltgbqaeqm7ecqaedrbecqaf_nrecqaffn7ecqafkqbecqafrpbec2aca0ggucibheaeyhzicigi6aobasl39wtqxcq_pcej76rkcgaobmasbyasbgawb2gwqcgoq4lrv9p_-o-twegiba6onalvtya0bubpka9gtdnavafgwayaxaq&ae=1&ase=2&gclid=eaiaiqobchmi5oaq5v6igqmv1jfecb2pmavueaeyasaaegkttpd_bwe&num=1&cid=caqskqbpaljws5k0hvcxbzsf3k32gtpdfihe4wjmce3xyub7ju8-ist-ah0jgae&sig=aod64_1ex-9thmtgmfszcjnxlyy-fks56q&client=ca-pub-9816945270938969&rf=1&nb=9&adurl=https://hdalog.com.br/a2jlonyus/otqrqzoty/agvsbg9aewvhcmz1bc5pbw=^$all
+!+ NOT_OPTIMIZED
 ||googleadservices.com/pagead/aclk?sa=l&ai=cof1dzpsmx_odnnslyim6j4al_yxa3f-jitbh7azx1qk9waeqascgj4acyomc44p8daabponrjapiaqaoawgqblkbt9atutkhtcypfk-5qyz0skm3uk9zwtwgt07e2rd5pf-uwzwqutfeiloiagodb-1oh3gapu_x4rx4itbqrnov9xa2m5puwv8yr3qveavps02ngx-20fpr4dhh8str4qjox64d0ykihphevgavqulvnmcg-zdw_nqgukg09t5jy4ttfsmdjuim_omf5llsl_z9ke5xsijzxjjboxu5zdnvzgu8no7nxsohdzvqtnuvpse83saczz3sdznabph-gqwsa5agaaagn4ahnukan4ghazahaqghjs4bqafvyruob5pyg6ghugaob-dgg6gh8nkbqafy2ruob6a-g6gh7nubqafz0ruob-zvg6ghltgbqafc2hvybwcocahscayiabacgakxcslzaiq_ataqgaotmasbyasf0astgawb2bmmqbub2bub&ae=1&num=1&cid=camsoqclsfh3r3vmeic4urnrawz2eap0nzrt6u2yzvqdumrkrj1i3kd9-onp3sfmwurbv5wapob8_wkg1a&sig=aod64_2zqn1xov_ukfwpmjc3foqpv3ctog&client=ca-gmail&label=gmail_message_ad_external_click&adurl=https%3a%2f%2fqrco.de%2fbfuwgc?trackingid=h8uyufbgbwdspfnvkalsn3doihr&signature=newsletter^$all
 !+ NOT_OPTIMIZED
 ||googleadservices.com/pagead/aclk?sa=l&amp;ai=cof1dzpsmx_odnnslyim6j4al_yxa3f-jitbh7azx1qk9waeqascgj4acyomc44p8daabponrjapiaqaoawgqblkbt9atutkhtcypfk-5qyz0skm3uk9zwtwgt07e2rd5pf-uwzwqutfeiloiagodb-1oh3gapu_x4rx4itbqrnov9xa2m5puwv8yr3qveavps02ngx-20fpr4dhh8str4qjox64d0ykihphevgavqulvnmcg-zdw_nqgukg09t5jy4ttfsmdjuim_omf5llsl_z9ke5xsijzxjjboxu5zdnvzgu8no7nxsohdzvqtnuvpse83saczz3sdznabph-gqwsa5agaaagn4ahnukan4ghazahaqghjs4bqafvyruob5pyg6ghugaob-dgg6gh8nkbqafy2ruob6a-g6gh7nubqafz0ruob-zvg6ghltgbqafc2hvybwcocahscayiabacgakxcslzaiq_ataqgaotmasbyasf0astgawb2bmmqbub2bub&amp;ae=1&amp;num=1&amp;cid=camsoqclsfh3r3vmeic4urnrawz2eap0nzrt6u2yzvqdumrkrj1i3kd9-onp3sfmwurbv5wapob8_wkg1a&amp;sig=aod64_2zqn1xov_ukfwpmjc3foqpv3ctog&amp;client=ca-gmail&amp;label=gmail_message_ad_external_click&amp;adurl=https://qrco.de/bfv8ym?userid=lj8yjswv^$all
@@ -87218,8 +87260,6 @@
 !+ NOT_OPTIMIZED
 ||gravatar.com/inquisitivelycollectore2292b44d5^$all
 !+ NOT_OPTIMIZED
-||gravatar.com/technicallypowerful51aa960cf0^$all
-!+ NOT_OPTIMIZED
 ||gravatar.com/wildlytenacious45df2d12c5^$all
 !+ NOT_OPTIMIZED
 ||gyazo.com/aae97e71fa4febc492f6e14ea635d1f7^$all
@@ -87227,6 +87267,8 @@
 ||han.gl/bt3de^$all
 !+ NOT_OPTIMIZED
 ||han.gl/dsg0o^$all
+!+ NOT_OPTIMIZED
+||han.gl/flgsb^$all
 !+ NOT_OPTIMIZED
 ||han.gl/hkyyc^$all
 !+ NOT_OPTIMIZED
@@ -87603,8 +87645,6 @@
 ||ipfs.io/ipfs/qmamhfji41z4gyz9qkhthmcgkbvqfhvnwhw8brtxuzwbt1^$all
 !+ NOT_OPTIMIZED
 ||ipfs.io/ipfs/qmamxpagy4f3ckpxwwwq5gfk4chaqzrtc1e7dz12cztkuc^$all
-!+ NOT_OPTIMIZED
-||ipfs.io/ipfs/qmapl2djcvknfxzymn19dcjbezpcvvzf1tdscybwvmswku^$all
 !+ NOT_OPTIMIZED
 ||ipfs.io/ipfs/qmaqbdemztxxtf5kvwsdqmq1wzxkg1zalddecqgyxgfeas^$all
 !+ NOT_OPTIMIZED
@@ -91814,6 +91854,8 @@
 !+ NOT_OPTIMIZED
 ||l.ead.me/modifica-tu-entrega^$all
 !+ NOT_OPTIMIZED
+||l.ead.me/multa-dgt^$all
+!+ NOT_OPTIMIZED
 ||l.ead.me/multaes^$all
 !+ NOT_OPTIMIZED
 ||l.ead.me/net-check^$all
@@ -92262,6 +92304,8 @@
 !+ NOT_OPTIMIZED
 ||link.mail.beehiiv.com/ls/click?upn=u001.v4pk-2f4dkwtmo8dgihfvnf5o8ld-2bhgbr40d0awuwsst-2brwxjl7bqeco8pubvqth1shstbkmravdgal02twdumdpywmr4ieyy-2b9kjqxl3kdkktdlgyv3stgzzedzko-2fb1futqr0h-2f-2btdsmxmqjx2kszvqsrpzq-2f-2bf3ade-2bmq2dgkzfzusmev41s5jzaj-2bfbjpocs3h5tokvtohaitgfciylsx2w4befva9z3p-2fbyod2i-2fyfhxhtpnlgwz913ayuoohtq-2fosqlnog3n-2bxy1gcucdynys98tay5musf80pvcqnakgy6m2b6h-2bf8iej90b0zrp8mvki8fyq4zw8tfdm7-2fcrh2fs-2bsgyqitiwu36ljjqspmjfr4e8yftj5pjbalcr1zmnoylxcqkqyqxfdtcixha-3d-3djetu_mil4-2fgttwy5rwak9sadr2erfukfxdgh7v0s35slgogcdww2tqdlhweyn5oc-2bipcvhsv83vy-2fkixf0qan4e0k7jgr98zz7-2flx84otdm1mgscozwp-2bningvxfyhihxbrc349t5razasgqgrb8acoezc3driaknkhbew6gt1hztel9anzooaymx7y1-2bftnqp6jorewjtrelv5zwrge2mtaizclybi8cipwrb0-2fgatdl-2b2irqa8q-2bemgkcucef-2bskvmdiedrs5zy0h0n2hk-2b8bn6meqqadtl44vlrc6qttajknxl9ak4kvudixpy21sckce8wyzynothrbqr15lp1hqhozcjp8ubzrl7-2fhao44yuqtsjk2mvfqge55gpmdlv2y-2fglpd0j0itwvivurpobilfq7i2ux-2fycqivgjnjwv2hdon6ciqwqevwcxgar7e7f1gj^$all
 !+ NOT_OPTIMIZED
+||link.sbstck.com/redirect/74ba215b-e41f-46c6-bb52-78bfc54d5207?j=eyj1ijointnmoxjoin0.1qwibdqa1tfcu_3jmwmtljuhmfmwzwu7bzdefbw-hfa^$all
+!+ NOT_OPTIMIZED
 ||link.space/@45764^$all
 !+ NOT_OPTIMIZED
 ||link.space/@action_required^$all
@@ -92522,6 +92566,30 @@
 !+ NOT_OPTIMIZED
 ||linkup.top/verily.com?%2fcontact.verify.support_standar%2fid=1098134267^$all
 !+ NOT_OPTIMIZED
+||lite.evernote.com/note/267a31b0-e191-2b36-636c-5bd46741fc70^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/3f064538-36a6-7c7b-8b18-b5df15d2cc02^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/5de19cfd-9fea-f0c3-6186-285007ddd3d0^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/7c066d1b-946a-4d6e-f009-cc00e79fd282^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/83d544d8-56b7-af48-b2f6-b9aa34fa8331^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/9921e238-b9a4-df93-4dd9-00a82feab8e5^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/ab48c1a3-38b5-d026-a50b-bd9b7b68d1c5^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/b70ccf8e-bc6e-27c6-4e4e-f6f2a22967d6^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/ba4f842d-c829-2a5a-8b20-794e47406b90^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/bd892599-9d68-6f33-5dd1-5bf34c706688^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/ce964335-7ce2-f4e4-eb80-fd646c8ff566^$all
+!+ NOT_OPTIMIZED
+||lite.evernote.com/note/f1f9a43b-35f4-ddde-71a9-ff98921d8ea2^$all
+!+ NOT_OPTIMIZED
 ||litespeedtech.com/products/litespeed-web-server^$all
 !+ NOT_OPTIMIZED
 ||llink.to/?u=https://sitedasaude.com/i/example@example.com^$all
@@ -92563,6 +92631,8 @@
 ||ln.run/dpk7k^$all
 !+ NOT_OPTIMIZED
 ||ln.run/f3wsp^$all
+!+ NOT_OPTIMIZED
+||ln.run/g_1ba^$all
 !+ NOT_OPTIMIZED
 ||ln.run/hu-rl^$all
 !+ NOT_OPTIMIZED
@@ -92885,8 +92955,6 @@
 ||mssg.me/globaluniversaltime^$all
 !+ NOT_OPTIMIZED
 ||mtr.bio/dyhvzjdks^$all
-!+ NOT_OPTIMIZED
-||mx2.htc.net/users/redacted@abuse.ionos.com/pictures/been/1730814-navlogin1-1.html^$all
 !+ NOT_OPTIMIZED
 ||my.visme.co/view/310rrdp4-d3o26vqrrvx6lgxw?gclid=eaiaiqobchmi9ycsvvuc_qivu0biab01uwmbeaayaiaaegkpivd_bwe^$all
 !+ NOT_OPTIMIZED
@@ -95051,6 +95119,8 @@
 ||new.express.adobe.com/webpageip:^$all
 !+ NOT_OPTIMIZED
 ||new.express.adobe.com/webpaip:^$all
+!+ NOT_OPTIMIZED
+||newfutureplast.com/45rr/extra.html^$all
 !+ NOT_OPTIMIZED
 ||nexoinmobiliario.pe/bancos/interbank^$all
 !+ NOT_OPTIMIZED
@@ -99208,6 +99278,8 @@
 !+ NOT_OPTIMIZED
 ||q-r.to/modifica-tu-entrega^$all
 !+ NOT_OPTIMIZED
+||q-r.to/multa-dgt^$all
+!+ NOT_OPTIMIZED
 ||q-r.to/multaes^$all
 !+ NOT_OPTIMIZED
 ||q-r.to/net-check^$all
@@ -99278,8 +99350,6 @@
 !+ NOT_OPTIMIZED
 ||qr-codes.io/afen99?userid=kbq1ioko^$all
 !+ NOT_OPTIMIZED
-||qr-codes.io/afen99?userid=mdpfz68q^$all
-!+ NOT_OPTIMIZED
 ||qr-codes.io/afen99?userid=n0zohfdl^$all
 !+ NOT_OPTIMIZED
 ||qr-codes.io/afen99?userid=phw6via2^$all
@@ -99329,8 +99399,6 @@
 ||qr-codes.io/vil9fn?userid=0gbbcn8u^$all
 !+ NOT_OPTIMIZED
 ||qr-codes.io/vil9fn?userid=25sxacj7^$all
-!+ NOT_OPTIMIZED
-||qr-codes.io/vil9fn?userid=5lpt11ea^$all
 !+ NOT_OPTIMIZED
 ||qr-codes.io/vil9fn?userid=6cq0lai8^$all
 !+ NOT_OPTIMIZED
@@ -104078,6 +104146,8 @@
 !+ NOT_OPTIMIZED
 ||qrco.de/bfycuu?trackingid=eqef3atll0xyk2ruasmg&amp;signature=newsletter^$all
 !+ NOT_OPTIMIZED
+||qrco.de/bfyd0b^$all
+!+ NOT_OPTIMIZED
 ||qrco.de/bfyd9v^$all
 !+ NOT_OPTIMIZED
 ||qrco.de/bfyeip^$all
@@ -104328,6 +104398,8 @@
 !+ NOT_OPTIMIZED
 ||qrco.de/modifica-tu-entrega^$all
 !+ NOT_OPTIMIZED
+||qrco.de/multa-dgt^$all
+!+ NOT_OPTIMIZED
 ||qrco.de/multaes^$all
 !+ NOT_OPTIMIZED
 ||qrco.de/mywebsite299292^$all
@@ -104406,6 +104478,8 @@
 !+ NOT_OPTIMIZED
 ||qrs.ly/23glor8^$all
 !+ NOT_OPTIMIZED
+||qrs.ly/5ygp7wy^$all
+!+ NOT_OPTIMIZED
 ||quip.com/c5a1afotrj9t/securely-sign-in-to-verify-your-email-account^$all
 !+ NOT_OPTIMIZED
 ||quip.com/jeh2aebbsh97^$all
@@ -104428,11 +104502,15 @@
 !+ NOT_OPTIMIZED
 ||rb.gy/4hsi3e^$all
 !+ NOT_OPTIMIZED
-||rb.gy/dgn64m^$all
+||rb.gy/4wn9gp^$all
+!+ NOT_OPTIMIZED
+||rb.gy/7doj4i^$all
 !+ NOT_OPTIMIZED
 ||rb.gy/j544qq^$all
 !+ NOT_OPTIMIZED
 ||rb.gy/kwbchm^$all
+!+ NOT_OPTIMIZED
+||rb.gy/m9f4g1^$all
 !+ NOT_OPTIMIZED
 ||rb.gy/mbecjk^$all
 !+ NOT_OPTIMIZED
@@ -104451,6 +104529,8 @@
 ||rb.gy/w9lp2m^$all
 !+ NOT_OPTIMIZED
 ||rb.gy/wp7tf7^$all
+!+ NOT_OPTIMIZED
+||rb.gy/xdhv76^$all
 !+ NOT_OPTIMIZED
 ||rb.gy/yjuh15^$all
 !+ NOT_OPTIMIZED
@@ -104516,8 +104596,6 @@
 !+ NOT_OPTIMIZED
 ||rebrand.ly/ghg56^$all
 !+ NOT_OPTIMIZED
-||rebrand.ly/ic6pk9u^$all
-!+ NOT_OPTIMIZED
 ||rebrand.ly/m3nmrej^$all
 !+ NOT_OPTIMIZED
 ||rebrand.ly/mdsn72v^$all
@@ -104527,6 +104605,8 @@
 ||rebrand.ly/tqt34kl^$all
 !+ NOT_OPTIMIZED
 ||rebrand.ly/u01jarq^$all
+!+ NOT_OPTIMIZED
+||rebrand.ly/ud48po5^$all
 !+ NOT_OPTIMIZED
 ||rebrand.ly/v7s53uo^$all
 !+ NOT_OPTIMIZED
@@ -104670,9 +104750,13 @@
 !+ NOT_OPTIMIZED
 ||roblox.com.tg/users/4446275552/profilehttps://bit.ly/3pgvkex^$all
 !+ NOT_OPTIMIZED
+||roblox.com.tg/users/7596175063/profile^$all
+!+ NOT_OPTIMIZED
 ||roblox.ls/games/2753915549/gravity-blox-fruits?privateserverlinkcode=80422425434370032338354633696003^$all
 !+ NOT_OPTIMIZED
 ||roblox.ls/users/5389236090/profile^$all
+!+ NOT_OPTIMIZED
+||roblox.ls/users/5784253418/profile^$all
 !+ NOT_OPTIMIZED
 ||rpp.pe/noticias/prestamos^$all
 !+ NOT_OPTIMIZED
@@ -105284,6 +105368,8 @@
 !+ NOT_OPTIMIZED
 ||shorter.me/7znhp^$all
 !+ NOT_OPTIMIZED
+||shorter.me/9sqwd^$all
+!+ NOT_OPTIMIZED
 ||shorter.me/_tppd^$all
 !+ NOT_OPTIMIZED
 ||shorter.me/ec3gy^$all
@@ -105338,8 +105424,6 @@
 !+ NOT_OPTIMIZED
 ||shorturl.asia/xylae^$all
 !+ NOT_OPTIMIZED
-||shorturl.at/baci5^$all
-!+ NOT_OPTIMIZED
 ||shorturl.at/cddo3^$all
 !+ NOT_OPTIMIZED
 ||shorturl.at/ciems^$all
@@ -105347,8 +105431,6 @@
 ||shorturl.at/erqx1^$all
 !+ NOT_OPTIMIZED
 ||shorturl.at/hbdv9^$all
-!+ NOT_OPTIMIZED
-||shorturl.at/hkr7p^$all
 !+ NOT_OPTIMIZED
 ||shorturl.at/hxfi1^$all
 !+ NOT_OPTIMIZED
@@ -105425,6 +105507,8 @@
 ||sites.google.com/kingshawthornes.com/www-share-bt/^$all
 !+ NOT_OPTIMIZED
 ||sites.google.com/l0gin-microsoftwebonlne.app/867487^$all
+!+ NOT_OPTIMIZED
+||sites.google.com/l0gin-microsoftwebonlne.app/8965767?usp=sharing^$all
 !+ NOT_OPTIMIZED
 ||sites.google.com/l0gin-microsoftwebonlne.app/omine-y6/home^$all
 !+ NOT_OPTIMIZED
@@ -106439,6 +106523,8 @@
 ||sites.google.com/view/mailaccessmd^$all
 !+ NOT_OPTIMIZED
 ||sites.google.com/view/mailattyahoooueu83484/home?authuser=2^$all
+!+ NOT_OPTIMIZED
+||sites.google.com/view/mailnewverificatingservice/home^$all
 !+ NOT_OPTIMIZED
 ||sites.google.com/view/mailtermsandpolicyupdate1/home^$all
 !+ NOT_OPTIMIZED
@@ -107596,6 +107682,8 @@
 !+ NOT_OPTIMIZED
 ||t.co/3g0davdtwz^$all
 !+ NOT_OPTIMIZED
+||t.co/3g4vfugkwd^$all
+!+ NOT_OPTIMIZED
 ||t.co/3mwpp2uvgb^$all
 !+ NOT_OPTIMIZED
 ||t.co/3qc8of1e3s^$all
@@ -107611,6 +107699,8 @@
 ||t.co/4emns7i3jl^$all
 !+ NOT_OPTIMIZED
 ||t.co/4eohut9ieh^$all
+!+ NOT_OPTIMIZED
+||t.co/4pfny1ee2f^$all
 !+ NOT_OPTIMIZED
 ||t.co/4pt5dcysam^$all
 !+ NOT_OPTIMIZED
@@ -107686,8 +107776,6 @@
 !+ NOT_OPTIMIZED
 ||t.co/8mgwmpsziy^$all
 !+ NOT_OPTIMIZED
-||t.co/8n5d7zthqj^$all
-!+ NOT_OPTIMIZED
 ||t.co/8qprfliyeq^$all
 !+ NOT_OPTIMIZED
 ||t.co/8s1wc9yn21?appnxsid=%511302777406700605o42811o2qq7gxjloylcllqnce37fssytgofwavbdllhyiujcs4eo^$all
@@ -107700,11 +107788,15 @@
 !+ NOT_OPTIMIZED
 ||t.co/9hj82ret63^$all
 !+ NOT_OPTIMIZED
+||t.co/9jlclp2l0p^$all
+!+ NOT_OPTIMIZED
 ||t.co/9kcsbflrtk?appnxsid=%80326384643240809270rlngae19hutdgtoyqprz7sw19ud4un42h1n9c74c8zim3qmghfn^$all
 !+ NOT_OPTIMIZED
 ||t.co/9madwcgajq^$all
 !+ NOT_OPTIMIZED
 ||t.co/9u8l86bgd6^$all
+!+ NOT_OPTIMIZED
+||t.co/9ufybxo8zp^$all
 !+ NOT_OPTIMIZED
 ||t.co/9wrxm83exo^$all
 !+ NOT_OPTIMIZED
@@ -107751,6 +107843,8 @@
 ||t.co/au4y2bgxlg^$all
 !+ NOT_OPTIMIZED
 ||t.co/axprfqvaot^$all
+!+ NOT_OPTIMIZED
+||t.co/axs7lcijnf^$all
 !+ NOT_OPTIMIZED
 ||t.co/aylibhfyfz^$all
 !+ NOT_OPTIMIZED
@@ -107801,6 +107895,8 @@
 ||t.co/cytrkgjvg6^$all
 !+ NOT_OPTIMIZED
 ||t.co/czetp3gy8k^$all
+!+ NOT_OPTIMIZED
+||t.co/d2lgdk1bpo^$all
 !+ NOT_OPTIMIZED
 ||t.co/d7wyi4fuxe^$all
 !+ NOT_OPTIMIZED
@@ -107916,6 +108012,8 @@
 !+ NOT_OPTIMIZED
 ||t.co/gle7stbwlr^$all
 !+ NOT_OPTIMIZED
+||t.co/go4c89ivnk^$all
+!+ NOT_OPTIMIZED
 ||t.co/gpepj47gju^$all
 !+ NOT_OPTIMIZED
 ||t.co/gsy6zfnoff^$all
@@ -107985,8 +108083,6 @@
 ||t.co/ishhhvonda^$all
 !+ NOT_OPTIMIZED
 ||t.co/isv69kcwmx^$all
-!+ NOT_OPTIMIZED
-||t.co/j52wbpvnat^$all
 !+ NOT_OPTIMIZED
 ||t.co/j5xdzdjezl^$all
 !+ NOT_OPTIMIZED
@@ -108118,6 +108214,8 @@
 !+ NOT_OPTIMIZED
 ||t.co/muzrhen0ji^$all
 !+ NOT_OPTIMIZED
+||t.co/mwysfykgjc^$all
+!+ NOT_OPTIMIZED
 ||t.co/n05gt1srmr^$all
 !+ NOT_OPTIMIZED
 ||t.co/n09ojdwpnj^$all
@@ -108182,6 +108280,8 @@
 !+ NOT_OPTIMIZED
 ||t.co/oswpnorsxv^$all
 !+ NOT_OPTIMIZED
+||t.co/ot5ttkehv5^$all
+!+ NOT_OPTIMIZED
 ||t.co/otr8dx97ri^$all
 !+ NOT_OPTIMIZED
 ||t.co/oxnfura3ss^$all
@@ -108196,8 +108296,6 @@
 !+ NOT_OPTIMIZED
 ||t.co/p6perg4azh^$all
 !+ NOT_OPTIMIZED
-||t.co/pawb5v7npf^$all
-!+ NOT_OPTIMIZED
 ||t.co/pazhynyzrc^$all
 !+ NOT_OPTIMIZED
 ||t.co/pfvsghksoa^$all
@@ -108209,8 +108307,6 @@
 ||t.co/phjgutzj4y^$all
 !+ NOT_OPTIMIZED
 ||t.co/phmapeoniw^$all
-!+ NOT_OPTIMIZED
-||t.co/pivjw8hg1v^$all
 !+ NOT_OPTIMIZED
 ||t.co/pjoiojdndr^$all
 !+ NOT_OPTIMIZED
@@ -108288,8 +108384,6 @@
 !+ NOT_OPTIMIZED
 ||t.co/r66dtfkqkl^$all
 !+ NOT_OPTIMIZED
-||t.co/r902gfnttj^$all
-!+ NOT_OPTIMIZED
 ||t.co/rf4fmhd225^$all
 !+ NOT_OPTIMIZED
 ||t.co/rhyyjtmzh6^$all
@@ -108305,6 +108399,8 @@
 ||t.co/rta2ikffn5?idtrack=9ckrr9vi^$all
 !+ NOT_OPTIMIZED
 ||t.co/rta2ikffn5?idtrack=gmttnvaw^$all
+!+ NOT_OPTIMIZED
+||t.co/rvtrkvkpwg^$all
 !+ NOT_OPTIMIZED
 ||t.co/rxhdtbvvyd^$all
 !+ NOT_OPTIMIZED
@@ -108325,6 +108421,8 @@
 ||t.co/skihk09sq1^$all
 !+ NOT_OPTIMIZED
 ||t.co/slsufpspqi^$all
+!+ NOT_OPTIMIZED
+||t.co/soh8gzhkqn^$all
 !+ NOT_OPTIMIZED
 ||t.co/srtzjuwtd1^$all
 !+ NOT_OPTIMIZED
@@ -108404,6 +108502,8 @@
 !+ NOT_OPTIMIZED
 ||t.co/v6due6smyi^$all
 !+ NOT_OPTIMIZED
+||t.co/v7o3lov28f^$all
+!+ NOT_OPTIMIZED
 ||t.co/v9xdlsy6hv^$all
 !+ NOT_OPTIMIZED
 ||t.co/vannx9d3td^$all
@@ -108436,6 +108536,8 @@
 !+ NOT_OPTIMIZED
 ||t.co/vzv2ad1pfb^$all
 !+ NOT_OPTIMIZED
+||t.co/w0dzkoregr^$all
+!+ NOT_OPTIMIZED
 ||t.co/w0r4dg10bo^$all
 !+ NOT_OPTIMIZED
 ||t.co/w42myd1qtl^$all
@@ -108453,6 +108555,8 @@
 ||t.co/wfpye1uvay^$all
 !+ NOT_OPTIMIZED
 ||t.co/wgaujjbmho^$all
+!+ NOT_OPTIMIZED
+||t.co/wgj4bb5xqv^$all
 !+ NOT_OPTIMIZED
 ||t.co/wgmgrnwtfl^$all
 !+ NOT_OPTIMIZED
@@ -108531,6 +108635,8 @@
 ||t.co/yxld2dipaq^$all
 !+ NOT_OPTIMIZED
 ||t.co/z0j3too2c4^$all
+!+ NOT_OPTIMIZED
+||t.co/zdcjm5ikzj^$all
 !+ NOT_OPTIMIZED
 ||t.co/zgk4z8itmf^$all
 !+ NOT_OPTIMIZED
@@ -108743,6 +108849,8 @@
 ||tinyurl.com/22a2khgy^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/22aojqha^$all
+!+ NOT_OPTIMIZED
+||tinyurl.com/22fk2c84^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/22fy2a95^$all
 !+ NOT_OPTIMIZED
@@ -110232,6 +110340,8 @@
 !+ NOT_OPTIMIZED
 ||tinyurl.com/5592t2rf^$all
 !+ NOT_OPTIMIZED
+||tinyurl.com/559fh8uw^$all
+!+ NOT_OPTIMIZED
 ||tinyurl.com/55edu7hv?vvl=dgpiuvny8g^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/55yazdk6^$all
@@ -110384,7 +110494,11 @@
 !+ NOT_OPTIMIZED
 ||tinyurl.com/5w3ewmmr^$all
 !+ NOT_OPTIMIZED
+||tinyurl.com/5wvedjek^$all
+!+ NOT_OPTIMIZED
 ||tinyurl.com/5x7vxzj4^$all
+!+ NOT_OPTIMIZED
+||tinyurl.com/5xau3tcz^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/5xdz728m^$all
 !+ NOT_OPTIMIZED
@@ -110393,6 +110507,8 @@
 ||tinyurl.com/5xjkp3rk^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/5xk2rzzp^$all
+!+ NOT_OPTIMIZED
+||tinyurl.com/5ydnzmry^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/5yhmmrne^$all
 !+ NOT_OPTIMIZED
@@ -110666,6 +110782,8 @@
 !+ NOT_OPTIMIZED
 ||tinyurl.com/bdhutcwe^$all
 !+ NOT_OPTIMIZED
+||tinyurl.com/bdhzmev2^$all
+!+ NOT_OPTIMIZED
 ||tinyurl.com/bdjzrdh2^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/bds59zfc^$all
@@ -110916,6 +111034,8 @@
 !+ NOT_OPTIMIZED
 ||tinyurl.com/hmpbd8kf^$all
 !+ NOT_OPTIMIZED
+||tinyurl.com/houdd212^$all
+!+ NOT_OPTIMIZED
 ||tinyurl.com/hqqqbr^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/hqqqbr/^$all
@@ -111083,6 +111203,8 @@
 ||tinyurl.com/mpkwb32r^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/mpm2bhuj^$all
+!+ NOT_OPTIMIZED
+||tinyurl.com/mpsam8aj^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/mpt2857u^$all
 !+ NOT_OPTIMIZED
@@ -111350,6 +111472,8 @@
 !+ NOT_OPTIMIZED
 ||tinyurl.com/owaaccessupdate^$all
 !+ NOT_OPTIMIZED
+||tinyurl.com/p52wkrnt^$all
+!+ NOT_OPTIMIZED
 ||tinyurl.com/p7jp4p6a^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/p8wydcte^$all
@@ -111437,6 +111561,8 @@
 ||tinyurl.com/registrateahora2024^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/regl3m-au9to-d3c^$all
+!+ NOT_OPTIMIZED
+||tinyurl.com/rk4cm2e8^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/rkwxk4k5^$all
 !+ NOT_OPTIMIZED
@@ -111583,6 +111709,8 @@
 ||tinyurl.com/uah8fb7j^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/ue6ktupy^$all
+!+ NOT_OPTIMIZED
+||tinyurl.com/uf4nxh32^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/uijxhkus^$all
 !+ NOT_OPTIMIZED
@@ -111990,6 +112118,8 @@
 !+ NOT_OPTIMIZED
 ||tinyurl.com/yvyb5mt5^$all
 !+ NOT_OPTIMIZED
+||tinyurl.com/yvzsnw96^$all
+!+ NOT_OPTIMIZED
 ||tinyurl.com/ywc18c9h^$all
 !+ NOT_OPTIMIZED
 ||tinyurl.com/ywc4svp8^$all
@@ -112268,9 +112398,29 @@
 !+ NOT_OPTIMIZED
 ||urlz.fr/uqtj^$all
 !+ NOT_OPTIMIZED
+||urlz.fr/url2^$all
+!+ NOT_OPTIMIZED
 ||urlz.fr/usmz^$all
 !+ NOT_OPTIMIZED
 ||urlz.fr/usph^$all
+!+ NOT_OPTIMIZED
+||urlz.fr/utp8^$all
+!+ NOT_OPTIMIZED
+||urlz.fr/utv3^$all
+!+ NOT_OPTIMIZED
+||urlz.fr/uufq^$all
+!+ NOT_OPTIMIZED
+||urlz.fr/uuly^$all
+!+ NOT_OPTIMIZED
+||urlz.fr/uulz^$all
+!+ NOT_OPTIMIZED
+||urlz.fr/uuqa^$all
+!+ NOT_OPTIMIZED
+||urlz.fr/uuqc^$all
+!+ NOT_OPTIMIZED
+||urlz.fr/uuqe^$all
+!+ NOT_OPTIMIZED
+||urlz.fr/uuqg^$all
 !+ NOT_OPTIMIZED
 ||us14.admin.mailchimp.com/lists/surveys/view?survey_id=1296^$all
 !+ NOT_OPTIMIZED
@@ -112317,8 +112467,6 @@
 ||v.gd/27n5oe^$all
 !+ NOT_OPTIMIZED
 ||vbok.asia/?idtokenflhcthi=c5q98m^$all
-!+ NOT_OPTIMIZED
-||vbok.asia/?idtokenjsrkzpjvn=8csx4q^$all
 !+ NOT_OPTIMIZED
 ||vbok.asia/?idtokenkcdfnbw=avet0t7^$all
 !+ NOT_OPTIMIZED
