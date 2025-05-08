@@ -1,8 +1,8 @@
-! Checksum: YbJTjjS0VUd7wPXyXW97kg
+! Checksum: POEIkDghllroN7AvQZIlww
 ! Title: AdGuard Mobile Ads filter
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
-! Version: 2.0.60.53
-! TimeUpdated: 2025-05-08T15:08:52+00:00
+! Version: 2.0.60.54
+! TimeUpdated: 2025-05-08T17:06:45+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2339,6 +2339,8 @@ sp.manga.nicovideo.jp##div[style^="--ads-width:"]
 !
 ! SECTION: Regular rules
 !
+augsburger-allgemeine.de##.pt_onlinestory
+augsburger-allgemeine.de##div[data-ad-slot-native-mobile]
 gunes.com##.orjHeaderBottom
 wco.tv###sidebar_today > div[style^="float:right;"]
 free-codecs.com##.mobile-header-ad
