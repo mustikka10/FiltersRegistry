@@ -1,8 +1,8 @@
-! Checksum: ucOBIavIVQ1bd752r8BaFg
+! Checksum: UYdZ2mkolqDb7THzSKq6wg
 ! Title: AdGuard Tracking Protection filter
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
-! Version: 2.0.84.54
-! TimeUpdated: 2025-05-08T09:07:42+00:00
+! Version: 2.0.84.55
+! TimeUpdated: 2025-05-08T11:06:21+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -56601,6 +56601,7 @@ _tracking.php?b=
 !
 ! NOTE: Specific rules
 !
+||player.javboys.cam/cdn-cgi/trace
 ||skyscanner.co.kr/slipstream/grp/v1/custom/public/falcon/funnel_events/
 ||gateway.us.zip.co/analytics^
 ||wzzm13.com/taboola_
