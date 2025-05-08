@@ -1,9 +1,9 @@
-! Checksum: yLFqLkThLs9eKS8bks4e9A
-! Diff-Path: ../patches/21/21-s-1746630695-3600.patch
+! Checksum: pzeR7E8iRlySF05ozVymfw
+! Diff-Path: ../patches/21/21-s-1746699098-3600.patch
 ! Title: AdGuard Other Annoyances filter
 ! Description: Blocks irritating elements on web pages that do not fall under the popular categories of annoyances.
-! Version: 2.0.33.19
-! TimeUpdated: 2025-05-07T15:08:01+00:00
+! Version: 2.0.33.20
+! TimeUpdated: 2025-05-08T10:08:03+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3493,6 +3493,7 @@ www.kinopoisk.ru##div[class^="trailer-promo"]
 !
 ! SECTION: Self-promo - Regular rules
 !
+stash.clash.gg##.cl-popup
 online.metro-cc.ru##.top-stretched-banner
 bristol.ru##.corporative-banner
 koreatimes.co.kr##div[class^="MyTimesBanner_wrap"]

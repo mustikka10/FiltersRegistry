@@ -1,8 +1,8 @@
-! Checksum: bgIvettTEm6+1dlLk1rLKA
+! Checksum: KBErhnvbFoedmloL6BLiZA
 ! Title: AdGuard Mobile App Banners filter
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.20.70
-! TimeUpdated: 2025-05-08T06:10:16+00:00
+! Version: 2.0.20.71
+! TimeUpdated: 2025-05-08T10:08:03+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -60,6 +60,7 @@ alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,ra
 !
 !
 !
+||duhuliyecom.teimg.com/duhuliye-com/uploads/2024/12/hbr1903.jpg
 donanimhaber.com#$#.uygulamayi-indir { visibility: hidden !important; height: 0 !important; }
 bristol.ru##.first-order-modal
 raycast.com##div[class^="GlobalBanner"]

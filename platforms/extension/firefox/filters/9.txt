@@ -1,9 +1,9 @@
-! Checksum: HU8Swp5c1I2NSLhyOUIRJA
-! Diff-Path: ../patches/9/9-s-1746688263-3600.patch
+! Checksum: 1Zf9Wb31A8SayZOP+//y6A
+! Diff-Path: ../patches/9/9-s-1746699101-3600.patch
 ! Title: AdGuard Spanish/Portuguese filter
 ! Description: Filter list that specifically removes ads on websites in Spanish, Portuguese, and Brazilian Portuguese languages.
-! Version: 2.0.29.79
-! TimeUpdated: 2025-05-08T07:07:22+00:00
+! Version: 2.0.29.80
+! TimeUpdated: 2025-05-08T10:07:47+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2300,6 +2300,7 @@ c5n.com,t13.cl,solowrestling.mundodeportivo.com,todojujuy.com,mendozapost.com,me
 !
 ! NOTE: Specific rules
 !
+misprogramaspc.com##.vn-green > a[target="_blank"]
 tecmundo.com.br##div[class^="styles_ads_"]
 gamestorrents.app##img[onclick*="click.ggpickaff"]
 muyinteresante.com##.banner
