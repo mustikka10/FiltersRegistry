@@ -1,8 +1,8 @@
-! Checksum: deKq1i+wCuhHWcv5w8dJYw
+! Checksum: G9t/6vU4bX9L8GJ558WwbQ
 ! Title: AdGuard Turkish filter (Optimized)
 ! Description: Filter list that specifically removes ads on websites in Turkish language.
-! Version: 2.0.56.26
-! TimeUpdated: 2025-05-08T06:09:59+00:00
+! Version: 2.0.56.27
+! TimeUpdated: 2025-05-08T13:15:31+00:00
 ! Expires: 5 days (update frequency)
 ||movturs.click^
 ||dontmakethem.club^
@@ -4649,8 +4649,8 @@ justintvizle430.top,justintvizle431.top,justintvizle432.top,justintvizle433.top,
 selcuksports127.top,selcuksports128.top,selcuksports129.top,selcuksports130.top,selcuksports131.top,selcuksports132.top,selcuksports133.top,selcuksports134.top,selcuksports135.top,selcuksports136.top,selcuksports137.top,selcuksports138.top,selcuksports139.top,selcuksports140.top,selcuksports141.top,selcuksports142.top,selcuksports143.top,selcuksports144.top,selcuksports145.top,selcuksports146.top##div[class^="footer-"]
 selcuksports127.top,selcuksports128.top,selcuksports129.top,selcuksports130.top,selcuksports131.top,selcuksports132.top,selcuksports133.top,selcuksports134.top,selcuksports135.top,selcuksports136.top,selcuksports137.top,selcuksports138.top,selcuksports139.top,selcuksports140.top,selcuksports141.top,selcuksports142.top,selcuksports143.top,selcuksports144.top,selcuksports145.top,selcuksports146.top##header > a[href="/"] + ul
 ||cdn.diziyou*.com/wp-content/*.gif
-dizilla.nl,dizilla10.nl,dizilla11.nl,dizilla12.nl,dizilla13.nl,dizilla14.nl,dizilla15.nl,dizilla16.nl,dizilla17.nl,dizilla18.nl,dizilla19.nl,dizilla20.nl###playerLsDizilla > div.flex:not(.player)
-dizilla.nl,dizilla10.nl,dizilla11.nl,dizilla12.nl,dizilla13.nl,dizilla14.nl,dizilla15.nl,dizilla16.nl,dizilla17.nl,dizilla18.nl,dizilla19.nl,dizilla20.nl##a[href^="https://diken.xyz/"]
+dizilla.club,dizilla10.club,dizilla11.club,dizilla12.club,dizilla13.club,dizilla14.club,dizilla15.club,dizilla16.club,dizilla17.club,dizilla18.club,dizilla19.club,dizilla20.club##.player > div.flex
+dizilla.club,dizilla10.club,dizilla11.club,dizilla12.club,dizilla13.club,dizilla14.club,dizilla15.club,dizilla16.club,dizilla17.club,dizilla18.club,dizilla19.club,dizilla20.club##a[href^="https://diken.xyz/"]
 selcuksportshd1590.xyz,selcuksportshd1591.xyz,selcuksportshd1592.xyz,selcuksportshd1593.xyz,selcuksportshd1594.xyz,selcuksportshd1595.xyz,selcuksportshd1596.xyz,selcuksportshd1597.xyz,selcuksportshd1598.xyz,selcuksportshd1599.xyz,selcuksportshd1600.xyz##.banner
 selcuksportshd1590.xyz,selcuksportshd1591.xyz,selcuksportshd1592.xyz,selcuksportshd1593.xyz,selcuksportshd1594.xyz,selcuksportshd1595.xyz,selcuksportshd1596.xyz,selcuksportshd1597.xyz,selcuksportshd1598.xyz,selcuksportshd1599.xyz,selcuksportshd1600.xyz##.banners
 selcuksportshd1590.xyz,selcuksportshd1591.xyz,selcuksportshd1592.xyz,selcuksportshd1593.xyz,selcuksportshd1594.xyz,selcuksportshd1595.xyz,selcuksportshd1596.xyz,selcuksportshd1597.xyz,selcuksportshd1598.xyz,selcuksportshd1599.xyz,selcuksportshd1600.xyz##.footer
@@ -4685,6 +4685,7 @@ dizipal1017.com,dizipal1.com,dizipal2.com,dizipal3.com,dizipal4.com,dizipal5.com
 diziwatch1.net,diziwatch2.net,diziwatch3.net,diziwatch4.net,diziwatch5.net,diziwatch6.net,diziwatch7.net,diziwatch8.net,diziwatch9.net,diziwatch10.net,diziwatch11.net,diziwatch12.net,diziwatch13.net,diziwatch14.net,diziwatch15.net##.videoalt
 diziwatch1.net,diziwatch2.net,diziwatch3.net,diziwatch4.net,diziwatch5.net,diziwatch6.net,diziwatch7.net,diziwatch8.net,diziwatch9.net,diziwatch10.net,diziwatch11.net,diziwatch12.net,diziwatch13.net,diziwatch14.net,diziwatch15.net##.videoust
 diziwatch1.net,diziwatch2.net,diziwatch3.net,diziwatch4.net,diziwatch5.net,diziwatch6.net,diziwatch7.net,diziwatch8.net,diziwatch9.net,diziwatch10.net,diziwatch11.net,diziwatch12.net,diziwatch13.net,diziwatch14.net,diziwatch15.net##.body-clickable
+yabancidizi.*##.player > div.flex
 yabancidizi.*##div[class^="bg-"].z-\[99999\]
 yabancidizi.*##.advert
 yabancidizi.*#$#body > main#wrapper { margin-top: 0 !important; }

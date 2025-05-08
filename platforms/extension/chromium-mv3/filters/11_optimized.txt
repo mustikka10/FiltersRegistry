@@ -1,8 +1,8 @@
-! Checksum: m98HeDcW0rD57Q2/hBUB6w
+! Checksum: qWcIMOsHNoMd6/oh7DmZ7w
 ! Title: AdGuard Mobile Ads filter (Optimized)
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
-! Version: 2.0.60.51
-! TimeUpdated: 2025-05-08T12:11:04+00:00
+! Version: 2.0.60.52
+! TimeUpdated: 2025-05-08T13:15:29+00:00
 ! Expires: 10 days (update frequency)
 ||adx-open-service.youku.com^
 ||ad.youku.com^
@@ -1641,7 +1641,6 @@ nationalheraldindia.com##div[class^="styles-m__mobile-ad__"]
 nationalheraldindia.com##div[class^="header-m__ad-"]
 nationalheraldindia.com##div[class^="styles-m__dfp__"]
 nextdoordolls.com##.channel-adx-mobile
-yabancidizi.biz,yabancidizi.cc,yabancidizi.cloud,yabancidizi.club,yabancidizi.co,yabancidizi.com,yabancidizi.com.bd,yabancidizi.com.np,yabancidizi.fun,yabancidizi.in,yabancidizi.io,yabancidizi.life,yabancidizi.one,yabancidizi.org,yabancidizi.pro,yabancidizi.pw,yabancidizi.tv,yabancidizi.vip##.player > div.flex
 homo.xxx,hello.porn##.top_spot
 xfree.com##.mobile-wall-prbn
 ||czechcash.com^$domain=xfree.com

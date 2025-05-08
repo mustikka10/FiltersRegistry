@@ -1,9 +1,9 @@
-! Checksum: WzIHNyRYR2d5jrkbTUUHvQ
-! Diff-Path: ../patches/13_optimized/13_optimized-s-1746684860-3600.patch
+! Checksum: PEoxs7SjshgwHPxFvQ8pEw
+! Diff-Path: ../patches/13_optimized/13_optimized-s-1746710380-3600.patch
 ! Title: AdGuard Turkish filter (Optimized)
 ! Description: Filter list that specifically removes ads on websites in Turkish language.
-! Version: 2.0.56.26
-! TimeUpdated: 2025-05-08T06:09:59+00:00
+! Version: 2.0.56.27
+! TimeUpdated: 2025-05-08T13:15:31+00:00
 ! Expires: 5 days (update frequency)
 ||movturs.click^
 ||dontmakethem.club^
@@ -5077,11 +5077,11 @@ selcuksports127.top,selcuksports128.top,selcuksports129.top,selcuksports130.top,
 selcuksports127.top,selcuksports128.top,selcuksports129.top,selcuksports130.top,selcuksports131.top,selcuksports132.top,selcuksports133.top,selcuksports134.top,selcuksports135.top,selcuksports136.top,selcuksports137.top,selcuksports138.top,selcuksports139.top,selcuksports140.top,selcuksports141.top,selcuksports142.top,selcuksports143.top,selcuksports144.top,selcuksports145.top,selcuksports146.top##header > a[href="/"] + ul
 hdfilmizleamk.net,indirmedenfilmizle.vip,birasyadizi.com,seyredeger.com,dizilost.com#%#//scriptlet('abort-on-property-write', 'onPopUnderLoaded')
 ||cdn.diziyou*.com/wp-content/*.gif
-dizilla.nl,dizilla10.nl,dizilla11.nl,dizilla12.nl,dizilla13.nl,dizilla14.nl,dizilla15.nl,dizilla16.nl,dizilla17.nl,dizilla18.nl,dizilla19.nl,dizilla20.nl###playerLsDizilla > div.flex:not(.player)
-dizilla.nl,dizilla10.nl,dizilla11.nl,dizilla12.nl,dizilla13.nl,dizilla14.nl,dizilla15.nl,dizilla16.nl,dizilla17.nl,dizilla18.nl,dizilla19.nl,dizilla20.nl##a[href^="https://diken.xyz/"]
-dizilla.nl,dizilla10.nl,dizilla11.nl,dizilla12.nl,dizilla13.nl,dizilla14.nl,dizilla15.nl,dizilla16.nl,dizilla17.nl,dizilla18.nl,dizilla19.nl,dizilla20.nl##.relative:has(> div[class] > ad)
-dizilla.nl##.player > .flex:has(> div:only-child > img[alt*="ad"])
-dizilla.nl###router-view > div > div > div[class]:has(> div:only-child > ad)
+dizilla.club,dizilla10.club,dizilla11.club,dizilla12.club,dizilla13.club,dizilla14.club,dizilla15.club,dizilla16.club,dizilla17.club,dizilla18.club,dizilla19.club,dizilla20.club##.player > div.flex
+dizilla.club,dizilla10.club,dizilla11.club,dizilla12.club,dizilla13.club,dizilla14.club,dizilla15.club,dizilla16.club,dizilla17.club,dizilla18.club,dizilla19.club,dizilla20.club##a[href^="https://diken.xyz/"]
+dizilla.club,dizilla10.club,dizilla11.club,dizilla12.club,dizilla13.club,dizilla14.club,dizilla15.club,dizilla16.club,dizilla17.club,dizilla18.club,dizilla19.club,dizilla20.club##.relative:has(> div[class] > ad)
+dizilla.club##.player > .flex:has(> div:only-child > img[alt*="ad"])
+dizilla.club###router-view > div > div > div[class]:has(> div:only-child > ad)
 cinque.668a396e58bcbc27.click#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
 selcuksportshd1590.xyz,selcuksportshd1591.xyz,selcuksportshd1592.xyz,selcuksportshd1593.xyz,selcuksportshd1594.xyz,selcuksportshd1595.xyz,selcuksportshd1596.xyz,selcuksportshd1597.xyz,selcuksportshd1598.xyz,selcuksportshd1599.xyz,selcuksportshd1600.xyz##.banner
 selcuksportshd1590.xyz,selcuksportshd1591.xyz,selcuksportshd1592.xyz,selcuksportshd1593.xyz,selcuksportshd1594.xyz,selcuksportshd1595.xyz,selcuksportshd1596.xyz,selcuksportshd1597.xyz,selcuksportshd1598.xyz,selcuksportshd1599.xyz,selcuksportshd1600.xyz##.banners
@@ -5141,6 +5141,8 @@ dizipal1017.com,dizipal1.com,dizipal2.com,dizipal3.com,dizipal4.com,dizipal5.com
 diziwatch1.net,diziwatch2.net,diziwatch3.net,diziwatch4.net,diziwatch5.net,diziwatch6.net,diziwatch7.net,diziwatch8.net,diziwatch9.net,diziwatch10.net,diziwatch11.net,diziwatch12.net,diziwatch13.net,diziwatch14.net,diziwatch15.net##.videoalt
 diziwatch1.net,diziwatch2.net,diziwatch3.net,diziwatch4.net,diziwatch5.net,diziwatch6.net,diziwatch7.net,diziwatch8.net,diziwatch9.net,diziwatch10.net,diziwatch11.net,diziwatch12.net,diziwatch13.net,diziwatch14.net,diziwatch15.net##.videoust
 diziwatch1.net,diziwatch2.net,diziwatch3.net,diziwatch4.net,diziwatch5.net,diziwatch6.net,diziwatch7.net,diziwatch8.net,diziwatch9.net,diziwatch10.net,diziwatch11.net,diziwatch12.net,diziwatch13.net,diziwatch14.net,diziwatch15.net##.body-clickable
+yabancidizi.*#%#//scriptlet('remove-attr', 'loading', 'iframe[loading="lazy"]')
+yabancidizi.biz,yabancidizi.cc,yabancidizi.cloud,yabancidizi.club,yabancidizi.co,yabancidizi.com,yabancidizi.com.bd,yabancidizi.com.np,yabancidizi.fun,yabancidizi.in,yabancidizi.io,yabancidizi.life,yabancidizi.one,yabancidizi.org,yabancidizi.pro,yabancidizi.pw,yabancidizi.tv,yabancidizi.vip##.player > div.flex
 yabancidizi.biz,yabancidizi.cc,yabancidizi.cloud,yabancidizi.club,yabancidizi.co,yabancidizi.com,yabancidizi.com.bd,yabancidizi.com.np,yabancidizi.fun,yabancidizi.in,yabancidizi.io,yabancidizi.life,yabancidizi.one,yabancidizi.org,yabancidizi.pro,yabancidizi.pw,yabancidizi.tv,yabancidizi.vip##div[class^="bg-"].z-\[99999\]
 yabancidizi.biz,yabancidizi.cc,yabancidizi.cloud,yabancidizi.club,yabancidizi.co,yabancidizi.com,yabancidizi.com.bd,yabancidizi.com.np,yabancidizi.fun,yabancidizi.in,yabancidizi.io,yabancidizi.life,yabancidizi.one,yabancidizi.org,yabancidizi.pro,yabancidizi.pw,yabancidizi.tv,yabancidizi.vip##.advert
 yabancidizi.biz,yabancidizi.cc,yabancidizi.cloud,yabancidizi.club,yabancidizi.co,yabancidizi.com,yabancidizi.com.bd,yabancidizi.com.np,yabancidizi.fun,yabancidizi.in,yabancidizi.io,yabancidizi.life,yabancidizi.one,yabancidizi.org,yabancidizi.pro,yabancidizi.pw,yabancidizi.tv,yabancidizi.vip###playerLsDizilla > div:has(a[href$="/dizipalvideobanner"])

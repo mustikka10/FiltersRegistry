@@ -1,9 +1,9 @@
-! Checksum: sO1Ilmi9WE+LDnLb9pbL0w
-! Diff-Path: ../patches/11/11-s-1746706523-3600.patch
+! Checksum: Z1Nm3OwVizgn1Ahp7V6m4Q
+! Diff-Path: ../patches/11/11-s-1746710391-3600.patch
 ! Title: AdGuard Mobile Ads filter
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
-! Version: 2.0.60.51
-! TimeUpdated: 2025-05-08T12:11:04+00:00
+! Version: 2.0.60.52
+! TimeUpdated: 2025-05-08T13:15:29+00:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2642,7 +2642,6 @@ nationalheraldindia.com##div[class^="styles-m__mobile-ad__"]
 nationalheraldindia.com##div[class^="header-m__ad-"]
 nationalheraldindia.com##div[class^="styles-m__dfp__"]
 nextdoordolls.com##.channel-adx-mobile
-yabancidizi.*##.player > div.flex
 homo.xxx,hello.porn##.top_spot
 xfree.com##.mobile-wall-prbn
 ||czechcash.com^$domain=xfree.com

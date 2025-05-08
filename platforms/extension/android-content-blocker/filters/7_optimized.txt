@@ -1,8 +1,8 @@
-! Checksum: rG0KXPAsw/t6FCvDODbIeg
+! Checksum: 4tnUhhmUwqMAsYWZtrnowQ
 ! Title: AdGuard Japanese filter (Optimized)
 ! Description: Filter that enables ad blocking on websites in Japanese language.
-! Version: 2.0.64.31
-! TimeUpdated: 2025-05-08T12:10:56+00:00
+! Version: 2.0.64.32
+! TimeUpdated: 2025-05-08T13:15:23+00:00
 ! Expires: 5 days (update frequency)
 ||ias.rakuten.co.jp^$third-party,domain=~rakuten-co.jp
 ||shindnx.site^$document
@@ -1051,6 +1051,7 @@ hostlove.com#$##index_nav > h1 { padding-top: 30px!important; }
 /wp-content/plugins/amazonjs/*
 /wp-content/themes/CashLINESystem/js/modal.$script
 /wp-content/uploads/2024/09/fanza_ad$image
+://sb1-*.com/ETGate/accountData^$document
 ://visa-*.com/pay-with-featured/$document
 |http://3.34.69.214/rel/p/$document
 -co-jp.com/sbi4sec/$document
@@ -1383,6 +1384,7 @@ bepal.net#$##sidebar { min-height: unset !important; }
 bestcarweb.jp##.sompo-ad-side-column
 yutorize.2-d.jp##main > div[style$="height:90px; margin: 1em; text-align: center;"]
 yutorize.2-d.jp##div[style="float:right;margin-left:8px"] > a > img
+||aieroi.com//wp-content/uploads/*.webp
 mens-rinx.jp##a[id^="ad_"]
 vr-lifemagazine.com###custom_html-64
 ure.pia.co.jp###jp_ups_sp_article_header
@@ -2903,7 +2905,6 @@ keisan-mondai.com###content > div.nosma
 movie.jorudan.co.jp###site-contents > p.message.aright
 marshmallow-qa.com##main.mt-3 > div[class="d-flex"]
 anzn.net##body > div[style$="height:100px;width:320px;"]
-dramanavi.net##.wrap-grid-post-box > article:not([role="article"])
 ||city.chita.lg.jp/_themes/joruri/piece/images/
 city.chita.lg.jp##.banner-sec
 city.izumo.shimane.jp##.section-supporter-link

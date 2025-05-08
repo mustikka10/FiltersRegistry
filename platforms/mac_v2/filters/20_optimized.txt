@@ -1,9 +1,9 @@
-! Checksum: B3ddydu68S8TaZ5iJpExlw
-! Diff-Path: ../patches/20_optimized/20_optimized-s-1746699114-3600.patch
+! Checksum: WdaGqzIVyI7Mdk+KBWmvOA
+! Diff-Path: ../patches/20_optimized/20_optimized-s-1746710385-3600.patch
 ! Title: AdGuard Mobile App Banners filter (Optimized)
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.20.71
-! TimeUpdated: 2025-05-08T10:08:03+00:00
+! Version: 2.0.20.72
+! TimeUpdated: 2025-05-08T13:15:45+00:00
 ! Expires: 12 hours (update frequency)
 /js/jquery.smartbanner.js
 ##.ldapp-article

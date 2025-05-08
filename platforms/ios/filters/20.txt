@@ -1,9 +1,9 @@
-! Checksum: b1Kooazo4yT9zqjhaK5TUw
-! Diff-Path: ../patches/20/20-s-1746699112-3600.patch
+! Checksum: E0egXR8JB6LmbIX35hcNnA
+! Diff-Path: ../patches/20/20-s-1746710381-3600.patch
 ! Title: AdGuard Mobile App Banners filter
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.20.71
-! TimeUpdated: 2025-05-08T10:08:03+00:00
+! Version: 2.0.20.72
+! TimeUpdated: 2025-05-08T13:15:45+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3792,7 +3792,7 @@ m.iyf.tv##.container:has(> div.download-title)
 video.tv-tokyo.co.jp###modal:has(> div#modal-inner > div#webpushsp)
 blog.livedoor.jp##a[href="https://play.google.com/store/apps/details?id=tokyo.zapp.MFNchMatome"]
 dietplus.jp##header[class="md:hidden"] > div[data-testid="wrapper"]:has(> a[href="/s/service_dietplus"])
-tripadvisor.ae,tripadvisor.ai,tripadvisor.at,tripadvisor.be,tripadvisor.best,tripadvisor.by,tripadvisor.ca,tripadvisor.ch,tripadvisor.cl,tripadvisor.club,tripadvisor.cn,tripadvisor.co,tripadvisor.co.id,tripadvisor.co.il,tripadvisor.co.in,tripadvisor.co.kr,tripadvisor.co.nz,tripadvisor.co.uk,tripadvisor.co.za,tripadvisor.com,tripadvisor.com.ar,tripadvisor.com.au,tripadvisor.com.bd,tripadvisor.com.br,tripadvisor.com.hk,tripadvisor.com.mx,tripadvisor.com.my,tripadvisor.com.np,tripadvisor.com.pe,tripadvisor.com.ph,tripadvisor.com.sg,tripadvisor.com.tr,tripadvisor.com.tw,tripadvisor.com.vn,tripadvisor.cz,tripadvisor.de,tripadvisor.dk,tripadvisor.es,tripadvisor.fi,tripadvisor.fr,tripadvisor.gr,tripadvisor.ie,tripadvisor.in,tripadvisor.is,tripadvisor.it,tripadvisor.jp,tripadvisor.lt,tripadvisor.ma,tripadvisor.net,tripadvisor.nl,tripadvisor.no,tripadvisor.one,tripadvisor.org,tripadvisor.org.uk,tripadvisor.pt,tripadvisor.rs,tripadvisor.ru,tripadvisor.se,tripadvisor.sk,tripadvisor.tv,tripadvisor.ua,tripadvisor.uk,tripadvisor.us###lithium-root > div:has(> div > div > picture[style="width:40px;height:40px"])
+tripadvisor.ae,tripadvisor.ai,tripadvisor.at,tripadvisor.be,tripadvisor.best,tripadvisor.by,tripadvisor.ca,tripadvisor.ch,tripadvisor.cl,tripadvisor.club,tripadvisor.cn,tripadvisor.co,tripadvisor.co.id,tripadvisor.co.il,tripadvisor.co.in,tripadvisor.co.kr,tripadvisor.co.nz,tripadvisor.co.uk,tripadvisor.co.za,tripadvisor.com,tripadvisor.com.ar,tripadvisor.com.au,tripadvisor.com.bd,tripadvisor.com.br,tripadvisor.com.hk,tripadvisor.com.mx,tripadvisor.com.my,tripadvisor.com.np,tripadvisor.com.pe,tripadvisor.com.ph,tripadvisor.com.sg,tripadvisor.com.tr,tripadvisor.com.tw,tripadvisor.com.vn,tripadvisor.cz,tripadvisor.de,tripadvisor.dk,tripadvisor.es,tripadvisor.fi,tripadvisor.fr,tripadvisor.gr,tripadvisor.ie,tripadvisor.in,tripadvisor.is,tripadvisor.it,tripadvisor.jp,tripadvisor.lt,tripadvisor.ma,tripadvisor.net,tripadvisor.nl,tripadvisor.no,tripadvisor.one,tripadvisor.org,tripadvisor.org.uk,tripadvisor.pt,tripadvisor.rs,tripadvisor.ru,tripadvisor.se,tripadvisor.sk,tripadvisor.tv,tripadvisor.ua,tripadvisor.uk,tripadvisor.us##main > div[class]:has(> section:only-child > div[class] > div[class] > div[class]:only-child > a[href*="onelink.me"])
 epark.jp##body .header_app_banner
 mamanoko.jp#%#//scriptlet('set-cookie', 'hide_app_banner', 'true')
 yourweather.co.uk,theweather.net,meteored.cl,meteored.cloud,meteored.com,meteored.com.ar,meteored.com.bd,meteored.com.np,meteored.com.uy,meteored.mx,meteored.pe##.descarga_home

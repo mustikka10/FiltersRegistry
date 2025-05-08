@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: m2sI/Nx4D8l6a+vkVq5FNA
-! Diff-Path: ../patches/20/20-s-1746699108-3600.patch
+! Checksum: UviCM8HNTUYYCOWB6hTjLw
+! Diff-Path: ../patches/20/20-s-1746710377-3600.patch
 ! Title: AdGuard Mobile App Banners filter
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.20.71
-! TimeUpdated: 2025-05-08T10:08:03+00:00
+! Version: 2.0.20.72
+! TimeUpdated: 2025-05-08T13:15:45+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3746,7 +3746,7 @@ m.iyf.tv##.container:has(> div.download-title)
 video.tv-tokyo.co.jp###modal:has(> div#modal-inner > div#webpushsp)
 blog.livedoor.jp##a[href="https://play.google.com/store/apps/details?id=tokyo.zapp.MFNchMatome"]
 dietplus.jp##header[class="md:hidden"] > div[data-testid="wrapper"]:has(> a[href="/s/service_dietplus"])
-tripadvisor.*###lithium-root > div:has(> div > div > picture[style="width:40px;height:40px"])
+tripadvisor.*##main > div[class]:has(> section:only-child > div[class] > div[class] > div[class]:only-child > a[href*="onelink.me"])
 epark.jp##body .header_app_banner
 mamanoko.jp##+js(set-cookie, hide_app_banner, true)
 yourweather.co.uk,theweather.net,meteored.*##.descarga_home
