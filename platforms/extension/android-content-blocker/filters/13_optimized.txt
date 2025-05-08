@@ -1,8 +1,8 @@
-! Checksum: krfyaJ6MvkiUw2V0yCvXYQ
+! Checksum: pH+GXPxMHX9lE9nbcp9ozQ
 ! Title: AdGuard Turkish filter (Optimized)
 ! Description: Filter list that specifically removes ads on websites in Turkish language.
-! Version: 2.0.56.28
-! TimeUpdated: 2025-05-08T15:08:53+00:00
+! Version: 2.0.56.29
+! TimeUpdated: 2025-05-08T16:08:54+00:00
 ! Expires: 5 days (update frequency)
 ||movturs.click^
 ||dontmakethem.club^

@@ -1,9 +1,9 @@
-! Checksum: UXC/cxAvg9aY87CFx4HKQA
-! Diff-Path: ../patches/9/9-s-1746702635-3600.patch
+! Checksum: z+B3BIiJZ7pb3o837teoJQ
+! Diff-Path: ../patches/9/9-s-1746720788-3600.patch
 ! Title: AdGuard Spanish/Portuguese filter
 ! Description: Filter list that specifically removes ads on websites in Spanish, Portuguese, and Brazilian Portuguese languages.
-! Version: 2.0.29.81
-! TimeUpdated: 2025-05-08T11:06:34+00:00
+! Version: 2.0.29.82
+! TimeUpdated: 2025-05-08T16:08:48+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2319,6 +2319,9 @@ c5n.com,t13.cl,solowrestling.mundodeportivo.com,todojujuy.com,mendozapost.com,me
 !
 ! NOTE: Specific rules
 !
+nationalgeographicbrasil.com##div[id^="gpt--header--"]
+nationalgeographic.pt#$#@media only screen and (min-width: 1080px) { .add990x90 { display: none !important; } }
+nationalgeographic.pt#$#@media only screen and (min-width: 1080px) { .page-content { margin-top: 120px !important; } }
 yelitzonpc.com##center > a[target="_blank"]
 misprogramaspc.com##.vn-green > a[target="_blank"]
 tecmundo.com.br##div[class^="styles_ads_"]

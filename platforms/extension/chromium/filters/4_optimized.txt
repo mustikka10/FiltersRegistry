@@ -1,9 +1,9 @@
-! Checksum: 9e/Nlhq4KMrFrAjQuSfgrg
-! Diff-Path: ../patches/4_optimized/4_optimized-s-1746717167-3600.patch
+! Checksum: 3lR/IvsmovauvRnwb9OIwA
+! Diff-Path: ../patches/4_optimized/4_optimized-s-1746720775-3600.patch
 ! Title: AdGuard Social Media filter (Optimized)
 ! Description: Filter for social media widgets such as 'Like' and 'Share' buttons and more.
-! Version: 2.1.14.33
-! TimeUpdated: 2025-05-08T15:08:27+00:00
+! Version: 2.1.14.34
+! TimeUpdated: 2025-05-08T16:08:30+00:00
 ! Expires: 10 days (update frequency)
 ||share-count.donreach.com^$third-party
 ||button-follow.zalo.me^$third-party
@@ -8863,6 +8863,7 @@ dooralei.ru#$#body { overflow: visible!important; }
 twgreatdaily.com#$#.body.modal-open { overflow: visible!important; }
 catalogmineralov.ru#$#body { overflow: visible!important; }
 1track.ru#$#body { overflow: visible!important; }
+nationalgeographic.pt#@#.socialmedia
 rkf.online#%#//scriptlet('set-constant', 'Ya', 'emptyObj')
 rkf.online#%#//scriptlet('set-constant', 'Ya.share2', 'noopFunc')
 @@||scotusblog.com/_static/??/wp-content/themes/*/public/assets/app.css,/wp-content/plugins/add-to-any/addtoany.min.css

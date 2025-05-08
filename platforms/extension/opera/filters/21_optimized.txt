@@ -1,9 +1,9 @@
-! Checksum: saTQDOMrJ7LWRjRBIkHoGg
-! Diff-Path: ../patches/21_optimized/21_optimized-s-1746717178-3600.patch
+! Checksum: fTPlQHmq2kyQBQR89NFn6w
+! Diff-Path: ../patches/21_optimized/21_optimized-s-1746720783-3600.patch
 ! Title: AdGuard Other Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages that do not fall under the popular categories of annoyances.
-! Version: 2.0.33.22
-! TimeUpdated: 2025-05-08T15:09:07+00:00
+! Version: 2.0.33.23
+! TimeUpdated: 2025-05-08T16:09:12+00:00
 ! Expires: 10 days (update frequency)
 !######### Annoying elements (not ads)
 instagram.com#$?#div[class]:has(> div[class]:first-child > a[href="/explore/people/"]) { position: absolute !important; left: -3000px !important; }
@@ -978,6 +978,8 @@ tv.yandex.*##.recommended-ott
 www.kinopoisk.ru#$#header[class][style*="--header-height:150px"] > div > img { display: none !important; }
 www.kinopoisk.ru#$#header[class][style*="--header-height:150px"] > div.header-navigation { margin-top: 0 !important; }
 www.kinopoisk.ru##div[class^="trailer-promo"]
+softexia.com##.head-discount
+nationalgeographic.pt##.subscripcion-revista
 stash.clash.gg##.cl-popup
 online.metro-cc.ru##.top-stretched-banner
 bristol.ru##.corporative-banner

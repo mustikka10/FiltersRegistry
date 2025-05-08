@@ -1,9 +1,9 @@
-! Checksum: n3g9ZME0Ef1G7bmYEVraJw
-! Diff-Path: ../patches/4/4-s-1746717176-3600.patch
+! Checksum: elfzMpA0EMcXNB67Ri9H0Q
+! Diff-Path: ../patches/4/4-s-1746720781-3600.patch
 ! Title: AdGuard Social Media filter
 ! Description: Filter for social media widgets such as 'Like' and 'Share' buttons and more.
-! Version: 2.1.14.33
-! TimeUpdated: 2025-05-08T15:08:27+00:00
+! Version: 2.1.14.34
+! TimeUpdated: 2025-05-08T16:08:30+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -14999,6 +14999,8 @@ bomb01.com#$#.modal-open { overflow: visible!important; }
 ! Bad:  @@||example.org^$stealth (should be in AdGuard Base - allowlist_stealth.txt)
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204861
+nationalgeographic.pt#@#.socialmedia
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204699
 rkf.online#%#//scriptlet('set-constant', 'Ya', 'emptyObj')
 rkf.online#%#//scriptlet('set-constant', 'Ya.share2', 'noopFunc')

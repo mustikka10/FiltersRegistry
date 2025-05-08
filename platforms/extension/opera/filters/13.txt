@@ -1,9 +1,9 @@
-! Checksum: qKmtZ8FZ+liUNpYwMtfJNA
-! Diff-Path: ../patches/13/13-s-1746717176-3600.patch
+! Checksum: R8RPxS9SexcQaXUs7crlKA
+! Diff-Path: ../patches/13/13-s-1746720781-3600.patch
 ! Title: AdGuard Turkish filter
 ! Description: Filter list that specifically removes ads on websites in Turkish language.
-! Version: 2.0.56.28
-! TimeUpdated: 2025-05-08T15:08:53+00:00
+! Version: 2.0.56.29
+! TimeUpdated: 2025-05-08T16:08:54+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -5646,6 +5646,7 @@ x.ag2m2.cfd#?##oframeplayerjs > pjsdiv[style^="position:"]:has(> pjsdiv > pjsdiv
 [$domain=/dizipal\d+.com/]##.alert
 [$domain=/dizipal\d+.com/]##.rounded.m-auto .bg-black > a[href][target="_blank"]
 [$domain=/dizipal\d+.com/]###mPlayerFds
+! aglint-disable invalid-modifiers
 !+ NOT_VALIDATE
 ||blogger.googleusercontent.com/img/$domain=/^dizipal\d+\.com$/
 ! dizipal*.com - frequently changed domains (probably another similar)

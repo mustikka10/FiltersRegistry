@@ -1,8 +1,8 @@
-! Checksum: LTPX9pelbZ1LU+YF+3RAlg
+! Checksum: T7olVn4RemD7Jo5kr9xb4g
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.64
-! TimeUpdated: 2025-05-08T15:07:48+00:00
+! Version: 2.3.82.65
+! TimeUpdated: 2025-05-08T16:08:14+00:00
 ! Expires: 10 days (update frequency)
 ||catoixeam.click^$all
 ||trgfx.b-cdn.net^$all
@@ -5571,6 +5571,7 @@ beinmatch.*#%#//scriptlet("prevent-window-open", "!/home/")
 beinmatch.*#%#//scriptlet("abort-on-property-read", "S9tt")
 egyfalcons.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "adblock")
 egyshare.cc#%#//scriptlet("remove-attr", "href", "a[href]#clickfakeplayer")
+||new.cimanow.online/judo.js$redirect=noopjs
 freex2line.online,cimanowtv.com,cnvids.com,cimanow.cc,cimanow.*#%#//scriptlet('prevent-element-src-loading', 'script', '/judo.js')
 freex2line.online,cimanowtv.com,cnvids.com,cimanow.cc,cimanow.*#%#//scriptlet('remove-node-text', 'script', '/\.__proto__\.constructor\.name|decompressFromUTF16|\)\.substr\(0/')
 freex2line.online,cimanow.cc,cimanow.com.bd,cimanow.com.np,cimanow.fun,cimanow.net,cimanow.online,cimanow.store,cimanow.tv##body > a[target="_blank"]

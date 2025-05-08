@@ -1,8 +1,8 @@
-! Checksum: zZckZgqXqBzdibJqU6L46A
+! Checksum: 2Uy0tgBciMxfyoPs6qWjKg
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.64
-! TimeUpdated: 2025-05-08T15:07:48+00:00
+! Version: 2.3.82.65
+! TimeUpdated: 2025-05-08T16:08:14+00:00
 ! Expires: 5 days (update frequency)
 ||gusoclji.com^
 ||awdeliverynet.com^$third-party
