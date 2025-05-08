@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: a5yAhWZ1fNcIOHd/jqQoig
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746738627-3600.patch
+! Checksum: GNJcBzKzUxx+qA4WLElknw
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746745877-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.82.67
-! TimeUpdated: 2025-05-08T21:06:22+00:00
+! Version: 2.3.82.68
+! TimeUpdated: 2025-05-08T23:07:17+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -52416,7 +52416,6 @@ mezha.media##a[aria-label^="Банер"]
 ||financhill.com/js-min/blog-ads.js
 gpfans.com##.taboonews
 lilymanga.net##div[class^="code-block code-block"][style^="position: fixed; z-index: 9995;"]
-||m.media-amazon.com/images/$domain=klz9.com|imdb.com
 klz9.com##div[style^="width:336px!important;height:250px!important;position:relative!important;"]
 linkedin.com##.feed-container > .feed-item > article[data-is-sponsored]
 zoomgirls.net##.wallpaper-ads-right
@@ -72984,6 +72983,7 @@ implbits.com#@#.banner_container
 !#########################################
 !
 !
+! klz9.com - broken pictures
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204721
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204791
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204339

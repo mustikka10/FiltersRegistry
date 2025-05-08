@@ -1,8 +1,8 @@
-! Checksum: CdM+Wan7u0o+8sIL1+UfYQ
+! Checksum: ZQUMJ68aDmM6Z9MD77GZmA
 ! Title: AdGuard Chinese filter
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.1.36.58
-! TimeUpdated: 2025-05-08T15:09:12+00:00
+! Version: 2.1.36.59
+! TimeUpdated: 2025-05-08T23:07:58+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -5115,6 +5115,10 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||jguhqbe.top^
+||fadjqqe.top^
+||bcpxll.icu^
+||uqkcqk.icu^
 ||uuso05080qhs.xyz^
 ||thimhudlop.com^
 ||qiuxl11.cn^
