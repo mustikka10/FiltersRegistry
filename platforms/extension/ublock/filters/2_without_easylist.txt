@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: Jzum3Q2FjpHILahXC0yZ1A
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746710378-3600.patch
+! Checksum: dPHJ+D71DydpPuC/XCh70w
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746713486-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.82.62
-! TimeUpdated: 2025-05-08T13:15:01+00:00
+! Version: 2.3.82.63
+! TimeUpdated: 2025-05-08T14:07:04+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -52416,7 +52416,7 @@ mezha.media##a[aria-label^="Банер"]
 ||financhill.com/js-min/blog-ads.js
 gpfans.com##.taboonews
 lilymanga.net##div[class^="code-block code-block"][style^="position: fixed; z-index: 9995;"]
-||m.media-amazon.com/images/$domain=klz9.com
+||m.media-amazon.com/images/$domain=klz9.com|imdb.com
 klz9.com##div[style^="width:336px!important;height:250px!important;position:relative!important;"]
 linkedin.com##.feed-container > .feed-item > article[data-is-sponsored]
 zoomgirls.net##.wallpaper-ads-right

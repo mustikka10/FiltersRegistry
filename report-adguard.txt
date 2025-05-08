@@ -1,5 +1,5 @@
 
-FiltersCompiler report 5/8/2025 1:14:25 PM:
+FiltersCompiler report 5/8/2025 2:06:29 PM:
 
 Filter ID: 1
 Filter name: AdGuard Russian filter
@@ -43,7 +43,7 @@ Error: Invalid selector: '.snlikebt > ul > li:not(:nth-child(4)):not(:nth-child(
 ---------------------------
 Filter ID: 5
 Filter name: AdGuard Experimental filter
-Compiled rules: 253
+Compiled rules: 255
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/5.txt
 All rules are valid.

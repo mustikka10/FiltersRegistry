@@ -1,8 +1,8 @@
-! Checksum: ciqcRH+87lAAXeTm0x0GLg
+! Checksum: s2gIeLcdMREMPLMkjprDYg
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.62
-! TimeUpdated: 2025-05-08T13:15:01+00:00
+! Version: 2.3.82.63
+! TimeUpdated: 2025-05-08T14:07:04+00:00
 ! Expires: 5 days (update frequency)
 ||catoixeam.click^$all
 ||trgfx.b-cdn.net^$all
@@ -12976,6 +12976,7 @@ on3.com##div[class^="MobileMPU_ad"]
 on3.com##.adhesionAd
 hellomagazine.com##div[class^="-variation-roba"]
 gpfans.com##.taboonews
+||m.media-amazon.com/images/$domain=klz9.com|imdb.com
 zoomgirls.net##.wallpaper-ads-right
 zoomgirls.net###left-panel > * > a[target="_blank"] > img
 redd.tube###basePopping

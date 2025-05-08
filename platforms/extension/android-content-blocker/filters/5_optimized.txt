@@ -1,9 +1,10 @@
-! Checksum: kSXUYzX/enva3YNVjGiVvA
+! Checksum: MTuNPS4m/u0lJbkyl/ZpQw
 ! Title: AdGuard Experimental filter (Optimized)
 ! Description: Filter designed to test certain hazardous filtering rules before they are added to the basic filters.
-! Version: 2.0.1.63
-! TimeUpdated: 2025-03-21T09:31:50+00:00
+! Version: 2.0.1.64
+! TimeUpdated: 2025-05-08T14:07:19+00:00
 ! Expires: 5 days (update frequency)
+://html-load.com/content/
 developer.android.com,adssettings.google.com##sc-survey-survey-manager
 ||chromewebstore.google.com/*/ChromeWebStoreConsumerFeUi/web-reports?
 /videojs8/nuevo.min.js
