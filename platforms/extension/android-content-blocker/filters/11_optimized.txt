@@ -1,8 +1,8 @@
-! Checksum: zydlhbGqPs6fJmeQUjM32w
+! Checksum: 1Bj/QEA5GvhwM0M0Xj/mmg
 ! Title: AdGuard Mobile Ads filter (Optimized)
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
-! Version: 2.0.60.49
-! TimeUpdated: 2025-05-08T05:07:49+00:00
+! Version: 2.0.60.50
+! TimeUpdated: 2025-05-08T09:08:03+00:00
 ! Expires: 5 days (update frequency)
 ||adx-open-service.youku.com^
 ||ad.youku.com^

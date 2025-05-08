@@ -1,8 +1,8 @@
-! Checksum: sSXDBWRG/l0RoPxPwbxeqQ
+! Checksum: JYfsMfuiSUYO9TTBE3lS4A
 ! Title: AdGuard Cookie Notices filter (Optimized)
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.61.37
-! TimeUpdated: 2025-05-08T06:10:14+00:00
+! Version: 2.0.61.38
+! TimeUpdated: 2025-05-08T09:08:21+00:00
 ! Expires: 5 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
@@ -1338,6 +1338,7 @@ movieplayer.it#$#html { overflow: visible !important; }
 help.lurker.tv,help.zenky.io,docs.powershelluniversal.com,docs.snyk.io,docs.keeper.io,developers.deepl.com##[aria-label="Cookies"]
 scootertechno.com,mysize.ch,aeotec.com,geschichte-wissen.de,4kfilme.de,pk.edu.pl,warzywapolowe.pl,airportwebcams.net#$#body[style] { overflow: auto !important; }
 scootertechno.com,mysize.ch,aeotec.com,geschichte-wissen.de,4kfilme.de,pk.edu.pl,warzywapolowe.pl,airportwebcams.net#$#html[style] { overflow: auto !important; }
+vod3.pl#$#body { overflow: auto !important; }
 podarkus.ru##div[class^="style_cookies"]
 brainstation.io##div[data-cookie-notification]
 ||concord.tech^$domain=sheerid.com
