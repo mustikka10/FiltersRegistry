@@ -1,16 +1,16 @@
 ![Adblock Plus 2.0]
-! Checksum: iXaH7swwbgnzjgVe8RjE7w
-! Diff-Path: ../patches/122/122-s-1746722700-14400.patch
+! Checksum: m7wvjc8Hn4teHfGezpgonw
+! Diff-Path: ../patches/122/122-s-1746736850-14400.patch
 ! Title: Fanboy's Annoyances
 ! Description: Removes in-page pop-ups and other annoyances. Includes Fanboy's Social Blocking & EasyList Cookie Lists.
-! Version: 2.1.46.83
-! TimeUpdated: 2025-05-08T16:39:34+00:00
+! Version: 2.1.46.84
+! TimeUpdated: 2025-05-08T20:36:29+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: k6Qc/QvdT05l8XxjGBdmiQ
-! OriginalVersion: 202505081542
+! Checksum: n2pIzcqarwQtNrbhuwGvqQ
+! OriginalVersion: 202505081942
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-05-08 15:42 UTC
+! Last modified: 2025-05-08 19:42 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -38737,6 +38737,7 @@ elliberal.cat##+js(set-cookie, wpl_viewed_cookie, no)
 ubuntu.com##+js(set-cookie, _cookies_accepted, essential)
 mash.ru##+js(set-cookie, _mash_privacy_accepted, true)
 fromsmash.com##+js(set-cookie, _sucs, true)
+vivenu.com##+js(set-cookie, cookies-acknowledged, true, , reload, 1)
 sportsmetrics.football##+js(set-cookie, SportsMetrics_Privacy_Police_Cookie, true)
 chatgpt.com##+js(set-cookie, oai-allow-ne, false)
 enac.es##+js(set-cookie, lopd_medicion, 2)
@@ -40523,7 +40524,6 @@ app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/tra
 app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentAnalyticsKey, false)
 instantspoursoi.fr##+js(set-local-storage-item, agreeToCookie, false)
 thealliance.ai##+js(set-local-storage-item, AI Alliance_ReactCookieAcceptance_hasSetCookies, true)
-vivenu.com##+js(set-local-storage-item, cookie-ack-2, true)
 librumreader.com##+js(set-local-storage-item, firstVisit, false)
 visnos.com##+js(set-local-storage-item, 2020-04-05, 1)
 polypane.app##+js(set-local-storage-item, dismissed, true)
@@ -41414,6 +41414,7 @@ elliberal.cat##+js(set-cookie, wpl_viewed_cookie, no)
 ubuntu.com##+js(set-cookie, _cookies_accepted, essential)
 mash.ru##+js(set-cookie, _mash_privacy_accepted, true)
 fromsmash.com##+js(set-cookie, _sucs, true)
+vivenu.com##+js(set-cookie, cookies-acknowledged, true, , reload, 1)
 sportsmetrics.football##+js(set-cookie, SportsMetrics_Privacy_Police_Cookie, true)
 chatgpt.com##+js(set-cookie, oai-allow-ne, false)
 enac.es##+js(set-cookie, lopd_medicion, 2)
@@ -43200,7 +43201,6 @@ app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/tra
 app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentAnalyticsKey, false)
 instantspoursoi.fr##+js(set-local-storage-item, agreeToCookie, false)
 thealliance.ai##+js(set-local-storage-item, AI Alliance_ReactCookieAcceptance_hasSetCookies, true)
-vivenu.com##+js(set-local-storage-item, cookie-ack-2, true)
 librumreader.com##+js(set-local-storage-item, firstVisit, false)
 visnos.com##+js(set-local-storage-item, 2020-04-05, 1)
 polypane.app##+js(set-local-storage-item, dismissed, true)

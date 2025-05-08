@@ -1,14 +1,14 @@
-! Checksum: AZf4Fdx5Dao+Jw6m41GFXg
+! Checksum: e9TRTRUL4lR+5ktuRZYEsQ
 ! Title: EasyList
 ! Description: EasyList is the primary subscription that removes adverts from web pages in English. Already included in AdGuard Base filter.
-! Version: 2.1.46.55
-! TimeUpdated: 2025-05-08T16:39:17+00:00
+! Version: 2.1.46.56
+! TimeUpdated: 2025-05-08T20:36:13+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: hwtuL5aiRfUsxz4YrsnE7A
-! OriginalVersion: 202505081631
+! Checksum: buRFVLMviDAus1Gy+tFVtQ
+! OriginalVersion: 202505082021
 ! Title: EasyList
-! Last modified: 08 May 2025 16:31 UTC
+! Last modified: 08 May 2025 20:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20962,6 +20962,7 @@ browsershots.org#@#.advert_area
 ||ckrf1.com^
 ||ckydlxzejeepc.rocks^
 ||ckynh.com^
+||ckzypnshkzevn.xyz^
 ||cl0udh0st1ng.com^
 ||clackbenefactor.com^
 ||cladp.com^

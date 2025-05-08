@@ -1,14 +1,14 @@
-! Checksum: b8wFAp0/Moc0rpKq1TDKZw
-! Diff-Path: ../patches/239/239-s-1746722691-14400.patch
+! Checksum: HDXvicYDtibp0bxwtxcnJw
+! Diff-Path: ../patches/239/239-s-1746736841-14400.patch
 ! Title: Fanboy's Anti-thirdparty Fonts
 ! Description: A filter that blocks third-party fonts. It may break the look and design of some websites.
-! Version: 2.0.6.66
-! TimeUpdated: 2025-05-08T16:39:54+00:00
+! Version: 2.0.6.67
+! TimeUpdated: 2025-05-08T20:36:48+00:00
 ! Expires: 10 days (update frequency)
 !
-! Checksum: clWMginUDpFDPpH0+VI77Q
+! Checksum: lYY8N+LnhYbjWQbn3nWmZQ
 ! Title: Fanboy's Anti-thirdparty Fonts
-! Updated: 2025-05-08 15:35 UTC
+! Updated: 2025-05-08 19:35 UTC
 ! Expires: 9 days
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: http://www.fanboy.co.nz/

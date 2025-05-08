@@ -1,13 +1,13 @@
-! Checksum: OuaeIz2vZzG43Fu6SiZkJQ
+! Checksum: xqz1TAVOalFSHqybkTcp/A
 ! Title: EasyList Cookie List
 ! Description: Removes cookie and privacy warnings. Already included in Fanboy's Annoyances list.
-! Version: 2.1.52.55
-! TimeUpdated: 2025-05-08T16:39:56+00:00
+! Version: 2.1.52.56
+! TimeUpdated: 2025-05-08T20:36:51+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: Bzr7gh4NOJkf3T9tSZyajQ
+! Checksum: B/56HzsibyO9GF+hpsObHA
 ! Title: Easylist Cookie List
-! Updated: 2025-05-08 16:38 UTC
+! Updated: 2025-05-08 20:10 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums

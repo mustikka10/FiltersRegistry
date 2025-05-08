@@ -40,6 +40,8 @@ ubuntu.com##+js(set-cookie,  _cookies_accepted, essential)
 mash.ru##+js(set-cookie, _mash_privacy_accepted, true)
 ! Rule "fromsmash.com##+js(set-cookie, _sucs, true)" converted to: "fromsmash.com#%#//scriptlet('ubo-set-cookie.js', '_sucs', 'true')"
 fromsmash.com##+js(set-cookie, _sucs, true)
+! Rule "vivenu.com##+js(set-cookie, cookies-acknowledged, true, , reload, 1)" converted to: "vivenu.com#%#//scriptlet('ubo-set-cookie.js', 'cookies-acknowledged', 'true', '', 'reload', '1')"
+vivenu.com##+js(set-cookie, cookies-acknowledged, true, , reload, 1)
 ! Rule "sportsmetrics.football##+js(set-cookie, SportsMetrics_Privacy_Police_Cookie, true)" converted to: "sportsmetrics.football#%#//scriptlet('ubo-set-cookie.js', 'SportsMetrics_Privacy_Police_Cookie', 'true')"
 sportsmetrics.football##+js(set-cookie, SportsMetrics_Privacy_Police_Cookie, true)
 ! Rule "chatgpt.com##+js(set-cookie, oai-allow-ne, false)" converted to: "chatgpt.com#%#//scriptlet('ubo-set-cookie.js', 'oai-allow-ne', 'false')"
@@ -3590,8 +3592,6 @@ app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/tra
 instantspoursoi.fr##+js(set-local-storage-item, agreeToCookie, false)
 ! Rule "thealliance.ai##+js(set-local-storage-item, AI Alliance_ReactCookieAcceptance_hasSetCookies, true)" converted to: "thealliance.ai#%#//scriptlet('ubo-set-local-storage-item.js', 'AI Alliance_ReactCookieAcceptance_hasSetCookies', 'true')"
 thealliance.ai##+js(set-local-storage-item, AI Alliance_ReactCookieAcceptance_hasSetCookies, true)
-! Rule "vivenu.com##+js(set-local-storage-item, cookie-ack-2, true)" converted to: "vivenu.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie-ack-2', 'true')"
-vivenu.com##+js(set-local-storage-item, cookie-ack-2, true)
 ! Rule "librumreader.com##+js(set-local-storage-item, firstVisit, false)" converted to: "librumreader.com#%#//scriptlet('ubo-set-local-storage-item.js', 'firstVisit', 'false')"
 librumreader.com##+js(set-local-storage-item, firstVisit, false)
 ! Rule "visnos.com##+js(set-local-storage-item, 2020-04-05, 1)" converted to: "visnos.com#%#//scriptlet('ubo-set-local-storage-item.js', '2020-04-05', '1')"

@@ -1,9 +1,9 @@
-! Checksum: r6SzwgQhrcIehwoKrEDEcA
-! Diff-Path: ../patches/122_optimized/122_optimized-s-1746722682-14400.patch
+! Checksum: 4tGOA7uncMS/KL/ktWZqHw
+! Diff-Path: ../patches/122_optimized/122_optimized-s-1746736833-14400.patch
 ! Title: Fanboy's Annoyances (Optimized)
 ! Description: Removes in-page pop-ups and other annoyances. Includes Fanboy's Social Blocking & EasyList Cookie Lists.
-! Version: 2.1.46.83
-! TimeUpdated: 2025-05-08T16:39:34+00:00
+! Version: 2.1.46.84
+! TimeUpdated: 2025-05-08T20:36:29+00:00
 ! Expires: 10 days (update frequency)
 /1-popupally-pro-code.js
 /arscode-ninja-popups/*$~stylesheet
@@ -9233,6 +9233,7 @@ elliberal.cat#%#//scriptlet('ubo-set-cookie.js', 'wpl_viewed_cookie', 'no')
 ubuntu.com#%#//scriptlet('ubo-set-cookie.js', '_cookies_accepted', 'essential')
 mash.ru#%#//scriptlet('ubo-set-cookie.js', '_mash_privacy_accepted', 'true')
 fromsmash.com#%#//scriptlet('ubo-set-cookie.js', '_sucs', 'true')
+vivenu.com#%#//scriptlet('ubo-set-cookie.js', 'cookies-acknowledged', 'true', '', 'reload', '1')
 sportsmetrics.football#%#//scriptlet('ubo-set-cookie.js', 'SportsMetrics_Privacy_Police_Cookie', 'true')
 chatgpt.com#%#//scriptlet('ubo-set-cookie.js', 'oai-allow-ne', 'false')
 enac.es#%#//scriptlet('ubo-set-cookie.js', 'lopd_medicion', '2')
@@ -11008,7 +11009,6 @@ app.klarna.com#%#//scriptlet('ubo-set-local-storage-item.js', 'safe-storage/v1/t
 app.klarna.com#%#//scriptlet('ubo-set-local-storage-item.js', 'safe-storage/v1/tracking-consent/trackingConsentAnalyticsKey', 'false')
 instantspoursoi.fr#%#//scriptlet('ubo-set-local-storage-item.js', 'agreeToCookie', 'false')
 thealliance.ai#%#//scriptlet('ubo-set-local-storage-item.js', 'AI Alliance_ReactCookieAcceptance_hasSetCookies', 'true')
-vivenu.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie-ack-2', 'true')
 librumreader.com#%#//scriptlet('ubo-set-local-storage-item.js', 'firstVisit', 'false')
 visnos.com#%#//scriptlet('ubo-set-local-storage-item.js', '2020-04-05', '1')
 polypane.app#%#//scriptlet('ubo-set-local-storage-item.js', 'dismissed', 'true')
@@ -11433,6 +11433,7 @@ elliberal.cat#%#//scriptlet('ubo-set-cookie.js', 'wpl_viewed_cookie', 'no')
 ubuntu.com#%#//scriptlet('ubo-set-cookie.js', '_cookies_accepted', 'essential')
 mash.ru#%#//scriptlet('ubo-set-cookie.js', '_mash_privacy_accepted', 'true')
 fromsmash.com#%#//scriptlet('ubo-set-cookie.js', '_sucs', 'true')
+vivenu.com#%#//scriptlet('ubo-set-cookie.js', 'cookies-acknowledged', 'true', '', 'reload', '1')
 sportsmetrics.football#%#//scriptlet('ubo-set-cookie.js', 'SportsMetrics_Privacy_Police_Cookie', 'true')
 chatgpt.com#%#//scriptlet('ubo-set-cookie.js', 'oai-allow-ne', 'false')
 enac.es#%#//scriptlet('ubo-set-cookie.js', 'lopd_medicion', '2')
@@ -13208,7 +13209,6 @@ app.klarna.com#%#//scriptlet('ubo-set-local-storage-item.js', 'safe-storage/v1/t
 app.klarna.com#%#//scriptlet('ubo-set-local-storage-item.js', 'safe-storage/v1/tracking-consent/trackingConsentAnalyticsKey', 'false')
 instantspoursoi.fr#%#//scriptlet('ubo-set-local-storage-item.js', 'agreeToCookie', 'false')
 thealliance.ai#%#//scriptlet('ubo-set-local-storage-item.js', 'AI Alliance_ReactCookieAcceptance_hasSetCookies', 'true')
-vivenu.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie-ack-2', 'true')
 librumreader.com#%#//scriptlet('ubo-set-local-storage-item.js', 'firstVisit', 'false')
 visnos.com#%#//scriptlet('ubo-set-local-storage-item.js', '2020-04-05', '1')
 polypane.app#%#//scriptlet('ubo-set-local-storage-item.js', 'dismissed', 'true')
