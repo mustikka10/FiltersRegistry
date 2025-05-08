@@ -1,15 +1,15 @@
-! Checksum: +43Up69L5IkdUsea/DH46Q
-! Diff-Path: ../patches/253/253-s-1746679388-14400.patch
+! Checksum: Ak3G016u+JZLelsdotzxlg
+! Diff-Path: ../patches/253/253-s-1746693818-14400.patch
 ! Title: IndianList
 ! Description: Additional filter list for websites in Hindi, Tamil and other Dravidian and Indic languages.
-! Version: 2.0.62.82
-! TimeUpdated: 2025-05-08T04:39:11+00:00
+! Version: 2.0.62.83
+! TimeUpdated: 2025-05-08T08:39:42+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: nVqfPkN2vJrk8JNNLNfm0w
-! OriginalVersion: 202505080431
+! Checksum: LHJFYddy/Ey0ZwDGblSfzg
+! OriginalVersion: 202505080831
 ! Title: IndianList
-! Last modified: 08 May 2025 04:31 UTC
+! Last modified: 08 May 2025 08:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html

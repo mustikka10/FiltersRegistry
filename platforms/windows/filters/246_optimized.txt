@@ -1,9 +1,9 @@
-! Checksum: qqfhqGdxVNIY9BM63vYycg
-! Diff-Path: ../patches/246_optimized/246_optimized-s-1746679397-14400.patch
+! Checksum: jlbIAP4R5eWRLeB8fkl6lg
+! Diff-Path: ../patches/246_optimized/246_optimized-s-1746693828-14400.patch
 ! Title: EasyList Polish (Optimized)
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.65.57
-! TimeUpdated: 2025-05-08T04:39:02+00:00
+! Version: 2.1.65.58
+! TimeUpdated: 2025-05-08T08:39:33+00:00
 ! Expires: 12 hours (update frequency)
 /adserwer.
 =adv/GetAdvertisment|
@@ -327,6 +327,7 @@ files.librus.pl^*^r_
 ||izabelin24.pl/static/files/inline_images/52/inline__1_236.png
 ||izabelin24.pl/static/files/inline_images/52/inline__1_402.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
+||izoliborz.pl/static/files/inline_images/13/inline__1251396_7477.jpg
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
 ||kmziz.pl^*^728x90c^

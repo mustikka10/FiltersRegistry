@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: a45zx4MavuPIAPfGZ/ogZA
-! Diff-Path: ../patches/256/256-s-1746607461-14400.patch
+! Checksum: N3vDYhH4rtzPuOKROCkmCQ
+! Diff-Path: ../patches/256/256-s-1746693815-14400.patch
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites.
-! Version: 2.0.4.0
-! TimeUpdated: 2025-05-07T08:40:30+00:00
+! Version: 2.0.4.1
+! TimeUpdated: 2025-05-08T08:39:46+00:00
 ! Expires: 5 days (update frequency)
 !
 ! Title: Scam Blocklist by DurableNapkin
@@ -12,8 +12,6 @@
 ! Home: https://github.com/durablenapkin/scamblocklist
 ! Contribute: https://github.com/durablenapkin/scamblocklist/issues
 ! License: MIT (https://mit-license.org/)
-!+ NOT_OPTIMIZED
-||1.password-internal.com^$all
 !+ NOT_OPTIMIZED
 ||1000fapvids.online^$all
 !+ NOT_OPTIMIZED
@@ -341,8 +339,6 @@
 !+ NOT_OPTIMIZED
 ||bombardina.pl^$all
 !+ NOT_OPTIMIZED
-||booliving.com^$all
-!+ NOT_OPTIMIZED
 ||botsuanah.com^$all
 !+ NOT_OPTIMIZED
 ||boutiqueondemand.com^$all
@@ -462,8 +458,6 @@
 ||cognatesyringe.com^$all
 !+ NOT_OPTIMIZED
 ||coinaps.com^$all
-!+ NOT_OPTIMIZED
-||coinomi.ing^$all
 !+ NOT_OPTIMIZED
 ||coinreq.com^$all
 !+ NOT_OPTIMIZED
@@ -693,6 +687,8 @@
 !+ NOT_OPTIMIZED
 ||eslgrandscup.com^$all
 !+ NOT_OPTIMIZED
+||estiloserena.com.br^$all
+!+ NOT_OPTIMIZED
 ||et-reliefgc-ca.info^$all
 !+ NOT_OPTIMIZED
 ||etaindia.org^$all
@@ -776,8 +772,6 @@
 ||feevefouhe.net^$all
 !+ NOT_OPTIMIZED
 ||felara.com.do^$all
-!+ NOT_OPTIMIZED
-||femalecozy.com^$all
 !+ NOT_OPTIMIZED
 ||fgtgr.buzz^$all
 !+ NOT_OPTIMIZED
@@ -867,7 +861,11 @@
 !+ NOT_OPTIMIZED
 ||fundanemt.org^$all
 !+ NOT_OPTIMIZED
+||funfilenow.com^$all
+!+ NOT_OPTIMIZED
 ||furykms.com^$all
+!+ NOT_OPTIMIZED
+||fveco.com^$all
 !+ NOT_OPTIMIZED
 ||gamedrive.org^$all
 !+ NOT_OPTIMIZED
@@ -1011,6 +1009,10 @@
 !+ NOT_OPTIMIZED
 ||hoka-us.com^$all
 !+ NOT_OPTIMIZED
+||homelarr.com.br^$all
+!+ NOT_OPTIMIZED
+||hookahheroes.com^$all
+!+ NOT_OPTIMIZED
 ||hostpoco.com^$all
 !+ NOT_OPTIMIZED
 ||hotbignews.com^$all
@@ -1018,6 +1020,8 @@
 ||hotdebrid.com^$all
 !+ NOT_OPTIMIZED
 ||hotmod.eu^$all
+!+ NOT_OPTIMIZED
+||houselar.com.br^$all
 !+ NOT_OPTIMIZED
 ||howgr.buzz^$all
 !+ NOT_OPTIMIZED
@@ -1221,8 +1225,6 @@
 !+ NOT_OPTIMIZED
 ||kmspico.io^$all
 !+ NOT_OPTIMIZED
-||kmspicoofficial.com^$all
-!+ NOT_OPTIMIZED
 ||knightmods.com^$all
 !+ NOT_OPTIMIZED
 ||koinprime.com^$all
@@ -1261,8 +1263,6 @@
 !+ NOT_OPTIMIZED
 ||likenu.se^$all
 !+ NOT_OPTIMIZED
-||limitalfresco.com^$all
-!+ NOT_OPTIMIZED
 ||limited-promo.com^$all
 !+ NOT_OPTIMIZED
 ||linkshe.com^$all
@@ -1280,6 +1280,8 @@
 ||look-like-star.myshopify.com^$all
 !+ NOT_OPTIMIZED
 ||lootcs.com^$all
+!+ NOT_OPTIMIZED
+||lorenzettibrasil-vendas.com^$all
 !+ NOT_OPTIMIZED
 ||lozly.com^$all
 !+ NOT_OPTIMIZED
@@ -1489,7 +1491,7 @@
 !+ NOT_OPTIMIZED
 ||navi4.com^$all
 !+ NOT_OPTIMIZED
-||navi43.com^$all
+||navi42.ru^$all
 !+ NOT_OPTIMIZED
 ||navi44.com^$all
 !+ NOT_OPTIMIZED
@@ -1617,6 +1619,8 @@
 !+ NOT_OPTIMIZED
 ||nirvezal.com^$all
 !+ NOT_OPTIMIZED
+||nobrerefino.com^$all
+!+ NOT_OPTIMIZED
 ||nofotballshop.com^$all
 !+ NOT_OPTIMIZED
 ||nofotballstore.com^$all
@@ -1626,8 +1630,6 @@
 ||norfotball.com^$all
 !+ NOT_OPTIMIZED
 ||norgefotball.com^$all
-!+ NOT_OPTIMIZED
-||norgeshoes.com^$all
 !+ NOT_OPTIMIZED
 ||nosdaarte.com^$all
 !+ NOT_OPTIMIZED
@@ -1701,8 +1703,6 @@
 !+ NOT_OPTIMIZED
 ||outarshop.fi^$all
 !+ NOT_OPTIMIZED
-||outlet-alfresco.com^$all
-!+ NOT_OPTIMIZED
 ||owlala.com^$all
 !+ NOT_OPTIMIZED
 ||own3d.tv^$all
@@ -1724,8 +1724,6 @@
 ||paquetsuivi7noti.com^$all
 !+ NOT_OPTIMIZED
 ||paradisevs.com^$all
-!+ NOT_OPTIMIZED
-||password-internal.com^$all
 !+ NOT_OPTIMIZED
 ||pateim.com^$all
 !+ NOT_OPTIMIZED
@@ -1829,8 +1827,6 @@
 !+ NOT_OPTIMIZED
 ||promo-offer.com^$all
 !+ NOT_OPTIMIZED
-||promoalfresco.com^$all
-!+ NOT_OPTIMIZED
 ||promotebuy.com^$all
 !+ NOT_OPTIMIZED
 ||promotion40-form.com^$all
@@ -1854,8 +1850,6 @@
 ||rastreiobrasil.co^$all
 !+ NOT_OPTIMIZED
 ||rastreiocorreio.co^$all
-!+ NOT_OPTIMIZED
-||rbcdevices.com^$all
 !+ NOT_OPTIMIZED
 ||reforest-iita.org^$all
 !+ NOT_OPTIMIZED
@@ -1928,8 +1922,6 @@
 ||sale-friday.pro^$all
 !+ NOT_OPTIMIZED
 ||sale-friday.store^$all
-!+ NOT_OPTIMIZED
-||salealfresco.com^$all
 !+ NOT_OPTIMIZED
 ||salimusic.com^$all
 !+ NOT_OPTIMIZED
@@ -2077,6 +2069,8 @@
 !+ NOT_OPTIMIZED
 ||stellasummer.com^$all
 !+ NOT_OPTIMIZED
+||stiloautoparts.online^$all
+!+ NOT_OPTIMIZED
 ||stingcool-com.myshopify.com^$all
 !+ NOT_OPTIMIZED
 ||storagestory.com^$all
@@ -2163,6 +2157,8 @@
 !+ NOT_OPTIMIZED
 ||teneta.add-group.site^$all
 !+ NOT_OPTIMIZED
+||teodoroautopecas.com^$all
+!+ NOT_OPTIMIZED
 ||tesla-online.net^$all
 !+ NOT_OPTIMIZED
 ||teslafond.io^$all
@@ -2225,8 +2221,6 @@
 !+ NOT_OPTIMIZED
 ||towerdepartment.com^$all
 !+ NOT_OPTIMIZED
-||towerinstalltion5g.in^$all
-!+ NOT_OPTIMIZED
 ||townaptdesk.info^$all
 !+ NOT_OPTIMIZED
 ||toyrube.com^$all
@@ -2255,13 +2249,13 @@
 !+ NOT_OPTIMIZED
 ||trkucibqy.com^$all
 !+ NOT_OPTIMIZED
+||trnzu.info^$all
+!+ NOT_OPTIMIZED
 ||tromselementbygg.no^$all
 !+ NOT_OPTIMIZED
 ||trump-drop.org^$all
 !+ NOT_OPTIMIZED
 ||trumpsupport.help^$all
-!+ NOT_OPTIMIZED
-||trust.wallet-web3.ing^$all
 !+ NOT_OPTIMIZED
 ||tsla-stock.com^$all
 !+ NOT_OPTIMIZED
@@ -2294,6 +2288,10 @@
 ||ultrawa.com^$all
 !+ NOT_OPTIMIZED
 ||um-bs.com^$all
+!+ NOT_OPTIMIZED
+||unambia.orchael.fun^$all
+!+ NOT_OPTIMIZED
+||unho.unhesiss.shop^$all
 !+ NOT_OPTIMIZED
 ||uni-swap.online^$all
 !+ NOT_OPTIMIZED
@@ -2495,11 +2493,15 @@
 !+ NOT_OPTIMIZED
 ||usplussports.com^$all
 !+ NOT_OPTIMIZED
+||uydrnhsb.info^$all
+!+ NOT_OPTIMIZED
 ||valeofoodsgroup.com^$all
 !+ NOT_OPTIMIZED
 ||validacaodetran.co^$all
 !+ NOT_OPTIMIZED
 ||validsteamkeys.com^$all
+!+ NOT_OPTIMIZED
+||vanced-official.com^$all
 !+ NOT_OPTIMIZED
 ||vegamartz.com^$all
 !+ NOT_OPTIMIZED
@@ -2591,6 +2593,8 @@
 !+ NOT_OPTIMIZED
 ||webcamsfans.cfd^$all
 !+ NOT_OPTIMIZED
+||webcamstream.sbs^$all
+!+ NOT_OPTIMIZED
 ||webvod.pl^$all
 !+ NOT_OPTIMIZED
 ||werfew.com^$all
@@ -2620,6 +2624,8 @@
 ||wpad.xyz^$all
 !+ NOT_OPTIMIZED
 ||wpclick.cc^$all
+!+ NOT_OPTIMIZED
+||wuqrie.info^$all
 !+ NOT_OPTIMIZED
 ||ww25.utilify.me^$all
 !+ NOT_OPTIMIZED

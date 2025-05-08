@@ -1,8 +1,8 @@
-! Checksum: lKLmxH82wzdRVqlqz0YUhg
+! Checksum: eSGEb5JdtAI4THyOCQgd7Q
 ! Title: Liste FR (Optimized)
 ! Description: Additional filter list for websites in French. Already included in AdGuard French filter.
-! Version: 2.1.69.49
-! TimeUpdated: 2025-05-08T04:38:17+00:00
+! Version: 2.1.69.50
+! TimeUpdated: 2025-05-08T08:38:59+00:00
 ! Expires: 5 days (update frequency)
 &ad_count=
 &ad_unit_

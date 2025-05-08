@@ -1,9 +1,9 @@
-! Checksum: K08uTs3sQLhUH7uclybCCA
-! Diff-Path: ../patches/227_optimized/227_optimized-s-1746665537-14400.patch
+! Checksum: RYN1j7HM9AGccqVMJilrOg
+! Diff-Path: ../patches/227_optimized/227_optimized-s-1746693827-14400.patch
 ! Title: List-KR (Optimized)
 ! Description: Filter that removes ads and various scripts from websites with Korean content. Combined and augmented with AdGuard-specific rules for enhanced filtering. This filter is expected to be used alongside with AdGuard Base filter.
-! Version: 2.0.21.31
-! TimeUpdated: 2025-05-08T00:47:58+00:00
+! Version: 2.0.21.32
+! TimeUpdated: 2025-05-08T08:39:21+00:00
 ! Expires: 12 hours (update frequency)
 ||adgirl.yes24.com^
 ||ad.api.adwiser.kr^

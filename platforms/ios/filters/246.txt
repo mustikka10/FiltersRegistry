@@ -1,15 +1,15 @@
-! Checksum: Ot7AXDh7RD3pnrc5gTabxA
-! Diff-Path: ../patches/246/246-s-1746679388-14400.patch
+! Checksum: NVIsi2cboshb5SaxSVP1Vg
+! Diff-Path: ../patches/246/246-s-1746693818-14400.patch
 ! Title: EasyList Polish
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.65.57
-! TimeUpdated: 2025-05-08T04:39:02+00:00
+! Version: 2.1.65.58
+! TimeUpdated: 2025-05-08T08:39:33+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: T+5hDOVdtTmc9dvb+OKKMA
-! OriginalVersion: 202505080431
+! Checksum: pAS6e4AmQ8fCakZWBMgWoA
+! OriginalVersion: 202505080831
 ! Title: EasyList Polish
-! Last modified: 08 May 2025 04:31 UTC
+! Last modified: 08 May 2025 08:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -358,6 +358,7 @@ files.librus.pl^*^r_
 ||izabelin24.pl/static/files/inline_images/52/inline__1_236.png
 ||izabelin24.pl/static/files/inline_images/52/inline__1_402.png
 ||izachodniopomorskie.pl^*^Tanie_foto_
+||izoliborz.pl/static/files/inline_images/13/inline__1251396_7477.jpg
 ||kantorywalut.pl^*^ik_gif-
 ||kcynia.info^*^rolnik-serwis2.
 ||kmziz.pl^*^728x90c^

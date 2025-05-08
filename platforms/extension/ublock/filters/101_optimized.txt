@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: /zo2xbELPTQVstYE+FLG1w
-! Diff-Path: ../patches/101_optimized/101_optimized-s-1746679383-14400.patch
+! Checksum: DqzGfFTuEzDI0yv0HBHMoQ
+! Diff-Path: ../patches/101_optimized/101_optimized-s-1746693812-14400.patch
 ! Title: EasyList (Optimized)
 ! Description: EasyList is the primary subscription that removes adverts from web pages in English. Already included in AdGuard Base filter.
-! Version: 2.1.46.52
-! TimeUpdated: 2025-05-08T04:38:06+00:00
+! Version: 2.1.46.53
+! TimeUpdated: 2025-05-08T08:38:51+00:00
 ! Expires: 5 days (update frequency)
 &rb=&uuid=$third-party
 -ad-manager/$~stylesheet
@@ -39262,7 +39262,7 @@ techrepublic.com###leader-bottom
 techrepublic.com###leader-plus-top
 pistonheads.com###leaderBoard
 whdh.com,wsvn.com###leader_1
-12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,hockeybuzz.com,koreaboo.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,penny-arcade.com,publishersweekly.com,skysports.com,sportsnet.ca,thedrinknation.com,theserverside.com###leaderboard
+12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,hockeybuzz.com,koreaboo.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,penny-arcade.com,publishersweekly.com,skysports.com,sportsnet.ca,thedrinknation.com,theserverside.com,vacations.info###leaderboard
 vocm.com###leaderboard-area
 bbc.com###leaderboard-aside-content
 abbynews.com,biv.com,kelownacapnews.com,lakelandtoday.ca,orilliamatters.com,reddeeradvocate.com,revelstokereview.com,sootoday.com,surreynowleader.com,theprogress.com,time.com,timescolonist.com,vancouverisawesome.com,vicnews.com###leaderboard-container
@@ -42735,6 +42735,7 @@ manhwabtt.com,tennismajors.com##[style$="min-height: 250px;"]
 livejournal.com##[style$="width: 300px;"]
 news.abs-cbn.com##[style*="background-color: rgb(236, 237, 239)"]
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronicle.com##[style*="content-visibility: visible;"]
+kingmodapk.net,online-calculator.org##[style*="height:300px"]
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronicle.com##[style*="margin-left: auto; margin-right: auto;"]
 untapped.gg##[style*="min-height: 90px; box-sizing: content-box;"]
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronicle.com##[style*="min-height:250px;"]
@@ -42743,7 +42744,6 @@ coolors.co##[style*="position:absolute;top:20px;"]
 4anime.gg,apkmody.io,bollyflix.nexus,bravoporn.com,dramacool.sr,gogoanime.co.in,gogoanime.run,harimanga.com,himovies.to,hurawatch.cc,instamod.co,leercapitulo.com,linksly.co,mangadna.com,manhwadesu.bio,messitv.net,miraculous.to,movies-watch.com.pk,moviesmod.zip,nkiri.com,prmovies.dog,putlockers.li,sockshare.ac,ssoap2day.to,sukidesuost.info,waploaded.com,watchomovies.net,y-2mate.com,yomovies.team,ytmp3.cc,yts-subs.com##[style*="width: 100% !important;"]
 shotcut.org##[style="background-color: #fff; padding: 6px; text-align: center"]
 imagecolorpicker.com##[style="height:250px"]
-kingmodapk.net##[style="height:300px"]
 geekzone.co.nz##[style="height:90px"]
 builtbybit.com##[style="margin-top: 20px; display: flex; justify-content: center;"]
 realitytvworld.com##[style="margin: 5px 0px 5px; display: inline-block; text-align: center; height: 250;"]
@@ -43094,6 +43094,7 @@ editpad.org##div[style="min-height: 300px;min-width: 300px"]
 wikiwand.com##div[style="min-height: 325px; max-width: 600px;"]
 gamereactor.asia,gamereactor.cn,gamereactor.com.tr,gamereactor.cz,gamereactor.de,gamereactor.dk,gamereactor.es,gamereactor.eu,gamereactor.fi,gamereactor.fr,gamereactor.gr,gamereactor.it,gamereactor.jp,gamereactor.kr,gamereactor.me,gamereactor.nl,gamereactor.no,gamereactor.pl,gamereactor.pt,gamereactor.se,gamereactor.vn##div[style="min-height: 600px; margin-bottom: 20px;"]
 disneydining.com##div[style="min-height:125px;"]
+askdifference.com,online-calculator.org##div[style="min-height:280px;"]
 etvbharat.com,flotrack.org##div[style="min-width: 300px; min-height: 250px;"]
 etvbharat.com,nicelocal.com##div[style="min-width: 300px; min-height: 600px;"]
 editpad.org##div[style="min-width: 300px;min-height: 300px"]
@@ -43113,7 +43114,7 @@ whatmobile.com.pk##div[style^="height:610px"]
 unionpedia.org##div[style^="margin-top: 15px; min-width: 300px"]
 gizbot.com,goodreturns.in,inc.com##div[style^="min-height: 250px"]
 point2homes.com,propertyshark.com##div[style^="min-height: 360px;"]
-add0n.com##div[style^="min-height:90px"]
+add0n.com,online-calculator.org##div[style^="min-height:90px"]
 latestly.com##div[style^="min-width: 300px; min-height: 250px;"]
 decrypt.co,metabattle.com##div[style^="min-width: 300px;"]
 jwire.com.au##div[style^="width:468px;"]

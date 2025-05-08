@@ -1,6 +1,6 @@
-! Checksum: 4q8+hTvpQeQrShsDC9qx/w
+! Checksum: +Ly8JR4UH43ckWwUbHHh9Q
 ! Title: Scam Blocklist by DurableNapkin (Optimized)
 ! Description: List for blocking untrustworthy websites.
-! Version: 2.0.4.0
-! TimeUpdated: 2025-05-07T08:40:30+00:00
+! Version: 2.0.4.1
+! TimeUpdated: 2025-05-08T08:39:46+00:00
 ! Expires: 5 days (update frequency)

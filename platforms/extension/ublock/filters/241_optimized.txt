@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: VSv/uXy4BZBbqeUdS620fA
-! Diff-Path: ../patches/241_optimized/241_optimized-s-1746679385-14400.patch
+! Checksum: VLZFn4DqB4sfenNber10og
+! Diff-Path: ../patches/241_optimized/241_optimized-s-1746693814-14400.patch
 ! Title: EasyList Cookie List (Optimized)
 ! Description: Removes cookie and privacy warnings. Already included in Fanboy's Annoyances list.
-! Version: 2.1.52.52
-! TimeUpdated: 2025-05-08T04:38:59+00:00
+! Version: 2.1.52.53
+! TimeUpdated: 2025-05-08T08:39:31+00:00
 ! Expires: 5 days (update frequency)
 -consent-banner-
 -consent-banner.
