@@ -366,8 +366,8 @@
 			"groupId": 1,
 			"subscriptionUrl": "https://filters.adtidy.org/extension/firefox/filters/2.txt",
 			"trustLevel": "full",
-			"version": "2.3.82.66",
-			"timeUpdated": "2025-05-08T19:06:07+0000",
+			"version": "2.3.82.67",
+			"timeUpdated": "2025-05-08T21:06:22+0000",
 			"deprecated": false,
 			"languages": [],
 			"tags": [
@@ -526,8 +526,8 @@
 			"groupId": 7,
 			"subscriptionUrl": "https://filters.adtidy.org/extension/firefox/filters/9.txt",
 			"trustLevel": "full",
-			"version": "2.0.29.82",
-			"timeUpdated": "2025-05-08T16:08:48+0000",
+			"version": "2.0.29.83",
+			"timeUpdated": "2025-05-08T21:06:44+0000",
 			"deprecated": false,
 			"languages": [
 				"es",
