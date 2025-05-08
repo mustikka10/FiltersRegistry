@@ -1,8 +1,8 @@
-! Checksum: 3M86TGUbgoF38hghvKdrIg
+! Checksum: wAmFwclKZEiAcBkq+Hf+6g
 ! Title: AdGuard Tracking Protection filter
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
-! Version: 2.0.84.56
-! TimeUpdated: 2025-05-08T13:15:13+00:00
+! Version: 2.0.84.57
+! TimeUpdated: 2025-05-08T15:08:17+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -340,6 +340,7 @@ adseek.site#$##primary { display: block !important; }
 ! test for CNAME
 ||kib.hu^
 !
+||mrgr.me^
 ||analytics.turk.pro^
 ||metric-api.newrelic.com^
 ||conduit-beacon.mtvnservices.com^
