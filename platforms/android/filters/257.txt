@@ -1,9 +1,9 @@
-! Checksum: QPGtqvuNE+5+yG82NhWySA
-! Diff-Path: ../patches/257/257-s-1746708540-14400.patch
+! Checksum: rVvzG88V0NwqVINGNSQzfQ
+! Diff-Path: ../patches/257/257-s-1746722677-14400.patch
 ! Title: uBlock Origin – Badware risks
 ! Description: Filter for risky sites, warning users of potential threats.
-! Version: 2.0.7.15
-! TimeUpdated: 2025-05-08T12:45:35+00:00
+! Version: 2.0.7.16
+! TimeUpdated: 2025-05-08T16:40:11+00:00
 ! Expires: 5 days (update frequency)
 !
 ! Title: uBlock₀ filters – Badware risks
@@ -5116,6 +5116,10 @@ origincrack.com##center > button
 ||core.windows.net/js/lvs.js
 !+ NOT_OPTIMIZED
 ||core.windows.net/js/muse.js
+!+ NOT_OPTIMIZED
+||core.windows.net/js/script2.js
+!+ NOT_OPTIMIZED
+||core.windows.net/js/script3.js
 !+ NOT_OPTIMIZED
 ||core.windows.net/js/script5.js
 !+ NOT_OPTIMIZED

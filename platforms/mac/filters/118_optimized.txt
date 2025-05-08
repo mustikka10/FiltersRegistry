@@ -1,8 +1,8 @@
-! Checksum: Hhyspmi6L361w79u0FjfIA
+! Checksum: cwts/ll9MxHPRnmOFBDQIQ
 ! Title: EasyPrivacy (Optimized)
 ! Description: Privacy protection supplement for EasyList.
-! Version: 2.1.43.69
-! TimeUpdated: 2025-05-08T12:44:48+00:00
+! Version: 2.1.43.70
+! TimeUpdated: 2025-05-08T16:39:28+00:00
 ! Expires: 5 days (update frequency)
 &&sub19=undefined&sub20=undefined
 &action=js_stats

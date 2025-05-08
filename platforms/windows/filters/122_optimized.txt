@@ -1,9 +1,9 @@
-! Checksum: PdAXXGrmyNeKD9tfB1+wQw
-! Diff-Path: ../patches/122_optimized/122_optimized-s-1746708578-14400.patch
+! Checksum: 0aTqdPtXJIm29GpNJW5B3w
+! Diff-Path: ../patches/122_optimized/122_optimized-s-1746722715-14400.patch
 ! Title: Fanboy's Annoyances (Optimized)
 ! Description: Removes in-page pop-ups and other annoyances. Includes Fanboy's Social Blocking & EasyList Cookie Lists.
-! Version: 2.1.46.82
-! TimeUpdated: 2025-05-08T12:44:55+00:00
+! Version: 2.1.46.83
+! TimeUpdated: 2025-05-08T16:39:34+00:00
 ! Expires: 12 hours (update frequency)
 /1-popupally-pro-code.js
 /arscode-ninja-popups/*$~stylesheet

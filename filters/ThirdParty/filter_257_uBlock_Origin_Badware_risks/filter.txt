@@ -5112,6 +5112,10 @@ origincrack.com##center > button
 !+ NOT_OPTIMIZED
 ||core.windows.net/js/muse.js
 !+ NOT_OPTIMIZED
+||core.windows.net/js/script2.js
+!+ NOT_OPTIMIZED
+||core.windows.net/js/script3.js
+!+ NOT_OPTIMIZED
 ||core.windows.net/js/script5.js
 !+ NOT_OPTIMIZED
 ||core.windows.net/js/script6.js

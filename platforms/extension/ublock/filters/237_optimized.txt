@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: F1RS1iaQbLsAac1BH5ESfA
-! Diff-Path: ../patches/237_optimized/237_optimized-s-1746665522-14400.patch
+! Checksum: 0N8jCkdsOtVUTKGz4kiqag
+! Diff-Path: ../patches/237_optimized/237_optimized-s-1746722701-14400.patch
 ! Title: Polish Annoyances Filters (Optimized)
 ! Description: Filter list that hides and blocks pop-ups, widgets, newsletters, push notifications, arrows, tagged internal links that are off-topic, and other irritating elements. Polish GDPR-Cookies Filters is already in it.
-! Version: 1.0.34.91
-! TimeUpdated: 2025-05-08T00:48:05+00:00
+! Version: 1.0.34.92
+! TimeUpdated: 2025-05-08T16:39:53+00:00
 ! Expires: 5 days (update frequency)
 ||4prm.pl/*/4p_newsletter.jpg
 ||a-ajurweda.pl/images/layout/ajurweda/newsletter_ajurweda.png
@@ -6086,6 +6086,7 @@ pl.aleteia.org###fancybox-container-1, #campaigns-right-column-not-logged-in, #p
 pl.aliexpress.com###header #header-float-banner
 pl.aliexpress.com##.top-banner-container
 pl.hotels.com##.signin-signup-notification-container
+pl.indeed.com###mosaic-provider-jobcards li:has(.sponsoredJob)
 pl.jooble.org##._3fEpKH
 pl.msi.com###activity a[href="/redirect/app/MyMSI"]
 plastcom.pl###test

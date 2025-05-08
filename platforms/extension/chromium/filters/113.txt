@@ -1,15 +1,15 @@
-! Checksum: 1jIMwEhC66LgeH0JwHT+Mw
-! Diff-Path: ../patches/113/113-s-1746708544-14400.patch
+! Checksum: lGdoE8tVuHCCUBCqrlxgyw
+! Diff-Path: ../patches/113/113-s-1746722681-14400.patch
 ! Title: Liste FR
 ! Description: Additional filter list for websites in French. Already included in AdGuard French filter.
-! Version: 2.1.69.51
-! TimeUpdated: 2025-05-08T12:44:45+00:00
+! Version: 2.1.69.52
+! TimeUpdated: 2025-05-08T16:39:25+00:00
 ! Expires: 10 days (update frequency)
 !
-! Checksum: 3hKA6zVeYrCFisjAmod2Ug
-! OriginalVersion: 202505081231
+! Checksum: feSEIulZmmpdcrDafPtmkQ
+! OriginalVersion: 202505081631
 ! Title: Liste FR
-! Last modified: 08 May 2025 12:31 UTC
+! Last modified: 08 May 2025 16:31 UTC
 ! Expires: 1 days (fréquence des mises a jour automatiques)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=91
 !

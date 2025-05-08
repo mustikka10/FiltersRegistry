@@ -1,8 +1,8 @@
 !
-! Checksum: 1bl4p/VUodNlyVh+QQfWtg
-! OriginalVersion: 202505081142
+! Checksum: k6Qc/QvdT05l8XxjGBdmiQ
+! OriginalVersion: 202505081542
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-05-08 11:42 UTC
+! Last modified: 2025-05-08 15:42 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/

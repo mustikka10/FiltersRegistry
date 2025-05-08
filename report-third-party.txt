@@ -1,9 +1,9 @@
 
-FiltersCompiler report 5/8/2025 12:44:15 PM:
+FiltersCompiler report 5/8/2025 4:38:53 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 62408
+Compiled rules: 62415
 Excluded rules: 64
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -152,8 +152,8 @@ URL: https://adblock.gardar.net/is.abp.txt
 ---------------------------
 Filter ID: 120
 Filter name: AdBlockID
-Compiled rules: 5887
-Excluded rules: 972
+Compiled rules: 5911
+Excluded rules: 974
 URL: https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
 INVALID RULES:
 Error: Invalid selector: '+js(prevent-fetch, pagead2.googlesyndication.com)' -- '+js(prevent-fetch, pagead2.googlesyndication.com)' is not a valid selector in rule: 0.0.realodix##+js(prevent-fetch, pagead2.googlesyndication.com)
@@ -552,7 +552,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 63119
+Compiled rules: 63331
 Excluded rules: 324
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -850,7 +850,7 @@ Error: Invalid selector: '+js('json-prune', 'enabled', 'testhide')' -- '+js('jso
 ---------------------------
 Filter ID: 250
 Filter name: Dandelion Sprout's Annoyances List
-Compiled rules: 55378
+Compiled rules: 55379
 Excluded rules: 43950
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 INVALID RULES:
@@ -21216,7 +21216,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 257
 Filter name: uBlock Origin – Badware risks
-Compiled rules: 10442
+Compiled rules: 10446
 Excluded rules: 5106
 URL: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 INVALID RULES:

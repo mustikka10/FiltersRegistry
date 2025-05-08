@@ -1,15 +1,15 @@
 ![Adblock Plus 2.0]
-! Checksum: LEXiKSOaJ7uPoPvNLg2/og
-! Diff-Path: ../patches/118/118-s-1746708563-14400.patch
+! Checksum: ftuFD59KOGTI4+0TZbdWHQ
+! Diff-Path: ../patches/118/118-s-1746722700-14400.patch
 ! Title: EasyPrivacy
 ! Description: Privacy protection supplement for EasyList.
-! Version: 2.1.43.69
-! TimeUpdated: 2025-05-08T12:44:48+00:00
+! Version: 2.1.43.70
+! TimeUpdated: 2025-05-08T16:39:28+00:00
 ! Expires: 5 days (update frequency)
 !
-! OriginalVersion: 202505081113
+! OriginalVersion: 202505081441
 ! Title: EasyPrivacy
-! Last modified: 08 May 2025 11:13 UTC
+! Last modified: 08 May 2025 14:41 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !
