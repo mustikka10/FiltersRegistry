@@ -1,8 +1,8 @@
-! Checksum: q+f/m0ruGLuYgeqVxWMJFA
+! Checksum: yvrJZCkWaGPMzPuy6NYSKg
 ! Title: AdGuard DNS filter (Optimized)
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.79.96
-! TimeUpdated: 2025-05-08T12:11:15+00:00
+! Version: 2.0.79.97
+! TimeUpdated: 2025-05-08T18:08:55+00:00
 ! Expires: 5 days (update frequency)
 ||catoixeam.click^
 ||trgfx.b-cdn.net^
@@ -6023,6 +6023,7 @@ vkcdnservice.appspot.com^
 ||freecontent.stream
 ||s*.skencituer.com^
 ||mine.torrent.pw^
+||0019x.com^
 ||00f8c4bb25.com^
 ||0127c96640.com^
 ||01counter.com^
@@ -9957,6 +9958,7 @@ vkcdnservice.appspot.com^
 ||boobausauhipsa.net^
 ||boodaisi.xyz^
 ||boodiecawquaw.top^
+||boodybasalt.com^
 ||boogopee.com^
 ||bookadil.com^
 ||bookbannershop.com^
@@ -16724,6 +16726,7 @@ vkcdnservice.appspot.com^
 ||highercldfrev.com^
 ||highercldfrevb.com^
 ||higheurest.com^
+||highlightattentions.com^
 ||highlypersevereenrapture.com^
 ||highmaidfhr.com^
 ||highmanapts.com^
@@ -18013,6 +18016,7 @@ vkcdnservice.appspot.com^
 ||jcafpiaqjoh.com^
 ||jclrwjceymgec.com^
 ||jcosjpir.com^
+||jcrgmcxyjnk.com^
 ||jd3j7g5z1fqs.com^
 ||jdeekqk-bjqt.fun^
 ||jdoqocy.com^
@@ -18396,6 +18400,7 @@ vkcdnservice.appspot.com^
 ||jyvkwqjremjbj.top^
 ||jyzkut.com^
 ||jzleekzaovelw.top^
+||jzleekzaovzez.top^
 ||jzokkejvjrvrb.top^
 ||jzokkejvjrvwj.top^
 ||jzplabcvvy.com^
@@ -22577,6 +22582,7 @@ vkcdnservice.appspot.com^
 ||outfoxnapalms.com^
 ||outgratingknack.com^
 ||outhaushauviy.xyz^
+||outheelrelict.com^
 ||outhulem.net^
 ||outlandish-pitch.pro^
 ||outlayomnipresentdream.com^
@@ -24834,6 +24840,7 @@ vkcdnservice.appspot.com^
 ||raufajoo.net^
 ||rauheestuma.xyz^
 ||raumipti.net^
+||raunoaptotoaw.com^
 ||raunooligais.net^
 ||raupasee.xyz^
 ||raupsica.net^
@@ -35798,6 +35805,7 @@ vkcdnservice.appspot.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||kib.hu^
+||mrgr.me^
 ||analytics.turk.pro^
 ||metric-api.newrelic.com^
 ||conduit-beacon.mtvnservices.com^
@@ -94382,6 +94390,7 @@ inapps.appsflyersdk.com^
 ||masdak.epsilonsoft.to^
 ||adserve.lasentinelle.mu^
 ||adserver.icimedias.ca^
+||line-e.com^
 ||shindnx.site^
 ||ads-lite2.net^
 ||mid-round.com^
@@ -101784,6 +101793,7 @@ inapps.appsflyersdk.com^
 ||uuso05081qhs.xyz^
 ||qnwucny.top^
 ||uuso05082qhs.xyz^
+||vthruucceod.com^
 ||ebrid.cn^
 ||wtrotilloye.com^
 ||dnjxds.top^
