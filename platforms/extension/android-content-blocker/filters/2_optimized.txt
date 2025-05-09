@@ -1,9 +1,11 @@
-! Checksum: CGPOSBCe3U8KYx34+g6tKg
+! Checksum: RGE2IoTJFdDA0j2v3fdtZg
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.80
-! TimeUpdated: 2025-05-09T14:06:50+00:00
+! Version: 2.3.82.81
+! TimeUpdated: 2025-05-09T15:06:50+00:00
 ! Expires: 5 days (update frequency)
+||edertauvaisoo.net^
+||pkphftlpkxbhk.com^
 ||gusoclji.com^
 ||awdeliverynet.com^$third-party
 ||bevfpfekwskzg.world^
@@ -9636,6 +9638,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 $subdocument,third-party,denyallow=disqus.com,domain=welovemanga.one
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com|zinchanmanga.com|yaoimangaonline.com|tututweak.app|mangaraw.ac|eromanga-show.com|hentai-one.com|hentaipaw.com|nukibooks.com|paipancon.com|jgvdata.com|youtubevanced.com
+filmyfocus.com###popup
 disboard.org##.ad-listing
 xporn.tv##.standalonead
 4kpornvideos.tv,pornogram.tv##.header-spot
@@ -10381,6 +10384,8 @@ iobit.com##.new-top
 clickndownload.*##html > div[style^="position: fixed;"]
 redd.tube##.banner-juicy-desktop
 growdiaries.com##.cpm_item > .adv-visibility + a[target="_blank"] > img
+livestreams.click,kingstreamz.lol,mylivestream.pro###openLinks
+livestreams.click##div[id^="iframe-container-"]
 3dporndude.com,hentaismile.com,camhub.cc,coralxxx.com,analry.com,hard3r.com,bigbigtits.com,public-porno.com,maturexy.com,bigbumfun.com,fuqster.com,bigtitbitches.com,hugewangs.com,w1mp.com,analpornxl.com,sexpester.com,w4nkr.com##.asside-link
 3dporndude.com,hentaismile.com,camhub.cc,coralxxx.com,analry.com,hard3r.com,bigbigtits.com,public-porno.com,maturexy.com,bigbumfun.com,fuqster.com,bigtitbitches.com,hugewangs.com,w1mp.com,analpornxl.com,sexpester.com,w4nkr.com##.link-offer
 ||content.overwolf.com/curseforge/web/nitro/cursenpinit.js
@@ -34020,6 +34025,7 @@ browsershots.org#@#.advert_area
 ||oudsutch.com^
 ||oufauthy.net^
 ||ouftukoo.net^
+||ougeechimp.net^
 ||ouglauster.net^
 ||ougribot.net^
 ||ougroopsurgagri.net^
@@ -39470,6 +39476,7 @@ browsershots.org#@#.advert_area
 ||optnx.com^$popup
 ||optvz.com^$popup
 ||osarmapa.net^$popup
+||ougeechimp.net^$popup
 ||pagerrentablespotlight.com^$popup
 ||pamcallets.shop^$popup
 ||pemsrv.com^$popup

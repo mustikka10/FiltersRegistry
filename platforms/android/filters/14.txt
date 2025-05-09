@@ -1,9 +1,9 @@
-! Checksum: Mk//4zRuKv0rbcbuq8Nn/w
-! Diff-Path: ../patches/14/14-s-1746799856-3600.patch
+! Checksum: 9tbhgdWtw8Bh4EOlpLMSPg
+! Diff-Path: ../patches/14/14-s-1746803451-3600.patch
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.29.80
-! TimeUpdated: 2025-05-09T14:07:25+00:00
+! Version: 2.2.29.81
+! TimeUpdated: 2025-05-09T15:07:22+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2506,6 +2506,7 @@ scootertechno.com,mysize.ch,aeotec.com,geschichte-wissen.de,4kfilme.de,pk.edu.pl
 !
 ! NOTE: Regular rules
 !
+unimedbauru.com.br###protegON-full-content-cookies
 remaker.ai##.remaker-container-footer-cookie
 helloclue.com###gatsby-focus-wrapper > section:has(> p[class*="CookieNotification"])
 longos.com##gg-cookies-consent-pop-up
