@@ -1,8 +1,8 @@
-! Checksum: dFkKlzbiz3mO4cUaquOWsw
+! Checksum: 4E7RhnJ1/piloKsCmrmahg
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.71
-! TimeUpdated: 2025-05-09T05:07:07+00:00
+! Version: 2.3.82.72
+! TimeUpdated: 2025-05-09T06:09:18+00:00
 ! Expires: 5 days (update frequency)
 ||gusoclji.com^
 ||awdeliverynet.com^$third-party
@@ -2455,7 +2455,6 @@ flstv.online,streambtw.com#@#.ad-unit:not(.textads)
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 @@||crazygames.com^$generichide
 pvpoke-re.com#$#.main-wrap[style*="opacity"] { opacity: 1 !important; }
-pvpoke-re.com#$#body *:is([style*="fixed"],[style*="absolute"],[style*="background"]):not(header) { visibility: hidden !important; }
 pvpoke-re.com#$#body { overflow-y: auto !important; position: static !important; width: auto !important; height: auto !important; }
 pvpoke-re.com#@#.nitro-any
 pvpoke-re.com#@#div[id^="nitro"]
@@ -9635,6 +9634,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 $subdocument,third-party,denyallow=disqus.com,domain=welovemanga.one
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com|zinchanmanga.com|yaoimangaonline.com|tututweak.app|mangaraw.ac|eromanga-show.com|hentai-one.com|hentaipaw.com|nukibooks.com|paipancon.com|jgvdata.com
+4kpornvideos.tv,pornogram.tv##.header-spot
 3dporndude.com##.spot
 ||wzzm13.com/ad_
 ||cdn.jsdelivr.net/gh/itspro-dev/project_files@master/anikoto.js
@@ -29027,6 +29027,7 @@ browsershots.org#@#.advert_area
 ||domakuhitaor.com^
 ||dombnrs.com^
 ||domdex.com^
+||domicaldubhe.shop^
 ||domicileperil.com^
 ||domipush.com^
 ||domnlk.com^
@@ -29204,6 +29205,7 @@ browsershots.org#@#.advert_area
 ||dvypar.com^
 ||dwatervery.com^
 ||dweanmokpobd.com^
+||dwelledempexa.com^
 ||dwetwdstom1020.com^
 ||dwouxrufulchwar.com^
 ||dxakvollzguju.tech^
@@ -29505,6 +29507,7 @@ browsershots.org#@#.advert_area
 ||equirekeither.xyz^
 ||equivocalmashingreseller.com^
 ||erafterabigyello.com^
+||eralway.com^
 ||erappeared.org^
 ||erdecisesgeorg.info^
 ||ereandhthrew.org^
@@ -30764,6 +30767,7 @@ browsershots.org#@#.advert_area
 ||hanagxgpu.com^
 ||handcoves.org^
 ||handgripknuckle.com^
+||handhadbeensotr.com^
 ||handtub.com^
 ||handy-tab.com^
 ||hangoverknock.com^
@@ -31114,6 +31118,7 @@ browsershots.org#@#.advert_area
 ||humpdecompose.com^
 ||humsoolt.net^
 ||hunchbackconebelfry.com^
+||hunchedgrimp.com^
 ||hunchmotherhooddefine.com^
 ||hunter-hub.com^
 ||huntersaturateunbeaten.com^
@@ -31507,6 +31512,7 @@ browsershots.org#@#.advert_area
 ||jadtottuleret.org^
 ||jagerstaposa.shop^
 ||jagnoans.com^
+||jaimirozadair.net^
 ||jaiphoaptom.net^
 ||jakseegrutso.net^
 ||jaletemetia.com^
@@ -32875,6 +32881,7 @@ browsershots.org#@#.advert_area
 ||mndx1.com^
 ||mnetads.com^
 ||mng-ads.com^
+||mnqyjjbitxdvr.club^
 ||mntzr11.net^
 ||mntzrlt.net^
 ||mnverylittlec.org^
@@ -33406,6 +33413,7 @@ browsershots.org#@#.advert_area
 ||nqowmugodougu.com^
 ||nqrkzcd7ixwr.com^
 ||nqslmtuswqdz.com^
+||nqvqyxxsxupai.top^
 ||nrdpfnpqunyle.rocks^
 ||nrnma.com^
 ||nroruvsal.com^
@@ -35618,6 +35626,7 @@ browsershots.org#@#.advert_area
 ||rtbtrail.com^
 ||rtclx.com^
 ||rtgio.co^
+||rthformttet.com^
 ||rtk.io^
 ||rtmark.net^
 ||rtnews.pro^
@@ -35895,6 +35904,7 @@ browsershots.org#@#.advert_area
 ||serdaive.com^
 ||sereanstanza.com^
 ||sermonsbleeder.top^
+||serrulaplover.shop^
 ||serv01001.xyz^
 ||serv1for.pro^
 ||servagebannat.shop^
@@ -36123,6 +36133,7 @@ browsershots.org#@#.advert_area
 ||skidajoqgo.com^
 ||skiedknyazi.top^
 ||skiftyra.com^
+||skillcharging.com^
 ||skillpropulsion.com^
 ||skillsombineukdw.com^
 ||skilyake.net^
@@ -36506,6 +36517,7 @@ browsershots.org#@#.advert_area
 ||straightenedsleepyanalysis.com^
 ||straightforwardaudition.com^
 ||straightmenu.com^
+||strainviscountbestial.com^
 ||strakesimians.shop^
 ||stratosbody.com^
 ||streakattempt.com^
@@ -36868,6 +36880,7 @@ browsershots.org#@#.advert_area
 ||thepartnerpleasurs.com^
 ||theplayadvisor.com^
 ||thepsimp.net^
+||thereinquiddle.shop^
 ||thermometercourtroomfusion.com^
 ||theruzejy.pro^
 ||thesisadornpathetic.com^
@@ -38436,6 +38449,7 @@ browsershots.org#@#.advert_area
 ||xtremeserve.xyz^
 ||xtrgqmnflnfnj.buzz^
 ||xtroglobal.com^
+||xtxiqqey.com^
 ||xumolcafw.com^
 ||xuncxrep.com^
 ||xupskiqab.com^
@@ -38773,6 +38787,7 @@ browsershots.org#@#.advert_area
 ||zyrelolbbqelo.top^
 ||zyusywfejzbya.fun^
 ||zyyt-tevos.click^
+||zzqyniagpyt.com^
 ||zzrazrorjqlqw.top^
 ||certona.net^
 ||olopruy.com^

@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: RAPc3pabEY5wVH3KSem/gw
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746767485-3600.patch
+! Checksum: mKUbk5yYm+50hgOx+Twb+g
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746771221-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.82.71
-! TimeUpdated: 2025-05-09T05:07:07+00:00
+! Version: 2.3.82.72
+! TimeUpdated: 2025-05-09T06:09:18+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -21334,6 +21334,8 @@ youporn.com##+js(remove-node-text, script, /window\.[\s\S]*?_zone_[\s\S]*?{"zone
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204896
+audiotools.in##+js(noeval-if, pagead2.googlesyndication.com)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204550
 ourcoincash.xyz##+js(abort-current-script, document.createElement, adsBlocked)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204410#issuecomment-2855256390
@@ -21520,12 +21522,12 @@ ghbrisk.com###adbd
 crazygames.com#$#.adsbox.advertisement.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display: block !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/201699
 ! https://github.com/AdguardTeam/AdguardFilters/issues/199124
+pvpoke-re.com##+js(no-requestAnimationFrame-if, [native code])
 pvpoke-re.com##+js(set-constant, scrollTo, noopFunc)
 pvpoke-re.com##+js(abort-on-stack-trace, Array.from, /\s+[0-9A-Za-z]{3}\d[0-9A-Za-z]{4\,8}\W.+[0-9A-Za-z]{3}\d[0-9A-Za-z]{4\,8}\.js\?v=|_tick/)
 pvpoke-re.com##+js(addEventListener-defuser, /keydown|scroll|touchmove|touchstart|wheel/, function(_0x)
 pvpoke-re.com#$#.main-wrap[style*="opacity"] { opacity: 1 !important; }
 pvpoke-re.com#$#body header:has(> *:is([style*="fixed"],[style*="absolute"],[style*="background"])) { visibility: hidden !important; }
-pvpoke-re.com#$#body *:is([style*="fixed"],[style*="absolute"],[style*="background"]):not(header) { visibility: hidden !important; }
 pvpoke-re.com##+js(remove-attr, style, html\,body)
 pvpoke-re.com#$#html { overflow-y: auto !important; }
 pvpoke-re.com#$#body { overflow-y: auto !important; position: static !important; width: auto !important; height: auto !important; }
@@ -48371,6 +48373,7 @@ $subdocument,third-party,denyallow=disqus.com,domain=welovemanga.one
 ! NOTE: Specific rules
 !
 !
+4kpornvideos.tv,pornogram.tv##.header-spot
 3dporndude.com##.spot
 3dporndude.com##.grid-temp > li:has(> script)
 ||wzzm13.com/ad_
