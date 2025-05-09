@@ -1,8 +1,8 @@
-! Checksum: 9FJprFMCwl2M28x7i3rVjw
+! Checksum: yZKT6bYg3C+Lw3SQ6cedRg
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.76
-! TimeUpdated: 2025-05-09T10:07:08+00:00
+! Version: 2.3.82.77
+! TimeUpdated: 2025-05-09T11:06:02+00:00
 ! Expires: 5 days (update frequency)
 ||gusoclji.com^
 ||awdeliverynet.com^$third-party
@@ -2267,7 +2267,7 @@ gaypornhot.com,javgay.com##.back-to-top + div[id][class*=" "]
 ffcv.es###totop + div[id][class*=" "]
 windbreaker.me,fazy.online,wikijankari.com,greett.xyz,cricket12.com,stimotion.pl,thelastgamestandingexp.com,chart.services,moneysave.info,pornmz.com,yakisurume.com,tehnar.net.ua,rocdacier.com,audiotrip.org,flowsnet.com,brulosophy.com,reprezentacija.rs##body > div#page ~ div[id][class*=" "]
 alexbacher.fr,bokugents.com,4horlover.com,jobsibe.com##body > div[id][class*=" "]:first-child
-airportwebcams.net,animalwebcams.net,naruldonghua.com,chikianimation.com,infinitzanime.net,u-idol.com,varnascan.*,siikomik.com,summertoon.*,donghuaworld.com###footer + div[id][class*=" "]
+lacrima.jp,the-mystery.org,airportwebcams.net,animalwebcams.net,naruldonghua.com,chikianimation.com,infinitzanime.net,u-idol.com,varnascan.*,siikomik.com,summertoon.*,donghuaworld.com###footer + div[id][class*=" "]
 appdoze.net,dobleaccion.xyz,appdoze.com##body > div.wrapper-page + div[id][class*=" "]
 opchapters.com,tresdaos.com,siikomik.lat,nekoscans.com##.mainholder + div[id][class*=" "]
 azupro-sokuho.com,pokeca-chart.com,former-railroad-worker.com,noikiiki.info,sakanoya.net,akihabarahitorigurasiseikatu.com,pc-hobby.com,yakudachi.org,tiny-sparklies.com,veryfuntime.com,sufanblog.com,rail-log.net,10-train.com,e-food.jp,life-travel-blog.cfbx.jp,shimauma-log.com,kgs-invest.com,umabomber.com,r18blog.com,virtual-youtuber.jp,matomeiru.com,paris-tabi.com,tedenglish.site,goegoe.net,sararun.net,shopkensaku.com,welcometojapan.jp,maisondeas.com,yaspage.com,akihabarahitorigurasiseikatu.com,gnusocial.jp,doumura.com,habuteru.com,kurosuen.live,businesstrend.jp,fine-wings.com,sukuyou.com,gatagata.net,setsuyakutoushi.com,ranourano.xyz,reeell.com,it-money-life.com###go-to-top + div[id][class*=" "]
@@ -9635,6 +9635,7 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 $subdocument,third-party,denyallow=disqus.com,domain=welovemanga.one
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com|zinchanmanga.com|yaoimangaonline.com|tututweak.app|mangaraw.ac|eromanga-show.com|hentai-one.com|hentaipaw.com|nukibooks.com|paipancon.com|jgvdata.com|youtubevanced.com
+disboard.org##.ad-listing
 xporn.tv##.standalonead
 4kpornvideos.tv,pornogram.tv##.header-spot
 3dporndude.com##.spot
@@ -26141,6 +26142,7 @@ browsershots.org#@#.advert_area
 ||alesrepreswsenta.com^
 ||alexabyte.site^
 ||alexatracker.com^
+||alexintol.shop^
 ||alfasense.com^
 ||alfatraffic.com^
 ||alfelixstownrus.org^
@@ -28583,6 +28585,7 @@ browsershots.org#@#.advert_area
 ||d0main.ru^
 ||d170971757.com^
 ||d1d38a26hlyhe3.cloudfront.net^
+||d1jd9usa22o1l7.cloudfront.net^
 ||d24ak3f2b.top^
 ||d29gqcij.com^
 ||d2ship.com^
@@ -28835,6 +28838,7 @@ browsershots.org#@#.advert_area
 ||deturbcordies.com^
 ||devaluequalmrelative.com^
 ||devcre.site^
+||devisetangham.top^
 ||devoteegibberishsinister.com^
 ||devyecmfpvuwwaj.com^
 ||devyqrdqrhncv.com^
@@ -30782,6 +30786,7 @@ browsershots.org#@#.advert_area
 ||hangoverknock.com^
 ||happydate.today^
 ||happylength.com^
+||haptorpowter.top^
 ||hapydatte.net^
 ||haqmpyazj.com^
 ||haraxong.xyz^
@@ -30846,6 +30851,7 @@ browsershots.org#@#.advert_area
 ||heartilyscales.com^
 ||heartyquit.com^
 ||heathertravelledpast.com^
+||heautumncamet.com^
 ||hectarbiddies.shop^
 ||hectorfeminine.com^
 ||hedgehoghugsyou.com^
@@ -31911,6 +31917,7 @@ browsershots.org#@#.advert_area
 ||klonedaset.org^
 ||kloshambaris.top^
 ||kloshdales.top^
+||klutzblawing.shop^
 ||kmbjerbaafdn.global^
 ||kmmrukqrphix.com^
 ||kmodukuleqasfo.info^
@@ -32530,6 +32537,7 @@ browsershots.org#@#.advert_area
 ||machogodynamis.com^
 ||madadsmedia.com^
 ||madcpms.com^
+||madeup-win.pro^
 ||madratesforall.com^
 ||madriokn.xyz^
 ||madriyelowd.com^
@@ -32827,6 +32835,7 @@ browsershots.org#@#.advert_area
 ||mihaivibsaz.net^
 ||mihephypty.com^
 ||mihjpeok.com^
+||miigbxonhjgnr.top^
 ||miknijrcaf.com^
 ||mikobqcusg.com^
 ||milfunsource.com^
@@ -32963,6 +32972,7 @@ browsershots.org#@#.advert_area
 ||montkyodo.top^
 ||montlusa.top^
 ||montpdp.top^
+||montrecamara.shop^
 ||montwam.top^
 ||monu.delivery^
 ||monumentsmaterialeasel.com^
@@ -33664,6 +33674,7 @@ browsershots.org#@#.advert_area
 ||ogsbpoofzlk.com^
 ||ogszujfp.com^
 ||ogvandsa.com^
+||ogwgozcgf.com^
 ||ohgpibzmola.com^
 ||ohgqwicco.com^
 ||ohimunpracticalw.info^
@@ -34918,6 +34929,7 @@ browsershots.org#@#.advert_area
 ||punoocke.com^
 ||punosy.best^
 ||punosy.com^
+||punrbligpisll.life^
 ||punslemmas.shop^
 ||pupilarouranos.com^
 ||puppyderisiverear.com^
@@ -35693,6 +35705,7 @@ browsershots.org#@#.advert_area
 ||rydresa.info^
 ||ryllae.com^
 ||ryminos.com^
+||ryshalliloveyousa.com^
 ||rytransionsco.org^
 ||rzvcdclxehmnd.global^
 ||rzxxflvdnvtws.vip^
@@ -37337,6 +37350,7 @@ browsershots.org#@#.advert_area
 ||tuvkfuzih.com^
 ||tuxbpnne.com^
 ||tuxqcyqrybhi.com^
+||tvfmefaywc.com^
 ||tvoiioftvfzzc.buzz^
 ||tvprocessing.com^
 ||twaglurtuh.xyz^
@@ -38075,6 +38089,7 @@ browsershots.org#@#.advert_area
 ||wetpeachcash.com^
 ||wevrwqjqemkyj.top^
 ||wewlorozwojrm.top^
+||wewlorozwolrr.top^
 ||wewlorozwolyz.top^
 ||wextap.com^
 ||wfcs.lol^

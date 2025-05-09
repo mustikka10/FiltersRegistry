@@ -1,9 +1,9 @@
-! Checksum: 44mfzHL9KrzWZXVELDg6vA
-! Diff-Path: ../patches/16_optimized/16_optimized-s-1746758399-3600.patch
+! Checksum: 3u49n7G3LpMBuXxLRTSa9Q
+! Diff-Path: ../patches/16_optimized/16_optimized-s-1746789026-3600.patch
 ! Title: AdGuard French filter (Optimized)
 ! Description: Liste FR + AdGuard French filter. Filter list that specifically removes ads on websites in French language.
-! Version: 2.0.52.26
-! TimeUpdated: 2025-05-08T16:09:08+00:00
+! Version: 2.0.52.27
+! TimeUpdated: 2025-05-09T11:06:38+00:00
 ! Expires: 5 days (update frequency)
 ||proxy.ads.canalplus-bo.net^
 ||7bd92.v.fwmrm.net^
@@ -134,7 +134,7 @@ ebookdz.com#%#//scriptlet('abort-on-property-read', 'ABDetector')
 ebookdz.com#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
 ||ebookdz.com/forum/libab/script.js
 monumentum.fr#%#//scriptlet('abort-current-inline-script', 'document.getElementById', 'Blocking Ads')
-japscan.lol#%#//scriptlet("remove-node-text", "script", "/Y[a-z][a-z]?k[a-z]\d|Enjoy(ing)?You/")
+japscan.lol#%#//scriptlet("remove-node-text", "script", "/Y[a-z][a-z]?k[a-z]\d| OhNo/")
 @@||acscdn.com^$script,third-party,domain=japscan.lol
 @@.shop/*/invoke.js$script,third-party,domain=japscan.lol,important
 japscan.lol#@#div.container > [href]

@@ -1,9 +1,9 @@
-! Checksum: qkI8tVrX4wFZ895srmfzug
-! Diff-Path: ../patches/14/14-s-1746785491-3600.patch
+! Checksum: hzCMcqAyfdBcX+Pyzf9bhQ
+! Diff-Path: ../patches/14/14-s-1746789025-3600.patch
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.29.78
-! TimeUpdated: 2025-05-09T10:07:44+00:00
+! Version: 2.2.29.79
+! TimeUpdated: 2025-05-09T11:06:35+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -23209,6 +23209,7 @@ armidaleexpress.com.au,bendigoadvertiser.com.au,canberratimes.com.au,centralwest
 ! Do not forget about '!#safari_cb_affinity' section for exclusions:
 ! LINK: AnnoyancesFilter/Popups/sections/antiadblock.txt#general
 !
+abconsent.com,account.sirdata.io#%#//scriptlet('prevent-fetch', 'doubleclick.net')
 elektroda.de,elektroda.com,elektroda.pl#%#//scriptlet('prevent-setTimeout', 'adBlockElement')
 apps.dirittopratico.it##div[class^="apprise"]
 civitai.com##div[id][class*="box-content"]:empty
@@ -33420,6 +33421,7 @@ labs.google.com#@##google-hats-survey
 .name/?pus=$script,third-party
 .site/?pus=$script,third-party
 !
+||kuolkoola.com^
 ||puhyjyf.com^
 ||speraspace.com^
 ||sendpush.net^

@@ -1,8 +1,8 @@
-! Checksum: TY40Omo2GzcrBQCs1FDdCw
+! Checksum: T7Ua6YgXLi0N8jIae99FLw
 ! Title: AdGuard Russian filter
 ! Description: Filter that enables ad blocking on websites in Russian language.
-! Version: 2.0.99.17
-! TimeUpdated: 2025-05-09T07:06:51+00:00
+! Version: 2.0.99.18
+! TimeUpdated: 2025-05-09T11:05:50+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -10886,7 +10886,6 @@ kttc.ru###twitch-prime-block
 eda.ru##.css-1kzbhcl
 torrent-word.com##a[href="/1.php"]
 2shemi.ru##.mh-sidebar > div[id^="text-"]
-mp3mn.net##.onesongblock-down[target="_blank"]
 thecode.media##.praktikum-b-content-wrp
 onlymult.com,zr.ru##.header_banner
 ua.news##.single-sidebar > a[target="_blank"]

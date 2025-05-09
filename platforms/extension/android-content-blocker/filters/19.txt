@@ -1,8 +1,8 @@
-! Checksum: Sk14RMJGAJ07n2Vlq0wC7A
+! Checksum: +c0rB1xwO/9W+O3boS0npw
 ! Title: AdGuard Popups filter
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation according to our Filter policy.
-! Version: 2.0.55.0
-! TimeUpdated: 2025-05-09T09:08:07+00:00
+! Version: 2.0.55.1
+! TimeUpdated: 2025-05-09T11:06:40+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -10885,6 +10885,7 @@ labs.google.com#@##google-hats-survey
 .name/?pus=$script,third-party
 .site/?pus=$script,third-party
 !
+||kuolkoola.com^
 ||puhyjyf.com^
 ||speraspace.com^
 ||sendpush.net^
