@@ -1,9 +1,9 @@
-! Checksum: UA2iT17cwLtHDCmVdx/RxQ
-! Diff-Path: ../patches/20/20-s-1746710366-3600.patch
+! Checksum: hdx6wy5HQzlIvWFUjYvkIQ
+! Diff-Path: ../patches/20/20-s-1746767474-3600.patch
 ! Title: AdGuard Mobile App Banners filter
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.20.72
-! TimeUpdated: 2025-05-08T13:15:45+00:00
+! Version: 2.0.20.73
+! TimeUpdated: 2025-05-09T05:07:44+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3641,6 +3641,8 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! Limit it to mobile versions only
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 !
+wayfair.com#$#html[style*="overflow:"] { overflow: auto !important; }
+wayfair.com#$#div[data-rtl-id="appInstallPhoneLayout"] { display: none !important; }
 mercari.com##body > div[class^="Overlay-"]
 mercari.com##div[data-testid="BottomScreenWrapper"]:has(> div[data-testid="DialogBody"] > div[data-testid="WebToAppDialog"])
 restaurantguru.com###android_info

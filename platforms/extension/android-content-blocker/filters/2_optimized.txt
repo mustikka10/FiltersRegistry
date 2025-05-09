@@ -1,8 +1,8 @@
-! Checksum: EYaF+YQeRZzaQV3KO8nB3Q
+! Checksum: dFkKlzbiz3mO4cUaquOWsw
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.70
-! TimeUpdated: 2025-05-09T04:08:41+00:00
+! Version: 2.3.82.71
+! TimeUpdated: 2025-05-09T05:07:07+00:00
 ! Expires: 5 days (update frequency)
 ||gusoclji.com^
 ||awdeliverynet.com^$third-party
@@ -27263,6 +27263,7 @@ browsershots.org#@#.advert_area
 ||bmcdn6.com^
 ||bmjntbkihrtj.com^
 ||bmkz57b79pxk.com^
+||bmndx.com^
 ||bmucuzdho.com^
 ||bmudhianrfat.com^
 ||bn5x.net^
@@ -27394,6 +27395,7 @@ browsershots.org#@#.advert_area
 ||bovinetimingunsaddle.com^
 ||bowerywill.com^
 ||bowlestypy.top^
+||bowlingjumbie.shop^
 ||bowsawnail.top^
 ||boxcartidalvoicing.com^
 ||boxif.xyz^
@@ -29126,6 +29128,7 @@ browsershots.org#@#.advert_area
 ||dropalcoholnarrow.com^
 ||dropletevaporateumpire.com^
 ||drsmediaexchange.com^
+||drsmexa.xyz^
 ||drugstoredemuretake.com^
 ||drumlyavowant.top^
 ||drylnk.com^
@@ -29928,6 +29931,7 @@ browsershots.org#@#.advert_area
 ||foapsovi.net^
 ||focalex.com^
 ||foccqbujbfcyj.love^
+||focsleacor.top^
 ||fodderpracticable.com^
 ||fodsoack.com^
 ||foerpo.com^
@@ -30220,6 +30224,7 @@ browsershots.org#@#.advert_area
 ||gcqbwsehx.com^
 ||gcsimltwr.com^
 ||gdajuytgupptx.world^
+||gdlhwcdjtqkjqcj.com^
 ||gdliuymvftdwvm.xyz^
 ||gdmconvtrck.com^
 ||gdmgsecure.com^
@@ -31067,6 +31072,7 @@ browsershots.org#@#.advert_area
 ||hpnkctxx.buzz^
 ||hpyjmp.com^
 ||hpyrdr.com^
+||hqkelsrnldxnx.icu^
 ||hqpass.com^
 ||hqscene.com^
 ||hrahdmon.com^
@@ -31205,6 +31211,7 @@ browsershots.org#@#.advert_area
 ||igouthoatsord.net^
 ||igraard.xyz^
 ||ihanarxsjiknhg.com^
+||ihdqhjrqhovcp.today^
 ||ii9g0qj9.de^
 ||iicheewi.com^
 ||iigmlx.com^
@@ -32865,6 +32872,7 @@ browsershots.org#@#.advert_area
 ||mndlvr.com^
 ||mndsrv.com^
 ||mndvjhg.com^
+||mndx1.com^
 ||mnetads.com^
 ||mng-ads.com^
 ||mntzr11.net^
@@ -33345,6 +33353,7 @@ browsershots.org#@#.advert_area
 ||noolt.com^
 ||noowoochuveb.net^
 ||nope.xn--mgbkt9eckr.net^
+||nopgshzptol.com^
 ||noptog.com^
 ||norentisol.com^
 ||noretia.com^
@@ -34343,6 +34352,7 @@ browsershots.org#@#.advert_area
 ||phuondmumnh.com^
 ||phuruxoods.com^
 ||phywifupta.com^
+||piansbassara.com^
 ||piaroankenyte.store^
 ||picarasgalax.com^
 ||picarosexempt.shop^
@@ -35098,6 +35108,7 @@ browsershots.org#@#.advert_area
 ||quokkacheeks.com^
 ||quokkasgraf.com^
 ||quotationfirearmrevision.com^
+||quotersoxbane.top^
 ||quotes.com^
 ||quzxatapvz.com^
 ||qvglxrsojnyaz.site^
@@ -36348,6 +36359,7 @@ browsershots.org#@#.advert_area
 ||spukesuzette.shop^
 ||spumvgltasdrjg.xyz^
 ||spumycast.com^
+||spuppeh.net^
 ||spylees.com^
 ||spyshipstony.shop^
 ||sqlick.com^
@@ -37259,6 +37271,7 @@ browsershots.org#@#.advert_area
 ||ttzmedia.com^
 ||tuaos.xyz^
 ||tubberlo.com^
+||tubbinguncaned.com^
 ||tubecorp.com^
 ||tubecup.net^
 ||tubeletsicca.shop^
@@ -38758,6 +38771,8 @@ browsershots.org#@#.advert_area
 ||zynewaylxyxex.buzz^
 ||zypenetwork.com^
 ||zyrelolbbqelo.top^
+||zyusywfejzbya.fun^
+||zyyt-tevos.click^
 ||zzrazrorjqlqw.top^
 ||certona.net^
 ||olopruy.com^

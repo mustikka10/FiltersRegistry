@@ -1,8 +1,8 @@
-! Checksum: Ks9jiz34R53HtJs6AK2c9A
+! Checksum: 3JRQWx+6NZcOSnGcTMxN2w
 ! Title: AdGuard Mobile App Banners filter (Optimized)
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.20.72
-! TimeUpdated: 2025-05-08T13:15:45+00:00
+! Version: 2.0.20.73
+! TimeUpdated: 2025-05-09T05:07:44+00:00
 ! Expires: 5 days (update frequency)
 /js/jquery.smartbanner.js
 ##.ldapp-article
@@ -1426,6 +1426,8 @@ honeysanime.com#$##header-line-2 { margin-top: -60px !important; }
 honeysanime.com#$##wrap-app-notice { display: none !important; }
 !+ NOT_OPTIMIZED
 m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
+wayfair.com#$#html[style*="overflow:"] { overflow: auto !important; }
+wayfair.com#$#div[data-rtl-id="appInstallPhoneLayout"] { display: none !important; }
 mercari.com##body > div[class^="Overlay-"]
 restaurantguru.com###android_info
 publix.com#$#[class^="mobile-app-call-out"] { display: none !important; }

@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: a+DU5l6h0BspEpnqj7W66A
-! Diff-Path: ../patches/20_optimized/20_optimized-s-1746758402-3600.patch
+! Checksum: NbhyzWnVsQIUjmXHNUqDEg
+! Diff-Path: ../patches/20_optimized/20_optimized-s-1746767485-3600.patch
 ! Title: AdGuard Mobile App Banners filter (Optimized)
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.20.72
-! TimeUpdated: 2025-05-08T13:15:45+00:00
+! Version: 2.0.20.73
+! TimeUpdated: 2025-05-09T05:07:44+00:00
 ! Expires: 5 days (update frequency)
 /js/jquery.smartbanner.js
 ##.ldapp-article
@@ -1699,6 +1699,8 @@ honeysanime.com#$##header-line-2 { margin-top: -60px !important; }
 honeysanime.com#$##wrap-app-notice { display: none !important; }
 !+ NOT_OPTIMIZED
 m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
+wayfair.com#$#html[style*="overflow:"] { overflow: auto !important; }
+wayfair.com#$#div[data-rtl-id="appInstallPhoneLayout"] { display: none !important; }
 mercari.com##body > div[class^="Overlay-"]
 mercari.com##div[data-testid="BottomScreenWrapper"]:has(> div[data-testid="DialogBody"] > div[data-testid="WebToAppDialog"])
 restaurantguru.com###android_info

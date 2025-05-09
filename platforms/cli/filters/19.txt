@@ -1,9 +1,9 @@
-! Checksum: eaWEd8fclW9L17J/PB+Xkg
-! Diff-Path: ../patches/19/19-s-1746758387-3600.patch
+! Checksum: Qeovjl2iOh0XehRpux/BQg
+! Diff-Path: ../patches/19/19-s-1746767463-3600.patch
 ! Title: AdGuard Popups filter
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation according to our Filter policy.
-! Version: 2.0.54.97
-! TimeUpdated: 2025-05-09T02:36:24+00:00
+! Version: 2.0.54.98
+! TimeUpdated: 2025-05-09T05:07:44+00:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -13196,6 +13196,8 @@ gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,n
 !
 ! SECTION: Subscriptions - Regular rules
 !
+guinnessworldrecords.com###newsletter-wrap-b2c
+guinnessworldrecords.com##.component-wrapper:has(> .container > .wysi-grey-breakout-box > p > a[href^="https://news.google.com/publications/"])
 technologyreview.com##div[class^="newsletterSection__"]
 project-syndicate.org##div[data-page-area="subscriptionpromo-home"]
 wzzm13.com##.grid__cell:has(> .grid__module > div[data-module-sizer="newsletter-signup"])
