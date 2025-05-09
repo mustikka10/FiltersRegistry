@@ -1,9 +1,9 @@
-! Checksum: 3UVCfRVPfJjVAyrUupYyCg
-! Diff-Path: ../patches/4/4-s-1746763986-3600.patch
+! Checksum: D+Wp2EraNVKPxFgryhdgWA
+! Diff-Path: ../patches/4/4-s-1746778372-3600.patch
 ! Title: AdGuard Social Media filter
 ! Description: Filter for social media widgets such as 'Like' and 'Share' buttons and more.
-! Version: 2.1.14.36
-! TimeUpdated: 2025-05-09T04:08:56+00:00
+! Version: 2.1.14.37
+! TimeUpdated: 2025-05-09T08:08:56+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -653,6 +653,8 @@ esquire.com,dotesports.com,mashable.com,pcmag.com,onefootball.com,ign.com,israel
 !
 ! NOTE: Specific rules
 !
+auchan.ru##div[class*="shareTooltip_children"]
+mega.lol###shareIconWrapper
 helloclue.com##a[href*="://www.linkedin.com/shareArticle"]
 timeout.com##div[data-component="sharing-links"]
 online.metro-cc.ru##.product-page-social__button

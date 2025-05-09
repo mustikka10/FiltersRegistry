@@ -1,9 +1,9 @@
-! Checksum: Sizt7NIokfvSPNSsbTUmew
-! Diff-Path: ../patches/14/14-s-1746774687-3600.patch
+! Checksum: wztMMZctt5oCRm48EwZpSA
+! Diff-Path: ../patches/14/14-s-1746778393-3600.patch
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.29.75
-! TimeUpdated: 2025-05-09T07:07:32+00:00
+! Version: 2.2.29.76
+! TimeUpdated: 2025-05-09T08:09:14+00:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -42529,6 +42529,9 @@ alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,ra
 !
 !
 !
+auchan.ru##a[class^="styles_smartBanner"]
+restaurantji.com###appBanner
+mega.lol###download-app-area
 ||duhuliyecom.teimg.com/duhuliye-com/uploads/2024/12/hbr1903.jpg
 elipshaber.com##.mb-3.p-3.bg-white:has(> #msk-mobil-app)
 donanimhaber.com#$#.uygulamayi-indir { visibility: hidden !important; height: 0 !important; }
@@ -49656,6 +49659,8 @@ www.kinopoisk.ru##div[class^="trailer-promo"]
 !
 ! SECTION: Self-promo - Regular rules
 !
+megamarket.ru##.catalog-default__department-header-banners
+megamarket.ru##.catalog-item_banner
 helloclue.com#$##gatsby-focus-wrapper > div[class^="sc-"]:has(> a[href*="/checkout?discount_code=BANNER"]) { display: none !important; }
 helloclue.com#$##gatsby-focus-wrapper nav[aria-label] { top: 0 !important; }
 softexia.com##.head-discount

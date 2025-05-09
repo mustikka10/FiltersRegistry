@@ -2263,6 +2263,7 @@ tportal.hr#%#//scriptlet("remove-class", "advertisingActive", "div.gpElement.has
 tportal.hr#%#//scriptlet('json-prune', 'options.displayBannerAfterEntry')
 tportal.hr#%#//scriptlet('set-constant', 'Object.prototype.displayBannerAfterEntry', 'emptyObj')
 sultanovic.info#%#//scriptlet('set-constant', 'uShowAdBanner', 'noopFunc')
+titulky.com#%#//scriptlet('trusted-replace-node-text', 'script', 'noadbl', 'let noadbl=0;', 'let noadbl=1;')
 titulky.com#%#//scriptlet('set-constant', 'noadb', '1')
 titulky.com#%#//scriptlet('set-constant', 'showFairUser', 'true')
 serialyzadara.cz#%#//scriptlet('remove-attr', 'href', 'a[href][id^="clickfakeplayer"]')
