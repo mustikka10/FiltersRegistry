@@ -1,8 +1,8 @@
-! Checksum: 8TPHzu42Qx2yHLvV6GiCvw
+! Checksum: 83mvogpLo4GTJ6qkLSKbtw
 ! Title: AdGuard Cookie Notices filter (Optimized)
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.61.48
-! TimeUpdated: 2025-05-09T06:09:53+00:00
+! Version: 2.0.61.49
+! TimeUpdated: 2025-05-09T07:07:36+00:00
 ! Expires: 10 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
@@ -2218,6 +2218,7 @@ jeans-fritz.de#$##am-cookie-bar { display: none !important; }
 jeans-fritz.de#$##html-body { overflow: auto !important; }
 datacamp.com##.dc-cookie-banner-wrapper
 ukbathroomstore.co.uk###am-cookie-bar
+jobs.workable.com,newjobs.gr##div[style^="--color-cookie-consent:"]
 4fizjo.pl###custom_iai_cookies
 mercafe.com.br#%#//scriptlet('trusted-set-local-storage-item', 'cookie-lgpd', 'hide')
 radiko.jp#%#//scriptlet('trusted-click-element', '.js-policy-accept')

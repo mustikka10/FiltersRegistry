@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: mKUbk5yYm+50hgOx+Twb+g
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746771221-3600.patch
+! Checksum: iYjIBFhBWeE15swL784HZw
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746774677-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.82.72
-! TimeUpdated: 2025-05-09T06:09:18+00:00
+! Version: 2.3.82.73
+! TimeUpdated: 2025-05-09T07:07:02+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -48373,6 +48373,8 @@ $subdocument,third-party,denyallow=disqus.com,domain=welovemanga.one
 ! NOTE: Specific rules
 !
 !
+telegramchannels.me##.columns.is-multiline > .column > .card.is-clmd:has(> a[href^="https://telegramchannels.me/goclimad/"]:only-child)
+hqporno.tv##+js(abort-current-script, String.prototype.substr, /\.join\(''\)[\s\S]*?;\)\$/)
 4kpornvideos.tv,pornogram.tv##.header-spot
 3dporndude.com##.spot
 3dporndude.com##.grid-temp > li:has(> script)
@@ -48419,6 +48421,7 @@ thepointsguy.com##+js(set-session-storage-item, exitModal, 1)
 9to5linux.com##.theiaStickySidebar > .widget:has(:is(a[href^="https://www.tuxedocomputers.com/?refID="], .adblocked))
 secretflying.com#$?#.adArcl { remove: true; }
 mydramalist.com##.spnsr
+mydramalist.com##.app-body > div[class] > div[class*="is-"]:has(> .htlad-header_top:only-child)
 forbes.com##.recirc-rail
 gunbroker.com##div[id^="adPlacement"]
 gocomics.com##div[class^="HeaderAd_"]

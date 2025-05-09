@@ -1,8 +1,8 @@
-! Checksum: 5l+F9dg4HpyRJIH5MKGP+w
+! Checksum: 5HLWuNzCEQgn39zbKZRkBw
 ! Title: AdGuard Russian filter (Optimized)
 ! Description: Filter that enables ad blocking on websites in Russian language.
-! Version: 2.0.99.16
-! TimeUpdated: 2025-05-08T12:10:17+00:00
+! Version: 2.0.99.17
+! TimeUpdated: 2025-05-09T07:06:51+00:00
 ! Expires: 5 days (update frequency)
 /nadavi-api/?p4g3=js/api/widget.js
 ||aj*.bid/*?vpaid=$xmlhttprequest
@@ -2306,6 +2306,7 @@ kom-dir.ru,gd.ru,buhsoft.ru,business.ru,26-2.ru,fd.ru,pro-personal.ru#$#.topAdve
 kom-dir.ru,gd.ru,buhsoft.ru,business.ru,26-2.ru,fd.ru,pro-personal.ru#$#body.branded { margin-top: 60px !important; }
 talks.happymonday.com.ua,unisender.com#$#body { overflow: visible!important; }
 penzainform.ru#$#body { cursor: auto!important; }
+kinogo-net.la#$##wr-bg { top: 0 !important; }
 domovita.by#$##reklamnaya-modalka { display: none !important; }
 domovita.by#$#.c-modal-overlay { display: none !important; }
 domovita.by#$#body { overflow: auto !important; padding-right: 0 !important; }

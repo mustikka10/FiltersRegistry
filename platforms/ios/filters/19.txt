@@ -1,9 +1,9 @@
-! Checksum: 2SpCDNULHqduxTT4piLkwA
-! Diff-Path: ../patches/19/19-s-1746767488-3600.patch
+! Checksum: 4hAYOv54Y4xWtgniUIk16A
+! Diff-Path: ../patches/19/19-s-1746774679-3600.patch
 ! Title: AdGuard Popups filter
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation according to our Filter policy.
-! Version: 2.0.54.98
-! TimeUpdated: 2025-05-09T05:07:44+00:00
+! Version: 2.0.54.99
+! TimeUpdated: 2025-05-09T07:07:37+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -13487,6 +13487,7 @@ gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,n
 !
 ! SECTION: Subscriptions - Regular rules
 !
+thespruce.com###site-wide-notification_1-0
 guinnessworldrecords.com###newsletter-wrap-b2c
 guinnessworldrecords.com##.component-wrapper:has(> .container > .wysi-grey-breakout-box > p > a[href^="https://news.google.com/publications/"])
 technologyreview.com##div[class^="newsletterSection__"]
@@ -19144,7 +19145,7 @@ adme.media,brightside.me##div[data-test-id="subscription-block"]
 fateka.com##.newsletter-subscription-section
 akc.org##div[data-js-props*="newsletter"]
 cesarsway.com#?#.elementor-widget-wrap > section:has(> div.elementor-container > div.elementor-row div.elementor-divider > span > span:contains(/Newsletter|Become a Pack Member/))
-thesprucepets.com##.subscription-island
+thespruce.com,thesprucepets.com##.subscription-island
 futurity.org##.article-signup
 purina.co.uk##.component--newsletter
 bcmj.org##.block-subscribe-right

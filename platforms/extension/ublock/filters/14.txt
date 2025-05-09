@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: pw6nH40NHEiXnOwFVi56PQ
-! Diff-Path: ../patches/14/14-s-1746771218-3600.patch
+! Checksum: gRwHpHB+JzU24+W25Z0BDA
+! Diff-Path: ../patches/14/14-s-1746774675-3600.patch
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.29.74
-! TimeUpdated: 2025-05-09T06:09:48+00:00
+! Version: 2.2.29.75
+! TimeUpdated: 2025-05-09T07:07:32+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3356,7 +3356,7 @@ ukbathroomstore.co.uk###am-cookie-bar
 aha.or.at#$#body { overflow: auto !important; }
 aha.or.at#$#.cookie-consent { display: none !important; }
 aha.or.at#$#.cookie-consent ~ div.overlay { display: none !important; }
-newjobs.gr##div[style^="--color-cookie-consent:"]
+jobs.workable.com,newjobs.gr##div[style^="--color-cookie-consent:"]
 4fizjo.pl###custom_iai_cookies
 shop-weck.de##.lightbox-backdrop-cc-dialog
 code-guru.pl,vrsoft.pl,fanaticbike.hu#$#.cookie-alert-popup { display: none !important; }
@@ -33520,6 +33520,7 @@ gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,n
 !
 ! SECTION: Subscriptions - Regular rules
 !
+thespruce.com###site-wide-notification_1-0
 guinnessworldrecords.com###newsletter-wrap-b2c
 guinnessworldrecords.com##.component-wrapper:has(> .container > .wysi-grey-breakout-box > p > a[href^="https://news.google.com/publications/"])
 technologyreview.com##div[class^="newsletterSection__"]
@@ -39135,7 +39136,7 @@ adme.media,brightside.me##div[data-test-id="subscription-block"]
 fateka.com##.newsletter-subscription-section
 akc.org##div[data-js-props*="newsletter"]
 cesarsway.com#?#.elementor-widget-wrap > section:has(> div.elementor-container > div.elementor-row div.elementor-divider > span > span:contains(/Newsletter|Become a Pack Member/))
-thesprucepets.com##.subscription-island
+thespruce.com,thesprucepets.com##.subscription-island
 futurity.org##.article-signup
 purina.co.uk##.component--newsletter
 bcmj.org##.block-subscribe-right

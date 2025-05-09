@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: 3WuVcEgKS/UVE9XMLD0hQQ
-! Diff-Path: ../patches/1_optimized/1_optimized-s-1746758401-3600.patch
+! Checksum: f6CIXn+z+cN0sDIrX/DeYw
+! Diff-Path: ../patches/1_optimized/1_optimized-s-1746774676-3600.patch
 ! Title: AdGuard Russian filter (Optimized)
 ! Description: Filter that enables ad blocking on websites in Russian language.
-! Version: 2.0.99.16
-! TimeUpdated: 2025-05-08T12:10:17+00:00
+! Version: 2.0.99.17
+! TimeUpdated: 2025-05-09T07:06:51+00:00
 ! Expires: 5 days (update frequency)
 /nadavi-api/?p4g3=js/api/widget.js
 ||aj*.bid/*?vpaid=$xmlhttprequest
@@ -2483,6 +2483,7 @@ economistua.com##+js(set-constant, onlyBodyClick, noopFunc)
 ruclip.com##+js(abort-current-script, atob, decodeURIComponent)
 fainaidea.com##+js(abort-on-property-read, td_ad_background_click_link)
 disk.yandex.*##+js(remove-class, has-fullscreen-banner, .public__root)
+kinogo-net.la#$##wr-bg { top: 0 !important; }
 domovita.by#$##reklamnaya-modalka { display: none !important; }
 domovita.by#$#.c-modal-overlay { display: none !important; }
 domovita.by#$#body { overflow: auto !important; padding-right: 0 !important; }

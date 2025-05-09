@@ -1,9 +1,9 @@
-! Checksum: wRTUqeaD3bxDf4gAICZUHA
-! Diff-Path: ../patches/1/1-s-1746706486-3600.patch
+! Checksum: rdgC2V2raItP7XWYdeyZQg
+! Diff-Path: ../patches/1/1-s-1746774654-3600.patch
 ! Title: AdGuard Russian filter
 ! Description: Filter that enables ad blocking on websites in Russian language.
-! Version: 2.0.99.16
-! TimeUpdated: 2025-05-08T12:10:17+00:00
+! Version: 2.0.99.17
+! TimeUpdated: 2025-05-09T07:06:51+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -6177,6 +6177,8 @@ disk.yandex.*#%#//scriptlet('remove-class', 'has-fullscreen-banner','.public__ro
 !------- CSS -----------
 !-----------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204892
+kinogo-net.la#$##wr-bg { top: 0 !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/181297
 blackmovies.ru,cunofilms.ru#$#body { background-image: none !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/180740
