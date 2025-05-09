@@ -1,9 +1,9 @@
-! Checksum: bOtDNnfSjIkHineSBxvkGQ
-! Diff-Path: ../patches/4/4-s-1746720784-3600.patch
+! Checksum: lwei3Fhnk9kvjAwz9Y+X2g
+! Diff-Path: ../patches/4/4-s-1746754763-3600.patch
 ! Title: AdGuard Social Media filter
 ! Description: Filter for social media widgets such as 'Like' and 'Share' buttons and more.
-! Version: 2.1.14.34
-! TimeUpdated: 2025-05-08T16:08:30+00:00
+! Version: 2.1.14.35
+! TimeUpdated: 2025-05-09T01:35:12+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -14991,6 +14991,8 @@ bomb01.com#$#.modal-open { overflow: visible!important; }
 ! Bad:  @@||example.org^$stealth (should be in AdGuard Base - allowlist_stealth.txt)
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204849
+scrapbox.io#@#a[href*="//b.hatena.ne.jp/entry/"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204861
 nationalgeographic.pt#@#.socialmedia
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204699
