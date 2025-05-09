@@ -1,8 +1,8 @@
-! Checksum: otO+jpummz8scuWbHB9Qfw
+! Checksum: 0RGXL4Xyush2PG6/skEOsw
 ! Title: AdGuard Popups filter (Optimized)
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation according to our Filter policy.
-! Version: 2.0.55.1
-! TimeUpdated: 2025-05-09T11:06:40+00:00
+! Version: 2.0.55.2
+! TimeUpdated: 2025-05-09T14:07:32+00:00
 ! Expires: 5 days (update frequency)
 ://yandex.*/images/_$xmlhttprequest,method=post
 [$path=/images]ya.ru,yandex.*##.AdvMastHead
@@ -6847,7 +6847,7 @@ heise.de##div[data-component="NewsletterModule"]
 news.am##.main-content > div[style="background-color:#32afed"]
 sbenny.com###Mod253
 informator.ua##.post__subscribe-banner
-secretlab.eu,cross.com,flip.gr,hoffmann-germany.de,centrumzdrowegowlosa.pl,groworganic.com,urnex.com,hermanmiller.co.jp,audeze.com,shopyalehome.com,neopetsshop.com,hanfgefluester.de,bleachpraylove.com,720dgree.de,vpd.fi##.needsclick
+steelseries.com,secretlab.eu,cross.com,flip.gr,hoffmann-germany.de,centrumzdrowegowlosa.pl,groworganic.com,urnex.com,hermanmiller.co.jp,audeze.com,shopyalehome.com,neopetsshop.com,hanfgefluester.de,bleachpraylove.com,720dgree.de,vpd.fi##.needsclick
 unian.net,unian.ua##.social-btn-bottom
 unian.ua,unian.net##.publication__gn
 latercera.com##.msg-warning
