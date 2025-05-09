@@ -1,9 +1,9 @@
-! Checksum: K0a9kPGaU5jeSoZ6+pk87w
-! Diff-Path: ../patches/246_optimized/246_optimized-s-1746765732-14400.patch
+! Checksum: if4rweaXVYxaJWGRR3k7iA
+! Diff-Path: ../patches/246_optimized/246_optimized-s-1746780182-14400.patch
 ! Title: EasyList Polish (Optimized)
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.65.63
-! TimeUpdated: 2025-05-09T04:38:26+00:00
+! Version: 2.1.65.64
+! TimeUpdated: 2025-05-09T08:39:13+00:00
 ! Expires: 10 days (update frequency)
 /adserwer.
 =adv/GetAdvertisment|
@@ -2651,7 +2651,7 @@ elk24.pl##div[class*="ad-type-"]
 gdanszczak.pl,gdyniak.pl##div[class*="adName"]
 strzal.pl##div[class*="ads-container-"]
 gs24.pl##div[class*="adsSlotContainer"]
-golub-cgd.pl,goral24.pl,ibielsk.pl,inowroclaw.info.pl,iotwock.info,izabelin24.pl##div[class*="adv"]
+golub-cgd.pl,goral24.pl,ibielsk.pl,inowroclaw.info.pl,iotwock.info,izabelin24.pl,izyrardow.pl##div[class*="adv"]
 ikampinos.pl##div[class*="adv--halfpage"]
 demotywatory.pl##div[class*="adv_"]
 deccoria.pl,halogorlice.info##div[class*="advert"]

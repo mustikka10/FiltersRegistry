@@ -1,13 +1,13 @@
-! Checksum: ucVob+hhNGU1Sv/9k4Dm7A
-! Diff-Path: ../patches/250/250-s-1746722713-14400.patch
+! Checksum: O2PoWWnR6NSe9SiTxxwIYg
+! Diff-Path: ../patches/250/250-s-1746780204-14400.patch
 ! Title: Dandelion Sprout's Annoyances List
 ! Description: This list is made in the style of AdGuard's and Fanboy's annoyances lists. It combines many of Dandelion Sprout's proudest and most frequently maintained international lists, as a curated compilation for simplicity's sake.
-! Version: 2.0.16.88
-! TimeUpdated: 2025-05-08T16:40:05+00:00
+! Version: 2.0.16.89
+! TimeUpdated: 2025-05-09T08:39:20+00:00
 ! Expires: 12 hours (update frequency)
 !
 ! Title: ⚙️ Dandelion Sprout's Annoyances List
-! OriginalVersion: 07May2025v1-Compilation
+! OriginalVersion: 09May2025v2-Compilation
 ! Expires: 18 hours
 ! Description: This list is made in the style of Fanboy's and AdGuard's annoyances lists, to show that I can make a just as good such annoyances list as them. It combines many of my proudest and most frequently maintained international lists, as a proof-of-concept and as a curated list for simplicity's sake.
 ! Homepage: https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md#-english
@@ -535,7 +535,7 @@ quora.com##.modal_bg
 linkedin.com#$?#html { overflow: auto !important; }
 linkedin.com#$?#body { overflow: auto !important; }
 ! Title: 💊 Dandelion Sprout's Anti-Malware List (for AdGuard)
-! OriginalVersion: 04May2025v2
+! OriginalVersion: 09May2025v1
 ! Expires: 1 day
 ! Description: This list goes the extra kilometer to prevent more malware than other mainstream anti-malware lists. It blocks blocks domains and domain patterns used in malware redirection trains and in domain parking schemes, blocks sponsored Windows PUP nags on PC guide articles, uses mass blocking of domains belonging to bad IPs, and has many other subcategories that give it a solid advantage over similar lists out there.
 ! Note: When asking us to whitelist a site: Make sure the site has some sort of public content. Non-public sites and alias sites are usually not whitelisted.
@@ -33453,8 +33453,7 @@ www.tumblr.com##div[data-timeline-id] div[style="margin-top: 0px;"]:has(a:is([hr
 ! Mass domain parking service (e.g. picnicnetworkORG, 04/05/2025)
 !+ PLATFORM(windows, mac, android)
 91.195.240.12$network
-!+ PLATFORM(windows, mac, android)
-205.234.175.175$network
+!!!$all,ipaddress=205.234.175.175 (Really bad idea to block; SecurityTrails remains a bigger authority on these kinds of things than Hurricane Electric BGP after all.)
 ! ——— A hĳacked link that had previously been on https://sims•fandom•com/wiki/Game_guide:Fog_emitter ———
 ||0network.com^$all
 ||100conversions.com^$all
@@ -41503,3 +41502,9 @@ google.*#@##google-hats-survey
 independent.co.uk,indy100.com##.notification-prompt
 ! Pretty frequent "Make us your default search engine" prompts
 qwant.com##div[class^=_][class*=" "]:last-of-type:has(>div>:is([href*="://chromewebstore."],[href*="://addons.mozilla.org/"]))
+! Because many people think such test sites are industry standard tools, which they're (unfortunately?) not.
+/fakepage.html^$domain=superadblocktest.com|tracksong.github.io,important
+/ads.js^$domain=tracksong.github.io,important
+@@$xmlhttprequest,third-party,redirect-rule=nooptext:-1,method=head,domain=superadblocktest.com
+@@||doubleclick.net^$xmlhttprequest,redirect-rule=nooptext,domain=superadblocktest.com
+@@||pagead2.googlesyndication.com^$xmlhttprequest,redirect-rule=noopjs,domain=superadblocktest.com

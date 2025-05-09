@@ -1,15 +1,15 @@
 ![Adblock Plus 2.0]
-! Checksum: JLqwATrHYsf0RUcB3iLtZQ
-! Diff-Path: ../patches/239/239-s-1746765740-14400.patch
+! Checksum: kOfpR1FN7l9MOIEYeuMf+g
+! Diff-Path: ../patches/239/239-s-1746780192-14400.patch
 ! Title: Fanboy's Anti-thirdparty Fonts
 ! Description: A filter that blocks third-party fonts. It may break the look and design of some websites.
-! Version: 2.0.6.69
-! TimeUpdated: 2025-05-09T04:38:20+00:00
+! Version: 2.0.6.70
+! TimeUpdated: 2025-05-09T08:39:08+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: 8RmtaR/W/8CUipa1/j2P1A
+! Checksum: T3ewzrZznef+L+gx4We30g
 ! Title: Fanboy's Anti-thirdparty Fonts
-! Updated: 2025-05-09 03:35 UTC
+! Updated: 2025-05-09 08:35 UTC
 ! Expires: 9 days
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: http://www.fanboy.co.nz/

@@ -1,9 +1,9 @@
-! Checksum: a753hL/5xb0v7i2ek5SfsA
-! Diff-Path: ../patches/104_optimized/104_optimized-s-1746765736-14400.patch
+! Checksum: H+QxjbIFJllVl+loA/3K9w
+! Diff-Path: ../patches/104_optimized/104_optimized-s-1746780187-14400.patch
 ! Title: EasyList China (Optimized)
 ! Description: Additional filter list for websites in Chinese. Already included in AdGuard Chinese filter.
-! Version: 2.1.50.90
-! TimeUpdated: 2025-05-09T04:37:48+00:00
+! Version: 2.1.50.91
+! TimeUpdated: 2025-05-09T08:38:28+00:00
 ! Expires: 5 days (update frequency)
 -*-*-*-*.alpha^$script,third-party
 /7755com-*00x*.gif

@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: gOBTFmhszA1L3FioFjgpxA
-! Diff-Path: ../patches/241_optimized/241_optimized-s-1746765740-14400.patch
+! Checksum: pWbK2xwWNxPEnTNY14qXBw
+! Diff-Path: ../patches/241_optimized/241_optimized-s-1746780193-14400.patch
 ! Title: EasyList Cookie List (Optimized)
 ! Description: Removes cookie and privacy warnings. Already included in Fanboy's Annoyances list.
-! Version: 2.1.52.58
-! TimeUpdated: 2025-05-09T04:38:23+00:00
+! Version: 2.1.52.59
+! TimeUpdated: 2025-05-09T08:39:11+00:00
 ! Expires: 5 days (update frequency)
 -consent-banner-
 -consent-banner.
@@ -2558,7 +2558,6 @@
 ###cmpBackdrop
 ###cmpBanner
 ###cmpMinimalPrompt
-###cmplz-cookiebanner-container
 ###cms-cookie-wrapper
 ###cms-cookies-consent
 ###cms-module-legal-privacy-hint
@@ -10122,7 +10121,6 @@
 ##.cmp-teaser__subcontent
 ##.cmpBoxWelcomeOptIn
 ##.cmp_cookies_usage_wr
-##.cmplz-cookiebanner
 ##.cmplz-show-banner
 ##.cmplz-tcf-banner-hidden
 ##.cms-cookie-layer
@@ -12484,7 +12482,6 @@
 ##.divCookieDisclaimer
 ##.divCookieWarning
 ##.divCookiebotTab
-##.divCookies
 ##.divCookiesWarning
 ##.divFooterCookie
 ##.divLeyCookies
@@ -15418,7 +15415,6 @@
 ##.spec-cookie-optin
 ##.spectrum-cookie-policy-banner
 ##.spex-cookieConsent
-##.spicy-consent-wrapper
 ##.spk-cookie-banner-wrap
 ##.spkcookie
 ##.sprd-consent
@@ -16569,7 +16565,6 @@
 ##.as-oil-content-overlay
 ##.bst-panel
 ##.c_i_container
-##.cmplz-soft-cookiewall
 ##.elisa-navi-cookie-and-consent-disclaimer
 ##.rcc-panel
 ##.recocliv2
@@ -20670,7 +20665,7 @@ kika.*,shop.humle.se,59northwheels.se,generalprepper.com##+js(set-cookie, cookie
 cancercentrum.se##+js(set-cookie, consentStored, true)
 cancercentrum.se##+js(set-cookie, analyticalConsent, false)
 noriel.ro##+js(set-cookie, isAgreed, no)
-varcevanje-energije.si,ibomair.com,garcia-ibanez.com,etbygg.com,dake.es,cometh-consulting.com,autocareslazara.es,aspock.com,arabesque-formation.org,acce.es,campergarage.es,aceitessatunion.com,napos.cz,apogeeagency.com,raypa.com,aiconsultores.com,produx.ch,focusonreproduction.eu,fantasyfootballgeek.co.uk,productosmanchegos.es,openfoam.org,ttisi.nl,akaanseutu.fi,lempaala.ideapark.fi,lvs.fi,juomaposti.fi,orivedensanomat.fi,pirmediat.fi,shl.fi,ylojarvenuutiset.fi,scholtenswerkplek.nl,krampouz.com##+js(set-cookie, cmplz_banner-status, dismissed)
+beerballer.com,varcevanje-energije.si,ibomair.com,garcia-ibanez.com,etbygg.com,dake.es,cometh-consulting.com,autocareslazara.es,aspock.com,arabesque-formation.org,acce.es,campergarage.es,aceitessatunion.com,napos.cz,apogeeagency.com,raypa.com,aiconsultores.com,produx.ch,focusonreproduction.eu,fantasyfootballgeek.co.uk,productosmanchegos.es,openfoam.org,ttisi.nl,akaanseutu.fi,lempaala.ideapark.fi,lvs.fi,juomaposti.fi,orivedensanomat.fi,pirmediat.fi,shl.fi,ylojarvenuutiset.fi,scholtenswerkplek.nl,krampouz.com##+js(set-cookie, cmplz_banner-status, dismissed)
 ani-one.com,insound.de,nurgutes.de,premium-hifi-shop.com,volksversand.de##+js(set-cookie, cookieDeclined, 1)
 meinspielplan.de##+js(set-cookie, _msp_cc, yes)
 meinspielplan.de,uhrzeit123.de##+js(set-cookie, ga-disable, true)

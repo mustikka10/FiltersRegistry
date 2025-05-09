@@ -1,8 +1,8 @@
-! Checksum: HgDIaawOmYZtk7XJAbMMIg
+! Checksum: HfUGPQBoYVkrVyNGhp/urQ
 ! Title: Dandelion Sprout's Annoyances List (Optimized)
 ! Description: This list is made in the style of AdGuard's and Fanboy's annoyances lists. It combines many of Dandelion Sprout's proudest and most frequently maintained international lists, as a curated compilation for simplicity's sake.
-! Version: 2.0.16.88
-! TimeUpdated: 2025-05-08T16:40:05+00:00
+! Version: 2.0.16.89
+! TimeUpdated: 2025-05-09T08:39:20+00:00
 ! Expires: 5 days (update frequency)
 ###app-download
 ###app-modal
@@ -1802,8 +1802,6 @@ cdburnerxp.se##[href*="/downloadsetup.exe"]
 85.159.213.158$network
 !+ PLATFORM(windows, mac, android)
 91.195.240.12$network
-!+ PLATFORM(windows, mac, android)
-205.234.175.175$network
 ||admozartxml.com^$all
 ||bidmyadz.com^$all
 ||explorads.com^$all
@@ -4321,3 +4319,8 @@ google.*#@##google-hats-survey
 ||appboycdn.com^$third-party
 independent.co.uk,indy100.com##.notification-prompt
 qwant.com##div[class^=_][class*=" "]:last-of-type:has(>div>:is([href*="://chromewebstore."],[href*="://addons.mozilla.org/"]))
+/fakepage.html^$domain=superadblocktest.com|tracksong.github.io,important
+/ads.js^$domain=tracksong.github.io,important
+@@$xmlhttprequest,third-party,redirect-rule=nooptext:-1,method=head,domain=superadblocktest.com
+@@||doubleclick.net^$xmlhttprequest,redirect-rule=nooptext,domain=superadblocktest.com
+@@||pagead2.googlesyndication.com^$xmlhttprequest,redirect-rule=noopjs,domain=superadblocktest.com

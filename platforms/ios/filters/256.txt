@@ -1,9 +1,9 @@
-! Checksum: 3nCJdBW7aokJTLryqDJ6pw
-! Diff-Path: ../patches/256/256-s-1746693818-14400.patch
+! Checksum: v6R9oZ4YpZIbNL30bi7NCg
+! Diff-Path: ../patches/256/256-s-1746780197-14400.patch
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites.
-! Version: 2.0.4.1
-! TimeUpdated: 2025-05-08T08:39:46+00:00
+! Version: 2.0.4.2
+! TimeUpdated: 2025-05-09T08:39:27+00:00
 ! Expires: 5 days (update frequency)
 !
 ! Title: Scam Blocklist by DurableNapkin
@@ -585,6 +585,8 @@
 ||distryct.shop^$all
 !+ NOT_OPTIMIZED
 ||diteringion.com^$all
+!+ NOT_OPTIMIZED
+||diytsi.shop^$all
 !+ NOT_OPTIMIZED
 ||dkfodboldstore.com^$all
 !+ NOT_OPTIMIZED
@@ -1416,6 +1418,8 @@
 !+ NOT_OPTIMIZED
 ||n24-news.com^$all
 !+ NOT_OPTIMIZED
+||nabaza.shop^$all
+!+ NOT_OPTIMIZED
 ||nalzahqp.page.link^$all
 !+ NOT_OPTIMIZED
 ||namewrimo.info^$all
@@ -1629,6 +1633,8 @@
 ||norfotball.com^$all
 !+ NOT_OPTIMIZED
 ||norgefotball.com^$all
+!+ NOT_OPTIMIZED
+||norgeshoes.com^$all
 !+ NOT_OPTIMIZED
 ||nosdaarte.com^$all
 !+ NOT_OPTIMIZED

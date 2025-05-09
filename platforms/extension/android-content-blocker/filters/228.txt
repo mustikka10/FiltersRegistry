@@ -1,12 +1,12 @@
-! Checksum: hYmBtTxZG0NjZzme1s0RuA
+! Checksum: KJ+JDxY9JIk4c6oqB3vq5g
 ! Title: xinggsf
 ! Description: Blocks ads on the Chinese video platforms (MangoTV, DouYu and others).
-! Version: 2.0.3.18
-! TimeUpdated: 2025-05-07T12:45:14+00:00
+! Version: 2.0.3.19
+! TimeUpdated: 2025-05-09T08:39:00+00:00
 ! Expires: 5 days (update frequency)
 !
 ! Title: 乘风 广告过滤规则
-! OriginalVersion: 202501211
+! OriginalVersion: 202505091
 ! Expires: 2 days
 ! Homepage: https://github.com/xinggsf/Adblock-Plus-Rule/issues
 !--------------------------百度----------------------------------
@@ -102,6 +102,7 @@ wwads.cn
 ##[id$="-ad"]
 *##div.a_mu,div.a_h,div.ad_pic,div.wp.a_f,div.wp.a_t,div.a_pb,div.a_pt,div.a_pr,div.a_cn,#ggPar,#preAdContent
 ~google.com,~mediafire.com##.ads
+www.google.com.*,www.google.*##.VEELad
 ||com/ads
 *_350_330.$image
 */html/click/
@@ -1184,8 +1185,8 @@ vegaschina.cn
 xshellcn.com
 yihuifu.cn
 www.zhzzx.com
-! Title: 乘风 视频过滤规则
-! OriginalVersion: 202505051
+! Title: 乘风 视频过滤规则 uBlock Origin 1.56
+! OriginalVersion: 202505091
 ! Expires: 1 day
 ! Homepage: https://github.com/xinggsf/Adblock-Plus-Rule/issues
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
@@ -1315,8 +1316,9 @@ litix.io
 jads.co
 |https://tellme.pw/go/jav$popup
 btsow.motorcycles##a[href^="https://tellme.pw/go/jav"]
+! age.tv,agefans.la##+js(noeval-if, devtoolsDetector)
 ||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
-||toutiaoimg.com/origin/$image,domain=agedm.org
+||toutiaoimg.com/origin/$image,domain=agefans.la
 ||dd-static.jd.com^$image,domain=subaibaiys.com
 !dandanzan.me,nunuyy5.com##+js(set,webkitRTCPeerConnection,null)
 dandanzan.*,nnyy.in,nunuyy5.com#$#video { max-height:100%!important }

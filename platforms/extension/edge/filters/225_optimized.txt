@@ -1,9 +1,9 @@
-! Checksum: kpcnbb+rZ+7dQ7nm+ajvPQ
-! Diff-Path: ../patches/225_optimized/225_optimized-s-1746765728-14400.patch
+! Checksum: nD2QGQcbboHd1IduatLegw
+! Diff-Path: ../patches/225_optimized/225_optimized-s-1746780177-14400.patch
 ! Title: Fanboy's Anti-Facebook List (Optimized)
 ! Description: Warning, it will break Facebook-based comments on some websites and may also break some Facebook apps or games.
-! Version: 2.0.10.21
-! TimeUpdated: 2025-05-09T04:38:12+00:00
+! Version: 2.0.10.22
+! TimeUpdated: 2025-05-09T08:38:59+00:00
 ! Expires: 10 days (update frequency)
 ||api-read.facebook.com/restserver.php?api_key=$third-party
 ||api.facebook.com^$third-party

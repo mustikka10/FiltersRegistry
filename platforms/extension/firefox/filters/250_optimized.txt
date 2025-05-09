@@ -1,9 +1,9 @@
-! Checksum: GWnULxFbDKuQ9rUzbyNj0w
-! Diff-Path: ../patches/250_optimized/250_optimized-s-1746765732-14400.patch
+! Checksum: pudyZ8k4jYweMwyzkdWWPQ
+! Diff-Path: ../patches/250_optimized/250_optimized-s-1746780182-14400.patch
 ! Title: Dandelion Sprout's Annoyances List (Optimized)
 ! Description: This list is made in the style of AdGuard's and Fanboy's annoyances lists. It combines many of Dandelion Sprout's proudest and most frequently maintained international lists, as a curated compilation for simplicity's sake.
-! Version: 2.0.16.88
-! TimeUpdated: 2025-05-08T16:40:05+00:00
+! Version: 2.0.16.89
+! TimeUpdated: 2025-05-09T08:39:20+00:00
 ! Expires: 10 days (update frequency)
 ###app-download
 ###app-modal
@@ -3189,3 +3189,8 @@ google.*#@##google-hats-survey
 ||appboycdn.com^$third-party
 independent.co.uk,indy100.com##.notification-prompt
 qwant.com##div[class^=_][class*=" "]:last-of-type:has(>div>:is([href*="://chromewebstore."],[href*="://addons.mozilla.org/"]))
+/fakepage.html^$domain=superadblocktest.com|tracksong.github.io,important
+/ads.js^$domain=tracksong.github.io,important
+@@$xmlhttprequest,third-party,redirect-rule=nooptext:-1,method=head,domain=superadblocktest.com
+@@||doubleclick.net^$xmlhttprequest,redirect-rule=nooptext,domain=superadblocktest.com
+@@||pagead2.googlesyndication.com^$xmlhttprequest,redirect-rule=noopjs,domain=superadblocktest.com

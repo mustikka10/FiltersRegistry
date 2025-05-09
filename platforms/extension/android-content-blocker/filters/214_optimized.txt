@@ -1,8 +1,8 @@
-! Checksum: l61eNzXYEmGajK5kEKR9gQ
+! Checksum: sSBZLSNimaTtWpRFcoXJcQ
 ! Title: ABPVN List (Optimized)
 ! Description: Vietnamese adblock filter list.
-! Version: 2.0.36.25
-! TimeUpdated: 2025-05-08T08:39:15+00:00
+! Version: 2.0.36.26
+! TimeUpdated: 2025-05-09T08:38:53+00:00
 ! Expires: 5 days (update frequency)
 $popup,domain=player-cdn.com|freeplayervideo.com|abysscdn.com|playhydrax.com
 $popup,domain=truyenfull.vision
@@ -129,7 +129,6 @@ $popup,domain=truyenfull.vision
 ||mocfun.net/uploads/banners/
 ||motchill.cm^*.gif$image
 ||motchill10.com/public/upload/ads/ads.js$script,~third-party
-||motchill88.net/banner$image
 ||motchillo.fm/wp-content/plugins/AdsManager/js/aam-scripts.js$script,~third-party
 ||motchillo.fm^*.gif$image
 ||motphimtv.ad^*.gif$image
@@ -147,6 +146,7 @@ $popup,domain=truyenfull.vision
 ||notepad.vn/media/images/like68.jpg
 ||phim.vkool8.net/images/ads/$image
 ||phim.vkool8.net/js/pov.js$script,~third-party
+||phimchill.in/banner$image
 ||phimmoichill.bi/newchill/$script,~third-party
 ||phimmoichillz.my/pop$image
 ||phimmoichillz.my^*.gif$image
@@ -466,7 +466,7 @@ gocmod.com###sp-wrapper-hovering-format
 gocmod.com##.wam-banner
 hayhaytv.site,subnhanh1.org##.sticky_bottom
 hhanime3d.tv,hhpanda.now###top_addd
-hhninja23.tv,phimhoathinh3d.vip,hoathinhtq.site,hhtq12.vip,hhtqvietsub.me,motchill88.net,hhtutien.tv,animeweb.vip,hoathinh4k3.top,animehay.bid,hhtq3d.net,wibu47.com,hhvsub1.com,phimdacap.tv,motchill.cm###catfish
+hhninja23.tv,phimhoathinh3d.vip,hoathinhtq.site,hhtq12.vip,hhtqvietsub.me,phimchill.in,hhtutien.tv,animeweb.vip,hoathinh4k3.top,animehay.bid,hhtq3d.net,wibu47.com,hhvsub1.com,phimdacap.tv,motchill.cm###catfish
 hhpanda.now###xs-addd0
 hhpanda.now##.btn-fanpage.btn-default.btn-block.btn
 hhpanda.now##.underplayer_btn
@@ -893,6 +893,7 @@ tratu.soha.vn#@#.adheader
 truyenaudiocv.org#@#.ads-large
 vn2.vn#@#.advertiser
 vndoc.com#@#.showads
+vozer.vn#@#[class^="div-gpt-ad"]
 $third-party,script,domain=sexdiaryx.live
 /^https:\/\/[a-z]{8,12}\.com\/en\/(?:[a-z]{2,5}\/){0,2}[a-z]{2,}\?(?:[a-z]+=(?:\d+|[a-z]+)&)*?id=[12]\d{6}/$script,third-party
 /assets/js/vast.js$script,domain=~phevkl.im|~viet69.adult
@@ -913,7 +914,7 @@ $third-party,script,domain=sexdiaryx.live
 ||demo123.info/*ads/$image,domain=phim.sexxsub.pro
 ||discordapp.$image,domain=phym18.lol|phim18vip.vip|thefaplive.com|phimsexsub.forum
 ||i.ibb.co^*.gif$image,domain=javnong.cc
-||i.imgur.com^$image,domain=phym18.lol|phim18hd.in|xamvn.store
+||i.imgur.com^$image,domain=phym18.lol|phim18hdxx.com|xamvn.store
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
 ||img.congdongmassage.com/banner/$image,domain=congdongmassage.com
 ||imgcdn.henho24h.net/images/$image,domain=phimxxx.ai
@@ -979,11 +980,11 @@ phevkl.im,viet69.adult###primary-nav>div[style]
 phevkl.im,viet69.adult##.separator
 phevkl.im,xemviet69.com,viet69.adult###mp-preload-popup-overlay
 phim.sexxsub.pro##.banner-catfish-bottom
-phim18hd.in##.cash-fish
-phim18hd.in##.cash-fish-pc
-phim18hd.in##.preload-pc
-phim18hd.in##.top-mobile-banner
-phim18hd.in##.under-player-pc-banner
+phim18hdxx.com##.cash-fish
+phim18hdxx.com##.cash-fish-pc
+phim18hdxx.com##.preload-pc
+phim18hdxx.com##.top-mobile-banner
+phim18hdxx.com##.under-player-pc-banner
 phim18vip.vip,pheclip.blog,thiendia.pro##.quang-cao
 phim18vip.vip,thiendia.pro,pheclip.blog###pc-preload-modal
 phim18vip.vip,thiendia.pro,sieudam.blog###popup

@@ -579,6 +579,8 @@
 !+ NOT_OPTIMIZED
 ||diteringion.com^$all
 !+ NOT_OPTIMIZED
+||diytsi.shop^$all
+!+ NOT_OPTIMIZED
 ||dkfodboldstore.com^$all
 !+ NOT_OPTIMIZED
 ||dleggere.com^$all
@@ -1409,6 +1411,8 @@
 !+ NOT_OPTIMIZED
 ||n24-news.com^$all
 !+ NOT_OPTIMIZED
+||nabaza.shop^$all
+!+ NOT_OPTIMIZED
 ||nalzahqp.page.link^$all
 !+ NOT_OPTIMIZED
 ||namewrimo.info^$all
@@ -1622,6 +1626,8 @@
 ||norfotball.com^$all
 !+ NOT_OPTIMIZED
 ||norgefotball.com^$all
+!+ NOT_OPTIMIZED
+||norgeshoes.com^$all
 !+ NOT_OPTIMIZED
 ||nosdaarte.com^$all
 !+ NOT_OPTIMIZED
