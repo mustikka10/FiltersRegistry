@@ -1,9 +1,9 @@
-! Checksum: adSNRyWB5TOjAs7CDTcSnA
-! Diff-Path: ../patches/18/18-s-1746774658-3600.patch
+! Checksum: sZ6nhhBXgtX9LijtoQfkmA
+! Diff-Path: ../patches/18/18-s-1746781902-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.61.49
-! TimeUpdated: 2025-05-09T07:07:36+00:00
+! Version: 2.0.61.50
+! TimeUpdated: 2025-05-09T09:08:05+00:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3117,7 +3117,7 @@ foundryvtt.com###analytics-prompt
 genspark.ai##.agree_terms_dialog_background
 cosmote.gr#$#cookie { display: none !important; }
 cosmote.gr#$#body { overflow: auto !important; }
-exxen.com#%#//scriptlet('trusted-click-element', 'body > div.w-screen.h-\[100dvh\].fixed.left-0.top-0.flex button:first-child + button')
+exxen.com#%#//scriptlet('trusted-click-element', 'body > div.w-screen.p-\[1\.25rem\].fixed.left-0.top-0.flex button:first-child + button')
 lescon.com.tr##.krea-fade-in
 lescon.com.tr###krea-banner-sdk
 /modules/x13eucookies/*$domain=gsm24.pl|promees.pl|meblujdom.pl|vita.biz.pl|shopgracz.pl|lanto.pl|skiteam.pl
@@ -14686,7 +14686,10 @@ twitch.tv###noty_bottomCenter_layout_container
 genussmagazin-frankfurt.de,journal-frankfurt.de###nutzungs_einverstaendnis
 auto-data.net###outer > div[style*=" 3px 35px;"]:not([id])
 m.ciao.de###pg-cookiesInfo
-omegawatches.com###pm-cookie-banner
+omegawatches.com#%#//scriptlet('set-cookie', 'cookie_social', '1')
+omegawatches.com#%#//scriptlet('set-cookie', 'cookie_functional', '1')
+omegawatches.com#%#//scriptlet('trusted-set-cookie', 'user_allowed_save_cookie_rgpd', '%7B%221%22%3A1%7D')
+omegawatches.com#%#//scriptlet('trusted-set-cookie', 'cookie_country_all', '%7B%22world%22%3A%7B%22cookie_performance%22%3A0%2C%22cookie_pub%22%3A0%2C%22ad_user_data%22%3A0%2C%22ad_personalization%22%3A0%2C%22cookie_social%22%3A1%2C%22cookie_functional%22%3A1%7D%7D')
 newsnow.co.uk###pmbar
 uranium-backup.com###policyBannerWrapper
 jannonce.be###policyMessage
@@ -16950,6 +16953,8 @@ poznancongresscenter.pl,arenapoznan.pl,garden-city.pl,city-marketing.pl,ideaexpo
 ! When request is blocked then there is an error "Unexpected token / in JSON at position 0"
 ! It's loaded by cdn.cookielaw.org/scripttemplates/otSDKStub.js, so it should be only unblocked on websites for which this script is unblocked
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204867
+omegawatches.com#@##notice-cookie-block
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204690
 apps.dirittopratico.it#@##cookieChoiceInfo
 apps.dirittopratico.it#@##cookieinfo

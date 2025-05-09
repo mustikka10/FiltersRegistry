@@ -1,8 +1,8 @@
-! Checksum: Z+N3kQ62OM/v6DCrsoZWjw
+! Checksum: 8PhkAsVG1wsVe5nnt6KvWA
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.29.76
-! TimeUpdated: 2025-05-09T08:09:14+00:00
+! Version: 2.2.29.77
+! TimeUpdated: 2025-05-09T09:07:58+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -13380,7 +13380,6 @@ twitch.tv###noty_bottomCenter_layout_container
 genussmagazin-frankfurt.de,journal-frankfurt.de###nutzungs_einverstaendnis
 auto-data.net###outer > div[style*=" 3px 35px;"]:not([id])
 m.ciao.de###pg-cookiesInfo
-omegawatches.com###pm-cookie-banner
 newsnow.co.uk###pmbar
 uranium-backup.com###policyBannerWrapper
 jannonce.be###policyMessage
@@ -14562,6 +14561,8 @@ poznancongresscenter.pl,arenapoznan.pl,garden-city.pl,city-marketing.pl,ideaexpo
 ! When request is blocked then there is an error "Unexpected token / in JSON at position 0"
 ! It's loaded by cdn.cookielaw.org/scripttemplates/otSDKStub.js, so it should be only unblocked on websites for which this script is unblocked
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204867
+omegawatches.com#@##notice-cookie-block
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204690
 apps.dirittopratico.it#@##cookieChoiceInfo
 apps.dirittopratico.it#@##cookieinfo
@@ -37709,6 +37710,7 @@ ilfont.it##body div.popup-overlay-newsletter
 ||widgets.contentfleet.com/newsletter/
 ||womenshealthmag.com/*/files/wh-newsletter-signup$image
 ||x.mail.bonnier-subscriptions.com^$domain=flyingmag.com|popsci.com
+!
 ! Google Revenue Manager
 ||news.google.com/swg/js/v1/swg-basic.js$domain=ilenta.com|studentwalker.com|turkiyegazetesi.com.tr|tv3.lt|roboin.io|iha.com.tr|premierguitar.com
 !
@@ -37748,6 +37750,11 @@ thestar.com,thespec.com,therecord.com,thepeterboroughexaminer.com,stcatharinesst
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_related-stories-inset
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_subscribe
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.footer-subscribe
+!
+! 808scoretv
+! *808* - frequently changed domains
+808sbo.com,livesports088.com,808fubo.com,score808.tv,808ball.com,score808pro.com#$#body { overflow: auto !important; }
+808sbo.com,livesports088.com,808fubo.com,score808.tv,808ball.com,score808pro.com#$#.link-dialog { display: none !important; }
 !
 !
 ! START: Yandex

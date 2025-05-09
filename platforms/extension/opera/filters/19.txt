@@ -1,9 +1,9 @@
-! Checksum: fa85rBCk2hq0KRYrzVRCtw
-! Diff-Path: ../patches/19/19-s-1746774670-3600.patch
+! Checksum: 2wuYQ1hr2L4BHIFI2IDQ2A
+! Diff-Path: ../patches/19/19-s-1746781913-3600.patch
 ! Title: AdGuard Popups filter
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation according to our Filter policy.
-! Version: 2.0.54.99
-! TimeUpdated: 2025-05-09T07:07:37+00:00
+! Version: 2.0.55.0
+! TimeUpdated: 2025-05-09T09:08:07+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -20958,6 +20958,7 @@ ilfont.it##body div.popup-overlay-newsletter
 ||widgets.contentfleet.com/newsletter/
 ||womenshealthmag.com/*/files/wh-newsletter-signup$image
 ||x.mail.bonnier-subscriptions.com^$domain=flyingmag.com|popsci.com
+!
 ! Google Revenue Manager
 ||news.google.com/swg/js/v1/swg-basic.js$domain=ilenta.com|studentwalker.com|turkiyegazetesi.com.tr|tv3.lt|roboin.io|iha.com.tr|premierguitar.com
 !
@@ -21001,6 +21002,11 @@ thestar.com,thespec.com,therecord.com,thepeterboroughexaminer.com,stcatharinesst
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_related-stories-inset
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_subscribe
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.footer-subscribe
+!
+! 808scoretv
+! *808* - frequently changed domains
+808sbo.com,livesports088.com,808fubo.com,score808.tv,808ball.com,score808pro.com#$#body { overflow: auto !important; }
+808sbo.com,livesports088.com,808fubo.com,score808.tv,808ball.com,score808pro.com#$#.link-dialog { display: none !important; }
 !
 !
 ! START: Yandex

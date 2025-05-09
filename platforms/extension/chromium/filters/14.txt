@@ -1,9 +1,9 @@
-! Checksum: AZXmSm0k+elUrsVsvMHZgg
-! Diff-Path: ../patches/14/14-s-1746778369-3600.patch
+! Checksum: V7ed0mnM25InNsci9JpaxA
+! Diff-Path: ../patches/14/14-s-1746781904-3600.patch
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.29.76
-! TimeUpdated: 2025-05-09T08:09:14+00:00
+! Version: 2.2.29.77
+! TimeUpdated: 2025-05-09T09:07:58+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3117,7 +3117,7 @@ foundryvtt.com###analytics-prompt
 genspark.ai##.agree_terms_dialog_background
 cosmote.gr#$#cookie { display: none !important; }
 cosmote.gr#$#body { overflow: auto !important; }
-exxen.com#%#//scriptlet('trusted-click-element', 'body > div.w-screen.h-\[100dvh\].fixed.left-0.top-0.flex button:first-child + button')
+exxen.com#%#//scriptlet('trusted-click-element', 'body > div.w-screen.p-\[1\.25rem\].fixed.left-0.top-0.flex button:first-child + button')
 lescon.com.tr##.krea-fade-in
 lescon.com.tr###krea-banner-sdk
 /modules/x13eucookies/*$domain=gsm24.pl|promees.pl|meblujdom.pl|vita.biz.pl|shopgracz.pl|lanto.pl|skiteam.pl
@@ -14680,7 +14680,10 @@ twitch.tv###noty_bottomCenter_layout_container
 genussmagazin-frankfurt.de,journal-frankfurt.de###nutzungs_einverstaendnis
 auto-data.net###outer > div[style*=" 3px 35px;"]:not([id])
 m.ciao.de###pg-cookiesInfo
-omegawatches.com###pm-cookie-banner
+omegawatches.com#%#//scriptlet('set-cookie', 'cookie_social', '1')
+omegawatches.com#%#//scriptlet('set-cookie', 'cookie_functional', '1')
+omegawatches.com#%#//scriptlet('trusted-set-cookie', 'user_allowed_save_cookie_rgpd', '%7B%221%22%3A1%7D')
+omegawatches.com#%#//scriptlet('trusted-set-cookie', 'cookie_country_all', '%7B%22world%22%3A%7B%22cookie_performance%22%3A0%2C%22cookie_pub%22%3A0%2C%22ad_user_data%22%3A0%2C%22ad_personalization%22%3A0%2C%22cookie_social%22%3A1%2C%22cookie_functional%22%3A1%7D%7D')
 newsnow.co.uk###pmbar
 uranium-backup.com###policyBannerWrapper
 jannonce.be###policyMessage
@@ -16890,6 +16893,8 @@ poznancongresscenter.pl,arenapoznan.pl,garden-city.pl,city-marketing.pl,ideaexpo
 ! When request is blocked then there is an error "Unexpected token / in JSON at position 0"
 ! It's loaded by cdn.cookielaw.org/scripttemplates/otSDKStub.js, so it should be only unblocked on websites for which this script is unblocked
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204867
+omegawatches.com#@##notice-cookie-block
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204690
 apps.dirittopratico.it#@##cookieChoiceInfo
 apps.dirittopratico.it#@##cookieinfo
@@ -42190,6 +42195,7 @@ ilfont.it##body div.popup-overlay-newsletter
 ||widgets.contentfleet.com/newsletter/
 ||womenshealthmag.com/*/files/wh-newsletter-signup$image
 ||x.mail.bonnier-subscriptions.com^$domain=flyingmag.com|popsci.com
+!
 ! Google Revenue Manager
 ||news.google.com/swg/js/v1/swg-basic.js$domain=ilenta.com|studentwalker.com|turkiyegazetesi.com.tr|tv3.lt|roboin.io|iha.com.tr|premierguitar.com
 !
@@ -42233,6 +42239,11 @@ thestar.com,thespec.com,therecord.com,thepeterboroughexaminer.com,stcatharinesst
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_related-stories-inset
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_subscribe
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.footer-subscribe
+!
+! 808scoretv
+! *808* - frequently changed domains
+808sbo.com,livesports088.com,808fubo.com,score808.tv,808ball.com,score808pro.com#$#body { overflow: auto !important; }
+808sbo.com,livesports088.com,808fubo.com,score808.tv,808ball.com,score808pro.com#$#.link-dialog { display: none !important; }
 !
 !
 ! START: Yandex

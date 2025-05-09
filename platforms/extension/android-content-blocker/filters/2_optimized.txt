@@ -1,8 +1,8 @@
-! Checksum: 9Ksc4RcvO4WvvIrRr1Brfg
+! Checksum: FktJaaVhrpeO/81AmXiWJg
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.74
-! TimeUpdated: 2025-05-09T08:08:43+00:00
+! Version: 2.3.82.75
+! TimeUpdated: 2025-05-09T09:07:12+00:00
 ! Expires: 5 days (update frequency)
 ||gusoclji.com^
 ||awdeliverynet.com^$third-party
@@ -9823,7 +9823,7 @@ grandforksherald.com##.GoogleDfpAd-advertisement
 demonicscans.org##div[id^="pf-"]
 athlonsports.com##.m-fixedbottom-ad--container
 athlonsports.com##section[id^="phxoutbrain-"]
-soccer-100.com##a[href^="https://s.click.aliexpress.com/"]
+soccerstreams100.io,soccer-100.com##a[href^="https://s.click.aliexpress.com/"]
 fastpeoplesearch.com##.admap
 hivecomic.com##div[class*="SimpleIconsGoogleadsense"] > div[style] > a[href="https://store.hivetoon.com/"] > img
 usnews.com#$#main div.pt5 { padding-top: 0px !important; }
@@ -12678,6 +12678,9 @@ tft.op.gg##div[class^="flex-col justify-center items-center relative bg-darkpurp
 op.gg##.w-full > section.bg-gray-0.md\:overflow-hidden.md\:rounded.flex-col.p-2.w-full
 duo.op.gg##div[id^="duo-ad-"]
 op.gg###banner-container
+808sbo.com,livesports088.com,808fubo.com,score808.tv,808ball.com,score808pro.com##img[id^="tag-"]
+808sbo.com,livesports088.com,808fubo.com,score808.tv,808ball.com,score808pro.com##.banner
+808sbo.com,livesports088.com,808fubo.com,score808.tv,808ball.com,score808pro.com##div[class^="gg-tb-"]
 irishradiolive.com,myonlineradio.at,myonlineradio.de,myonlineradio.hu,myonlineradio.nl,myonlineradio.sk,myradioendirect.fr,myradioenvivo.ar,myradioenvivo.mx,myradioonline.cl,myradioonline.es,myradioonline.it,myradioonline.pl,myradioonline.ro,ukradiolive.com#$#._bannerTop1 { background-color: transparent !important; }
 irishradiolive.com,myonlineradio.at,myonlineradio.de,myonlineradio.hu,myonlineradio.nl,myonlineradio.sk,myradioendirect.fr,myradioenvivo.ar,myradioenvivo.mx,myradioonline.cl,myradioonline.es,myradioonline.it,myradioonline.pl,myradioonline.ro,ukradiolive.com#$#.topHorizontalBanner { position: absolute !important; left: -3000px !important; }
 /inside-banner.mini.js$domain=irishradiolive.com|myonlineradio.at|myonlineradio.de|myonlineradio.hu|myonlineradio.nl|myonlineradio.sk|myradioendirect.fr|myradioenvivo.ar|myradioenvivo.mx|myradioonline.cl|myradioonline.es|myradioonline.it|myradioonline.pl|myradioonline.ro|ukradiolive.com

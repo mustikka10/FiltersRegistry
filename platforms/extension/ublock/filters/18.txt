@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: iGcp1NPuVd6oxkOLCpX6WQ
-! Diff-Path: ../patches/18/18-s-1746774675-3600.patch
+! Checksum: 82WkE5ppIWnwo/WzI0CdbQ
+! Diff-Path: ../patches/18/18-s-1746781919-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.61.49
-! TimeUpdated: 2025-05-09T07:07:36+00:00
+! Version: 2.0.61.50
+! TimeUpdated: 2025-05-09T09:08:05+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -14170,7 +14170,8 @@ twitch.tv###noty_bottomCenter_layout_container
 genussmagazin-frankfurt.de,journal-frankfurt.de###nutzungs_einverstaendnis
 auto-data.net###outer > div[style*=" 3px 35px;"]:not([id])
 m.ciao.de###pg-cookiesInfo
-omegawatches.com###pm-cookie-banner
+omegawatches.com##+js(set-cookie, cookie_social, 1)
+omegawatches.com##+js(set-cookie, cookie_functional, 1)
 newsnow.co.uk###pmbar
 uranium-backup.com###policyBannerWrapper
 jannonce.be###policyMessage
@@ -16055,6 +16056,8 @@ poznancongresscenter.pl,arenapoznan.pl,garden-city.pl,city-marketing.pl,ideaexpo
 ! When request is blocked then there is an error "Unexpected token / in JSON at position 0"
 ! It's loaded by cdn.cookielaw.org/scripttemplates/otSDKStub.js, so it should be only unblocked on websites for which this script is unblocked
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204867
+omegawatches.com#@##notice-cookie-block
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204690
 apps.dirittopratico.it#@##cookieChoiceInfo
 apps.dirittopratico.it#@##cookieinfo
