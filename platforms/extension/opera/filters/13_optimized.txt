@@ -1,9 +1,9 @@
-! Checksum: 5mHwUOeSo39NNHSCKn3pcw
-! Diff-Path: ../patches/13_optimized/13_optimized-s-1746810694-3600.patch
+! Checksum: Bm5Q/NQ+/bUjo1/gZdEGkg
+! Diff-Path: ../patches/13_optimized/13_optimized-s-1746814382-3600.patch
 ! Title: AdGuard Turkish filter (Optimized)
 ! Description: Filter list that specifically removes ads on websites in Turkish language.
-! Version: 2.0.56.33
-! TimeUpdated: 2025-05-09T17:07:01+00:00
+! Version: 2.0.56.34
+! TimeUpdated: 2025-05-09T18:08:58+00:00
 ! Expires: 10 days (update frequency)
 ||movturs.click^
 ||dontmakethem.club^
@@ -1443,6 +1443,7 @@ odatv.com##.swiper-wrapper > a[href^="https://www.odatv.com/"] ~ a:not([href^="h
 ||hops1s.site^$image,third-party
 turkiyegazetesi.com.tr##.masthead-cls
 ||haber18.com/canbunlar/
+dizilla.club,yabancidizi.io##a.bg-position-top[target="_blank"]
 roketdizi.*,yabancidizi.io,diziyoutv.com,sinefil.tv##a[target="_blank"] > .alert
 ||tranimaci.*/vast.js
 ||tranimaci.*/pop*.js

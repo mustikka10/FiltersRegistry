@@ -1,9 +1,9 @@
-! Checksum: 0n1noYVDlDtsezF4LjgNGg
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1746807136-3600.patch
+! Checksum: n0R9OdiAqllkdpPHz9oPmw
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1746814399-3600.patch
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.82
-! TimeUpdated: 2025-05-09T16:07:37+00:00
+! Version: 2.3.82.83
+! TimeUpdated: 2025-05-09T18:08:20+00:00
 ! Expires: 12 hours (update frequency)
 ||edertauvaisoo.net^
 ||pkphftlpkxbhk.com^
@@ -30642,6 +30642,7 @@ browsershots.org#@#.advert_area
 ||lzjl.com^
 ||lzolanahk.com^
 ||lzoorgpta.com^
+||lzvwybvvyrqyk.top^
 ||lzxdx24yib.com^
 ||m-rtb.com^
 ||m0hcppadsnq8.com^
@@ -32590,6 +32591,7 @@ browsershots.org#@#.advert_area
 ||plexop.net^
 ||plinksplanet.com^
 ||pljohkmh.click^
+||pllsadrp.net^
 ||plmqlbihwqket.top^
 ||plocap.com^
 ||plorvexmoon13.online^
@@ -37585,6 +37587,7 @@ browsershots.org#@#.advert_area
 ||pemsrv.com^$popup
 ||phaitaghy.com^$popup
 ||pilotstracking.com^$popup
+||pllsadrp.net^$popup
 ||poawooptugroo.com^$popup
 ||postaffiliatepro.com^$popup,third-party
 ||potassaseafolk.shop^$popup
