@@ -340,6 +340,8 @@ lumarte.eu##.ui-widget.ui-dialog:remove()
 macris.com.pl##.noscroll:style(overflow-y: auto !important; position: relative !important)
 ! Rule "marketdino.pl##+js(set-cookie, newsletter_dismissed, true)" converted to: "marketdino.pl#%#//scriptlet('ubo-set-cookie.js', 'newsletter_dismissed', 'true')"
 marketdino.pl##+js(set-cookie, newsletter_dismissed, true)
+! Rule "marketdino.pl##+js(set-cookie, popup-1-dismissed, true)" converted to: "marketdino.pl#%#//scriptlet('ubo-set-cookie.js', 'popup-1-dismissed', 'true')"
+marketdino.pl##+js(set-cookie, popup-1-dismissed, true)
 ! Rule "marketdino.pl##.freeze:style(position: static !important; overflow-y: auto !important)" converted to: "marketdino.pl#$#.freeze { position: static !important; overflow-y: auto !important }"
 marketdino.pl##.freeze:style(position: static !important; overflow-y: auto !important)
 ! Rule "marketerplus.pl##body.is-reveal-open:style(overflow-y: auto !important)" converted to: "marketerplus.pl#$#body.is-reveal-open { overflow-y: auto !important }"

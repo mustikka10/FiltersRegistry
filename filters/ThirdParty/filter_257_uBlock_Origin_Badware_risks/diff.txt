@@ -4980,14 +4980,14 @@ adrissa.com.co,americansoda.co.uk,casteloforte.com.br,centerfabril.com.br,forque
 ||duckdns.org/security-check/$doc
 ! Rule "||duckdns.org/FAMOUS/Gens/$doc" converted to: "||duckdns.org/FAMOUS/Gens/$document"
 ||duckdns.org/FAMOUS/Gens/$doc
-! Rule "||irs.gov.*.com^$doc,to=com|~irs.gov" converted to: "||irs.gov.*.com^$document,to=com|~irs.gov"
-||irs.gov.*.com^$doc,to=com|~irs.gov
-! Rule "||evri.*.xyz^$doc,to=xyz|~evri.com" converted to: "||evri.*.xyz^$document,to=xyz|~evri.com"
-||evri.*.xyz^$doc,to=xyz|~evri.com
+! Rule "||irs.gov.*.com^$doc" converted to: "||irs.gov.*.com^$document"
+||irs.gov.*.com^$doc
+! Rule "||evri.*.xyz^$doc" converted to: "||evri.*.xyz^$document"
+||evri.*.xyz^$doc
 ! Rule "||gg.deepseek.$doc,to=~deepseek.com" converted to: "||gg.deepseek.$document,to=~deepseek.com"
 ||gg.deepseek.$doc,to=~deepseek.com
-! Rule "||sunpass.com-$doc,to=~sunpass.com" converted to: "||sunpass.com-$document,to=~sunpass.com"
-||sunpass.com-$doc,to=~sunpass.com
+! Rule "||sunpass.com-$doc" converted to: "||sunpass.com-$document"
+||sunpass.com-$doc
 ! Rule "-ez-pass.com^$doc" converted to: "-ez-pass.com^$document"
 -ez-pass.com^$doc
 ! Rule "||thetollroads-$doc,to=top|xin|world" converted to: "||thetollroads-$document,to=top|xin|world"

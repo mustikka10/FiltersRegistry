@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: Icq8XpArh/dibXZp5SgTkg
-! Diff-Path: ../patches/257/257-s-1746780193-14400.patch
+! Checksum: G2iyXu+XGzqfz6eaSnwdPg
+! Diff-Path: ../patches/257/257-s-1746823216-14400.patch
 ! Title: uBlock Origin – Badware risks
 ! Description: Filter for risky sites, warning users of potential threats.
-! Version: 2.0.7.17
-! TimeUpdated: 2025-05-09T08:39:27+00:00
+! Version: 2.0.7.18
+! TimeUpdated: 2025-05-09T20:36:27+00:00
 ! Expires: 5 days (update frequency)
 !
 ! Title: uBlock₀ filters – Badware risks
@@ -7198,6 +7198,10 @@ origincrack.com##center > button
 ! https://www.virustotal.com/gui/url/7580331164d1c54a39003b3472cef1009537bcea87806aa7a1b67083aed0b133
 !+ NOT_OPTIMIZED
 ||online-ops.mypasschange.com^$all
+! https://urldna.io/scan/681caaf83b775000109ca6ac
+! https://www.virustotal.com/gui/url/70870042dc8076c74228be942a6871edb44cfc82d78662e5d32517eca86ebcb3
+!+ NOT_OPTIMIZED
+||page-suspension.com^$all
 ! shopping sites
 !+ NOT_OPTIMIZED
 /api/user/do_login|$xmlhttprequest,~third-party,to=com|info,method=post,header=access-control-allow-headers:/authorization\,content-type\,if-match\,if-modified-since\,if-none-match\,if-unmodified-since\,x-requested-with/i
@@ -10068,10 +10072,10 @@ uploadfox.net###ad-gs-05
 ||duckdns.org/FAMOUS/Gens/$document
 ! https://www.reddit.com/r/Scams/comments/1iif4o4/received_a_text_via_e_mail_from_irs/
 !+ NOT_OPTIMIZED
-||irs.gov.*.com^$document,to=com|~irs.gov
+||irs.gov.*.com^$document
 ! https://www.reddit.com/r/Scams/comments/1iju9t8/can_someone_help_clarify_that_this_is_fake/
 !+ NOT_OPTIMIZED
-||evri.*.xyz^$document,to=xyz|~evri.com
+||evri.*.xyz^$document
 ! https://github.com/uBlockOrigin/uAssets/issues/27109
 ! https://github.com/uBlockOrigin/uAssets/issues/27172
 ! https://github.com/uBlockOrigin/uAssets/issues/27583
@@ -10081,9 +10085,9 @@ uploadfox.net###ad-gs-05
 ||snapdrop.net^$all
 ! https://cyble.com/blog/deepseeks-growing-influence-surge-frauds-phishing-attacks/
 !+ NOT_OPTIMIZED
-||deepseek-aiassistant.com^$all,to=~deepseek.com
+||deepseek-aiassistant.com^$all
 !+ NOT_OPTIMIZED
-||usadeepseek.com^$all,to=~deepseek.com
+||usadeepseek.com^$all
 ! https://x.com/AlvieriD/status/1883450009523282280
 ! https://www.virustotal.com/gui/url/5059b05b49a57abb1e55efe9e811edae20d620d4fcbdbdfe595c31c16be78aa0
 !+ NOT_OPTIMIZED
@@ -10092,31 +10096,31 @@ uploadfox.net###ad-gs-05
 ||deepseek.$all,to=deepseek.app|deepseek.top|~deepseek.com
 ! https://x.com/AlvieriD/status/1887092079114817962
 !+ NOT_OPTIMIZED
-||deepseeklogin.com^$all,to=~deepseek.com
+||deepseeklogin.com^$all
 !+ NOT_OPTIMIZED
-||deepseeklogins.com^$all,to=~deepseek.com
+||deepseeklogins.com^$all
 !+ NOT_OPTIMIZED
-||deepseekapk.download^$all,to=~deepseek.com
+||deepseekapk.download^$all
 !+ NOT_OPTIMIZED
-||deepseekapp.download^$all,to=~deepseek.com
+||deepseekapp.download^$all
 ! https://www.reddit.com/r/phishing/comments/1iln9ux/is_this_a_new_scam/
 ! https://www.virustotal.com/gui/url/dd2c16c95013aa1a20b35b50301b1116d582be01d346dc048a894b480fbbee59
 !+ NOT_OPTIMIZED
-||paytoll*.top/ezdrivema^$all,to=~mass.gov
+||paytoll*.top/ezdrivema^$all
 ! https://blog.sucuri.net/2025/02/google-tag-manager-skimmer-steals-credit-card-info-from-magento-site.html
 ! https://www.virustotal.com/gui/url/d75d7ece986f58c9b63c56e5a753158c2fa9dc927e9cc6a2ca5f2c1cfa2bde3a
 !+ NOT_OPTIMIZED
 ||eurowebmonitortool.com^$all
 ! https://www.reddit.com/r/Scams/comments/1in9l8t/be_careful_posting_your_resume_on_job_boards/
 !+ NOT_OPTIMIZED
-||sunpass.com-$document,to=~sunpass.com
+||sunpass.com-$document
 ! https://www.reddit.com/r/Scams/comments/1iuso58/need_help_identifying_a_text/
 !+ NOT_OPTIMIZED
-||hhcollect.co^$all,to=~harriscollect.com
+||hhcollect.co^$all
 !+ NOT_OPTIMIZED
-||pay-hh.com^$all,to=~harriscollect.com
+||pay-hh.com^$all
 !+ NOT_OPTIMIZED
-||harriscollect.net^$all,to=~harriscollect.com
+||harriscollect.net^$all
 ! https://www.reddit.com/r/Scams/comments/1itgp4n/unpaid_toll_booth_scam/
 ! https://www.reddit.com/r/Scams/comments/1ivvd8u/httpsminnesotaezpasscom_and/
 ! https://www.reddit.com/r/Scams/comments/1ivruom/my_grandma_sent_a_copy_of_her_bank_check_to_a/
@@ -10414,3 +10418,6 @@ uploadfox.net###ad-gs-05
 ! https://urlscan.io/search/#hash%3A45e39853c41558c4922ff1b0895547a99e378f136ec3d9d2f4df15cc269485fa
 !+ NOT_OPTIMIZED
 ||pages.dev/robots.txt$document
+! https://www.reddit.com/r/Scams/comments/1jhij6t/us_i_got_into_some_car_trouble_and_got_this_text/
+!+ NOT_OPTIMIZED
+||secure.payment*.xin^$all

@@ -1,9 +1,9 @@
 
-FiltersCompiler report 5/9/2025 4:37:04 PM:
+FiltersCompiler report 5/9/2025 8:35:13 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 62578
+Compiled rules: 62591
 Excluded rules: 64
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -61,7 +61,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 107
 Filter name: EasyList Germany
-Compiled rules: 5812
+Compiled rules: 5813
 Excluded rules: 28
 URL: https://easylist.to/easylistgermany/easylistgermany.txt
 INVALID RULES:
@@ -558,7 +558,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 63862
+Compiled rules: 63928
 Excluded rules: 324
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -637,8 +637,8 @@ Error: "Invalid cosmetic rule, wrong brackets" in the rule: "science.hotnews.ro#
 ---------------------------
 Filter ID: 237
 Filter name: Polish Annoyances Filters
-Compiled rules: 13647
-Excluded rules: 2396
+Compiled rules: 13649
+Excluded rules: 2398
 URL: https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PPB.txt
 INVALID RULES:
 Error: "Invalid cosmetic rule, wrong brackets" in the rule: "essentiala3.pl##.box-slider li:has(a[title="Newsletter subskrypcja rabat"]) { remove: true }"
@@ -21222,7 +21222,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 257
 Filter name: uBlock Origin – Badware risks
-Compiled rules: 10446
+Compiled rules: 10453
 Excluded rules: 5106
 URL: https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 INVALID RULES:
@@ -21253,7 +21253,7 @@ Error: "Unknown modifier: /" in the rule: "||com/$document,ipaddress=/^(172\.240
 ---------------------------
 Filter ID: 258
 Filter name: uBlock Origin – Block Outsider Intrusion into LAN
-Compiled rules: 156
+Compiled rules: 158
 Excluded rules: 146
 URL: https://ublockorigin.github.io/uAssetsCDN/filters/lan-block.txt
 INVALID RULES:

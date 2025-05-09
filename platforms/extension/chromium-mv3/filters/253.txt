@@ -1,14 +1,14 @@
-! Checksum: Na7kw1K9J+QHEvOo0zH0Pw
+! Checksum: EdXeKUUZKKMMQXRgDm9Tvw
 ! Title: IndianList
 ! Description: Additional filter list for websites in Hindi, Tamil and other Dravidian and Indic languages.
-! Version: 2.0.62.91
-! TimeUpdated: 2025-05-09T16:38:13+00:00
+! Version: 2.0.62.92
+! TimeUpdated: 2025-05-09T20:36:23+00:00
 ! Expires: 10 days (update frequency)
 !
-! Checksum: RRpmCdbDU3CsQHmc2ohagA
-! OriginalVersion: 202505091621
+! Checksum: zH57ku2iZQtfK1Wbhpeh2w
+! OriginalVersion: 202505092024
 ! Title: IndianList
-! Last modified: 09 May 2025 16:21 UTC
+! Last modified: 09 May 2025 20:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html

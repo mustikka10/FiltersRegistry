@@ -1,8 +1,8 @@
-! Checksum: BsQuJf2NU8Zx0rRG+UWj+Q
+! Checksum: PIAjFBU+lPIF998EjYA2Iw
 ! Title: EasyList (Optimized)
 ! Description: EasyList is the primary subscription that removes adverts from web pages in English. Already included in AdGuard Base filter.
-! Version: 2.1.46.61
-! TimeUpdated: 2025-05-09T16:37:27+00:00
+! Version: 2.1.46.62
+! TimeUpdated: 2025-05-09T20:35:37+00:00
 ! Expires: 5 days (update frequency)
 &rb=&uuid=$third-party
 -ad-manager/$~stylesheet
@@ -13020,6 +13020,7 @@ browsershots.org#@#.advert_area
 ||alwvpaomv.com^
 ||alxbgo.com^
 ||alysson.de^
+||alzgidnru.com^
 ||alzlwkeavrlw.top^
 ||am10.ru^
 ||am11.ru^
@@ -14535,6 +14536,7 @@ browsershots.org#@#.advert_area
 ||birkiespansied.shop^
 ||birlingtriced.top^
 ||biroads.com^
+||birthaslaver.com^
 ||birthjeans.icu^
 ||biserka.xyz^
 ||bisetsoliped.com^
@@ -18137,6 +18139,7 @@ browsershots.org#@#.advert_area
 ||edenicaurited.top^
 ||edentwithought.org^
 ||ederrassi.com^
+||edertauvaisoo.net^
 ||edgbas.com^
 ||edgevertise.com^
 ||edgypollnormandy.com^
@@ -18835,6 +18838,7 @@ browsershots.org#@#.advert_area
 ||fadtetbwsmk.xyz^
 ||faduz.xyz^
 ||fafmimgubcm.com^
+||fagfqqbgjt.com^
 ||faggrim.com^
 ||fagywalu.pro^
 ||fahbagxhu.com^
@@ -22736,6 +22740,7 @@ browsershots.org#@#.advert_area
 ||kezesarijvytg.world^
 ||kfewmylmeadf.com^
 ||kfexihwcej.com^
+||kffnjkvxbhyzl.vip^
 ||kffxyakqgbprk.xyz^
 ||kfjhd.com^
 ||kfmsltodvutodo.xyz^
@@ -23896,6 +23901,7 @@ browsershots.org#@#.advert_area
 ||lzolanahk.com^
 ||lzoorgpta.com^
 ||lzukrobrykk.com^
+||lzvwybvvyrqyk.top^
 ||lzxdx24yib.com^
 ||m-fmfadcfm.icu^
 ||m-rtb.com^
@@ -24322,6 +24328,7 @@ browsershots.org#@#.advert_area
 ||meristana.pro^
 ||merry-hearing.pro^
 ||merterpazar.com^
+||merzqdnhuli.com^
 ||meshsensorcuriosity.com^
 ||mesmerizeexempt.com^
 ||mesmerizemutinousleukemia.com^
@@ -27292,6 +27299,7 @@ browsershots.org#@#.advert_area
 ||pljhaiftxr.com^
 ||pljohkmh.click^
 ||pllah.com^
+||pllsadrp.net^
 ||plmqlbihwqket.top^
 ||plmwsl.com^
 ||plocap.com^
@@ -31925,6 +31933,7 @@ browsershots.org#@#.advert_area
 ||tneca.com^
 ||tnpads.xyz^
 ||toadcampaignruinous.com^
+||toafuptoophol.com^
 ||toaglegi.com^
 ||toamaustouy.com^
 ||toapz.xyz^
@@ -33490,6 +33499,7 @@ browsershots.org#@#.advert_area
 ||vwwzygltq.com^
 ||vxpcarcapffdp.global^
 ||vyebzzbovvorz.top^
+||vyfkcjxyvqrvij.com^
 ||vyfrxuytzn.com^
 ||vyhpoooamxdhmg.com^
 ||vyhxugizkaktg.tech^
@@ -36409,6 +36419,7 @@ browsershots.org#@#.advert_area
 ||pilotstracking.com^$popup
 ||pipaffiliates.com^$popup
 ||playstretch.host^$popup
+||pllsadrp.net^$popup
 ||pnperf.com^$popup
 ||poawooptugroo.com^$popup
 ||popcash.net^$popup
@@ -36793,12 +36804,14 @@ browsershots.org#@#.advert_area
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
 ||1235985460.rsc.cdn77.org^
+||1388119814.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1531317231.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1826093648.rsc.cdn77.org^
+||1851495959.rsc.cdn77.org^
 ||1wglkbv.com^
 ||1wincdn.b-cdn.net^
 ||1winpb.com^

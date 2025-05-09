@@ -1,9 +1,9 @@
-! Checksum: DYE6lTQVj4UMPDLi6Fxvow
-! Diff-Path: ../patches/257_optimized/257_optimized-s-1746780204-14400.patch
+! Checksum: 9PyxxHyo2k0GCB5QE/5jIg
+! Diff-Path: ../patches/257_optimized/257_optimized-s-1746823226-14400.patch
 ! Title: uBlock Origin – Badware risks (Optimized)
 ! Description: Filter for risky sites, warning users of potential threats.
-! Version: 2.0.7.17
-! TimeUpdated: 2025-05-09T08:39:27+00:00
+! Version: 2.0.7.18
+! TimeUpdated: 2025-05-09T20:36:27+00:00
 ! Expires: 12 hours (update frequency)
 !+ NOT_OPTIMIZED
 ||01net.com/telecharger/$document
@@ -6320,6 +6320,8 @@ origincrack.com##center > button
 !+ NOT_OPTIMIZED
 ||online-ops.mypasschange.com^$all
 !+ NOT_OPTIMIZED
+||page-suspension.com^$all
+!+ NOT_OPTIMIZED
 /api/user/do_login|$xmlhttprequest,~third-party,to=com|info,method=post,header=access-control-allow-headers:/authorization\,content-type\,if-match\,if-modified-since\,if-none-match\,if-unmodified-since\,x-requested-with/i
 !+ NOT_OPTIMIZED
 /api/user/do_login|$xmlhttprequest,~third-party,to=com|info,method=post,header=Access-Control-Allow-Headers:/authorization\,content-type\,if-match\,if-modified-since\,if-none-match\,if-unmodified-since\,x-requested-with/i
@@ -8608,41 +8610,41 @@ uploadfox.net###ad-gs-05
 !+ NOT_OPTIMIZED
 ||duckdns.org/FAMOUS/Gens/$document
 !+ NOT_OPTIMIZED
-||irs.gov.*.com^$document,to=com|~irs.gov
+||irs.gov.*.com^$document
 !+ NOT_OPTIMIZED
-||evri.*.xyz^$document,to=xyz|~evri.com
+||evri.*.xyz^$document
 !+ NOT_OPTIMIZED
 ||sharedrop.io^$all
 !+ NOT_OPTIMIZED
 ||snapdrop.net^$all
 !+ NOT_OPTIMIZED
-||deepseek-aiassistant.com^$all,to=~deepseek.com
+||deepseek-aiassistant.com^$all
 !+ NOT_OPTIMIZED
-||usadeepseek.com^$all,to=~deepseek.com
+||usadeepseek.com^$all
 !+ NOT_OPTIMIZED
 ||gg.deepseek.$document,to=~deepseek.com
 !+ NOT_OPTIMIZED
 ||deepseek.$all,to=deepseek.app|deepseek.top|~deepseek.com
 !+ NOT_OPTIMIZED
-||deepseeklogin.com^$all,to=~deepseek.com
+||deepseeklogin.com^$all
 !+ NOT_OPTIMIZED
-||deepseeklogins.com^$all,to=~deepseek.com
+||deepseeklogins.com^$all
 !+ NOT_OPTIMIZED
-||deepseekapk.download^$all,to=~deepseek.com
+||deepseekapk.download^$all
 !+ NOT_OPTIMIZED
-||deepseekapp.download^$all,to=~deepseek.com
+||deepseekapp.download^$all
 !+ NOT_OPTIMIZED
-||paytoll*.top/ezdrivema^$all,to=~mass.gov
+||paytoll*.top/ezdrivema^$all
 !+ NOT_OPTIMIZED
 ||eurowebmonitortool.com^$all
 !+ NOT_OPTIMIZED
-||sunpass.com-$document,to=~sunpass.com
+||sunpass.com-$document
 !+ NOT_OPTIMIZED
-||hhcollect.co^$all,to=~harriscollect.com
+||hhcollect.co^$all
 !+ NOT_OPTIMIZED
-||pay-hh.com^$all,to=~harriscollect.com
+||pay-hh.com^$all
 !+ NOT_OPTIMIZED
-||harriscollect.net^$all,to=~harriscollect.com
+||harriscollect.net^$all
 !+ NOT_OPTIMIZED
 -ez-pass.com^$document
 !+ NOT_OPTIMIZED
@@ -8895,3 +8897,5 @@ uploadfox.net###ad-gs-05
 ://booking.*.com/sign-in?op_token=$document
 !+ NOT_OPTIMIZED
 ||pages.dev/robots.txt$document
+!+ NOT_OPTIMIZED
+||secure.payment*.xin^$all

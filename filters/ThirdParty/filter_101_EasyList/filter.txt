@@ -1,8 +1,8 @@
 !
-! Checksum: 6wPGWkxLFr8HRPYATherow
-! OriginalVersion: 202505091621
+! Checksum: H9+qZmTVxE0YCeusl+JNFw
+! OriginalVersion: 202505092024
 ! Title: EasyList
-! Last modified: 09 May 2025 16:21 UTC
+! Last modified: 09 May 2025 20:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17791,6 +17791,7 @@ browsershots.org#@#.advert_area
 ||alwvpaomv.com^
 ||alxbgo.com^
 ||alysson.de^
+||alzgidnru.com^
 ||alzlwkeavrlw.top^
 ||alzlwkkwyelv.top^
 ||am10.ru^
@@ -19461,6 +19462,7 @@ browsershots.org#@#.advert_area
 ||birkiespansied.shop^
 ||birlingtriced.top^
 ||biroads.com^
+||birthaslaver.com^
 ||birthday3452.fun^
 ||birthjeans.icu^
 ||biserka.xyz^
@@ -23427,6 +23429,7 @@ browsershots.org#@#.advert_area
 ||edenicaurited.top^
 ||edentwithought.org^
 ||ederrassi.com^
+||edertauvaisoo.net^
 ||edgbas.com^
 ||edgevertise.com^
 ||edgypollnormandy.com^
@@ -24213,6 +24216,7 @@ browsershots.org#@#.advert_area
 ||fadtetbwsmk.xyz^
 ||faduz.xyz^
 ||fafmimgubcm.com^
+||fagfqqbgjt.com^
 ||faggrim.com^
 ||fagywalu.pro^
 ||fahbagxhu.com^
@@ -28536,6 +28540,7 @@ browsershots.org#@#.advert_area
 ||kfeuewvbd.com^
 ||kfewmylmeadf.com^
 ||kfexihwcej.com^
+||kffnjkvxbhyzl.vip^
 ||kffxyakqgbprk.xyz^
 ||kfjhd.com^
 ||kfmsltodvutodo.xyz^
@@ -29819,6 +29824,7 @@ browsershots.org#@#.advert_area
 ||lzolanahk.com^
 ||lzoorgpta.com^
 ||lzukrobrykk.com^
+||lzvwybvvyrqyk.top^
 ||lzxdx24yib.com^
 ||m-fmfadcfm.icu^
 ||m-rtb.com^
@@ -30288,6 +30294,7 @@ browsershots.org#@#.advert_area
 ||meritabroadauthor.com^
 ||merry-hearing.pro^
 ||merterpazar.com^
+||merzqdnhuli.com^
 ||meshsensorcuriosity.com^
 ||mesmerizeexempt.com^
 ||mesmerizemutinousleukemia.com^
@@ -33586,6 +33593,7 @@ browsershots.org#@#.advert_area
 ||pljhaiftxr.com^
 ||pljohkmh.click^
 ||pllah.com^
+||pllsadrp.net^
 ||plmqlbihwqket.top^
 ||plmwsl.com^
 ||plocap.com^
@@ -38729,6 +38737,7 @@ browsershots.org#@#.advert_area
 ||tneca.com^
 ||tnpads.xyz^
 ||toadcampaignruinous.com^
+||toafuptoophol.com^
 ||toaglegi.com^
 ||toamaustouy.com^
 ||toapz.xyz^
@@ -40459,6 +40468,7 @@ browsershots.org#@#.advert_area
 ||vwwzygltq.com^
 ||vxpcarcapffdp.global^
 ||vyebzzbovvorz.top^
+||vyfkcjxyvqrvij.com^
 ||vyfrxuytzn.com^
 ||vyhpoooamxdhmg.com^
 ||vyhxugizkaktg.tech^
@@ -46819,6 +46829,7 @@ browsershots.org#@#.advert_area
 ||plexop.net^$popup
 ||plinksplanet.com^$popup
 ||plirkep.com^$popup
+||pllsadrp.net^$popup
 ||plorexdry.com^$popup
 ||plumpcontrol.pro^$popup
 ||pnouting.com^$popup
@@ -48656,6 +48667,7 @@ browsershots.org#@#.advert_area
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
 ||1235985460.rsc.cdn77.org^
+||1388119814.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1531317231.rsc.cdn77.org^
@@ -48663,6 +48675,7 @@ browsershots.org#@#.advert_area
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1826093648.rsc.cdn77.org^
+||1851495959.rsc.cdn77.org^
 ||1wglkbv.com^
 ||1wincdn.b-cdn.net^
 ||1winpb.com^

@@ -1,9 +1,9 @@
-! Checksum: pZZrs+lgBzixd0XogjnsbA
-! Diff-Path: ../patches/237_optimized/237_optimized-s-1746808997-14400.patch
+! Checksum: UyJhYc/8GpYlnm62wjjHsg
+! Diff-Path: ../patches/237_optimized/237_optimized-s-1746823211-14400.patch
 ! Title: Polish Annoyances Filters (Optimized)
 ! Description: Filter list that hides and blocks pop-ups, widgets, newsletters, push notifications, arrows, tagged internal links that are off-topic, and other irritating elements. Polish GDPR-Cookies Filters is already in it.
-! Version: 1.0.34.94
-! TimeUpdated: 2025-05-09T16:38:00+00:00
+! Version: 1.0.34.95
+! TimeUpdated: 2025-05-09T20:36:11+00:00
 ! Expires: 5 days (update frequency)
 ||4prm.pl/*/4p_newsletter.jpg
 ||a-ajurweda.pl/images/layout/ajurweda/newsletter_ajurweda.png
@@ -548,6 +548,7 @@ expondo.pl##.footer--newsletter-wrapper
 express.pl##.footerBanner_el-newsletter
 expresspaslek.pl,slowopodlasia.pl##footer > div > div:first-child > div > div > div:last-child
 eyeforfashion.pl,renee.pl##.newsletter__section
+ezebra.pl###idm_menu_newsletter, .idm_menu_newsletter
 fabrykazabawek.eu##.col-md-3.trzecia
 faceandlook.pl##.newsletter-right-block
 faceoffice.pl##div.col-md-12.col-sm-24:nth-of-type(2) > .row > div.col-md-12.col-sm-12:nth-of-type(2)
@@ -3706,6 +3707,7 @@ marbo-sport.pl##.upArrow
 marenaspa.pl###desktop-bottom-bar-arrow
 marfafashion.com,sklep.energylandia.pl,sklep.mpay.pl##.scroll-visible
 marketdino.pl##button.fixed:has(icon-arrow-up)
+marketdino.pl##button:has(> .icon-arrow-up)
 marketing.org.pl###nav_down, #nav_up
 marki.pl###linktop
 maszynydlafarmera.pl##.topshow
@@ -6147,8 +6149,7 @@ pzw.org.pl###body_google_play
 radiobonton.pl##.hidden-xs.offbox-position-right.radio-play.offbox-radio
 radiopogoda.pl##.gra-pobierz_aplikacje
 radiosochaczew.pl##.ready.is-fixed
-radiozet.pl##.react.poll.embed
-radiozet.pl##div[class*="_article_"] p ~ div[class*="poll"]
+radiozet.pl##.full-content__main__body > .quiz__article
 radomsko.pl###media > ul > li > .tooltipMedia
 raiffeisenpolbank.com###pomocne_menu > ul > li:nth-child(-n+2)
 rajbud.biz##.psb
@@ -11478,6 +11479,7 @@ lumarte.eu#$?#.ui-widget.ui-dialog { remove: true; }
 macris.com.pl#$#.noscroll { overflow-y: auto !important; position: relative !important }
 marchewkowepole.com###popup-modal, .modal-backdrop
 marketdino.pl#%#//scriptlet('ubo-set-cookie.js', 'newsletter_dismissed', 'true')
+marketdino.pl#%#//scriptlet('ubo-set-cookie.js', 'popup-1-dismissed', 'true')
 marketdino.pl#$#.freeze { position: static !important; overflow-y: auto !important }
 marketdino.pl##div.fixed:has(.dialog .newsletter-content)
 marketerplus.pl#$#body.is-reveal-open { overflow-y: auto !important }

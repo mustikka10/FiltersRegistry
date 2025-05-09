@@ -1,16 +1,16 @@
 ![Adblock Plus 2.0]
-! Checksum: B6zHLOT6ExuaPnYSTuedAw
-! Diff-Path: ../patches/122/122-s-1746809000-14400.patch
+! Checksum: Au2Gk6nNWs/z2T9Xre3/ag
+! Diff-Path: ../patches/122/122-s-1746823213-14400.patch
 ! Title: Fanboy's Annoyances
 ! Description: Removes in-page pop-ups and other annoyances. Includes Fanboy's Social Blocking & EasyList Cookie Lists.
-! Version: 2.1.46.89
-! TimeUpdated: 2025-05-09T16:37:43+00:00
+! Version: 2.1.46.90
+! TimeUpdated: 2025-05-09T20:35:52+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: 37oVOcgUZCg1kemNsxvd6Q
-! OriginalVersion: 202505091542
+! Checksum: S3ujfFY1+JG1GM+8BTy4Rg
+! OriginalVersion: 202505091942
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-05-09 15:42 UTC
+! Last modified: 2025-05-09 19:42 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/

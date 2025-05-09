@@ -1,9 +1,9 @@
-! Checksum: Za3tGMRvgt3cqsav1wuP1A
-! Diff-Path: ../patches/246_optimized/246_optimized-s-1746808977-14400.patch
+! Checksum: Km03wqC1U5c3e7NHF5lTZw
+! Diff-Path: ../patches/246_optimized/246_optimized-s-1746823191-14400.patch
 ! Title: EasyList Polish (Optimized)
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.65.66
-! TimeUpdated: 2025-05-09T16:38:05+00:00
+! Version: 2.1.65.67
+! TimeUpdated: 2025-05-09T20:36:15+00:00
 ! Expires: 5 days (update frequency)
 /adserwer.
 =adv/GetAdvertisment|
@@ -2832,7 +2832,7 @@ bielskirynek.pl##img[src*="pasek_baner"]
 iturek.net##img[src*="pasik"]
 iturek.net##img[src*="plytomex"]
 itvregion.pl##img[src*="rek"]
-cypr24.eu,goniecpolski.nl,gpd24.pl##img[src*="reklama"]
+cypr24.eu,goniecpolski.nl,gpd24.pl,jablonka.info##img[src*="reklama"]
 cooltura24.co.uk,ebarlinek.pl##img[src*="reomanager.pl"]
 iturek.net##img[src*="ryta"]
 iturek.net##img[src*="wakacje"]

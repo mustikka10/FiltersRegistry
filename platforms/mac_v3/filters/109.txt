@@ -1,15 +1,15 @@
-! Checksum: LRHiO70vtlAom0Kkff2KAw
-! Diff-Path: ../patches/109/109-s-1746809009-14400.patch
+! Checksum: 14uYY4qBlo3V1KB5t9EqQg
+! Diff-Path: ../patches/109/109-s-1746823223-14400.patch
 ! Title: EasyList Italy
 ! Description: Additional filter list for websites in Italian.
-! Version: 2.1.69.60
-! TimeUpdated: 2025-05-09T16:37:32+00:00
+! Version: 2.1.69.61
+! TimeUpdated: 2025-05-09T20:35:42+00:00
 ! Expires: 12 hours (update frequency)
 !
-! Checksum: f9rpNbuZpCnMamVdg1NCPQ
-! OriginalVersion: 202505091621
+! Checksum: R4tEBLU9CWcYdDDbvvlUrw
+! OriginalVersion: 202505092024
 ! Title: EasyList Italy
-! Last modified: 09 May 2025 16:21 UTC
+! Last modified: 09 May 2025 20:24 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -3994,8 +3994,8 @@ ledicoladelsud.it##.td_block_inner.td-mc1-wrap:has(a[href*="/pubbliredazionale/"
 01health.it,01net.it,01smartlife.it##.td_block_wrap:has(.sponsor)
 sportando.basketball##.widget.widget_block:has(a[href^="https://betsquare.com/"])
 freshpointmagazine.it##.wpb_wrapper > .td_block_wrap:has(.sponsor)
+mediamarkt.ch,mediaworld.it##[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
 pharmacyscanner.it##article:has(.featured + .spons-post)
-mediamarkt.ch,mediaworld.it##div[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
 liberoquotidiano.it##div[style="min-height: 885px;"]:has(.advertisement-wrapper)
 ! Advanced element hiding rules for Adblock Plus
 adnkronos.com#?#.cont-ev-list:-abp-has(.title-channel:-abp-contains(in Evidenza))
