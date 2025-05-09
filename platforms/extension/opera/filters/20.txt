@@ -1,9 +1,9 @@
-! Checksum: DTCZs7TmfOR3S7amiRe/sA
-! Diff-Path: ../patches/20/20-s-1746778379-3600.patch
+! Checksum: VHnoLmcA0nF0oYJGjZQJyw
+! Diff-Path: ../patches/20/20-s-1746785490-3600.patch
 ! Title: AdGuard Mobile App Banners filter
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.20.74
-! TimeUpdated: 2025-05-09T08:09:20+00:00
+! Version: 2.0.20.75
+! TimeUpdated: 2025-05-09T10:07:51+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE

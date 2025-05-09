@@ -1,8 +1,8 @@
-! Checksum: FktJaaVhrpeO/81AmXiWJg
+! Checksum: 9FJprFMCwl2M28x7i3rVjw
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.75
-! TimeUpdated: 2025-05-09T09:07:12+00:00
+! Version: 2.3.82.76
+! TimeUpdated: 2025-05-09T10:07:08+00:00
 ! Expires: 5 days (update frequency)
 ||gusoclji.com^
 ||awdeliverynet.com^$third-party
@@ -18475,10 +18475,6 @@ pcgamer.com##amp-ad
 !+ NOT_OPTIMIZED
 tekfame.com##.adsbygoogle
 !+ NOT_OPTIMIZED
-@@||sb.scorecardresearch.com/beacon.js
-!+ NOT_OPTIMIZED
-cnnturk.com##.player-warning
-!+ NOT_OPTIMIZED
 @@||googleads.g.doubleclick.net/pagead/ads$domain=next-episode.net
 !+ NOT_OPTIMIZED
 @@||adservice.google.com/adsid/integrator.js$domain=next-episode.net
@@ -26329,6 +26325,7 @@ browsershots.org#@#.advert_area
 ||anemiakoalamothproof.com^
 ||anewfeedliberty.com^
 ||angege.com^
+||angelabedsautopsy.com^
 ||angelesfoldingpatsy.com^
 ||angledunion.top^
 ||anglezinccompassionate.com^
@@ -27258,6 +27255,7 @@ browsershots.org#@#.advert_area
 ||blubberspoiled.com^
 ||bluelinknow.com^
 ||blueparrot.media^
+||bluetackclasp.com^
 ||blurbreimbursetrombone.com^
 ||blwviknoqfpij.online^
 ||bmcdn1.com^
@@ -28356,6 +28354,7 @@ browsershots.org#@#.advert_area
 ||cortilepartes.shop^
 ||cortonrestis.top^
 ||corylussunroof.com^
+||cosechice.shop^
 ||cosmeticsgenerosity.com^
 ||cosponsorgarnetmorphing.com^
 ||cotchaug.com^
@@ -28731,6 +28730,7 @@ browsershots.org#@#.advert_area
 ||debtfulinhaler.click^
 ||decademical.com^
 ||deceittoured.com^
+||deceivedaisle.com^
 ||decenthat.com^
 ||decide.dev^
 ||decimalediblegoose.com^
@@ -28938,6 +28938,7 @@ browsershots.org#@#.advert_area
 ||diskaa.com^
 ||dislikingentwinestudio.com^
 ||dislodgeneversatirical.com^
+||disloyalmoviesfavor.com^
 ||dismantlepenantiterrorist.com^
 ||dismastrostra.com^
 ||dismisscomplicatedfoolproof.com^
@@ -30117,6 +30118,7 @@ browsershots.org#@#.advert_area
 ||fuphekaur.net^
 ||fuqmqtlccn.com^
 ||furstraitsbrowse.com^
+||furyprosecutionkitchen.com^
 ||fuse-cloud.com^
 ||fuseplatform.net^
 ||fusilpiglike.com^
@@ -30653,6 +30655,7 @@ browsershots.org#@#.advert_area
 ||grosserhis.top^
 ||grotaich.net^
 ||grotzenzelotic.com^
+||groundlesscobwebmiller.com^
 ||groupian.io^
 ||grourouksoop.net^
 ||groutaissou.net^
@@ -30660,6 +30663,7 @@ browsershots.org#@#.advert_area
 ||groutoozy.com^
 ||growebads.com^
 ||grown-inpp-code.com^
+||grownwrecking.com^
 ||growthbuddy.app^
 ||grsm.io^
 ||grt02.com^
@@ -31124,6 +31128,7 @@ browsershots.org#@#.advert_area
 ||humsoolt.net^
 ||hunchbackconebelfry.com^
 ||hunchedgrimp.com^
+||hunchflora.com^
 ||hunchmotherhooddefine.com^
 ||hunter-hub.com^
 ||huntersaturateunbeaten.com^
@@ -31133,6 +31138,7 @@ browsershots.org#@#.advert_area
 ||husbandnights.com^
 ||husfly.com^
 ||hushpub.com^
+||huskilyvroom.com^
 ||huskinessimminentstylus.com^
 ||huskypartydance.com^
 ||hutoumseet.com^
@@ -32381,6 +32387,7 @@ browsershots.org#@#.advert_area
 ||lotteryaffiliates.com^
 ||louchaug.com^
 ||louchees.net^
+||louderpregnantshabby.com^
 ||loukoost.net^
 ||loulouly.net^
 ||loungyserger.com^
@@ -33498,6 +33505,7 @@ browsershots.org#@#.advert_area
 ||nzisaqcad.com^
 ||nzitcuftiofh.com^
 ||nzme-ads.co.nz^
+||nztlzammtbqyd.today^
 ||nzyqdqbfixkmq.buzz^
 ||o-oo.ooo^
 ||o18.click^
@@ -34117,6 +34125,7 @@ browsershots.org#@#.advert_area
 ||padskis.com^
 ||padslims.com^
 ||padspms.com^
+||paejpopfa.xyz^
 ||pafiptuy.net^
 ||pagejunky.com^
 ||pagerrentablespotlight.com^
@@ -34460,6 +34469,7 @@ browsershots.org#@#.advert_area
 ||plugerr.com^
 ||plugs.co^
 ||plumbertowards.com^
+||plumpmom.com^
 ||plutothejewel.com^
 ||plxserve.com^
 ||plyfoni.ru^
@@ -36108,6 +36118,7 @@ browsershots.org#@#.advert_area
 ||simrreop.com^
 ||sincalled.com^
 ||sincenturypro.org^
+||sincerelydarklarger.com^
 ||singlesgetmatched.com^
 ||sinisterbatchoddly.com^
 ||sinisteruniversityharmful.com^
@@ -37885,6 +37896,7 @@ browsershots.org#@#.advert_area
 ||vuftouks.com^
 ||vugloubeky.net^
 ||vugnubier.com^
+||vugqkeanmhm.com^
 ||vujctuqi.com^
 ||vulsubsaugrourg.net^
 ||vupoupay.com^

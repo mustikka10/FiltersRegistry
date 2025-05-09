@@ -1,9 +1,9 @@
-! Checksum: hraVzLwf8o1pdoEZ2T3jwQ
-! Diff-Path: ../patches/20/20-s-1746778376-3600.patch
+! Checksum: qEj/vN0o/q+I16d1e/9VWg
+! Diff-Path: ../patches/20/20-s-1746785487-3600.patch
 ! Title: AdGuard Mobile App Banners filter
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.20.74
-! TimeUpdated: 2025-05-09T08:09:20+00:00
+! Version: 2.0.20.75
+! TimeUpdated: 2025-05-09T10:07:51+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3644,6 +3644,7 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! Limit it to mobile versions only
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 !
+threads.com#%#//scriptlet('trusted-set-session-storage-item', 'barcelona_mobile_upsell_state', '1')
 restaurantji.com###mobile_app
 wayfair.com#$#html[style*="overflow:"] { overflow: auto !important; }
 wayfair.com#$#div[data-rtl-id="appInstallPhoneLayout"] { display: none !important; }
