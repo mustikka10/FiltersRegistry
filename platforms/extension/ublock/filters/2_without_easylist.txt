@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: 0MeXDji+bfNQENHfpGsQIg
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746789031-3600.patch
+! Checksum: f+l9vmVoNHFw+RWl4WhPIQ
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746792884-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.82.77
-! TimeUpdated: 2025-05-09T11:06:02+00:00
+! Version: 2.3.82.78
+! TimeUpdated: 2025-05-09T12:10:13+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -20599,9 +20599,9 @@ codec.kyiv.ua#$?#style[id="mdpDeblocker-css"] { remove: true; }
 shorttrick.in,whoisnovel.com,asiaon.top,jpopsingles.eu,superpsx.com,alliptvlinks.com#$#body[class*="blur"] > * { filter: none !important; }
 shorttrick.in,whoisnovel.com,asiaon.top,jpopsingles.eu,superpsx.com,alliptvlinks.com#$#body > div[class*="-blackout"] { display: none !important; }
 shorttrick.in,whoisnovel.com,asiaon.top,jpopsingles.eu,superpsx.com,alliptvlinks.com#$#body > div[class*="-blackout"] + div[class*="-wrapper"] { display: none !important; }
-javboys.tv,asianboy.fans,techedubyte.com,yomucomics.com,tuksudia2.sbs,tuktukcinma.com#$#body > * { filter: none !important; }
-javboys.tv,asianboy.fans,techedubyte.com,yomucomics.com,tuksudia2.sbs,tuktukcinma.com#$#body > div[class*=" active"][style] + div[class]:has(> .active > [class*="-content"]) { display: none !important; }
-javboys.tv,asianboy.fans,techedubyte.com,yomucomics.com,tuksudia2.sbs,tuktukcinma.com#$#body > div[class*=" active"][style] { display: none !important; }
+idlixvip.asia,javboys.tv,asianboy.fans,techedubyte.com,yomucomics.com,tuksudia2.sbs,tuktukcinma.com#$#body > * { filter: none !important; }
+idlixvip.asia,javboys.tv,asianboy.fans,techedubyte.com,yomucomics.com,tuksudia2.sbs,tuktukcinma.com#$#body > div[class*=" active"][style] + div[class]:has(> .active > [class*="-content"]) { display: none !important; }
+idlixvip.asia,javboys.tv,asianboy.fans,techedubyte.com,yomucomics.com,tuksudia2.sbs,tuktukcinma.com#$#body > div[class*=" active"][style] { display: none !important; }
 !
 sketchup.cgtips.org##+js(abort-on-property-write, Databdcacb)
 ! NOTE: mdpDeBlocker end ⬆️
@@ -34321,11 +34321,8 @@ cosmic1.co##.kln
 komiktap.info###bannerhomefooter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/185298
 maid.my.id##.iniiklan
-! https://github.com/AdguardTeam/AdguardFilters/issues/193178
-idlix.asia##.asgdc
-idlix.asia#$#body[class*="-style-"] > * { filter: none !important; }
-idlix.asia#$#body[class*="-style-"] > div[class$=" active"][style] { display: none !important; }
-idlix.asia#$#body[class*="-style-"] > div[class$=" active"][style] + div[class*="-"]:has(>div[class$=" active"][style]) { display: none !important; }
+! https://github.com/AdguardTeam/AdguardFilters/issues/204915
+idlixvip.asia##.asgdc
 ! https://github.com/AdguardTeam/AdguardFilters/issues/182103
 idlixofficialx.*,idlixplus.*##+js(abort-on-stack-trace, DOMTokenList.prototype.contains, manageBodyClasses)
 @@||static.doubleclick.net/instream/ad_status.js$domain=idlixplus.*|idlixofficialx.*
