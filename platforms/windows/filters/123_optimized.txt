@@ -1,9 +1,9 @@
-! Checksum: DLtKJ1Z1OaGm+Ugdy1YE9Q
-! Diff-Path: ../patches/123_optimized/123_optimized-s-1746751955-14400.patch
+! Checksum: zFsmhTQKil4OZz7wIwdFCQ
+! Diff-Path: ../patches/123_optimized/123_optimized-s-1746765751-14400.patch
 ! Title: Fanboy's Social Blocking List (Optimized)
 ! Description: Hides and blocks social content, social widgets, social scripts and social icons. Already included in Fanboy's Annoyances list.
-! Version: 2.1.41.6
-! TimeUpdated: 2025-05-09T00:47:52+00:00
+! Version: 2.1.41.7
+! TimeUpdated: 2025-05-09T04:38:02+00:00
 ! Expires: 12 hours (update frequency)
 -facebook-share.
 -facebook-widget.
@@ -17,6 +17,7 @@
 -sharebar.
 -social-sidebar.
 -Social-Sidebar/
+-social-slider/
 -sprite-social-
 .sharing.js
 /accesspress-social-counter/*
@@ -137,6 +138,7 @@ _social-bar/
 ###ShareButton
 ###ShareItemBtn
 ###Side_Block_Facebook
+###SocialContainer
 ###SocialMedia
 ###SocialShare
 ###Socialize
@@ -539,6 +541,7 @@ _social-bar/
 ###socialSharing
 ###socialTwitter
 ###socialWrap
+###social_bar
 ###social_bkm_wrap_top
 ###social_block
 ###social_bookmark
@@ -806,6 +809,7 @@ _social-bar/
 ##.article-sharing
 ##.article-soc
 ##.article-social
+##.article-social-bar
 ##.article-social-btn
 ##.article-social-button
 ##.article-social-container
@@ -839,6 +843,7 @@ _social-bar/
 ##.aspexifbsidebox
 ##.asset-inline-share-tools
 ##.at-share-btn
+##.atButtonPinterest
 ##.author-bio__social
 ##.author-card__social
 ##.author-follow-button
@@ -998,6 +1003,7 @@ _social-bar/
 ##.cff-share-tooltip
 ##.ci-socials-ignited
 ##.cmg-share-bar
+##.cnbc-share-top
 ##.col-social
 ##.column-social
 ##.comment-share
@@ -1005,6 +1011,8 @@ _social-bar/
 ##.comment-social
 ##.comment__share
 ##.comment_share
+##.comments-and-share
+##.comments-share
 ##.comments__likes
 ##.common-social-link
 ##.common_share
@@ -1143,6 +1151,7 @@ _social-bar/
 ##.facebook-messenger-avatar
 ##.facebook-modal
 ##.facebook-page-plugin
+##.facebook-plain-control
 ##.facebook-popup
 ##.facebook-share-btn
 ##.facebook-share-button
@@ -1202,6 +1211,7 @@ _social-bar/
 ##.fbbsb-button
 ##.fbbsb-buttons
 ##.fbbutton
+##.fblbForm
 ##.fblikebox
 ##.fblink
 ##.fbshare
@@ -1275,6 +1285,7 @@ _social-bar/
 ##.footer-fb
 ##.footer-follow
 ##.footer-follow-us
+##.footer-followUs
 ##.footer-followus
 ##.footer-icon-facebook
 ##.footer-instagram
@@ -1938,6 +1949,7 @@ _social-bar/
 ##.post__share
 ##.post__share-container
 ##.post_share_center
+##.post_share_icons
 ##.postshare
 ##.powerkit_social_links_widget
 ##.pp-share-grid-item
@@ -2386,6 +2398,8 @@ _social-bar/
 ##.sharer
 ##.sharer-0
 ##.sharer-facebook
+##.sharer-icon
+##.sharer-linkedin
 ##.sharer-twitter
 ##.sharers
 ##.shares__item
@@ -2742,6 +2756,7 @@ _social-bar/
 ##.social-share_compact
 ##.social-sharer
 ##.social-shares
+##.social-sharing-bot
 ##.social-sharing-buttons
 ##.social-sharing-link
 ##.social-sharing-top
@@ -3087,6 +3102,7 @@ _social-bar/
 ##.twitter_widget
 ##.twitterbtn
 ##.twitterbutton
+##.twitterfeed
 ##.twitterfollow
 ##.twitterjo
 ##.twitterlink
@@ -3198,6 +3214,7 @@ _social-bar/
 ##.widget_socials
 ##.widget_socials_ignited
 ##.widget_sow-social-media-buttons
+##.widget_synved_social_follow
 ##.widget_twitter
 ##.widget_twitter_timeline
 ##.widget_wc_shortcodes_social_icons
@@ -3244,6 +3261,7 @@ _social-bar/
 ##[data-target="share-review"]
 ##[data-testid="prism-share"]
 ##[eapps-link="share"]
+##a[data-share="popup"]
 ##a[href^="fb-messenger://share/?"]
 ##a[href^="fb-messenger://share?link="]
 ##a[href^="http://pinterest.com/pin/create/"]
@@ -3383,6 +3401,7 @@ _social-bar/
 ||po.st/static/$third-party
 ||reddit.com/api/info.json?$third-party
 ||reddit.com/static/$third-party
+||scoop.it^$third-party
 ||share.itraffic.su^$third-party
 ||shareaholic.com^$third-party
 ||sharedcount.com^$third-party
@@ -3566,6 +3585,7 @@ arabnews.com##.entry-views
 thegatewaypundit.com,wersm.com##.essb_links
 trueachievements.com##.fa-comments
 techradar.com##.facebook-icon
+blogto.com##.facebook-round-control
 thefastmode.com##.facebook_plugin
 knowyourmeme.com##.fb-page-like-box
 eadaily.com##.feed
@@ -3810,6 +3830,7 @@ rottentomatoes.com##.trending-bar__social-link
 advocate.com,slashdot.org##.tw
 apptrigger.com,motherjones.com##.tweet
 videocardz.com##.twitter-follow-button
+blogto.com##.twitter-round-control
 thefastmode.com##.twitter_plugin
 unsw.edu.au##.uds-social-follow
 news.sky.com##.ui-news-footer-social
@@ -3909,7 +3930,6 @@ androidpolice.com,electricfencing.co.uk,esradiocastillayleon.es,heelhollandbakt.
 cp24.com,epochtimes.com.br,epochtimes.it,n-tv.de,progressive.org,toyokeizai.net##.tools
 archifacile.fr,atomic-robo.com,autobelle.it,bollywoodhungama.com,canavesenews.it,chnetwork.org,classicreload.com,donnahay.com.au,fotografidigitali.it,gamingonlinux.com,joburg.org.za,lavoro.gov.it,ledpros.ca,meteovista.be,meteovista.fr,meteovista.pl,navigaweb.net,nexto.pl,phoronix.com,rasom.it,sfr.fr,telesatellite.com,ucl.ac.uk,weeronline.nl,whtop.com,zookeys.pensoft.net###social
 applesfera.com,espinof.com,genbeta.com,vidaextra.com,vitonica.com,xatakahome.com,xatakamovil.com,xatakandroid.com##.masthead-nav-social
-ansalatina.com,disroot.org,rand.org,sportwebsicilia.it##.social-button
 allears.net,canadaradiostations.com,canli-radyo-dinle.com,crimeonline.com,dezeen.com,eandt.theiet.org,elfinanciero.com.mx,elheraldo.hn,emisoras-puertorico.com,emisorascolombianas.co,fivebooks.com,fmradiofree.com,foxsports.com.mx,informer.com,internetradio-horen.de,internetradio-schweiz.ch,laprensa.hn,open.online,opencritic.com,politicalflare.com,radio-ao-vivo.com,radio-australia.org,radio-belgie.be,radio-danmark.dk,radio-dominicana.com,radio-ecuador.org,radio-en-ligne.fr,radio-en-vivo.mx,radio-espana.es,radio-hk.com,radio-hrvatska.com,radio-italiane.it,radio-korea.com,radio-maroc.org,radio-nederland.nl,radio-norge.org,radio-osterreich.at,radio-philippines.com,radio-polska.pl,radio-singapore.com,radio-south-africa.co.za,radio-stations.co.nz,radio-suomi.com,radio-sveriges.se,radio-thai.com,radio-ua.com,radio-uk.co.uk,radioindia.in,radioindonesia.org,radiojapan.org,radiomalaysia.org,radios-argentinas.org,radios-bolivia.com,radios-chilenas.com,radios-guatemala.com,radios-online.pt,radios-uruguay.com,radios-venezuela.com,radiosdelperu.pe,radiotaiwan.tw,rai.it,redvoicemedia.com,religionnews.com,tarreo.com,thecollegefix.com,upcomingvinyl.com##.social-buttons
 n1info.ba,n1info.hr,n1info.rs,n1info.si,nova.rs##.uc-social-bar-wrapper
 bestcarweb.jp,biglobe.ne.jp,fhm.com.ph,hankooktire.com,jiji.com,joins.com,op.gg,theinvestor.co.kr,videor.co.jp##.sns
