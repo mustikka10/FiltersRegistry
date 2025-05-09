@@ -1,9 +1,9 @@
-! Checksum: QayfdHAQAUJ1EFM+RKr4Rg
-! Diff-Path: ../patches/118_optimized/118_optimized-s-1746794971-14400.patch
+! Checksum: iuA9W7FvS5hH3WGljopqFg
+! Diff-Path: ../patches/118_optimized/118_optimized-s-1746809006-14400.patch
 ! Title: EasyPrivacy (Optimized)
 ! Description: Privacy protection supplement for EasyList.
-! Version: 2.1.43.75
-! TimeUpdated: 2025-05-09T12:44:42+00:00
+! Version: 2.1.43.76
+! TimeUpdated: 2025-05-09T16:37:37+00:00
 ! Expires: 12 hours (update frequency)
 &&sub19=undefined&sub20=undefined
 &action=js_stats
@@ -30007,7 +30007,6 @@ abema.tv$$script[tag-content="NREUM"][max-length="262144"]
 @@||speedcurve.com/js/lux.js$script,domain=tv8.it
 @@||bdash-cloud.com/tracking-script/*/tracking.js$domain=junonline.jp
 @@||cdn.kaizenplatform.net^$script,domain=navi.onamae.com
-@@||cdn.petametrics.com^$script,domain=mechacomic.jp
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cpt.geniee.jp/hb/*/wrapper.min.js$domain=hoyme.jp
 @@||dmp.im-apps.net/pms/*/pmt.js$domain=zakzak.co.jp

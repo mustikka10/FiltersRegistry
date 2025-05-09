@@ -1,9 +1,9 @@
-! Checksum: BPY1Gtf2M8GE1/RX3ZuMow
-! Diff-Path: ../patches/239_optimized/239_optimized-s-1746794976-14400.patch
+! Checksum: GvtfaUJ8nlvvl8QzQ0X/0w
+! Diff-Path: ../patches/239_optimized/239_optimized-s-1746809011-14400.patch
 ! Title: Fanboy's Anti-thirdparty Fonts (Optimized)
 ! Description: A filter that blocks third-party fonts. It may break the look and design of some websites.
-! Version: 2.0.6.71
-! TimeUpdated: 2025-05-09T12:45:13+00:00
+! Version: 2.0.6.72
+! TimeUpdated: 2025-05-09T16:38:01+00:00
 ! Expires: 12 hours (update frequency)
 /fontawesome-$font,third-party
 /fonts/*.ttf$font,third-party

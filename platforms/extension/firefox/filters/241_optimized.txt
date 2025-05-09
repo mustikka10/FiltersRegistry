@@ -1,9 +1,9 @@
-! Checksum: NsFPkbujZpF+3E67SNtSIw
-! Diff-Path: ../patches/241_optimized/241_optimized-s-1746794955-14400.patch
+! Checksum: 8OrHsTGvu3Hl8bfrDWOXOA
+! Diff-Path: ../patches/241_optimized/241_optimized-s-1746808991-14400.patch
 ! Title: EasyList Cookie List (Optimized)
 ! Description: Removes cookie and privacy warnings. Already included in Fanboy's Annoyances list.
-! Version: 2.1.52.60
-! TimeUpdated: 2025-05-09T12:45:17+00:00
+! Version: 2.1.52.61
+! TimeUpdated: 2025-05-09T16:38:04+00:00
 ! Expires: 10 days (update frequency)
 -consent-banner-
 -consent-banner.

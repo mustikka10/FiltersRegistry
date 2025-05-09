@@ -1,14 +1,14 @@
-! Checksum: 3hEYQ9Fr2178eZlXHccUnw
-! Diff-Path: ../patches/225/225-s-1746794972-14400.patch
+! Checksum: mTNYxuK/zDtfmwhmO3tJpQ
+! Diff-Path: ../patches/225/225-s-1746809007-14400.patch
 ! Title: Fanboy's Anti-Facebook List
 ! Description: Warning, it will break Facebook-based comments on some websites and may also break some Facebook apps or games.
-! Version: 2.0.10.23
-! TimeUpdated: 2025-05-09T12:45:02+00:00
+! Version: 2.0.10.24
+! TimeUpdated: 2025-05-09T16:37:53+00:00
 ! Expires: 12 hours (update frequency)
 !
-! Checksum: zR8jbGBPyByDTUaNoYYBQg
+! Checksum: gL8GAbr5ljQ0E3YGPTN72Q
 ! Title: Anti-Facebook List
-! Updated: 2025-05-09 12:35 UTC
+! Updated: 2025-05-09 16:35 UTC
 ! Expires: 9 days
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: http://www.fanboy.co.nz/

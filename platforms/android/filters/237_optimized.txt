@@ -1,9 +1,9 @@
-! Checksum: u1w1Rki0DJ4rBlLKMvRz6w
-! Diff-Path: ../patches/237_optimized/237_optimized-s-1746751914-14400.patch
+! Checksum: lq40Y2BzhnDRY8sMepdUTg
+! Diff-Path: ../patches/237_optimized/237_optimized-s-1746808976-14400.patch
 ! Title: Polish Annoyances Filters (Optimized)
 ! Description: Filter list that hides and blocks pop-ups, widgets, newsletters, push notifications, arrows, tagged internal links that are off-topic, and other irritating elements. Polish GDPR-Cookies Filters is already in it.
-! Version: 1.0.34.93
-! TimeUpdated: 2025-05-09T00:48:17+00:00
+! Version: 1.0.34.94
+! TimeUpdated: 2025-05-09T16:38:00+00:00
 ! Expires: 5 days (update frequency)
 ||4prm.pl/*/4p_newsletter.jpg
 ||a-ajurweda.pl/images/layout/ajurweda/newsletter_ajurweda.png
@@ -4099,12 +4099,14 @@ ztedevices.com##.back-top
 /wp-content/plugins/scroll-back-to-top/assets/js/scroll-back-to-top.js
 ||back-to-top.appspot.*^$subdocument
 ###ast-scroll-top:not(body, html, .wrapper):lang(pl)
+###back-to-top:lang(pl)
 ###back-top:not(body, html, .wrapper):lang(pl)
 ###BackToTop:not(body, html, .wrapper):lang(pl)
 ###backToTop:not(body, html, .wrapper):lang(pl)
 ###backtoTop:not(body, html, .wrapper):lang(pl)
 ###backtotop:not(body, html, .wrapper):lang(pl)
 ###btn-go-to-bottom:not(body, html, .wrapper):lang(pl)
+###cb-to-top:not(body, html, .wrapper):lang(pl)
 ###do-dolu
 ###do-gory
 ###doDolu
@@ -4116,6 +4118,7 @@ ztedevices.com##.back-top
 ###g1-back-to-top:not(body, html, .wrapper):lang(pl)
 ###gantry-totop:not(body, html, .wrapper):lang(pl)
 ###go-to-top:not(body, html, .wrapper):lang(pl)
+###go-top:not(body, html, .wrapper):lang(pl)
 ###go_up:not(body, html, .wrapper):lang(pl)
 ###goTop:not(body, html, .wrapper):lang(pl)
 ###gotop:not(body, html, .wrapper):lang(pl)
@@ -4128,17 +4131,21 @@ ztedevices.com##.back-top
 ###js-scrollTop:not(body, html, .wrapper):lang(pl)
 ###jsn-gotoplink:not(body, html, .wrapper):lang(pl)
 ###link_przewin:not(body, html, .wrapper):lang(pl)
+###m7-go-top:not(body, html, .wrapper):lang(pl)
 ###mkdf-back-to-top:not(body, html, .wrapper):lang(pl)
 ###move-to-top:not(body, html, .wrapper):lang(pl)
 ###moveTop:not(body, html, .wrapper):lang(pl)
+###mt-scrollup:not(body, html, .wrapper):lang(pl)
 ###np-scrollup:not(body, html, .wrapper):lang(pl)
 ###pageUp:not(body, html, .wrapper):lang(pl)
 ###qodef-back-to-top:not(body, html, .wrapper):lang(pl)
 ###return-to-top:not(body, html, .wrapper):lang(pl)
 ###return-top:not(body, html, .wrapper):lang(pl)
 ###ruby-back-top:not(body, html, .wrapper):lang(pl)
+###s5_scrolltop_a:not(body, html, .wrapper):lang(pl)
 ###scroll-to-top:not(body, html, .wrapper):lang(pl)
 ###scroll-top-link:not(body, html, .wrapper):lang(pl)
+###scroll-top:not(body, html, .page, .wrapper):lang(pl)
 ###scroll-top:not(body, html, .wrapper):lang(pl)
 ###scroll-up:not(body, html, .wrapper):lang(pl)
 ###scroll:not(body, html, .wrapper):lang(pl)
@@ -4161,6 +4168,7 @@ ztedevices.com##.back-top
 ###top-link:not(body, html, .wrapper):lang(pl)
 ###topcontrol:not(body, html, .wrapper):lang(pl)
 ###topLink:not(body, html, .wrapper):lang(pl)
+###totop:not(body, html, .wrapper):lang(pl)
 ###totopicon:not(body, html, .wrapper):lang(pl)
 ###toTopNew:not(body, html, .wrapper):lang(pl)
 ###ts-back-to-top:not(body, html, .wrapper):lang(pl)
@@ -4168,8 +4176,6 @@ ztedevices.com##.back-top
 ###uix_jumpToFixed:not(body, html, .wrapper):lang(pl)
 ###wpfront-scroll-top-container:not(body, html, .wrapper):lang(pl)
 ###wt_scroll_top:not(body, html, .wrapper):lang(pl)
-###yt-totop:not(body, html, .wrapper):lang(pl)
-##.-back-to-top-visible:lang(pl)
 ##.action-scroll-top:not(body, html, .wrapper):lang(pl)
 ##.arrow-to-top:not(body, html, .wrapper):lang(pl)
 ##.arrow-up:not(body, html, .wrapper):lang(pl)
@@ -4211,7 +4217,9 @@ ztedevices.com##.back-top
 ##.hestia-scroll-to-top:not(body, html, .wrapper):lang(pl)
 ##.js-back-to-top:not(body, html, .wrapper):lang(pl)
 ##.js-go-to:not(body, html, .wrapper):lang(pl)
+##.js-up.up:lang(pl)
 ##.jscroll-to-top:not(body, html, .wrapper):lang(pl)
+##.jump-to-top:not(body, html, .wrapper):lang(pl)
 ##.jupiterx-scroll-top:not(body, html, .wrapper):lang(pl)
 ##.kadence-scroll-to-top:not(body, html, .wrapper):lang(pl)
 ##.kleo-go-top:not(body, html, .wrapper):lang(pl)
@@ -4227,9 +4235,13 @@ ztedevices.com##.back-top
 ##.scroll-to-top:not(body, html, .wrapper):lang(pl)
 ##.scroll-top-button:not(body, html, .wrapper):lang(pl)
 ##.scroll-top-inner:not(body, html, .wrapper):lang(pl)
+##.scroll-top-wrapper:not(body, html, .wrapper):lang(pl)
 ##.scroll-top:not(body, html, .wrapper):lang(pl)
 ##.scroll_to_top:not(body, html, .wrapper):lang(pl)
+##.scroll_top:not(body, header, html, .wrapper):lang(pl)
 ##.scrollTo_top:not(body, html, .wrapper):lang(pl)
+##.scrollTop:not(body, header, html, .row, .wrapper):lang(pl)
+##.scrolltop:not(body, header, html, .row, .wrapper):lang(pl)
 ##.scrollTop:not(body, html, .wrapper):lang(pl)
 ##.scrolltop:not(body, html, .wrapper):lang(pl)
 ##.scrollToTop:not(body, html, .wrapper):lang(pl)
@@ -4239,6 +4251,7 @@ ztedevices.com##.back-top
 ##.sp-scroll-up:not(body, html, .wrapper):lang(pl)
 ##.td-scroll-up:not(body, html, .wrapper):lang(pl)
 ##.tm-totop-scroller:not(body, html, .wrapper):lang(pl)
+##.to-top-container:not(body, html, .wrapper):lang(pl)
 ##.to-top:not(body, html, .wrapper):lang(pl)
 ##.to_top:not(body, html, .wrapper):lang(pl)
 ##.to_top_btn:not(body, html, .wrapper):lang(pl)
@@ -4254,7 +4267,9 @@ ztedevices.com##.back-top
 ##.z-navigation-footer_backToTop:not(body, html, .wrapper):lang(pl)
 ##a#backTop:lang(pl)
 ##a.scroll-down:lang(pl)
+##a.scroll-up:lang(pl)
 ##button.scroll-down:lang(pl)
+##button.scroll-up:lang(pl)
 ##button[onclick="topFunction()"]
 ##button[title="Go to top"]
 ##cwc-to-top-button:lang(pl)
@@ -4273,26 +4288,8 @@ ztedevices.com##.back-top
 ~pl##.scrollup:not(body, html, .wrapper):lang(pl)
 ~pl##a.scroll-up:lang(pl)
 ~pl##button.scroll-up:lang(pl)
-~pl,~studioatrium.pl###back-to-top:lang(pl)
 ~sklep.lobos.pl##.to-the-top:lang(pl)
 com,pl###profilki_uparrow:not(body, html, .wrapper)
-pl###cb-to-top:not(body, html, .wrapper)
-pl###go-top:not(body, html, .wrapper)
-pl###m7-go-top:not(body, html, .wrapper)
-pl###mt-scrollup:not(body, html, .wrapper)
-pl###s5_scrolltop_a:not(body, html, .wrapper)
-pl###scroll-top:not(body, html, .page, .wrapper)
-pl###to-top:not(body, html, .wrapper)
-pl###totop:not(body, html, .wrapper)
-pl##.js-up.up
-pl##.jump-to-top:not(body, html, .wrapper)
-pl##.scroll-top-wrapper:not(body, html, .wrapper)
-pl##.scroll_top:not(body, header, html, .wrapper)
-pl##.scrollTop:not(body, header, html, .row, .wrapper)
-pl##.scrolltop:not(body, header, html, .row, .wrapper)
-pl##.to-top-container:not(body, html, .wrapper)
-pl##a.scroll-up
-pl##button.scroll-up
 /grafika_zmienna/tlo_info.jpgg$domain=rii.pl|stargard.pl
 /grafika_zmienna/tlo_wiadomosci.jpg$domain=rii.pl|stargard.pl
 ||3kropki.pl/i/varia/*_3kropki_screening_pop.jpg
