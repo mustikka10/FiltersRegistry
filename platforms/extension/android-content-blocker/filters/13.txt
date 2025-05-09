@@ -1,8 +1,8 @@
-! Checksum: PDWxNJ7SVU6K5WxY1MGO+A
+! Checksum: LEV4ti7b4OkO104gv1s71g
 ! Title: AdGuard Turkish filter
 ! Description: Filter list that specifically removes ads on websites in Turkish language.
-! Version: 2.0.56.32
-! TimeUpdated: 2025-05-09T15:07:16+00:00
+! Version: 2.0.56.33
+! TimeUpdated: 2025-05-09T17:07:01+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -5233,6 +5233,9 @@ kuponuna284.top,kuponuna285.top,kuponuna286.top,kuponuna287.top,kuponuna288.top,
 fullhdizle.*,filmizlehdfilm.com,filmizletv.*,fullfilmizle.*,fullfilmizle.cc,fullhdfilmizle.*,fullhdfilmizletv.*,hdfilmcehennemi.*,hdfilmcix.*,hdfilmizlesene.org,sinema.cx##.video_content > a[target="_blank"]
 fullhdizle.*,filmizlehdfilm.com,filmizletv.*,fullfilmizle.*,fullfilmizle.cc,fullhdfilmizle.*,fullhdfilmizletv.*,hdfilmcehennemi.*,hdfilmcix.*,hdfilmizlesene.org,sinema.cx##div[class^="r_header_"]
 !
+! mackeyfi*.sbs - frequently changed domains
+! aglint-disable invalid-modifiers
+! aglint-enable invalid-modifiers
 ! dizipal*.com - frequently changed domains
 ! https://x.com/dizipalSx
 ||dizipal*.com/wp-content/uploads/*.gif

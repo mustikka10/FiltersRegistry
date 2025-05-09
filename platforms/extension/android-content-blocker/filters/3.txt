@@ -1,8 +1,8 @@
-! Checksum: Su5J2QEwH+zMtQAzhVPrXg
+! Checksum: WeQsHAY8rKdNoeZI1qcJzA
 ! Title: AdGuard Tracking Protection filter
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
-! Version: 2.0.84.62
-! TimeUpdated: 2025-05-09T15:07:01+00:00
+! Version: 2.0.84.63
+! TimeUpdated: 2025-05-09T17:06:38+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -63363,6 +63363,8 @@ d4?appid*type*
 @@||mc.yandex.ru/metrika/tag.js$domain=7flowers.ru
 !@@||mc.yandex.ru/metrika/watch.js$domain=
 !
+! https://github.com/uBlockOrigin/uAssets/issues/28213
+@@||cdn.segment.com/analytics.js/*/analytics.min.js$script,domain=accounts-bc.com
 ! https://github.com/easylist/easylist/pull/10345
 @@||cdn.petametrics.com^$script,domain=mechacomic.jp
 @@||query.petametrics.com^$image,xmlhttprequest,domain=mechacomic.jp
