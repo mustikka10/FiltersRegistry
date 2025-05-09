@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: WUGHGnVVPEYmdd4bsDuiaA
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746817837-3600.patch
+! Checksum: d2HFay3ziDSHWDAI48I8Gg
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746821502-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.82.84
-! TimeUpdated: 2025-05-09T19:05:56+00:00
+! Version: 2.3.82.85
+! TimeUpdated: 2025-05-09T20:07:16+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -48380,6 +48380,9 @@ $subdocument,third-party,denyallow=disqus.com,domain=welovemanga.one
 ! NOTE: Specific rules
 !
 !
+cinejosh.com##.stick-desktop-right
+cinejosh.com##.rw_footer_sticky
+cinejosh.com##span > div.text-center:has(> div.googleAdsSponsered)
 ||m.media-amazon.com/images/S/al-*.mp4$media,domain=imdb.com
 filmyfocus.com##+js(abort-on-property-write, isRoadBlock)
 filmyfocus.com###popup

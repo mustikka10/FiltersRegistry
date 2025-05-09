@@ -1,9 +1,9 @@
-! Checksum: Tmtb38HIgtfxQe+PQKxfDw
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1746817840-3600.patch
+! Checksum: KLlUWn2BkTk/A67pLhFqhw
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1746821505-3600.patch
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.84
-! TimeUpdated: 2025-05-09T19:05:56+00:00
+! Version: 2.3.82.85
+! TimeUpdated: 2025-05-09T20:07:16+00:00
 ! Expires: 5 days (update frequency)
 ||edertauvaisoo.net^
 ||pkphftlpkxbhk.com^
@@ -14284,6 +14284,9 @@ $xmlhttprequest,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.l
 $subdocument,third-party,denyallow=disqus.com,domain=welovemanga.one
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com|zinchanmanga.com|yaoimangaonline.com|tututweak.app|mangaraw.ac|eromanga-show.com|hentai-one.com|hentaipaw.com|nukibooks.com|paipancon.com|jgvdata.com|youtubevanced.com
+cinejosh.com##.stick-desktop-right
+cinejosh.com##.rw_footer_sticky
+cinejosh.com##span > div.text-center:has(> div.googleAdsSponsered)
 ||m.media-amazon.com/images/S/al-*.mp4$media,domain=imdb.com
 filmyfocus.com#%#//scriptlet('abort-on-property-write', 'isRoadBlock')
 filmyfocus.com###popup
