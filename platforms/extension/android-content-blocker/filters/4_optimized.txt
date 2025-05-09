@@ -1,4 +1,4 @@
-! Checksum: IZZ300/d4iqoCawbF2PupA
+! Checksum: BC1+FNmQkJMknP7guHk1/Q
 ! Title: AdGuard Social Media filter (Optimized)
 ! Description: Filter for social media widgets such as 'Like' and 'Share' buttons and more.
 ! Version: 2.1.14.35
@@ -396,7 +396,6 @@ nysenate.gov##.nys-openleg-result-share
 gamewith.jp##.w-share-ui
 pro.similarweb.com##div[class^="WeshareContainer"]
 affaritaliani.it##.btn-share-cnt
-sigmatv.com##.sliding_share_btns
 patakis.gr##.book__share
 idos.cz##.share-button--fb
 app.nimbusweb.me##.nns-toggle-share
@@ -1992,6 +1991,7 @@ ifun.de###viewport-share
 ifun.de###article-single-share-content
 forbes.com##.mobile-social-icons
 espncricinfo.com##.icon-share-filled
+kakomonn.com##footer > div[style="text-align: center;"]
 pbs.org###pbs-share
 spravportal.ru###pnlShare
 nikkei-cnbc.co.jp##.side_facebook
@@ -3293,6 +3293,7 @@ emais.estadao.com.br##.social-midias
 pay.rakuten.co.jp##.rp-social
 gorodrabot.by##.sidebar > aside.block.d-print-none
 storm.mg##.article_sns_btn
+timeturk.com##.share-space
 yargiyayinevi.com###product-buttons
 flatout.com.br##.share_video
 mapfan.com##mf-share-button
@@ -4499,6 +4500,7 @@ voyeurex.com,miomio.guru,9tsu.info,9tsu.me,koravidstream.com##.open-share-toolba
 lybrate.com###shareBtnLeft
 apollomaniacs.com###socialbookmark
 thedubrovniktimes.com,smart-grids.pl###ampz_inline_bottom
+fitness.wp.pl##.share-links > a:not(.link-comments)
 reuters.com##ul[class^="ShareButtons__container___"]
 shouginews.blog.jp,chansoku.com,kanpo-kanpo.blog.jp,yurukuyaru.com##.article-social-btn
 kicker.de##.kick__article__social
@@ -4987,6 +4989,7 @@ prostomob.com##footer + div[class]
 wowkorea.jp,pazarlamasyon.com,posta.com.tr##.news-detail__share
 newwell.com.tr,maisfutebol.iol.pt##.shareDiv
 ehow.com##.component-pinterest
+letsstudytogether.co,techtoday.in.ua##.td-post-sharing-classic
 ichip.ru##body .article-action
 medrxiv.org##.service-links > a[href^="/highwire_log/share/"]
 waterstones.com##.action-share-container
@@ -5334,6 +5337,7 @@ ura.news,rbc.ua##.publication-social
 comments.ua##.wrapper-social
 wgospodarce.pl##.meta__share-list
 disboards.com##div[data-widget-key="shareThisPage"]
+atvavrupa.tv,atv.com.tr##.share-media
 onet.pl##div[class][data-run-module^="embeddedapp/main.sharethis_"][data-gtm-social]
 bolasport.com,motorplus-online.com,gridoto.com##.read_content--share
 mthai.com##.fb-widgets
@@ -5369,6 +5373,7 @@ wcostream.com###sharing_buttons
 tribunnews.com##.theader > #sf
 ntv.com.tr##.social-items
 my.mail.ru##.sp-video__item-page-new__share
+vmo24.ru##.b-list-soc-share
 mgronline.com##.csl-share
 nld.com.vn,tuoitre.vn##a[onclick^="fbClient.shareClick"]
 nld.com.vn,thanhnien.vn##.sendsocial

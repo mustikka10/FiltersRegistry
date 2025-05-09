@@ -1,4 +1,4 @@
-! Checksum: ygkmV93zEySHbX77qqKkzQ
+! Checksum: Ks9jiz34R53HtJs6AK2c9A
 ! Title: AdGuard Mobile App Banners filter (Optimized)
 ! Description: Blocks irritating banners that promote mobile apps of websites.
 ! Version: 2.0.20.72
@@ -211,6 +211,7 @@ news18.com##div[class*="install_app"]
 cepteteb.com.tr#$#html { margin-top: 0px !important; }
 ctvnews.ca##.polopoly_embed
 weathernews.jp###appdl_banner
+offsite.com.cy##.download-the-app
 livemint.com##body #openInApp
 medicalnote-qa.jp###header-app-banner
 news.ntv.co.jp##.introduction
@@ -582,6 +583,7 @@ tiktok.com##.matrix-smart-wrapper > div[class*="-DivFloatButtonWrapper "]
 prog-8.com##.app-download-links
 map.baidu.com###fis_elm__6
 map.baidu.com##.common-widget-bottom-banner-changeId
+m.economictimes.com###float_app_ET
 yay.space##.AppDownloadAds
 goo-net.com#$#.appBingWeb { display: none !important; }
 goo-net.com#$#body #page.kurumaPage { padding-top: 0 !important; }
@@ -928,6 +930,7 @@ ati.su##.apps-block
 hk.on.cc##.appinstall
 jp-news.mercari.com##.mercari-app
 stolichki.ru#$#div[class^="secondMenu__wrapper"] { top: 0 !important; }
+mondo.me##.footer-promo-banner
 flipboard.com##.cta-banner-redesigned
 flipboard.com##a[data-vars-button-name="main-nav-get-app-cta"]
 flipboard.com#$#body { overflow: visible!important; position: static!important; }

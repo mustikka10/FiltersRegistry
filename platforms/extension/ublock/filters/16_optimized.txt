@@ -1,6 +1,6 @@
 ![Adblock Plus 2.0]
-! Checksum: p316DHVuSkbSBoqzEHLJAA
-! Diff-Path: ../patches/16_optimized/16_optimized-s-1746720789-3600.patch
+! Checksum: 8FzDXr/tOzC8CvDTUpoYqg
+! Diff-Path: ../patches/16_optimized/16_optimized-s-1746758401-3600.patch
 ! Title: AdGuard French filter (Optimized)
 ! Description: Liste FR + AdGuard French filter. Filter list that specifically removes ads on websites in French language.
 ! Version: 2.0.52.26
@@ -791,6 +791,7 @@ uokufa.edu.iq#@#.e3lan
 familjeliv.se#@#div[data-ad]
 ||dailycaller.com^$badfilter
 @@||go.redirectingat.com/*&url=$popup,domain=slickdeals.net
+@@||partners.pekao.com.pl^$domain=pekaopartnerprodb2c.b2clogin.com
 @@||billboard-japan.com/common/sys/*/publicity.*
 $subdocument,third-party,domain=streamtape.com,badfilter
 lachainemeteo.com#@#.ad-side
@@ -1412,6 +1413,7 @@ alfresco-holidays.com,alfresco-holidays.nl,alfresco-camping.de,eurocamp.co.uk#@#
 ://banner.*click
 ://banner.*utm_
 ://banners2.$third-party
+://be.ads.
 ://block.*/rotator-$script
 ://cdn.*/p/?zid=
 ://cdn.ad.
@@ -1565,6 +1567,7 @@ _publicite_
 _smads_
 _square_ads.
 _werbebanner_
+/wp-content/*/bloc-partenaire-
 /wp-content/banners/*$third-party
 /wp-content/plugins/bazooka-shopping/*
 /wp-content/plugins/easy-affiliate-links/*
@@ -1693,6 +1696,7 @@ _build=iclick-$popup
 ||adwise.bg^$third-party
 ||affilae.com^$third-party
 ||affiliatable.io^$third-party
+||affiliatehub.co.in^$third-party
 ||affility.com^$third-party
 ||afilio.com.br^$third-party
 ||algocashmaster.com^$third-party
@@ -1700,11 +1704,13 @@ _build=iclick-$popup
 ||aquaplatform.com^$third-party
 ||askmecca.com^$third-party
 ||atedra.com^$third-party
+||avantajadas.com.br^$third-party
 ||bazardux.com^$third-party
 ||best-deals-products.com^$third-party
 ||bestcontentwork.top^$third-party
 ||betterbannerscloud.com^$third-party
 ||biznolimit.com^$third-party
+||blogbang.com^$third-party
 ||broadcast.pm^$third-party
 ||bzlwe.com^$third-party
 ||camsoda.com^$third-party
@@ -1906,7 +1912,6 @@ _build=iclick-$popup
 ||accommodateyours.com^
 ||accomplishedpersuadedprinter.com^
 ||accountantflowerrespiration.com^
-||acervalpaussid.com^
 ||achyrepeatitchy.com^
 ||acrepantherrecite.com^
 ||actionrtb.com^
@@ -1940,7 +1945,6 @@ _build=iclick-$popup
 ||animeplaynow.com^
 ||apartgamble.com^
 ||apartmentsellerprotest.com^
-||aperytaplet.com^
 ||aphizoguntaken.click^
 ||apl373.me^
 ||apogoncaviars.shop^
@@ -1969,7 +1973,6 @@ _build=iclick-$popup
 ||bestfreecounterstat.com^
 ||betulinherl.shop^
 ||bhabhiporn.pro^
-||bilgetha.com^
 ||biokrfvnvs.com^
 ||bitonlyana.live^
 ||bkrkv.com^
@@ -1986,7 +1989,6 @@ _build=iclick-$popup
 ||bowlingunauthorized.com^
 ||bracecherry.com^
 ||brashstudiocrucial.com^
-||broganaphylly.com^
 ||brunettemattersrefused.com^
 ||bubblyzucchini.com^
 ||burkhahemoid.com^
@@ -2002,7 +2004,6 @@ _build=iclick-$popup
 ||cgqhtithixi.com^
 ||chaiserepiece.com^
 ||charityflopchristening.com^
-||chasmalsacques.shop^
 ||chaxidroat.net^
 ||chokagehoast.com^
 ||ckdxbragemqum.com^
@@ -2018,7 +2019,6 @@ _build=iclick-$popup
 ||coodleborstal.com^
 ||copalmsbeno.shop^
 ||cpmterra.com^
-||craniolenfoil.shop^
 ||craydark.pw^
 ||cstwpush.com^
 ||ctralokppdug.com^
@@ -2045,7 +2045,6 @@ _build=iclick-$popup
 ||dlyarecnew.me^
 ||dmsik.com^
 ||doathair.com^
-||dobteased.com^
 ||dockdigestion.com^
 ||dogrotleer.com^
 ||douveejoalastu.net^
@@ -2062,7 +2061,6 @@ _build=iclick-$popup
 ||ecijrxibrulgnb.com^
 ||eddnxllt.com^
 ||ediva.gr^
-||educingbirle.shop^
 ||efcybuvko.com^
 ||efortiessdate.net^
 ||ekkrgsqygqp.com^
@@ -2072,7 +2070,6 @@ _build=iclick-$popup
 ||engridfanlike.com^
 ||enmbg.com^
 ||eshii.ru^
-||essayedduftite.com^
 ||etpsn.com^
 ||euboicarmpit.top^
 ||expansioneggnog.com^
@@ -2087,7 +2084,6 @@ _build=iclick-$popup
 ||farawayinstallation.com^
 ||farflung-switch.com^
 ||fasder12.ru^
-||fastestmoray.shop^
 ||fastgnmx.com^
 ||favorsbch.com^
 ||fbqtjbxdpr.com^
@@ -2095,7 +2091,6 @@ _build=iclick-$popup
 ||fckbxx.com^
 ||fcs.ovh^
 ||fdsur.com^
-||fertojolalsu.net^
 ||festyy.com^
 ||find-newgirl.com^
 ||findyouramour.com^
@@ -2109,7 +2104,6 @@ _build=iclick-$popup
 ||formalhood.com^
 ||foundtr.com^
 ||fragrantanger.com^
-||freckedpotboil.shop^
 ||friendlybunny.com^
 ||fumiercrapper.com^
 ||functionssubqueries.com^
@@ -2137,7 +2131,6 @@ _build=iclick-$popup
 ||groundlesscobwebmiller.com^
 ||grwtyolb.org^
 ||gsznojgkyw.com^
-||gudgeonfrisch.top^
 ||gumdropolena.com^
 ||gxxcbj.com^
 ||hailofficemeasure.com^
@@ -2146,19 +2139,15 @@ _build=iclick-$popup
 ||hdtcode.com^
 ||heaplap.com^
 ||heaptube.com^
-||heapunlax.com^
 ||hedraighugru.net^
 ||heloninremake.shop^
 ||hemnes.win^
 ||herdethi.net^
-||herdicchilla.shop^
 ||herehotdate.com^
 ||hexatztydp.com^
 ||hfpfwnozkcis.com^
-||hideousunbaked.shop^
 ||hjj.pw^
 ||hokangreys.com^
-||holdupmarauds.top^
 ||hooligapps.com^
 ||hostileconductive.com^
 ||hotdatehaven.com^
@@ -2194,8 +2183,6 @@ _build=iclick-$popup
 ||jaimirozadair.net^
 ||jegyojben.com^
 ||jetm-tech.net^
-||jkbewmebyqbob.top^
-||jobbettypps.com^
 ||jrrryblznaaqa.top^
 ||jscdndel.com^
 ||jsecoin.com^
@@ -2221,7 +2208,6 @@ _build=iclick-$popup
 ||langretsahibah.com^
 ||largeconfusion.com^
 ||laserveradedomaina.com^
-||lateststarten.shop^
 ||lend-rb.bid^
 ||lgxdwxzgfxvy.com^
 ||licertle.co^
@@ -2261,7 +2247,6 @@ _build=iclick-$popup
 ||monetizze.com.br^
 ||montondirgy.com^
 ||moredatefind.com^
-||morinelbewater.com^
 ||mousheen.net^
 ||moyslovar.ru^
 ||mr2cnjuh34jb.com^
@@ -2278,11 +2263,9 @@ _build=iclick-$popup
 ||ndyzz.com^
 ||neatsafety.com^
 ||nefrvjfkzus.com^
-||nettcruet.top^
 ||newscode.me^
 ||newup.bid^
 ||nigrebud.net^
-||nirvanaimbalms.shop^
 ||niubixxx.com^
 ||nkzfdaoyujgib.com^
 ||nnvkh.com^
@@ -2301,6 +2284,7 @@ _build=iclick-$popup
 ||ojhniewdwtiuqd.com^
 ||omvenusaurchan.com^
 ||onemontay.ru^
+||onotube.com^
 ||onykekwbyyita.com^
 ||oocyststaker.shop^
 ||oodaiwhauz.net^
@@ -2320,9 +2304,7 @@ _build=iclick-$popup
 ||papoto.com^
 ||peanutrefusesplit.com^
 ||pedarypignon.com^
-||peeletarapon.shop^
 ||penningnatraj.com^
-||penticeurushi.com^
 ||pertholin.com^
 ||pgvpnkgp.com^
 ||phenver.com^
@@ -2430,7 +2412,6 @@ _build=iclick-$popup
 ||shpuzesoxyfhh.com^
 ||shuffele.com^
 ||silimbompom.com^
-||sinopiacoronal.top^
 ||skymedia7.me^
 ||slaitottawa.com^
 ||slideslive.com^
@@ -2439,7 +2420,6 @@ _build=iclick-$popup
 ||smart2cnjuh34jb.com^
 ||smartoffer.site^
 ||smnyayzhv.com^
-||socieslentile.com^
 ||sodhef.com^
 ||soknm.com^
 ||solemndates.com^
@@ -2455,7 +2435,6 @@ _build=iclick-$popup
 ||supportxmr.com^
 ||surfcountor.com^
 ||swatledgesling.com^
-||swordsgorble.top^
 ||t4ce4ma.shop^
 ||tacanunmuted.top^
 ||talktomeplease.biz^
@@ -2470,7 +2449,6 @@ _build=iclick-$popup
 ||tetabesl.info^
 ||tfpipnwengia.com^
 ||thaimtotchouz.net^
-||thebainpushtu.com^
 ||theirsneedful.com^
 ||thepsotsaims.com^
 ||thewhizproducts.com^
@@ -2484,7 +2462,6 @@ _build=iclick-$popup
 ||travelaudience.com^
 ||trustiseverything.de^
 ||tryonline.bid^
-||trypacesious.shop^
 ||tsuwyehyxvis.com^
 ||ttsycqxjvgrya.xyz^
 ||turbo-cdn.net^
@@ -2520,7 +2497,6 @@ _build=iclick-$popup
 ||vukksmubicecx.com^
 ||vws4brkfst.com^
 ||vzbl.eu^
-||waglingswarmy.shop^
 ||wardersmonkess.shop^
 ||waugauwhaigrur.net^
 ||wbmppowvqrcfn.com^
@@ -2650,6 +2626,7 @@ _build=iclick-$popup
 ||trynectar.ai^$popup,third-party
 ||uaadi.com^$popup,third-party
 ||weborama.fr^$popup,third-party
+||yes-messenger.com^$popup,third-party
 ||yggtorrent.com^$popup
 ||zaful.com^$popup,third-party
 $csp=default-src 'self' 'unsafe-inline' data: *.bootstrapcdn.com *.cloudatacdn.com *.cloudflare.com *.doodcdn.co *.doodcdn.com *.doodcdn.io *.google.com *.googleapis.com *.gstatic.com *.hcaptcha.com *.jquery.com *.jwpcdn.com *.plyr.io *.recaptcha.net *.tapecontent.net *.veev.to *.veevcdn.co *.video-delivery.net *.youtube.com *.zencdn.net,domain=adblockeronstreamtape.xyz|adblockplustape.com|adblockplustape.xyz|adblockstreamtape.art|adblockstreamtape.site|adblockstrtape.link|d0000d.com|d000d.com|do0od.com|do7go.com|dood.la|dood.li|dood.pm|dood.re|dood.sh|dood.so|dood.to|dood.watch|dood.wf|dood.work|dood.ws|dood.yt|doods.pro|doodstream.co|doodstream.com|doodstream.me|dooodster.com|dooood.com|gettapeads.com|noblocktape.com|shavetape.cash|stapadblockuser.xyz|stapewithadblock.monster|strcloud.club|strcloud.link|streamadblocker.xyz|streamadblockplus.com|streamadblockplus.xyz|streamta.pe|streamtape.cc|streamtape.com|streamtape.net|streamtape.to|streamtape.xyz|streamtapeadblock.art|strtape.cloud|strtape.site|strtape.tech|strtapeadblock.club|strtapeadblock.me|tapenoads.com|tapewithadblock.org|veev.to|vidply.com|watchadsontape.com
@@ -3367,6 +3344,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshrinks.com|a
 ###pubContainer
 ###pubHaut
 ###pubHeader
+###pubImg
 ###pubLeft
 ###pubRight
 ###pubTop
@@ -4072,6 +4050,7 @@ radiofrance.fr##.PopSlot
 marmiton.org##.RCP__sc-i1pqes-4
 amazon.fr##.a-link-normal[href*="&adId="]
 cotemaison.fr##.actu_pub
+lagazettedescommunes.com##.actus-home-right-pub
 aerobuzz.fr,allodocteurs.fr,auchan.fr,courrierinternational.com,directvelo.com,dna.fr,e-sante.fr,fabriquer-des-meubles.fr,freepik.com,gamer-network.fr,gqmagazine.fr,journalmetro.com,lachainemeteo.com,ladepeche.fr,lematin.ch,lequotidiendumedecin.fr,lopinion.fr,marques.expert,msn.com,p-nintendo.com,photo.fr,rue89lyon.fr,smail.fr,soundlightup.com,tetu.com,truecaller.com,ubergizmo.com,webtor.io,zapiks.fr##.ad
 basketusa.com##.ad-large
 eurosport.fr##.ad.mpu
@@ -4463,6 +4442,7 @@ zataz.com#?#.custom-sidebar:-abp-has(h3:-abp-contains(/Partenaires|Publicité/))
 @@||partners.doctolib.fr/doctors/detect_partner_profile?$script,third-party,domain=aphp.fr
 @@||partners.doctolib.fr^$subdocument,third-party
 @@||publicwww.com/images/labels.$image,~third-party
+@@||syndication.twitter.com/tweets.json?*&ids=*&lang=*&suppress_response_codes=$script
 @@||a.lulucdn.com/js/$script,domain=lulu.st|lulustream.com|luluvdo.com
 @@||a.lulucdn.com/player/$script,domain=lulu.st|lulustream.com|luluvdo.com
 @@||ab.9xbud.com/extract|$xmlhttprequest,domain=9xbuddy.online

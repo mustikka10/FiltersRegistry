@@ -1,5 +1,5 @@
-! Checksum: ZbZDHngMcJilPbLAQCNB0A
-! Diff-Path: ../patches/4_optimized/4_optimized-s-1746754765-3600.patch
+! Checksum: SQfstJ+c9ZS7QmLj/U47Qw
+! Diff-Path: ../patches/4_optimized/4_optimized-s-1746758400-3600.patch
 ! Title: AdGuard Social Media filter (Optimized)
 ! Description: Filter for social media widgets such as 'Like' and 'Share' buttons and more.
 ! Version: 2.1.14.35
@@ -439,7 +439,6 @@ pro.similarweb.com##div[class^="WeshareContainer"]
 affaritaliani.it##.btn-share-cnt
 auto.ru#?#div[class^="SectionBlock"] > div.HoveredTooltip__trigger:has(> button > div[class^="Button"][class*="content-"]:contains(Поделиться))
 pixiv.net##section > div[class^="sc-"]:has(> button > svg > path[d^="M17,9.91842728"][d$="25,17 Z"])
-sigmatv.com##.sliding_share_btns
 patakis.gr##.book__share
 idos.cz##.share-button--fb
 maziyabacity.com,audee-membership.jp##.MuiBox-root:has(> .react-share__ShareButton)
@@ -2385,6 +2384,7 @@ ifun.de###viewport-share
 ifun.de###article-single-share-content
 forbes.com##.mobile-social-icons
 espncricinfo.com##.icon-share-filled
+kakomonn.com##footer > div[style="text-align: center;"]
 pbs.org###pbs-share
 spravportal.ru###pnlShare
 nikkei-cnbc.co.jp##.side_facebook
@@ -3693,6 +3693,7 @@ emais.estadao.com.br##.social-midias
 pay.rakuten.co.jp##.rp-social
 gorodrabot.by##.sidebar > aside.block.d-print-none
 storm.mg##.article_sns_btn
+timeturk.com##.share-space
 yargiyayinevi.com###product-buttons
 flatout.com.br##.share_video
 mapfan.com##mf-share-button
@@ -4899,6 +4900,7 @@ voyeurex.com,miomio.guru,9tsu.info,9tsu.me,koravidstream.com##.open-share-toolba
 lybrate.com###shareBtnLeft
 apollomaniacs.com###socialbookmark
 thedubrovniktimes.com,smart-grids.pl###ampz_inline_bottom
+fitness.wp.pl##.share-links > a:not(.link-comments)
 reuters.com##ul[class^="ShareButtons__container___"]
 shouginews.blog.jp,chansoku.com,kanpo-kanpo.blog.jp,yurukuyaru.com##.article-social-btn
 kicker.de##.kick__article__social
@@ -5387,6 +5389,7 @@ prostomob.com##footer + div[class]
 wowkorea.jp,pazarlamasyon.com,posta.com.tr##.news-detail__share
 newwell.com.tr,maisfutebol.iol.pt##.shareDiv
 ehow.com##.component-pinterest
+letsstudytogether.co,techtoday.in.ua##.td-post-sharing-classic
 ichip.ru##body .article-action
 medrxiv.org##.service-links > a[href^="/highwire_log/share/"]
 waterstones.com##.action-share-container
@@ -5734,6 +5737,7 @@ ura.news,rbc.ua##.publication-social
 comments.ua##.wrapper-social
 wgospodarce.pl##.meta__share-list
 disboards.com##div[data-widget-key="shareThisPage"]
+atvavrupa.tv,atv.com.tr##.share-media
 onet.pl##div[class][data-run-module^="embeddedapp/main.sharethis_"][data-gtm-social]
 bolasport.com,motorplus-online.com,gridoto.com##.read_content--share
 mthai.com##.fb-widgets
@@ -5769,6 +5773,7 @@ wcostream.com###sharing_buttons
 tribunnews.com##.theader > #sf
 ntv.com.tr##.social-items
 my.mail.ru##.sp-video__item-page-new__share
+vmo24.ru##.b-list-soc-share
 mgronline.com##.csl-share
 nld.com.vn,tuoitre.vn##a[onclick^="fbClient.shareClick"]
 nld.com.vn,thanhnien.vn##.sendsocial
@@ -7191,6 +7196,7 @@ cyberleninka.ru#?#.half:has(> .social-likes)
 eurosport.ru#?#.col-content div[class]:has(> span[target="_blank"] > div[data-social="share"])
 24tv.ua#?#.share-plugin-button
 gastronom.ru#?#section > div.text > div.row:has(> div.share-common)
+mihelp.ru#?#.gridlove-sidebar > div.widget:has(> div.textwidget > div#vk_groups)
 phoneky.com#?#.mod-hdr:contains(Share:)
 depo-program.blogspot.com#?#.sidebar > div.widget:has(> div.widget-content > div.g-ytsubscribe)
 mega-porno.me#?##oframemega-jwplayer > pjsdiv[style]:has(> pjsdiv[style]:contains(В ЭФИРЕ)) + pjsdiv[style]
@@ -7304,6 +7310,7 @@ russiancouncil.ru#?#div:has(> b:contains(Поделиться статьей))
 relizua.com#?#.colum_right > .block:has(#vk_like)
 relizua.com#?#.colum_right > .block:has(#vk_groups)
 wd-x.ru#?#.block:has(> #share)
+vestifinance.ru#?#div:has(> div[id^="vk_groups"])
 indir.vip#?#.td-ss-main-sidebar > .td_block_template_2:has(> h4 > span:contains(Sosyal Medya:))
 oneindir.com#?#.sidebar > .enCokIndirilenler:has(>.blockTitle > h5:contains(BİZİ TAKİP EDİN))
 soft-arhiv.com#?##sidebar > div:contains(Вконтакте)
