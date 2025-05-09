@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: XNn1t3qHl0acFhCiyy5fZQ
-! Diff-Path: ../patches/106_optimized/106_optimized-s-1746736849-14400.patch
+! Checksum: GQjNeV975U6jTDyDnZf/7Q
+! Diff-Path: ../patches/106_optimized/106_optimized-s-1746751939-14400.patch
 ! Title: EasyList Dutch (Optimized)
 ! Description: Additional filter list for websites in Dutch. Already included in AdGuard Dutch filter.
-! Version: 2.1.69.53
-! TimeUpdated: 2025-05-08T20:36:16+00:00
+! Version: 2.1.69.54
+! TimeUpdated: 2025-05-09T00:47:34+00:00
 ! Expires: 5 days (update frequency)
 -reclameplaatjes/
 /adbron.

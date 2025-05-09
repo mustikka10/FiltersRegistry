@@ -1,8 +1,8 @@
-! Checksum: Oa1buzz+Yo42jlbJfsIW1Q
+! Checksum: Fg3T7QOjkDMxmjWi0UNZaQ
 ! Title: EasyList Polish (Optimized)
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.65.61
-! TimeUpdated: 2025-05-08T20:36:53+00:00
+! Version: 2.1.65.62
+! TimeUpdated: 2025-05-09T00:48:23+00:00
 ! Expires: 5 days (update frequency)
 /adserwer.
 =adv/GetAdvertisment|

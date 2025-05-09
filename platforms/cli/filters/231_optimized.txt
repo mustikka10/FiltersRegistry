@@ -1,9 +1,9 @@
-! Checksum: VGWWwzh8viHrhmXHCsZ0cA
-! Diff-Path: ../patches/231_optimized/231_optimized-s-1746736831-14400.patch
+! Checksum: 4RmY1d1YFvM4+LNlC+nPWg
+! Diff-Path: ../patches/231_optimized/231_optimized-s-1746751918-14400.patch
 ! Title: EasyList Spanish (Optimized)
 ! Description: Additional filter list for websites in Spanish.
-! Version: 2.1.69.55
-! TimeUpdated: 2025-05-08T20:36:41+00:00
+! Version: 2.1.69.56
+! TimeUpdated: 2025-05-09T00:48:09+00:00
 ! Expires: 12 hours (update frequency)
 /banner-publicidad-
 /vast_1win.xml$xmlhttprequest

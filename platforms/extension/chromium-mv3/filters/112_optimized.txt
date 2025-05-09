@@ -1,8 +1,8 @@
-! Checksum: Y3rvbVA3d36eAUhYGIkYdw
+! Checksum: j2TXPCY11rQaBgh4iuBNEw
 ! Title: Liste AR (Optimized)
 ! Description: Additional filter list for websites in Arabic.
-! Version: 2.1.69.54
-! TimeUpdated: 2025-05-08T20:36:18+00:00
+! Version: 2.1.69.55
+! TimeUpdated: 2025-05-09T00:47:38+00:00
 ! Expires: 10 days (update frequency)
 %20728x90%20
 &ad_size=

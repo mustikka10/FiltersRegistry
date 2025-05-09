@@ -1,7 +1,7 @@
 !
-! Checksum: lYY8N+LnhYbjWQbn3nWmZQ
+! Checksum: PMsjzht2x8nv4nDtc9onng
 ! Title: Fanboy's Anti-thirdparty Fonts
-! Updated: 2025-05-08 19:35 UTC
+! Updated: 2025-05-09 00:35 UTC
 ! Expires: 9 days
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: http://www.fanboy.co.nz/

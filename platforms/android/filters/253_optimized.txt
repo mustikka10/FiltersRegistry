@@ -1,9 +1,9 @@
-! Checksum: gU00ILFmlPI0X4k+JQD0VA
-! Diff-Path: ../patches/253_optimized/253_optimized-s-1746736828-14400.patch
+! Checksum: y7ebFQwtmQYlPhg7X9ZvVA
+! Diff-Path: ../patches/253_optimized/253_optimized-s-1746751915-14400.patch
 ! Title: IndianList (Optimized)
 ! Description: Additional filter list for websites in Hindi, Tamil and other Dravidian and Indic languages.
-! Version: 2.0.62.86
-! TimeUpdated: 2025-05-08T20:37:01+00:00
+! Version: 2.0.62.87
+! TimeUpdated: 2025-05-09T00:48:35+00:00
 ! Expires: 5 days (update frequency)
 -ad-mob
 -ad-space-

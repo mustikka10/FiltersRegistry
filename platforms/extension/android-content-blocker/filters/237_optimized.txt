@@ -1,8 +1,8 @@
-! Checksum: 3QmirowF5TQbB7CDUoUvGA
+! Checksum: F3yXBfZgRWWl5tt4w3zMFA
 ! Title: Polish Annoyances Filters (Optimized)
 ! Description: Filter list that hides and blocks pop-ups, widgets, newsletters, push notifications, arrows, tagged internal links that are off-topic, and other irritating elements. Polish GDPR-Cookies Filters is already in it.
-! Version: 1.0.34.92
-! TimeUpdated: 2025-05-08T16:39:53+00:00
+! Version: 1.0.34.93
+! TimeUpdated: 2025-05-09T00:48:17+00:00
 ! Expires: 5 days (update frequency)
 ||4prm.pl/*/4p_newsletter.jpg
 ||a-ajurweda.pl/images/layout/ajurweda/newsletter_ajurweda.png
@@ -4207,6 +4207,7 @@ ztedevices.com##.back-top
 ~pl###back_to_top:lang(pl)
 ~pl###m7-go-top:not(body, html, .wrapper):lang(pl)
 ~pl###mt-scrollup:not(body, html, .wrapper):lang(pl)
+~pl##.js-up.up:lang(pl)
 ~pl##.scrollup:not(body, html, .wrapper):lang(pl)
 ~pl##a.scroll-up:lang(pl)
 ~pl##button.scroll-up:lang(pl)
@@ -4221,6 +4222,7 @@ pl###s5_scrolltop_a:not(body, html, .wrapper)
 pl###scroll-top:not(body, html, .page, .wrapper)
 pl###to-top:not(body, html, .wrapper)
 pl###totop:not(body, html, .wrapper)
+pl##.js-up.up
 pl##.jump-to-top:not(body, html, .wrapper)
 pl##.scroll-top-wrapper:not(body, html, .wrapper)
 pl##.scroll_top:not(body, header, html, .wrapper)
@@ -7430,6 +7432,7 @@ dreamjump.pl##.CookieMonster
 dreammachines.pl###qkies_info
 dressler.com.pl,install-it.pl,selgros24.pl,testuj.pl,wydawnictwoolesiejuk.pl,wydawnictwoswiatksiazki.pl##.overlay
 dropbox.com###consent-iframe
+dropbox.com##.ccpa-iframe-portal
 drtusz.pl###cookie_info_text
 drumshop.pl###cookiesblock-wrapper
 drzwioknabramy.eu,spacetronik.eu###x13pmcookiebar

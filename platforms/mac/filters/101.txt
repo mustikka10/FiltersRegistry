@@ -1,14 +1,14 @@
-! Checksum: e9TRTRUL4lR+5ktuRZYEsQ
+! Checksum: ioeYaoIh1GGll3tFlM0+kw
 ! Title: EasyList
 ! Description: EasyList is the primary subscription that removes adverts from web pages in English. Already included in AdGuard Base filter.
-! Version: 2.1.46.56
-! TimeUpdated: 2025-05-08T20:36:13+00:00
+! Version: 2.1.46.57
+! TimeUpdated: 2025-05-09T00:47:30+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: buRFVLMviDAus1Gy+tFVtQ
-! OriginalVersion: 202505082021
+! Checksum: 29pwxDA4np1oCTE5Iw2xNw
+! OriginalVersion: 202505090041
 ! Title: EasyList
-! Last modified: 08 May 2025 20:21 UTC
+! Last modified: 09 May 2025 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18171,6 +18171,7 @@ browsershots.org#@#.advert_area
 ||arakcdn.com^
 ||aralego.com^
 ||aralomomolachan.com^
+||aramb.site^
 ||araneidboruca.com^
 ||arbersunroof.com^
 ||arbourrenewal.com^
@@ -18509,6 +18510,7 @@ browsershots.org#@#.advert_area
 ||attacarbo.com^
 ||attacheatableoverlabor.com^
 ||attachedkneel.com^
+||attainthreatfluffy.com^
 ||attaintobiit.shop^
 ||attemptingstray.com^
 ||attempttensionfrom.com^
@@ -22002,7 +22004,6 @@ browsershots.org#@#.advert_area
 ||d03ab571b4.com^
 ||d08l9a634.com^
 ||d0main.ru^
-||d133y3h5r255gq.cloudfront.net^
 ||d15a035f27.com^
 ||d170971757.com^
 ||d1a0c6affa.com^
@@ -22010,14 +22011,9 @@ browsershots.org#@#.advert_area
 ||d1x9q8w2e4.xyz^
 ||d24ak3f2b.top^
 ||d29gqcij.com^
-||d2a0tn74luqqde.cloudfront.net^
-||d2a0wk9ahruyzx.cloudfront.net^
-||d2c2pscv8ayc0e.cloudfront.net^
-||d2hdyssxn6lpj2.cloudfront.net^
 ||d2ship.com^
 ||d3d30ac9d4.com^
 ||d3edbb478c.com^
-||d3pk1qkob3uzgp.cloudfront.net^
 ||d43849fz.xyz^
 ||d44501d9f7.com^
 ||d49ae3cc10.com^
@@ -22812,7 +22808,6 @@ browsershots.org#@#.advert_area
 ||dlrectdates.com^
 ||dlski.space^
 ||dlssuizl.art^
-||dm50eugvywuiu.cloudfront.net^
 ||dmadehimalowb.com^
 ||dmavtliwh.global^
 ||dmeukeuktyoue.info^
@@ -23240,6 +23235,7 @@ browsershots.org#@#.advert_area
 ||dynsrvtbg.com^
 ||dynsrvtyu.com^
 ||dynssp.com^
+||dyogndyfpctbo.xyz^
 ||dyptanaza.com^
 ||dysenteryappeal.com^
 ||dysfunctionalrecommendation.com^
@@ -23782,6 +23778,7 @@ browsershots.org#@#.advert_area
 ||eoveukrnme.info^
 ||eoweridus.com^
 ||epacash.com^
+||epaxialcyclize.shop^
 ||epededonemile.com^
 ||epersaonwhois.com^
 ||epffwffubmmdokm.com^
@@ -24293,6 +24290,7 @@ browsershots.org#@#.advert_area
 ||faugrich.info^
 ||faugstat.info^
 ||faukoochoogroo.net^
+||fauphauvuzeey.net^
 ||fauphoaglu.net^
 ||fausamoawhisi.net^
 ||fauseepetoozuk.xyz^
@@ -24319,6 +24317,7 @@ browsershots.org#@#.advert_area
 ||fc29334d79.com^
 ||fc3ppv.xyz^
 ||fc5d7c4624.com^
+||fcb6adad17.com^
 ||fcc217ae84.com^
 ||fccinteractive.com^
 ||fceedf7652.com^
@@ -24798,6 +24797,7 @@ browsershots.org#@#.advert_area
 ||forensicssociety.com^
 ||foreseegigglepartially.com^
 ||forestallunconscious.com^
+||forethema.com^
 ||forexclub.ru^
 ||forfarscarotin.top^
 ||forfeitsubscribe.com^
@@ -25121,6 +25121,7 @@ browsershots.org#@#.advert_area
 ||fzivunnigra.com^
 ||fziwzaalp.com^
 ||fzmflvwn.tech^
+||fzyvmvomphvvws.com^
 ||g-xtqrgag.rocks^
 ||g0-g3t-msg.com^
 ||g0-g3t-msg.net^
@@ -25299,6 +25300,7 @@ browsershots.org#@#.advert_area
 ||gdecordingholo.info^
 ||gdeigri.com^
 ||gdktgkjfyvd.xyz^
+||gdliuymvftdwvm.xyz^
 ||gdmconvtrck.com^
 ||gdmgsecure.com^
 ||gdrcaguddyj.space^
@@ -25553,6 +25555,7 @@ browsershots.org#@#.advert_area
 ||glaignoopty.net^
 ||glaijauk.xyz^
 ||glaikrolsoa.com^
+||glaikroohy.net^
 ||glaiksoachou.com^
 ||glairsbecchi.top^
 ||glaisseexoar.net^
@@ -26799,6 +26802,7 @@ browsershots.org#@#.advert_area
 ||hoodboth.com^
 ||hoodentangle.com^
 ||hoodingluster.com^
+||hoodlumbragget.com^
 ||hoodoosdonsky.com^
 ||hoofexcessively.com^
 ||hooglaibou.net^
@@ -28205,6 +28209,7 @@ browsershots.org#@#.advert_area
 ||jsmpus.com^
 ||jsontdsexit.com^
 ||jsretra.com^
+||jsrietozbpfsj.com^
 ||jssearch.net^
 ||jtclvwseqvejily.xyz^
 ||jtegqwmjfxu.site^
@@ -28321,6 +28326,7 @@ browsershots.org#@#.advert_area
 ||k55p9ka2.de^
 ||k5zoom.com^
 ||k68tkg.com^
+||kaakfwbhq.com^
 ||kaarheciqa.xyz^
 ||kaascypher.com^
 ||kabakamarbles.top^
@@ -28998,6 +29004,7 @@ browsershots.org#@#.advert_area
 ||lcyyiadh.com^
 ||ldjcteyoq.com^
 ||ldjudcpc-qxm.icu^
+||ldkgwoqtxzbolx.com^
 ||ldmeukeuktyoue.com^
 ||ldthinkhimun.com^
 ||ldubnqhe.digital^
@@ -29631,6 +29638,7 @@ browsershots.org#@#.advert_area
 ||luggieimpeyan.top^
 ||lugwzalsqvacb.one^
 ||luhhcodutax.com^
+||luhmeqkcjix.com^
 ||lukeinoffensive.com^
 ||lukyday.xyz^
 ||lumaktoys.com^
@@ -30497,6 +30505,7 @@ browsershots.org#@#.advert_area
 ||mobicont.com^
 ||mobicow.com^
 ||mobifobi.com^
+||mobileays.top^
 ||mobiledevel.com^
 ||mobileoffers-dld-download.com^
 ||mobileoffers-ep-download.com^
@@ -31309,6 +31318,7 @@ browsershots.org#@#.advert_area
 ||niyimu.xyz^
 ||nizarstream.xyz^
 ||nizationservanta.com^
+||njamlucohwrgu.com^
 ||njicuiabvwawm.one^
 ||njmhklddv.xyz^
 ||njmhnurksjktt.buzz^
@@ -31490,6 +31500,7 @@ browsershots.org#@#.advert_area
 ||npvgghqmsehdq.club^
 ||npvos.com^
 ||npykxfaypqrtf.love^
+||nqbtlgapfspoy.com^
 ||nqmoyjyjngc.com^
 ||nqn7la7.de^
 ||nqowmugodougu.com^
@@ -32279,6 +32290,7 @@ browsershots.org#@#.advert_area
 ||opmxizgcacc.com^
 ||opnachhihhp.com^
 ||opnodwfa.com^
+||opnvahohgcco.com^
 ||opoduchadmir.com^
 ||oponixa.com^
 ||opositeasysemblyjus.info^
@@ -32473,6 +32485,7 @@ browsershots.org#@#.advert_area
 ||otdalxhhiah.com^
 ||otekmnyfcv.com^
 ||otherofherlittle.info^
+||otherwallowssheh.com^
 ||otherwiseassurednessloaf.com^
 ||othhugcce.com^
 ||othmzasruj.com^
@@ -34604,6 +34617,7 @@ browsershots.org#@#.advert_area
 ||qr-captcha.com^
 ||qrealqezjqqaz.top^
 ||qrealqezjqqov.top^
+||qrealqezjqvrj.top^
 ||qrgip.xyz^
 ||qrifhajtabcy.com^
 ||qrkwvoomrbroo.top^
@@ -35400,6 +35414,7 @@ browsershots.org#@#.advert_area
 ||rheneapfg.com^
 ||rheoembrica.top^
 ||rhiaxplrolm.com^
+||rhinemangers.shop^
 ||rhinioncappers.com^
 ||rhizopiseparte.shop^
 ||rhoawnzfiaz.com^
@@ -35723,6 +35738,7 @@ browsershots.org#@#.advert_area
 ||rpts.org^
 ||rqazepammrl.com^
 ||rqbqlwhlui.xyz^
+||rqcwykfucoi.com^
 ||rqejawwjlakea.top^
 ||rqnvci.com^
 ||rqr97sfd.xyz^
@@ -36731,6 +36747,7 @@ browsershots.org#@#.advert_area
 ||silver-pen.pro^
 ||silveraddition.pro^
 ||silvergarbage.pro^
+||simahtkk.com^
 ||similargrocery.pro^
 ||similarpresence.com^
 ||simmeringsuitableunwoven.com^
@@ -37684,6 +37701,7 @@ browsershots.org#@#.advert_area
 ||submissionheartyprior.com^
 ||submissivecut.com^
 ||submissivejuice.com^
+||submitfaldage.shop^
 ||subovalearlish.top^
 ||subqueryrewinddiscontented.com^
 ||subscriberbeetlejackal.com^
@@ -37994,6 +38012,7 @@ browsershots.org#@#.advert_area
 ||taimachojoba.xyz^
 ||taiwhups.net^
 ||taizigly.net^
+||takabaubles.shop^
 ||takeallsoft.ru^
 ||takecareproduct.com^
 ||takegerman.com^
@@ -38875,6 +38894,7 @@ browsershots.org#@#.advert_area
 ||tragency-clesburg.icu^
 ||traglencium.com^
 ||traileroutlinerefreshments.com^
+||trained-world.pro^
 ||traitpigsplausible.com^
 ||trakaff.net^
 ||traktortds.com^
@@ -39637,6 +39657,7 @@ browsershots.org#@#.advert_area
 ||upwardsdecreasecommitment.com^
 ||uqbcz.today^
 ||uqecqpnnzt.online^
+||uqohomcgxhtjr.space^
 ||uqpmabxnbojd.com^
 ||uqqmj868.xyz^
 ||uqzoyikxsfhdr.space^
@@ -39777,6 +39798,7 @@ browsershots.org#@#.advert_area
 ||vaicheemoa.net^
 ||vaigowoa.com^
 ||vaigreekostique.com^
+||vaikeeecvys.com^
 ||vaikijie.net^
 ||vaimucuvikuwu.net^
 ||vainfulkmole.com^
@@ -40154,6 +40176,7 @@ browsershots.org#@#.advert_area
 ||vizoredcheerly.com^
 ||vjdciu.com^
 ||vjlyljbjjmley.top^
+||vjlyljbylmeel.top^
 ||vjugz.com^
 ||vkeagmfz.com^
 ||vkebctjkr.com^
@@ -41794,6 +41817,7 @@ browsershots.org#@#.advert_area
 ||zmdesf.cn^
 ||zmjagawa.com^
 ||zmkevvbavojrj.top^
+||zmkevvbavorrb.top^
 ||zmmlllpjxvxl.buzz^
 ||zmonei.com^
 ||zmvcbfmrdgner.club^
@@ -47255,6 +47279,7 @@ browsershots.org#@#.advert_area
 ||t2lgo.com^$popup
 ||taghaugh.com^$popup
 ||tagsd.com^$popup
+||takabaubles.shop^$popup
 ||takecareproduct.com^$popup
 ||takegerman.com^$popup
 ||takelnk.com^$popup
@@ -49163,6 +49188,7 @@ browsershots.org#@#.advert_area
 ||d12tu1kocp8e8u.cloudfront.net^
 ||d12ylqdkzgcup5.cloudfront.net^
 ||d12zgccgt6pwjz.cloudfront.net^
+||d133y3h5r255gq.cloudfront.net^
 ||d13gni3sfor862.cloudfront.net^
 ||d13j11nqjt0s84.cloudfront.net^
 ||d13k7prax1yi04.cloudfront.net^
@@ -49516,6 +49542,8 @@ browsershots.org#@#.advert_area
 ||d29i6o40xcgdai.cloudfront.net^
 ||d29mhxfd390ueb.cloudfront.net^
 ||d29mxewlidfjg1.cloudfront.net^
+||d2a0tn74luqqde.cloudfront.net^
+||d2a0wk9ahruyzx.cloudfront.net^
 ||d2a4qm4se0se0m.cloudfront.net^
 ||d2a80scaiwzqau.cloudfront.net^
 ||d2b12e9gh7m9il.cloudfront.net^
@@ -49527,6 +49555,7 @@ browsershots.org#@#.advert_area
 ||d2bxxk33t58v29.cloudfront.net^
 ||d2byenqwec055q.cloudfront.net^
 ||d2byrpuyl3x3q4.cloudfront.net^
+||d2c2pscv8ayc0e.cloudfront.net^
 ||d2c4ylitp1qu24.cloudfront.net^
 ||d2c8v52ll5s99u.cloudfront.net^
 ||d2camyomzxmxme.cloudfront.net^
@@ -49571,6 +49600,7 @@ browsershots.org#@#.advert_area
 ||d2h2t5pll64zl8.cloudfront.net^
 ||d2h7xgu48ne6by.cloudfront.net^
 ||d2h85i07ehs6ej.cloudfront.net^
+||d2hdyssxn6lpj2.cloudfront.net^
 ||d2ho1n52p59mwv.cloudfront.net^
 ||d2hvwfg7vv4mhf.cloudfront.net^
 ||d2i4wzwe8j1np9.cloudfront.net^
@@ -49801,6 +49831,7 @@ browsershots.org#@#.advert_area
 ||d3beefy8kd1pr7.cloudfront.net^
 ||d3bfricg2zhkdf.cloudfront.net^
 ||d3boleenfhg2gk.cloudfront.net^
+||d3bviecoc049je.cloudfront.net^
 ||d3c3uihon9kmp.cloudfront.net^
 ||d3c8j8snkzfr1n.cloudfront.net^
 ||d3cesrg5igdcgt.cloudfront.net^
@@ -49901,6 +49932,7 @@ browsershots.org#@#.advert_area
 ||d3p9nm1ictat1y.cloudfront.net^
 ||d3pe8wzpurrzss.cloudfront.net^
 ||d3phzb7fk3uhin.cloudfront.net^
+||d3pk1qkob3uzgp.cloudfront.net^
 ||d3pvcolmug0tz6.cloudfront.net^
 ||d3q33rbmdkxzj.cloudfront.net^
 ||d3q762vmkbqrah.cloudfront.net^
@@ -50086,6 +50118,7 @@ browsershots.org#@#.advert_area
 ||dm0acvguygm9h.cloudfront.net^
 ||dm0ly9ibqkdxn.cloudfront.net^
 ||dm0t14ck8pg86.cloudfront.net^
+||dm50eugvywuiu.cloudfront.net^
 ||dm62uysn32ppt.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
 ||dm7ii62qkhy9z.cloudfront.net^
@@ -50462,6 +50495,7 @@ browsershots.org#@#.advert_area
 ||chaturbate.com/in/
 ||cldup.com^$domain=androidadult.com
 ||cmix.org/teasers/
+||crakrevenue.go2cloud.org^
 ||creamgoodies.com/potd/
 ||creative.141live.com^
 ||creative.camonade.com^
