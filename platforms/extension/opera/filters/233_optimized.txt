@@ -1,9 +1,9 @@
-! Checksum: Qe4ZvSrYG9t+ENtTDlheUQ
-! Diff-Path: ../patches/233_optimized/233_optimized-s-1744576720-14400.patch
+! Checksum: NO4hOJM6ztZ3FD7sUgxfsw
+! Diff-Path: ../patches/233_optimized/233_optimized-s-1746794958-14400.patch
 ! Title: Adblock List for Finland (Optimized)
 ! Description: Finnish ad blocking filter list.
-! Version: 2.0.11.40
-! TimeUpdated: 2025-04-13T20:34:35+00:00
+! Version: 2.0.11.41
+! TimeUpdated: 2025-05-09T12:45:08+00:00
 ! Expires: 10 days (update frequency)
 ampparit.com##.ad-slot
 ap-cdn.sanomagames.com##.banner-slot-preroll
@@ -360,6 +360,7 @@ eralehti.fi,metsastysjakalastus.fi,rakennusmaailma.fi,tekniikanmaailma.fi##.Arti
 esaimaa.fi,ita-savo.fi,kouvolansanomat.fi,kymensanomat.fi,lansi-savo.fi,uutisvuoksi.fi##div[class^=ad]
 esports.pallomeri.net##.cb-banneri-uusi
 etlehti.fi,hyvaterveys.fi,soppa365.fi##.views-row:has(.is-commercial)
+etn.fi###V_ad1
 etn.fi###annonsspalt
 etn.fi###leaderboard
 etn.fi##.annonspekare

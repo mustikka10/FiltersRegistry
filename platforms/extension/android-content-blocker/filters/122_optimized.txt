@@ -1,8 +1,8 @@
-! Checksum: b+JP5r4iq/774vfxeU/fdw
+! Checksum: JKUk5ETi4I/6WXERMtaapg
 ! Title: Fanboy's Annoyances (Optimized)
 ! Description: Removes in-page pop-ups and other annoyances. Includes Fanboy's Social Blocking & EasyList Cookie Lists.
-! Version: 2.1.46.87
-! TimeUpdated: 2025-05-09T08:38:46+00:00
+! Version: 2.1.46.88
+! TimeUpdated: 2025-05-09T12:44:49+00:00
 ! Expires: 5 days (update frequency)
 /1-popupally-pro-code.js
 /arscode-ninja-popups/*$~stylesheet
@@ -6176,7 +6176,6 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ###clearfy-cookie
 ###cm-cookie-policy
 ###cm-cookie-window
-###cmplz-cookiebanner-container
 ###cmsCookieWarning
 ###cnil
 ###cokPyt
@@ -6826,7 +6825,6 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ###modal-gdpr
 ###modalLGPD
 ###modal_cookies:not(html):not(body)
-###moove_gdpr_cookie_info_bar
 ###moto-cookies-container
 ###motorsCookieMsg
 ###msCookie
@@ -7154,7 +7152,6 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ##.cmp-cookie
 ##.cmp-cookie-notification
 ##.cmp-cookie-stmt
-##.cmplz-cookiebanner
 ##.cmplz-show-banner
 ##.cmsCookieNotification
 ##.cn-position-bottom
@@ -7906,7 +7903,6 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ##.site-wide-notice--gdpr
 ##.sm-cookie-consent
 ##.snigel-cmp-framework
-##.spicy-consent-wrapper
 ##.sqrcookie
 ##.st_notification_wrap
 ##.sticky-cookie

@@ -1,9 +1,9 @@
-! Checksum: EghlhOXi4cmjGaqg0MhWNA
-! Diff-Path: ../patches/122_optimized/122_optimized-s-1746780180-14400.patch
+! Checksum: uRmjYj7GQFyaEK6jaR5KWA
+! Diff-Path: ../patches/122_optimized/122_optimized-s-1746794954-14400.patch
 ! Title: Fanboy's Annoyances (Optimized)
 ! Description: Removes in-page pop-ups and other annoyances. Includes Fanboy's Social Blocking & EasyList Cookie Lists.
-! Version: 2.1.46.87
-! TimeUpdated: 2025-05-09T08:38:46+00:00
+! Version: 2.1.46.88
+! TimeUpdated: 2025-05-09T12:44:49+00:00
 ! Expires: 10 days (update frequency)
 /1-popupally-pro-code.js
 /arscode-ninja-popups/*$~stylesheet
@@ -6376,7 +6376,6 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ###clearfy-cookie
 ###cm-cookie-policy
 ###cm-cookie-window
-###cmplz-cookiebanner-container
 ###cmsCookieWarning
 ###cnil
 ###cokPyt
@@ -7026,7 +7025,6 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ###modal-gdpr
 ###modalLGPD
 ###modal_cookies:not(html):not(body)
-###moove_gdpr_cookie_info_bar
 ###moto-cookies-container
 ###motorsCookieMsg
 ###msCookie
@@ -7354,7 +7352,6 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ##.cmp-cookie
 ##.cmp-cookie-notification
 ##.cmp-cookie-stmt
-##.cmplz-cookiebanner
 ##.cmplz-show-banner
 ##.cmsCookieNotification
 ##.cn-position-bottom
@@ -8106,7 +8103,6 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ##.site-wide-notice--gdpr
 ##.sm-cookie-consent
 ##.snigel-cmp-framework
-##.spicy-consent-wrapper
 ##.sqrcookie
 ##.st_notification_wrap
 ##.sticky-cookie
@@ -9551,7 +9547,7 @@ kika.*,shop.humle.se,59northwheels.se,generalprepper.com#%#//scriptlet('ubo-set-
 cancercentrum.se#%#//scriptlet('ubo-set-cookie.js', 'consentStored', 'true')
 cancercentrum.se#%#//scriptlet('ubo-set-cookie.js', 'analyticalConsent', 'false')
 noriel.ro#%#//scriptlet('ubo-set-cookie.js', 'isAgreed', 'no')
-varcevanje-energije.si,ibomair.com,garcia-ibanez.com,etbygg.com,dake.es,cometh-consulting.com,autocareslazara.es,aspock.com,arabesque-formation.org,acce.es,campergarage.es,aceitessatunion.com,napos.cz,apogeeagency.com,raypa.com,aiconsultores.com,produx.ch,focusonreproduction.eu,fantasyfootballgeek.co.uk,productosmanchegos.es,openfoam.org,ttisi.nl,akaanseutu.fi,lempaala.ideapark.fi,lvs.fi,juomaposti.fi,orivedensanomat.fi,pirmediat.fi,shl.fi,ylojarvenuutiset.fi,scholtenswerkplek.nl,krampouz.com#%#//scriptlet('ubo-set-cookie.js', 'cmplz_banner-status', 'dismissed')
+beerballer.com,varcevanje-energije.si,ibomair.com,garcia-ibanez.com,etbygg.com,dake.es,cometh-consulting.com,autocareslazara.es,aspock.com,arabesque-formation.org,acce.es,campergarage.es,aceitessatunion.com,napos.cz,apogeeagency.com,raypa.com,aiconsultores.com,produx.ch,focusonreproduction.eu,fantasyfootballgeek.co.uk,productosmanchegos.es,openfoam.org,ttisi.nl,akaanseutu.fi,lempaala.ideapark.fi,lvs.fi,juomaposti.fi,orivedensanomat.fi,pirmediat.fi,shl.fi,ylojarvenuutiset.fi,scholtenswerkplek.nl,krampouz.com#%#//scriptlet('ubo-set-cookie.js', 'cmplz_banner-status', 'dismissed')
 ani-one.com,insound.de,nurgutes.de,premium-hifi-shop.com,volksversand.de#%#//scriptlet('ubo-set-cookie.js', 'cookieDeclined', '1')
 meinspielplan.de#%#//scriptlet('ubo-set-cookie.js', '_msp_cc', 'yes')
 meinspielplan.de,uhrzeit123.de#%#//scriptlet('ubo-set-cookie.js', 'ga-disable', 'true')
@@ -11753,7 +11749,7 @@ kika.*,shop.humle.se,59northwheels.se,generalprepper.com#%#//scriptlet('ubo-set-
 cancercentrum.se#%#//scriptlet('ubo-set-cookie.js', 'consentStored', 'true')
 cancercentrum.se#%#//scriptlet('ubo-set-cookie.js', 'analyticalConsent', 'false')
 noriel.ro#%#//scriptlet('ubo-set-cookie.js', 'isAgreed', 'no')
-varcevanje-energije.si,ibomair.com,garcia-ibanez.com,etbygg.com,dake.es,cometh-consulting.com,autocareslazara.es,aspock.com,arabesque-formation.org,acce.es,campergarage.es,aceitessatunion.com,napos.cz,apogeeagency.com,raypa.com,aiconsultores.com,produx.ch,focusonreproduction.eu,fantasyfootballgeek.co.uk,productosmanchegos.es,openfoam.org,ttisi.nl,akaanseutu.fi,lempaala.ideapark.fi,lvs.fi,juomaposti.fi,orivedensanomat.fi,pirmediat.fi,shl.fi,ylojarvenuutiset.fi,scholtenswerkplek.nl,krampouz.com#%#//scriptlet('ubo-set-cookie.js', 'cmplz_banner-status', 'dismissed')
+beerballer.com,varcevanje-energije.si,ibomair.com,garcia-ibanez.com,etbygg.com,dake.es,cometh-consulting.com,autocareslazara.es,aspock.com,arabesque-formation.org,acce.es,campergarage.es,aceitessatunion.com,napos.cz,apogeeagency.com,raypa.com,aiconsultores.com,produx.ch,focusonreproduction.eu,fantasyfootballgeek.co.uk,productosmanchegos.es,openfoam.org,ttisi.nl,akaanseutu.fi,lempaala.ideapark.fi,lvs.fi,juomaposti.fi,orivedensanomat.fi,pirmediat.fi,shl.fi,ylojarvenuutiset.fi,scholtenswerkplek.nl,krampouz.com#%#//scriptlet('ubo-set-cookie.js', 'cmplz_banner-status', 'dismissed')
 ani-one.com,insound.de,nurgutes.de,premium-hifi-shop.com,volksversand.de#%#//scriptlet('ubo-set-cookie.js', 'cookieDeclined', '1')
 meinspielplan.de#%#//scriptlet('ubo-set-cookie.js', '_msp_cc', 'yes')
 meinspielplan.de,uhrzeit123.de#%#//scriptlet('ubo-set-cookie.js', 'ga-disable', 'true')

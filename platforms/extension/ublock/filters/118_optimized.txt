@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: Qawp5TXQNd+57GKiTss3nw
-! Diff-Path: ../patches/118_optimized/118_optimized-s-1746780191-14400.patch
+! Checksum: 7MvOq7j+YybjD89oCvDvNw
+! Diff-Path: ../patches/118_optimized/118_optimized-s-1746794964-14400.patch
 ! Title: EasyPrivacy (Optimized)
 ! Description: Privacy protection supplement for EasyList.
-! Version: 2.1.43.74
-! TimeUpdated: 2025-05-09T08:38:39+00:00
+! Version: 2.1.43.75
+! TimeUpdated: 2025-05-09T12:44:42+00:00
 ! Expires: 5 days (update frequency)
 &&sub19=undefined&sub20=undefined
 &action=js_stats
@@ -1139,10 +1139,12 @@ _webanalytics.
 &event_name=page_view&
 &ga_blocked=$image
 &l=dataLayer&cx=c
+&sst.sw_exp=
 .js?id=GTM-
 /*JmVu.js?sp=
 /*JmVu.js?tg=
 /ns.html?id=GTM-
+/send_ga4_params?
 /tag/proxy?id=G-
 ://gtm.*.js?st=
 ://load.*.js?st=$~third-party
@@ -2602,7 +2604,6 @@ omni.soundestlink.com$image
 ||singlefeed.com^$third-party
 ||singular.net^$third-party
 ||sirdata.eu^$third-party
-||sirdata.io^$third-party
 ||site24x7rum.com^$third-party
 ||siteapps.com^$third-party
 ||sitebro.com^$third-party
@@ -7492,6 +7493,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tiktokv.com/monitor_browser/
 ||tiktokv.us/monitor_browser/
 ||tilanalytics.timesinternet.in^
+||tms.abconsent.com^
 ||tms.delta.com/privacy/$image
 ||tnaflix.com/stats.php
 ||tongji-res.meizu.com^
@@ -30005,6 +30007,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||speedcurve.com/js/lux.js$script,domain=tv8.it
 @@||bdash-cloud.com/tracking-script/*/tracking.js$domain=junonline.jp
 @@||cdn.kaizenplatform.net^$script,domain=navi.onamae.com
+@@||cdn.petametrics.com^$script,domain=mechacomic.jp
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cpt.geniee.jp/hb/*/wrapper.min.js$domain=hoyme.jp
 @@||dmp.im-apps.net/pms/*/pmt.js$domain=zakzak.co.jp
@@ -30021,6 +30024,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||logly.co.jp/recommend/$image,domain=benesse.ne.jp|sponichi.co.jp
 @@||moneypartners.co.jp/web/*/fingerprint.js$~third-party
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
+@@||query.petametrics.com^$image,xmlhttprequest,domain=mechacomic.jp
 @@||rt.rtoaster.jp^$image,domain=ec-store.net
 @@||rtoaster.jp^$script,domain=cecile.co.jp|ec-store.net|jreastmall.com|lexus.jp|melonbooks.co.jp
 @@||s.yimg.jp/images/listing/tool/cv/ytag.js$domain=redstoneonline.jp|store-jp.nintendo.com
