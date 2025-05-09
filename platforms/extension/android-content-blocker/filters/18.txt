@@ -1,8 +1,8 @@
-! Checksum: OWb1LtIOGJN3EfvDNd76QQ
+! Checksum: 6S8hoPKemroed2t6PKRO2Q
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.61.45
-! TimeUpdated: 2025-05-09T02:36:23+00:00
+! Version: 2.0.61.46
+! TimeUpdated: 2025-05-09T04:09:30+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE

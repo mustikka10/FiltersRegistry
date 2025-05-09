@@ -1,8 +1,8 @@
-! Checksum: d5NqOA6Wpz6gawVCJ9IKhA
+! Checksum: jHQiHmFMC5W0Tal2NlzJXw
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.61.45
-! TimeUpdated: 2025-05-09T02:36:23+00:00
+! Version: 2.0.61.46
+! TimeUpdated: 2025-05-09T04:09:30+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2505,6 +2505,7 @@ scootertechno.com,mysize.ch,aeotec.com,geschichte-wissen.de,4kfilme.de,pk.edu.pl
 !
 ! NOTE: Regular rules
 !
+helloclue.com###gatsby-focus-wrapper > section:has(> p[class*="CookieNotification"])
 longos.com##gg-cookies-consent-pop-up
 poisknews.ru##.cookie
 wegmans.com##.component--cookie-banner

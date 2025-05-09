@@ -1,8 +1,8 @@
-! Checksum: TzsGxO7GPkRWmpiDUoi/IA
+! Checksum: AC/8bY7AOjXRoR5NDChGaA
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.69
-! TimeUpdated: 2025-05-09T01:34:57+00:00
+! Version: 2.3.82.70
+! TimeUpdated: 2025-05-09T04:08:41+00:00
 ! Expires: 5 days (update frequency)
 ||catoixeam.click^$all
 ||trgfx.b-cdn.net^$all
@@ -24202,6 +24202,7 @@ browsershots.org#@#.advert_area
 ||aksazkxmiopf.com^
 ||akutapro.com^
 ||akvrwymravra.com^
+||akvvkmqezvbaj.top^
 ||akvvkmqezvbkr.top^
 ||akxaqvanwmh.com^
 ||akxlkuodmhta.com^
@@ -24597,6 +24598,7 @@ browsershots.org#@#.advert_area
 ||ascraftan.com^
 ||asdasdad.net^
 ||asdnow.xyz^
+||asdwsxtqe.com^
 ||asensoithecb.com^
 ||aserve1.net^
 ||asewlfjqwlflkew.com^
@@ -24817,6 +24819,7 @@ browsershots.org#@#.advert_area
 ||awaidxotovdoe.online^
 ||awakeexterior.com^
 ||awardchirpingenunciate.com^
+||awareunique.pro^
 ||away-stay.com^
 ||awbbcre.com^
 ||awbbjmp.com^
@@ -25636,6 +25639,7 @@ browsershots.org#@#.advert_area
 ||bundlemoviepumice.com^
 ||bunintruder.com^
 ||bunjaraserumal.com^
+||bunkcalfcrystal.com^
 ||buoydeparturediscontent.com^
 ||bupatp.com^
 ||buqkrzbrucz.com^
@@ -26288,6 +26292,7 @@ browsershots.org#@#.advert_area
 ||comalonger.com^
 ||comarind.com^
 ||combia-tellector.com^
+||combinedawfully.com^
 ||combitly.com^
 ||combotag.com^
 ||comeadvertisewithus.com^
@@ -26372,6 +26377,7 @@ browsershots.org#@#.advert_area
 ||contact-universe.com^
 ||contactconnectnet.com^
 ||contactslovesdreampartner.com^
+||contagionsocketwilliam.com^
 ||containdistrusthumiliate.com^
 ||contalyze.com^
 ||contaminateconsessionconsession.com^
@@ -26541,6 +26547,7 @@ browsershots.org#@#.advert_area
 ||crevicedepressingpumpkin.com^
 ||crisistuesdayartillery.com^
 ||crisp-freedom.com^
+||crisp-hand.com^
 ||cristavoider.shop^
 ||cristochris.com^
 ||critariatele.pro^
@@ -26660,6 +26667,7 @@ browsershots.org#@#.advert_area
 ||d-agency.net^
 ||d0main.ru^
 ||d170971757.com^
+||d1d38a26hlyhe3.cloudfront.net^
 ||d24ak3f2b.top^
 ||d29gqcij.com^
 ||d2ship.com^
@@ -26912,6 +26920,7 @@ browsershots.org#@#.advert_area
 ||devaluequalmrelative.com^
 ||devcre.site^
 ||devoteegibberishsinister.com^
+||devyecmfpvuwwaj.com^
 ||devyqrdqrhncv.com^
 ||dewincubiatoll.com^
 ||dexchangegenius.com^
@@ -26984,6 +26993,7 @@ browsershots.org#@#.advert_area
 ||dioceseevokekindred.com^
 ||dippingearlier.com^
 ||diptaich.com^
+||direcompulsion.com^
 ||direct-specific.com^
 ||directaclick.com^
 ||directionotterrecharger.com^
@@ -27208,6 +27218,7 @@ browsershots.org#@#.advert_area
 ||dropletevaporateumpire.com^
 ||drsmediaexchange.com^
 ||drugstoredemuretake.com^
+||drumlyavowant.top^
 ||drylnk.com^
 ||ds3.biz^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
@@ -28330,6 +28341,7 @@ browsershots.org#@#.advert_area
 ||geniusbanners.com^
 ||geniusdexchange.com^
 ||geniusonclick.com^
+||geniusoutset.com^
 ||gentle-report.com^
 ||geoaddicted.net^
 ||geogenyveered.com^
@@ -28743,6 +28755,7 @@ browsershots.org#@#.advert_area
 ||gruvaphiwo.com^
 ||grygrothapi.pro^
 ||gscontxt.net^
+||gsgonebya.com^
 ||gsjln04hd.com^
 ||gsrctroclqloz.tech^
 ||gt5tiybvn.com^
@@ -28793,6 +28806,7 @@ browsershots.org#@#.advert_area
 ||gxiacapeptyos.club^
 ||gxordgtvjr.com^
 ||gxrpbnhskxrtj.vip^
+||gxzvrffzlfxyq.global^
 ||gyfumobo.com^
 ||gymea.site^
 ||gypperywyling.com^
@@ -29731,6 +29745,7 @@ browsershots.org#@#.advert_area
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
+||jqxbtyknlsjtjjp.com^
 ||jravekvyeyybj.top^
 ||jrbbavbvqmbzl.top^
 ||jrfngdrodrdop.icu^
@@ -30279,6 +30294,7 @@ browsershots.org#@#.advert_area
 ||lifeimpressions.net^
 ||lifiads.com^
 ||liftdna.com^
+||liftjoinant.com^
 ||liftoultutoo.com^
 ||ligatus.com^
 ||lightfoot.top^
@@ -30413,6 +30429,7 @@ browsershots.org#@#.advert_area
 ||lookandfind.me^
 ||lookinews.com^
 ||lookmommynohands.com^
+||lookoutspam.com^
 ||looktotheright.com^
 ||loolowhy.com^
 ||looluchu.com^
@@ -30833,6 +30850,7 @@ browsershots.org#@#.advert_area
 ||meteorclashbailey.com^
 ||methodyprovand.com^
 ||methoxyunpaled.com^
+||methylstewed.com^
 ||metlculousdates.net^
 ||metrica-yandex.com^
 ||metrics.io^
@@ -32206,6 +32224,7 @@ browsershots.org#@#.advert_area
 ||pangiumsulu.shop^
 ||pansymerbaby.com^
 ||pantafives.com^
+||panymaute.com^
 ||panyofhisow.org^
 ||papawrefits.com^
 ||paphoolred.com^
@@ -35533,6 +35552,7 @@ browsershots.org#@#.advert_area
 ||unseamssafes.com^
 ||unseenreport.com^
 ||unsigilyphor.com^
+||unsnowenvelop.shop^
 ||unspeakablepurebeings.com^
 ||unstantleran.com^
 ||untackreviler.com^
@@ -36438,6 +36458,7 @@ browsershots.org#@#.advert_area
 ||xfojwohar.com^
 ||xfwblpomxc.com^
 ||xgbsklmqm.com^
+||xgetykaj.com^
 ||xgraph.net^
 ||xhutheasb.com^
 ||xihlzozifgt.com^
@@ -36550,6 +36571,7 @@ browsershots.org#@#.advert_area
 ||yellowblue.io^
 ||yellowprotection.com^
 ||yemeniharmel.top^
+||yerbalaska.shop^
 ||yerkselator.shop^
 ||yernbiconic.com^
 ||yes-messenger.com^
@@ -36791,6 +36813,7 @@ browsershots.org#@#.advert_area
 ||zovidree.com^
 ||zpgetworker11.com^
 ||zpilkesyasa.com^
+||zpoxfzxapepgr.xyz^
 ||zprelandings.com^
 ||zqjklzrqmvwq.top^
 ||zqvee2re50mr.com^
