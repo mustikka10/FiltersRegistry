@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: 6RRY8TSpbpv6kUQHKu++Hg
-! Diff-Path: ../patches/21_optimized/21_optimized-s-1746778384-3600.patch
+! Checksum: 8dVtymG+zQxgTVMxFAqKAA
+! Diff-Path: ../patches/21_optimized/21_optimized-s-1746817836-3600.patch
 ! Title: AdGuard Other Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages that do not fall under the popular categories of annoyances.
-! Version: 2.0.33.25
-! TimeUpdated: 2025-05-09T08:09:20+00:00
+! Version: 2.0.33.26
+! TimeUpdated: 2025-05-09T19:06:47+00:00
 ! Expires: 5 days (update frequency)
 !######### Annoying elements (not ads)
 instagram.com#$?#div[class]:has(> div[class]:first-child > a[href="/explore/people/"]) { position: absolute !important; left: -3000px !important; }
@@ -950,6 +950,8 @@ tv.yandex.*##.recommended-ott
 www.kinopoisk.ru#$#header[class][style*="--header-height:150px"] > div > img { display: none !important; }
 www.kinopoisk.ru#$#header[class][style*="--header-height:150px"] > div.header-navigation { margin-top: 0 !important; }
 www.kinopoisk.ru##div[class^="trailer-promo"]
+gamestar.de###home-plus-banner-top
+gamestar.de##div:has(> .content-item-medium:only-child > a[href*="campaign"]:only-child)
 megamarket.ru##.catalog-default__department-header-banners
 megamarket.ru##.catalog-item_banner
 helloclue.com#$##gatsby-focus-wrapper > div[class^="sc-"]:has(> a[href*="/checkout?discount_code=BANNER"]) { display: none !important; }

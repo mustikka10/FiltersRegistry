@@ -1,9 +1,9 @@
-! Checksum: 66IAsyehjW3Bx0iD7vGIGA
-! Diff-Path: ../patches/18/18-s-1746807111-3600.patch
+! Checksum: 8fEqmx6nMcF/GE0G6P0+ug
+! Diff-Path: ../patches/18/18-s-1746817825-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.61.53
-! TimeUpdated: 2025-05-09T16:08:18+00:00
+! Version: 2.0.61.54
+! TimeUpdated: 2025-05-09T19:06:45+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -5644,7 +5644,7 @@ pcz.pl,pwr.edu.pl###info_c_box
 ionos.fr##div[class^="privacy-consent"]
 en-standard.eu##.commonPrivacy
 encurtador.dev##.politicas-cookies
-razoesparaacreditar.com###oPrivallyApp
+shoppingcidadesp.com.br,razoesparaacreditar.com###oPrivallyApp
 ||shop.mango.com/st-cookies/
 lena.lenovo.com##.prompt_Privacy
 koenigsegg.com##section[data-component="n3-cookie-notice"]

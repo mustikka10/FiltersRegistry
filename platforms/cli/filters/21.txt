@@ -1,9 +1,9 @@
-! Checksum: hRnkvJQga5BIxmj1lVc/hQ
-! Diff-Path: ../patches/21/21-s-1746778368-3600.patch
+! Checksum: dkJIcGPgtSDRBiyx1IDovQ
+! Diff-Path: ../patches/21/21-s-1746817820-3600.patch
 ! Title: AdGuard Other Annoyances filter
 ! Description: Blocks irritating elements on web pages that do not fall under the popular categories of annoyances.
-! Version: 2.0.33.25
-! TimeUpdated: 2025-05-09T08:09:20+00:00
+! Version: 2.0.33.26
+! TimeUpdated: 2025-05-09T19:06:47+00:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3499,6 +3499,8 @@ www.kinopoisk.ru##div[class^="trailer-promo"]
 !
 ! SECTION: Self-promo - Regular rules
 !
+gamestar.de###home-plus-banner-top
+gamestar.de##div:has(> .content-item-medium:only-child > a[href*="campaign"]:only-child)
 megamarket.ru##.catalog-default__department-header-banners
 megamarket.ru##.catalog-item_banner
 helloclue.com#$##gatsby-focus-wrapper > div[class^="sc-"]:has(> a[href*="/checkout?discount_code=BANNER"]) { display: none !important; }

@@ -1,9 +1,9 @@
-! Checksum: JvA2gZdV1bB0h+Odx60FCg
-! Diff-Path: ../patches/14/14-s-1746807107-3600.patch
+! Checksum: JKP7AmnxQUdNexBTzJR9aA
+! Diff-Path: ../patches/14/14-s-1746817821-3600.patch
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.2.29.82
-! TimeUpdated: 2025-05-09T16:08:13+00:00
+! Version: 2.2.29.83
+! TimeUpdated: 2025-05-09T19:06:38+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -5644,7 +5644,7 @@ pcz.pl,pwr.edu.pl###info_c_box
 ionos.fr##div[class^="privacy-consent"]
 en-standard.eu##.commonPrivacy
 encurtador.dev##.politicas-cookies
-razoesparaacreditar.com###oPrivallyApp
+shoppingcidadesp.com.br,razoesparaacreditar.com###oPrivallyApp
 ||shop.mango.com/st-cookies/
 lena.lenovo.com##.prompt_Privacy
 koenigsegg.com##section[data-component="n3-cookie-notice"]
@@ -49560,6 +49560,8 @@ www.kinopoisk.ru##div[class^="trailer-promo"]
 !
 ! SECTION: Self-promo - Regular rules
 !
+gamestar.de###home-plus-banner-top
+gamestar.de##div:has(> .content-item-medium:only-child > a[href*="campaign"]:only-child)
 megamarket.ru##.catalog-default__department-header-banners
 megamarket.ru##.catalog-item_banner
 helloclue.com#$##gatsby-focus-wrapper > div[class^="sc-"]:has(> a[href*="/checkout?discount_code=BANNER"]) { display: none !important; }
