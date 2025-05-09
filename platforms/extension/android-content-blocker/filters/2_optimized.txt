@@ -1,8 +1,8 @@
-! Checksum: RGE2IoTJFdDA0j2v3fdtZg
+! Checksum: 7AMdHgyTrn34E8ruplbfXQ
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.81
-! TimeUpdated: 2025-05-09T15:06:50+00:00
+! Version: 2.3.82.82
+! TimeUpdated: 2025-05-09T16:07:37+00:00
 ! Expires: 5 days (update frequency)
 ||edertauvaisoo.net^
 ||pkphftlpkxbhk.com^
@@ -2345,6 +2345,7 @@ delicious-audio.com#$#body { overflow: auto !important; }
 #@#.ads_banner
 ##.stickyads:not([style^="width: 32px"], [style^="width: 33px"], [style*="left: -43px"], [style*="-3"][style*="important"][style*="display: block;"], [style*="position: fixed"][style*="-188"], [style*="!important;"][style*="width:"][style*="height:"][style*="position"][style*="left:"][style*="top:"][style*="display"], [data-freestar-ad="123"]):not(:empty)
 ##.ads_banner:not([style^="width: 32px"], [style^="width: 33px"], [style*="left: -43px"], [style*="-3"][style*="important"][style*="display: block;"], [style*="position: fixed"][style*="-188"], [style*="!important;"][style*="width:"][style*="height:"][style*="position"][style*="left:"][style*="top:"][style*="display"]):not(:empty)
+@@||tpc.googlesyndication.com/pagead/js/*/elements/html/countdown_handler_fy2021.js$domain=safeframe.googlesyndication.com
 @@||googletagmanager.com/gtm.js$domain=ourcoincash.xyz
 @@||static.surfe.pro/js/net.js$domain=ourcoincash.xyz
 @@||prebid.revbid.net^$domain=ourcoincash.xyz
@@ -10150,7 +10151,7 @@ igram.world#$#body { overflow: auto !important; }
 climate-data.org###stay
 fap-nation.com##.pleasant-look-archive-top
 thetimes.com##div[class^="styles__PromotedContentContainer"]
-sportstreamslife.shop,snowmtl.ru##iframe[style*="2147483647"]
+letscast.pro,livestreams.click,sportstreamslife.shop,snowmtl.ru##iframe[style*="2147483647"]
 ||scnlog.me/wp-content/themes/scnlog/js/pa.js
 thepiratebay.org##label#d > a[target="_NEW"]
 proboards.com##.content > .list > tbody > tr:not([id^="thread-"],[id^="board-"],[class])
@@ -27322,6 +27323,7 @@ browsershots.org#@#.advert_area
 ||bogrodius.com^
 ||bogus-disk.com^
 ||boilhumoristpacifist.com^
+||boilybedway.shop^
 ||bokeden.com^
 ||boksaumetaixa.net^
 ||boldcupid.com^
@@ -27447,6 +27449,7 @@ browsershots.org#@#.advert_area
 ||bravesinfest.top^
 ||bravotrk.com^
 ||brazenwholly.com^
+||brazilprocyon.com^
 ||breachneatlylane.com^
 ||breadpro.com^
 ||breakfastinvitingdetergent.com^
@@ -28533,6 +28536,7 @@ browsershots.org#@#.advert_area
 ||cuckooretire.com^
 ||cuddlethehyena.com^
 ||cufultahaur.com^
+||cuinageaquilid.com^
 ||cuisineenvoyadvertise.com^
 ||cujruloq.com^
 ||culnutwr.com^
@@ -30181,6 +30185,7 @@ browsershots.org#@#.advert_area
 ||gadspms.com^
 ||gadspmz.com^
 ||gagaxbasvw.com^
+||gaggedtetrode.com^
 ||gaghygienetheir.com^
 ||gaifutaishede.xyz^
 ||gaijiglo.net^
@@ -30603,6 +30608,7 @@ browsershots.org#@#.advert_area
 ||greatcpm.com^
 ||greatdexchange.com^
 ||greatlifebargains2024.com^
+||greatmidship.com^
 ||greckoaghoate.net^
 ||grecmaru.com^
 ||gredraupse.net^
@@ -31670,6 +31676,7 @@ browsershots.org#@#.advert_area
 ||joomisomushisuw.net^
 ||joomxer.fun^
 ||joopaish.com^
+||joowauchiglees.net^
 ||jopel.site^
 ||joqowqymkrowl.top^
 ||jorbfstarn.com^
@@ -32221,6 +32228,7 @@ browsershots.org#@#.advert_area
 ||letmenowme.biz^
 ||letmetralala.com^
 ||letminimalvacancy.com^
+||lettenfluoric.com^
 ||lettingsneak.com^
 ||leumatawsed.top^
 ||levelrunningunpadded.com^
@@ -32271,6 +32279,7 @@ browsershots.org#@#.advert_area
 ||likinginconvenientpolitically.com^
 ||likropersourgu.net^
 ||lilyairglow.shop^
+||limbecculvers.com^
 ||limberkilnman.cam^
 ||limineshucks.com^
 ||limitesrifer.com^
@@ -32381,6 +32390,7 @@ browsershots.org#@#.advert_area
 ||lolsefti.com^
 ||loneinner.com^
 ||longestwaileddeadlock.com^
+||loobyfleyed.com^
 ||loodauni.com^
 ||loohaiturigavik.net^
 ||loohiwez.net^
@@ -32667,6 +32677,7 @@ browsershots.org#@#.advert_area
 ||masqueradethousand.com^
 ||massbrag.care^
 ||masselcreed.top^
+||massifbramble.com^
 ||massiveanalyticssys.net^
 ||massivebelieved.com^
 ||mastinstungmoreal.com^
@@ -37598,6 +37609,7 @@ browsershots.org#@#.advert_area
 ||urechar.com^
 ||urfzuvxzd.com^
 ||urgentlyrightypast.com^
+||urgingslaurae.com^
 ||urimnugocfr.com^
 ||urinousbiriba.com^
 ||urldelivery.com^

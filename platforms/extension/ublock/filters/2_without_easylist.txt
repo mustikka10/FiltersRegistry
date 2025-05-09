@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: VwyesEYyFtySZQaoefcnQg
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746803478-3600.patch
+! Checksum: UYT/AAQ994TMTsQqvT710A
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1746807124-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.82.81
-! TimeUpdated: 2025-05-09T15:06:50+00:00
+! Version: 2.3.82.82
+! TimeUpdated: 2025-05-09T16:07:37+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -21336,6 +21336,9 @@ youporn.com##+js(remove-node-text, script, /window\.[\s\S]*?_zone_[\s\S]*?{"zone
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204889
+! Note this exception makes sense only if other ad-scripts are already allowed on the site.
+@@||tpc.googlesyndication.com/pagead/js/*/elements/html/countdown_handler_fy2021.js$domain=safeframe.googlesyndication.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204896
 audiotools.in##+js(noeval-if, pagead2.googlesyndication.com)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204550
@@ -43481,7 +43484,7 @@ game5s.com,linkss.rcccn.in#$#.submitBtn#go_d2 { display: inline-block !important
 ! https://github.com/AdguardTeam/AdguardFilters/issues/200062
 ! TODO: use scriptlet when this issue is fixed - https://github.com/AdguardTeam/Scriptlets/issues/400
 ! https://github.com/AdguardTeam/AdguardFilters/issues/201603
-topstreams.info##+js(remove-node-text, script, selAdTypeParam)
+letscast.pro,livestreams.click,topstreams.info##+js(remove-node-text, script, selAdTypeParam)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/197546
 camhub.cc##+js(abort-on-property-read, initPop)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/197753
@@ -49645,7 +49648,7 @@ torrentfunk.com##.content td[align="center"] > a[href*=".html"] > picture
 torrentfunk.com##main > .title:has(> table.tmain > tbody > tr > td > div[style="float:left"] > a[href*=".html"]:not([href*="torrentfunk.com"], [href^="/"]))
 fap-nation.com##.pleasant-look-archive-top
 thetimes.com##div[class^="styles__PromotedContentContainer"]
-sportstreamslife.shop,snowmtl.ru##iframe[style*="2147483647"]
+letscast.pro,livestreams.click,sportstreamslife.shop,snowmtl.ru##iframe[style*="2147483647"]
 piratehaven.xyz##+js(noeval-if, =__htas)
 ||scnlog.me/wp-content/themes/scnlog/js/pa.js
 thepiratebay.org##label#d > a[target="_NEW"]

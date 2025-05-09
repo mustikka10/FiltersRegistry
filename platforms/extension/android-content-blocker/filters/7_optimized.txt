@@ -1,8 +1,8 @@
-! Checksum: t8061Oa6JY6dLR7GNMiY4w
+! Checksum: BT51mdJjGzUVnvUP2l7GiA
 ! Title: AdGuard Japanese filter (Optimized)
 ! Description: Filter that enables ad blocking on websites in Japanese language.
-! Version: 2.0.64.35
-! TimeUpdated: 2025-05-09T12:10:34+00:00
+! Version: 2.0.64.36
+! TimeUpdated: 2025-05-09T16:07:59+00:00
 ! Expires: 5 days (update frequency)
 ||ias.rakuten.co.jp^$third-party,domain=~rakuten-co.jp
 ||shindnx.site^$document

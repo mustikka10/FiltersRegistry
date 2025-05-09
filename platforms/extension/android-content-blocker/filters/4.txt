@@ -1,8 +1,8 @@
-! Checksum: LgOcmaMgJeNWlvo/ALrXSg
+! Checksum: qO9HoLzckzJkL9h0KnynAQ
 ! Title: AdGuard Social Media filter
 ! Description: Filter for social media widgets such as 'Like' and 'Share' buttons and more.
-! Version: 2.1.14.38
-! TimeUpdated: 2025-05-09T13:14:26+00:00
+! Version: 2.1.14.39
+! TimeUpdated: 2025-05-09T16:07:51+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -623,6 +623,7 @@ akb48matomemory.com,jidounten-lab.com,jocee.jp,mantan-web.jp,fufukokan.af-origin
 !
 ! NOTE: Specific rules
 !
+tecmundo.com.br##.fixed.animate-moveInTop
 auchan.ru##div[class*="shareTooltip_children"]
 mega.lol###shareIconWrapper
 helloclue.com##a[href*="://www.linkedin.com/shareArticle"]

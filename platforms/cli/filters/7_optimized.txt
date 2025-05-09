@@ -1,9 +1,9 @@
-! Checksum: 0IPdwXJr2ptC2f5WEsTTMg
-! Diff-Path: ../patches/7_optimized/7_optimized-s-1746792865-3600.patch
+! Checksum: cj5nlJVdOZ2KvmSCHGCAVg
+! Diff-Path: ../patches/7_optimized/7_optimized-s-1746807107-3600.patch
 ! Title: AdGuard Japanese filter (Optimized)
 ! Description: Filter that enables ad blocking on websites in Japanese language.
-! Version: 2.0.64.35
-! TimeUpdated: 2025-05-09T12:10:34+00:00
+! Version: 2.0.64.36
+! TimeUpdated: 2025-05-09T16:07:59+00:00
 ! Expires: 12 hours (update frequency)
 ||ias.rakuten.co.jp^$third-party,domain=~rakuten-co.jp
 ||line-e.com^$all
@@ -8987,6 +8987,8 @@ chunichi.co.jp##.l-container-narrow
 chunichi.co.jp##.header > div.cmp-bnr001
 chunichi.co.jp##.pt-40.ta-c.cscmp-lst002
 chunichi.co.jp,tokyo-np.co.jp##.cmp-misc010
+tokyo-np.co.jp##.sub-container-wrp > div.l-container:has(> div.cmp-bnr001 > div.wrp > div[id^="div-gpt-"])
+tokyo-np.co.jp##.sub-container-wrp > div.cmp-lst001 > div.l-artlst001 > ul.list > li.item[style="min-height:92px;"]:has(> div[id^="div-gpt-"])
 tokyo-np.co.jp##.cmp-misc014
 tokyo-np.co.jp##.header > .cmp-bnr001
 j-cast.com##.chumokujoho
