@@ -1,8 +1,8 @@
-! Checksum: mhxC06vGBrcEN8RlNQCoPQ
+! Checksum: AW4eA4zBra1/FdYwtxbKXw
 ! Title: AdGuard Social Media filter (Optimized)
 ! Description: Filter for social media widgets such as 'Like' and 'Share' buttons and more.
-! Version: 2.1.14.37
-! TimeUpdated: 2025-05-09T08:08:56+00:00
+! Version: 2.1.14.38
+! TimeUpdated: 2025-05-09T13:14:26+00:00
 ! Expires: 5 days (update frequency)
 ||share-count.donreach.com^$third-party
 ||button-follow.zalo.me^$third-party
@@ -7959,6 +7959,7 @@ dooralei.ru#$#body { overflow: visible!important; }
 twgreatdaily.com#$#.body.modal-open { overflow: visible!important; }
 catalogmineralov.ru#$#body { overflow: visible!important; }
 1track.ru#$#body { overflow: visible!important; }
+hn.cz#@#.article-sharing
 nationalgeographic.pt#@#.socialmedia
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||yastatic.net/share2/share.js$domain=rkf.online

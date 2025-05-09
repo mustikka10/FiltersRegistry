@@ -1,8 +1,8 @@
-! Checksum: k4ZhUCvM0eacLgYkLfp48g
+! Checksum: S/Im59re8y8uHz/u5dEInQ
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.78
-! TimeUpdated: 2025-05-09T12:10:13+00:00
+! Version: 2.3.82.79
+! TimeUpdated: 2025-05-09T13:14:10+00:00
 ! Expires: 10 days (update frequency)
 ||catoixeam.click^$all
 ||trgfx.b-cdn.net^$all
@@ -2988,6 +2988,8 @@ brainly.com,brainly.com.br,brainly.co.id,brainly.in,brainly.ph,brainly.pl,brainl
 @@||api.poki.com/ads/houseads/$domain=ninja.io
 kissanime.com.ru,kissanime.co#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
 kissanime.com.ru,kissanime.co#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
+!+ PLATFORM(ext_chromium_mv3)
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=kissanime.com.ru,important
 androidpolice.com#@#.adsninja-ad-zone
 androidpolice.com#@#.ad-current
 androidpolice.com#@#.ad-zone-container
@@ -29491,6 +29493,7 @@ browsershots.org#@#.advert_area
 ||kostprice.com^
 ||kouhoadousuni.net^
 ||koutobey.net^
+||kovuptoaksergu.net^
 ||kpbmqxucd.com^
 ||kpywhinapxaq.com^
 ||kq272lw4c.com^
@@ -34811,6 +34814,7 @@ browsershots.org#@#.advert_area
 ||trustyfine.com^
 ||trustzonevpn.info^
 ||trutheyesstab.com^
+||trxikybykqdbub.com^
 ||tsapphires.buzz^
 ||tsarkinds.com^
 ||tshxxhgmjgut.com^
@@ -35356,6 +35360,7 @@ browsershots.org#@#.advert_area
 ||vjdciu.com^
 ||vjlyljbylmeel.top^
 ||vkeofwhpozu.com^
+||vkgrdiksfmliu.com^
 ||vkgtrack.com^
 ||vknrfwwxhxaxupqp.pro^
 ||vlitag.com^
@@ -35626,6 +35631,7 @@ browsershots.org#@#.advert_area
 ||whaidroansee.net^
 ||whaijoorgoo.com^
 ||whairtoa.com^
+||whaisastiltairs.com^
 ||whaleads.com^
 ||whaleslightestimposter.com^
 ||whampamp.com^
@@ -36089,6 +36095,7 @@ browsershots.org#@#.advert_area
 ||yim3eyv5.top^
 ||yinteukrestina.xyz^
 ||yjgrhzvtvkqen.tech^
+||ykleidzsileck.today^
 ||ykmjrnicvb.com^
 ||ykwll.site^
 ||yl-sooippd.vip^

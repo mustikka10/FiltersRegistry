@@ -1,9 +1,9 @@
-! Checksum: D+Wp2EraNVKPxFgryhdgWA
-! Diff-Path: ../patches/4/4-s-1746778372-3600.patch
+! Checksum: 110B9xr4zCzhoGNQfmgPnQ
+! Diff-Path: ../patches/4/4-s-1746796707-3600.patch
 ! Title: AdGuard Social Media filter
 ! Description: Filter for social media widgets such as 'Like' and 'Share' buttons and more.
-! Version: 2.1.14.37
-! TimeUpdated: 2025-05-09T08:08:56+00:00
+! Version: 2.1.14.38
+! TimeUpdated: 2025-05-09T13:14:26+00:00
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -653,6 +653,7 @@ esquire.com,dotesports.com,mashable.com,pcmag.com,onefootball.com,ign.com,israel
 !
 ! NOTE: Specific rules
 !
+zcool.com.cn##.detailNavBox > div[wrap="initial"]:has(> span:contains(Share))
 auchan.ru##div[class*="shareTooltip_children"]
 mega.lol###shareIconWrapper
 helloclue.com##a[href*="://www.linkedin.com/shareArticle"]
@@ -14982,6 +14983,8 @@ bomb01.com#$#.modal-open { overflow: visible!important; }
 ! Bad:  @@||example.org^$stealth (should be in AdGuard Base - allowlist_stealth.txt)
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/204919
+hn.cz#@#.article-sharing
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204861
 nationalgeographic.pt#@#.socialmedia
 ! https://github.com/AdguardTeam/AdguardFilters/issues/204699

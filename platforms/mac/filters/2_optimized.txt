@@ -1,8 +1,8 @@
-! Checksum: r2LOr0QuwxkAr7PGYlWDyw
+! Checksum: gqacw5xomKzkYYcHZJmgTQ
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.82.78
-! TimeUpdated: 2025-05-09T12:10:13+00:00
+! Version: 2.3.82.79
+! TimeUpdated: 2025-05-09T13:14:10+00:00
 ! Expires: 5 days (update frequency)
 ||catoixeam.click^$all
 ||trgfx.b-cdn.net^$all
@@ -30075,6 +30075,7 @@ browsershots.org#@#.advert_area
 ||kostprice.com^
 ||kouhoadousuni.net^
 ||koutobey.net^
+||kovuptoaksergu.net^
 ||kpbmqxucd.com^
 ||kpywhinapxaq.com^
 ||kq272lw4c.com^
@@ -35395,6 +35396,7 @@ browsershots.org#@#.advert_area
 ||trustyfine.com^
 ||trustzonevpn.info^
 ||trutheyesstab.com^
+||trxikybykqdbub.com^
 ||tsapphires.buzz^
 ||tsarkinds.com^
 ||tshxxhgmjgut.com^
@@ -35940,6 +35942,7 @@ browsershots.org#@#.advert_area
 ||vjdciu.com^
 ||vjlyljbylmeel.top^
 ||vkeofwhpozu.com^
+||vkgrdiksfmliu.com^
 ||vkgtrack.com^
 ||vknrfwwxhxaxupqp.pro^
 ||vlitag.com^
@@ -36210,6 +36213,7 @@ browsershots.org#@#.advert_area
 ||whaidroansee.net^
 ||whaijoorgoo.com^
 ||whairtoa.com^
+||whaisastiltairs.com^
 ||whaleads.com^
 ||whaleslightestimposter.com^
 ||whampamp.com^
@@ -36673,6 +36677,7 @@ browsershots.org#@#.advert_area
 ||yim3eyv5.top^
 ||yinteukrestina.xyz^
 ||yjgrhzvtvkqen.tech^
+||ykleidzsileck.today^
 ||ykmjrnicvb.com^
 ||ykwll.site^
 ||yl-sooippd.vip^

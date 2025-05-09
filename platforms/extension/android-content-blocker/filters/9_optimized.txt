@@ -1,8 +1,8 @@
-! Checksum: Lh+LMd9C06tX9M4rAArRsg
+! Checksum: SOQV3CSqhBOegIUNPMajfw
 ! Title: AdGuard Spanish/Portuguese filter (Optimized)
 ! Description: Filter list that specifically removes ads on websites in Spanish, Portuguese, and Brazilian Portuguese languages.
-! Version: 2.0.29.83
-! TimeUpdated: 2025-05-08T21:06:44+00:00
+! Version: 2.0.29.84
+! TimeUpdated: 2025-05-09T13:14:42+00:00
 ! Expires: 5 days (update frequency)
 ||upeex.com.br^
 ||upeex.com^
@@ -1471,6 +1471,8 @@ jkanime.net##body > div[id*="-"] > a[target="_blank"] > img
 poder360.com.br##.trust-project-bar
 tycsports.com##.asideAdWrapper
 tycsports.com##.horizontalAdWrapper
+canaltech.com.br###content-news > div.aspect-video[class*="truvidPos"]
+canaltech.com.br###truvidPos
 cnnbrasil.com.br##.sidebar__item--ad
 pelismx.lat##.botones-ads
 pelismx.lat###top-menu-movil
@@ -1734,7 +1736,6 @@ ecartelera.com,formulatv.com##div[class^="pub-box-"]
 cerisescan.net,sinensisscan.net##a[href="https://receita-fit.com"]
 tviplayer.iol.pt##.billboardxlWrapper
 jornalopcao.com.br##.template-part-component-google-ad
-canaltech.com.br###truvidPos
 superembeds.com##.pppx
 superembeds.com###adStop
 ||superembeds.com/*.xml
